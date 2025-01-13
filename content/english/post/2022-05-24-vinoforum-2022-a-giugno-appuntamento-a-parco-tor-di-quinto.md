@@ -15,9 +15,9 @@ categories:
 Da venerdì 10 a domenica 19 giugno, va in scena la 19^ edizione di Vinòforum – Lo Spazio del Gusto, una tra le vetrine più ambite in assoluto per aziende e operatori del settore food&beverage.
 
 La manifestazione, che lo scorso anno ha accolto oltre 49.000 presenze, si conferma come format che funziona e che si basa su un riuscito mix tra grandi etichette e cucina d’autore, tra divulgazione del vino e business, tra iniziative rivolte agli appassionati e appuntamenti studiati per gli operatori.  
-Questo anno 810 le cantine vitivinicole italiane ed internazionali, ma anche chef stellati, ristoranti, enoteche e realtà gastronomiche saranno immersi negli oltre 12mila metri quadri del Parco Tor di Quinto, con un solo obiettivo: promuovere la cultura enogastronomica e agroalimentare del nostro Paese.&nbsp;<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2022/05/dsc0927.jpg?w=1024" alt="" class="wp-image-2163" /> </figure> 
+Questo anno 810 le cantine vitivinicole italiane ed internazionali, ma anche chef stellati, ristoranti, enoteche e realtà gastronomiche saranno immersi negli oltre 12mila metri quadri del Parco Tor di Quinto, con un solo obiettivo: promuovere la cultura enogastronomica e agroalimentare del nostro Paese.&nbsp;
+{{< figure src="images/wp-content/uploads/2022/05/dsc0927.jpg?w=1024" >}}
+ 
 
 ‘’Sono quasi 20 anni che Vinòforum propone un approccio al vino e al cibo di alto livello, &#8211; commenta **Emiliano De Venuti**, **CEO** di **Vinòforum** &#8211; il nostro è un format vincente, che riesce a soddisfare tanto le aspettative degli addetti ai lavori, quanto la curiosità degli appassionati. Ogni edizione alziamo l’asticella proponendo al nostro pubblico un calendario di appuntamenti sempre più interessante.’’
 

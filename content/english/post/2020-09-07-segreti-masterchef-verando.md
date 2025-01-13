@@ -18,9 +18,9 @@ tags:
 
 I fan di Masterchef sicuramente se lo ricorderanno anche, se non soprattutto, per i siparietti messi in scena con chef Locatelli e Joe Bastianich. **Verando Zappi** è entrato a suo modo nelle cronache del celebre talent di cucina sin dalle prime battute, quando non ancora tra i venti migliori dell’ottava edizione battagliava con un’ottantina di aspiranti chef che da tutta Italia si erano recati a Milano per le selezioni. 
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-3-web.jpg?w=1000" alt="" class="wp-image-1616" width="345" height="231" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-3-web.jpg?w=1000" >}}
+
 
 Celebre e virale il suo “_provino_” di fronte ai giudici Cannavacciuolo, Bastianich, Barbieri e Locatelli, quando presentò il piatto che poi gli valse il grembiule bianco. “_**Ehi coniglio, hai fegato?**_!” Quattro parole per proporre la sua ricetta (a base di leprino e nocciole della Tuscia) e far scattare l’ilarità dei giudici, in particolar modo di chef Locatelli (<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=A-IWIML1790" target="_blank">qui il video su YouTube</a> che, a oggi, conta oltre 3 milioni di visualizzazioni). 
 
@@ -34,9 +34,9 @@ Ci siamo incontrati con **Verando** nella sua (anzi, nostra) **Viterbo** e, a du
 
 E divenendo, da Verando Zappi, **Verando di Masterchef.** Quello di &#8220;_Ehi coniglio, hai fegato?!_&#8220;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-1-web.jpg?w=1024" alt="" class="wp-image-1615" width="607" height="405" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-1-web.jpg?w=1024" >}}
+
 
 
 
@@ -62,9 +62,9 @@ Io contrariamente a molti altri credevo che il migliore fosse Gilberto, nonostan
 _**  
 Sicuramente hanno maggiori indicazioni dalla produzione. C&#8217;è un atteggiamento strutturato da parte loro: il giudice interpreta un po&#8217; un ruolo e nelle varie circostanze lo rispecchia e rispetta. Spente le telecamere i giudici non li vediamo praticamente mai, ma c&#8217;è stato comunque qualche scambio di battute fuori onda. C&#8217;è poi ovviamente chi lega di più e chi lega di meno; io quando sono uscito ho scambiato qualche parola con Bastianich e Locatelli, che erano quelli con i quali avevo stretto un rapporto maggiore. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-8-web.jpg?w=1000" alt="" class="wp-image-1613" width="506" height="337" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-8-web.jpg?w=1000" >}}
+
 
 **_Puoi raccontare qualche retroscena o aneddoto?_**
 
@@ -83,9 +83,9 @@ Credo abbia favorito il mio essere a volte timido a volte esuberante, il fatto d
 
 Il sogno, vincendo, sarebbe stato quello di avviare un&#8217;attività imprenditoriale nel mondo della gastronomia. Sarebbe bello aprire un locale dove non si faccia solo ristorazione ma anche cultura del territorio e delle materie prime che abbiamo qui nella Tuscia, magari anche attraverso la vendita di prodotti locali. È un&#8217;idea imprenditoriale che avrei potuto avviare con i 100 mila euro della vincita finale e in cui mi sarei visto più come gestore che come chef. Diciamo che questo rimane il mio sogno nel cassetto.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-6-web.jpg?w=1024" alt="" class="wp-image-1635" width="545" height="363" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-6-web.jpg?w=1024" >}}
+
 
 **_Invece cosa fai attualmente?_**
 

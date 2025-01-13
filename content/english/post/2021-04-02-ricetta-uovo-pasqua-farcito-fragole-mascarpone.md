@@ -14,9 +14,9 @@ tags:
 ---
 ### Quante uova di cioccolato e quante colombe vi stanno avanzando (o sono avanzate) durante questo periodo pasquale? {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/03/ricetta-uovo-farcito.jpg" alt="ricetta-uovo-pasqua-farcito-" class="wp-image-2120" width="577" height="537" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/03/ricetta-uovo-farcito.jpg" >}}
+
 
 Ce ne sarà almeno una in ogni casa! Per questo con lo **chef Colaiaquo**, attenti soprattutto a evitare inutili sprechi alimentari, vi proponiamo questo dolce guscio pensato proprio per riciclare in maniera creativa uova e colombe accumulate.  
 

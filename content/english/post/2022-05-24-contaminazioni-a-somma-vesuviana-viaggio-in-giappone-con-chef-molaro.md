@@ -30,27 +30,26 @@ Servizio di sala cordiale e preparato. 
 
 📸 In foto (oggi si parte dal dolce):
 
-•Crumble alla nocciola, namelaka al tè matcha, malto alle alici, gelato al tè matcha<figure class="wp-block-image aligncenter size-large is-resized">
+•Crumble alla nocciola, namelaka al tè matcha, malto alle alici, gelato al tè matcha
+{{< figure src="images/wp-content/uploads/2022/05/272883807_678260726941545_1834819932706870390_n.jpg?w=1024" >}}
+ 
 
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/05/272883807_678260726941545_1834819932706870390_n.jpg?w=1024" alt="" class="wp-image-2187" width="414" height="312" /> </figure> 
-
-•Zuppa giapponese con daikon, calamari, uovo marinato in salsa di soia<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/05/273112624_678260943608190_482646331511851056_n.jpg?w=1024" alt="" class="wp-image-2188" width="420" height="318" /> </figure> 
-
-  
-•Friarielli scottati con aceto di mele, acqua, polvere e crema di friarielli, quinoa<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/05/273148244_678260910274860_7947950724744113447_n.jpg?w=1024" alt="" class="wp-image-2190" width="438" height="330" /> </figure> 
+•Zuppa giapponese con daikon, calamari, uovo marinato in salsa di soia
+{{< figure src="images/wp-content/uploads/2022/05/273112624_678260943608190_482646331511851056_n.jpg?w=1024" >}}
+ 
 
   
-•Ricciola maturata in alga kombu, Sakuranbo-boshi e San Marzano<figure class="wp-block-image aligncenter size-large is-resized">
+•Friarielli scottati con aceto di mele, acqua, polvere e crema di friarielli, quinoa
+{{< figure src="images/wp-content/uploads/2022/05/273148244_678260910274860_7947950724744113447_n.jpg?w=1024" >}}
+ 
 
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/05/273155150_678260923608192_7425590022097520982_n-1.jpg?w=1024" alt="" class="wp-image-2192" width="428" height="323" /> </figure> 
+  
+•Ricciola maturata in alga kombu, Sakuranbo-boshi e San Marzano
+{{< figure src="images/wp-content/uploads/2022/05/273155150_678260923608192_7425590022097520982_n-1.jpg?w=1024" >}}
+ 
 
   
 •Ziti cotti in brodo di pesce, zest e crema di limone, kamobushi di petto d’anatra
 
-<figure class="wp-block-image aligncenter size-large is-resized">
 
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/05/273040461_678260933608191_7811398013487950823_n-2.jpg?w=1024" alt="" class="wp-image-2196" width="418" height="315" /> </figure>
+{{< figure src="images/wp-content/uploads/2022/05/273040461_678260933608191_7811398013487950823_n-2.jpg?w=1024" >}}

@@ -16,9 +16,9 @@ tags:
 
 Un piatto &#8216;_fit_&#8216; ma non per questo meno gustoso e invitante, con un tocco gourmet che non guasta mai. Come combinare salute ed estetica in pochi passi? Seguendo i consigli del nostro chef.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/04/merluzzo-burgul-ricetta.jpg?w=906" alt="" class="wp-image-2133" width="472" height="396" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/04/merluzzo-burgul-ricetta.jpg?w=906" >}}
+
 
 ### Ingredienti per 4 persone {.wp-block-heading}
 
@@ -108,9 +108,9 @@ Adagiare il merluzzo sull&#8217;avocado e l&#8217;insalatina di cavolo rosso.&nb
 
 Infine accompagnare il tutto con il bulgur, le mandorle salate e i cubetti di pane croccanti.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/04/crostino-merluzzo-avocado.jpg" alt="" class="wp-image-2132" width="314" height="418" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/04/crostino-merluzzo-avocado.jpg" >}}
+
 
 È possibile servirlo anche sotto forma di **bruschetta**: con crostone di pane, crema di avocado e sfoglie di merluzzo, il tutto condito con olio extravergine di oliva, sale pepe e del succo di limone.
 

@@ -19,9 +19,9 @@ Stufi del solito antipasto di salumi e formaggi? Questa volta vi proponiamo un p
 
 L’accostamento classico con le puntarelle completano il piatto per presentare un antipasto delizioso.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/antipasto-dettaglio.jpg" alt="maiale-puntarelle-piatto-agro-posate-antipasto" class="wp-image-1025" width="633" height="300" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/02/antipasto-dettaglio.jpg" >}}
+
 
 ### INGREDIENTI per 4 pax {.wp-block-heading}
 
@@ -73,6 +73,5 @@ Per la citronette mettere tutti gli ingredienti dentro uno squeez (o in una ciot
 
 Per la composizione del piatto adagiare la centro un ciuffo di puntarelle e tagliare la pancette a fette sottili e adagiarle sopra. Terminare con un filo di citronette al miele e un ciuffo di finocchietto fresco o aneto.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/antipasto-dove-vuoi.jpg?w=1024" alt="maiale-puntarelle-piatto-agro-posate-antipasto" class="wp-image-1024" width="612" height="291" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/02/antipasto-dove-vuoi.jpg?w=1024" >}}

@@ -10,9 +10,9 @@ categories:
   - Eventi
 
 ---
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/copertina-2020.jpg?w=597" alt="" class="wp-image-589" width="308" height="527" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/copertina-2020.jpg?w=597" >}}
+
 
 **Enrico Bartolini riporta le** 3 stelle **a Milano** 
 
@@ -29,9 +29,9 @@ Enrico Bartolini ha conquistato la sua prima stella nel 2010 a le Robinie e poi 
 
 **Gli 11 3 stelle** **che “valgono il viaggio”**
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2019/11/unnamed.jpg?w=40" alt="" class="wp-image-587" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/unnamed.jpg?w=40" >}}
+
 
 Nella Guida Michelin 2020, i ristoranti che propongono **una cucina che “vale il viaggio”**, e quindi le 3 stelle Michelin, sono: 
 
@@ -39,9 +39,9 @@ Nella Guida Michelin 2020, i ristoranti che propongono **una cucina che “vale 
 
 Sono due le novità tra i 35 ristoranti che&nbsp;**“meritano una deviazione**”, e quindi le **2 stelle**&nbsp;Michelin. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="https://ci4.googleusercontent.com/proxy/bn-7coD1-KkL8WQNxmeiFoRmtrPn0SZC5xI0cyFr58FI1Ust-iwLaBuqK78RiDDvjTEfrqfMp8WA33vu5CHkqva1Xwch8_5SPP5oMQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/7/27,13" alt="2 stelle" /></figure>
-</div>
+
+{{< figure src="https://ci4.googleusercontent.com/proxy/bn-7coD1-KkL8WQNxmeiFoRmtrPn0SZC5xI0cyFr58FI1Ust-iwLaBuqK78RiDDvjTEfrqfMp8WA33vu5CHkqva1Xwch8_5SPP5oMQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/7/27,13" >}}
+
 
 <ul class="wp-block-list">
   <li>
@@ -52,25 +52,25 @@ Sono due le novità tra i 35 ristoranti che&nbsp;**“meritano una deviazione**�
   </li>
 </ul>
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="https://ci5.googleusercontent.com/proxy/SkWlpAIxmf0C8BuqVGSTEmeUxWgN4rCeSoljWNAvgLrq418nQ4eI2nzrYYnkzSp6z1i45o5sT_imeufWf1ygdlIRbWmPj3bNI7KFcQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/6/13,13" alt="1 stella" width="12" height="13" /></figure>
-</div>
+
+{{< figure src="https://ci5.googleusercontent.com/proxy/SkWlpAIxmf0C8BuqVGSTEmeUxWgN4rCeSoljWNAvgLrq418nQ4eI2nzrYYnkzSp6z1i45o5sT_imeufWf1ygdlIRbWmPj3bNI7KFcQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/6/13,13" >}}
+
 
 Sono 328 i ristoranti dalla “cucina di grande qualità, che&nbsp;**merita la tappa**”,&nbsp;dei quali 30&nbsp;_new entry_:
 
 Le regioni più ricche di novità sono la&nbsp;**Lombardia**, la&nbsp;**Campania**&nbsp;e la&nbsp;**Toscana**, alle quali sono state assegnate più del 50% delle nuove stelle.&nbsp;
 
-**Il panorama stellato della Guida Michelin 2020**:<figure class="wp-block-image is-resized">
+**Il panorama stellato della Guida Michelin 2020**:
+{{< figure src="https://ci5.googleusercontent.com/proxy/SkWlpAIxmf0C8BuqVGSTEmeUxWgN4rCeSoljWNAvgLrq418nQ4eI2nzrYYnkzSp6z1i45o5sT_imeufWf1ygdlIRbWmPj3bNI7KFcQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/6/13,13" >}}
+ 
 
-<img loading="lazy" decoding="async" src="https://ci5.googleusercontent.com/proxy/SkWlpAIxmf0C8BuqVGSTEmeUxWgN4rCeSoljWNAvgLrq418nQ4eI2nzrYYnkzSp6z1i45o5sT_imeufWf1ygdlIRbWmPj3bNI7KFcQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/6/13,13" alt="1 stella" width="12" height="13" /> </figure> 
+**328 ristoranti****&nbsp;(30 novità)**
+{{< figure src="https://ci4.googleusercontent.com/proxy/bn-7coD1-KkL8WQNxmeiFoRmtrPn0SZC5xI0cyFr58FI1Ust-iwLaBuqK78RiDDvjTEfrqfMp8WA33vu5CHkqva1Xwch8_5SPP5oMQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/7/27,13" >}}
+ 
 
-**328 ristoranti****&nbsp;(30 novità)**<figure class="wp-block-image">
-
-<img decoding="async" src="https://ci4.googleusercontent.com/proxy/bn-7coD1-KkL8WQNxmeiFoRmtrPn0SZC5xI0cyFr58FI1Ust-iwLaBuqK78RiDDvjTEfrqfMp8WA33vu5CHkqva1Xwch8_5SPP5oMQ=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/7/27,13" alt="2 stelle" /> </figure> 
-
-**&nbsp;35 ristoranti&nbsp;****(2 novità)**<figure class="wp-block-image is-resized">
-
-<img loading="lazy" decoding="async" src="https://ci3.googleusercontent.com/proxy/VgyVkTNbbm8DRDKol8l6GNWAey18gG0dUq2NOKdcxhYWz8_eu3Nkh3Qjl091p_bDB5TKCQ4_PTGNxDzPZeVl8ZDLE45E9wYNx_-4Ew=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/8/40,13" alt="3 stelle" width="40" height="13" /> </figure> 
+**&nbsp;35 ristoranti&nbsp;****(2 novità)**
+{{< figure src="https://ci3.googleusercontent.com/proxy/VgyVkTNbbm8DRDKol8l6GNWAey18gG0dUq2NOKdcxhYWz8_eu3Nkh3Qjl091p_bDB5TKCQ4_PTGNxDzPZeVl8ZDLE45E9wYNx_-4Ew=s0-d-e1-ft#https://media.lulop.com/media/hqgetimage/l/172323/8/40,13" >}}
+ 
 
 **&nbsp;11 ristoranti&nbsp;****(1 novità)**
 

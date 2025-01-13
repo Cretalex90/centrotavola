@@ -24,9 +24,9 @@ L&#8217;edizione 2024 di **Giro di Vino**, organizzata dall&#8217;Amministrazion
 
 ### Un omaggio a Francesco Petrarca {.wp-block-heading}
 
-Il manifesto dell&#8217;edizione 2024 recita &#8220;_**Chiari, freschi et rossi vini**_&#8220;, parafrasando i versi del poeta Francesco Petrarca, che soggiornò a Capranica. Quest&#8217;anno, la manifestazione è dedicata proprio a lui, in occasione del 650esimo anniversario della sua scomparsa. Un tributo che sottolinea il legame tra la cultura letteraria e quella vinicola della regione.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img decoding="async" src="images/wp-content/uploads/2024/07/unknown.jpeg?w=732" alt="" class="wp-image-2764" style="width:612px;height:auto" /> </figure> 
+Il manifesto dell&#8217;edizione 2024 recita &#8220;_**Chiari, freschi et rossi vini**_&#8220;, parafrasando i versi del poeta Francesco Petrarca, che soggiornò a Capranica. Quest&#8217;anno, la manifestazione è dedicata proprio a lui, in occasione del 650esimo anniversario della sua scomparsa. Un tributo che sottolinea il legame tra la cultura letteraria e quella vinicola della regione.
+{{< figure src="images/wp-content/uploads/2024/07/unknown.jpeg?w=732" >}}
+ 
 
 ### Un decennio di successi {.wp-block-heading}
 

@@ -19,9 +19,9 @@ E con queste qualità, _invisibili agli occhi,_ ha raggiunto importanti risult
 
 Ora è arrivato anche il prestigioso riconoscimento internazione del concorso **Sol d’Oro 2020 Nothern Hemispher** che si tiene a Verona dal 2002, dove una giuria internazionale ha valutato il suo olio tra i migliori nella Categoria _Absolute beginners. _
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/03/soldoro.jpg?w=960" class="wp-image-1098" width="339" height="334" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/03/soldoro.jpg?w=960" >}}
+
 
 Un riconoscimento di cui l’azienda va fiera, e che trova le radici nei suoi valori di rispetto della natura e dei suoi cicli, nella valorizzazione delle professionalità, nel rispetto delle materie prime nel processo di trasformazione. 
 

@@ -20,9 +20,9 @@ Le dirette saranno presentate da Vanessa Galipoli, volto storico di **Azzurro Fo
 
 Le dirette con cooking show e videoclip dedicate alle bellezze della **Sicilia** e alla promozione del territorio si potranno seguire sui canali social di **Azzurro Food (** Facebook , Instagram e Youtube) e degli chef ospiti e delle aziende partner tutti i giorni dal 18 al 20 Dicembre alle ore 18.00.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2020/12/0.jpeg?w=512" alt="azzurro-food-locandina-2020-diretta" class="wp-image-1905" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/12/0.jpeg?w=512" >}}
+
 
 Evento organizzato da Pro Loco Sciacca Terme, Futuris e Record Eventi, con il patrocinio dell’Assessorato Turismo, Sport e Spettacolo della Regione Siciliana.
 

@@ -26,9 +26,9 @@ pulsante che va oltre il buon cibo, il dialogo con i mentori sarà anche un’oc
 comprendere il ruolo della gastronomia come forza trasformatrice e motore per il cambiamento.  
 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/09/gabriele-bonci_ph.-arianna-giuntini.png?w=1000" alt="" class="wp-image-457" width="500" height="332" /><figcaption>Gabriele Bonci. Ph. Arianna Giuntini</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/09/gabriele-bonci_ph.-arianna-giuntini.png?w=1000" caption="Gabriele Bonci. Ph. Arianna Giuntini" >}}
+
 
 Questi i mentori scelti dai giovani chef in gara alla finale regionale in programma a Milano il  
 prossimo 21 ottobre: **Riccardo Camanini**, chef del ristorante stellato Lido 84 di Gardone Riviera (BS) – 1 stella Michelin, sarà il mentore di Alessandro Bergamo – sous chef del Ristorante Cracco di Milano &#8211; 1 stella Michelin, il cui signature dish sarà “Meglio un uovo oggi o una gallina domani?”  
@@ -38,9 +38,9 @@ dish “Lol &#8220;eel&#8221; pop – beach honey & lake’s potatoes”
 **Davide Maci**, chef del The Market Place di Como, sarà accanto al suo sous chef Davide  
 Marzullo, che presenterà come signature dish “Aubergine in black tie”
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/07/riccardo-camanini1.jpg?w=1000" alt="" class="wp-image-60" width="574" height="263" /><figcaption>Riccardo Camanini</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/07/riccardo-camanini1.jpg?w=1000" caption="Riccardo Camanini" >}}
+
 
 **Francesco Nunziata**, Resident Executive Chef di ATTIMI by Heinz Beck Milano City Life, sarà  
 il mentore del suo sous chef Antonio Romano, che proporrà il signature dish “Roma  

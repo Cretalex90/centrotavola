@@ -25,9 +25,9 @@ tags:
   </tr>
 </table></figure> 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/52f87731-ad19-4424-8277-b6c28b5bec16.jpg?w=1024" alt="identità-golose-chef-donne" class="wp-image-1035" width="592" height="394" /></figure>
-</div><figure class="wp-block-table">
+
+{{< figure src="images/wp-content/uploads/2020/02/52f87731-ad19-4424-8277-b6c28b5bec16.jpg?w=1024" >}}
+<figure class="wp-block-table">
 
 <table>
   <tr>

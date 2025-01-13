@@ -14,9 +14,9 @@ Il 16 ottobre,&nbsp;**Giornata Mondiale dell&#8217;Alimentazione**, la FAO invit
 
 In esso si mette in evidenza che &#8220;ridurre la perdita e lo spreco di cibo ha il potenziale per contribuire ad altri Obiettivi di Sviluppo Sostenibile delle Nazioni Unite, incluso quello di Fame Zero. Nei paesi a basso reddito, dove l&#8217;insicurezza alimentare è spesso grave, aumentare l&#8217;accesso al cibo è fondamentale; e l&#8217;accesso stesso è strettamente legato alla disponibilità. Prevenire le perdite di cibo a livello locale nella produzione di piccola scala può sia alleviare la carenza di cibo che aumentare il reddito degli agricoltori, migliorando così l&#8217;accesso al cibo. D’altra parte, nei paesi ad alto reddito, la priorità è una dieta sana e con il giusto apporto di nutrienti&#8221;.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/7_lucia-mandriolie2808e.jpg?w=960" class="wp-image-505" width="443" height="443" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/7_lucia-mandriolie2808e.jpg?w=960" >}}
+
 
 «Il rapporto SOFA evidenzia come il problema dello spreco alimentare sia un problema globale con interconnessioni estremamente complesse. Una sfida che Slow Food ha raccolto nel corso degli anni e che ci ha portato a lavorare con le comunità rurali dei paesi a basso reddito per migliorare la loro sicurezza alimentare, aiutando i piccoli agricoltori a mantenere viva la cultura dei loro cibi tradizionali e a migliorare la catena di distribuzione locale, attraverso orti e mercati contadini», afferma&nbsp;**Edie Mukiibi, membro del Comitato Esecutivo Internazionale di Slow Food**. «Allo stesso tempo, è essenziale continuare a sensibilizzare i consumatori con un buon reddito, affinché, con le loro scelte, possano contribuire al cambiamento verso un sistema più sostenibile e migliorare le possibilità di accesso a un cibo sano per tutti».
 
@@ -24,9 +24,9 @@ In un mondo in cui il sistema di produzione alimentare si dimostra ingiusto e in
 
 Un esempio viene dal raduno **Indigenous Terra Madre Asia & Pan-Pacific** che si è concluso proprio oggi in Ainu Mosir (Hokkaido). «I sistemi alimentari delle popolazioni indigene si basano su diete e pratiche differenziate, che contribuiscono a mantenerci in buona salute: cibi diversi e sani, attività fisica, contatto con la natura, condivisione, comunità e identità culturale&#8221;, dice **Remi Ie, Consigliere Internazionale Slow Food per il Giappone e indigena Ryukyu**. «Affinché questi sistemi alimentari indigeni si conservino vivi e vitali dobbiamo essere consapevoli delle lezioni dei nostri anziani che hanno praticato uno stile di vita lento e sostenibile per generazioni, e coinvolgere in questo i nostri giovani, credendo in loro e delegando a loro le iniziative per riaffermare l&#8217;eredità delle antiche tradizioni. Il trasferimento del sapere tradizionale è la chiave per un futuro appagante, nutriente e sostenibile non solo per le comunità indigene, ma per l&#8217;intera umanità».
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/29_florence-verlhace2808e.jpg?w=1024" class="wp-image-507" width="489" height="367" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/29_florence-verlhace2808e.jpg?w=1024" >}}
+
 
 È stato inoltre da tempo accertato che i prodotti dei&nbsp;**Presìdi Slow Food**, grazie al modo di produzione &#8211; che evita l’usi di prodotti chimici, conservanti e additivi chimici &#8211; alla fertilità dei terreni di coltivazione e alla salubrità dell&#8217;alimentazione per gli animali allevati, sono più ricchi di valori nutrizionali rispetto ad analoghe produzioni convenzionali.
 

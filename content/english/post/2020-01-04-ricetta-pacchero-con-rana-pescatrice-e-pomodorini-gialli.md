@@ -12,9 +12,9 @@ categories:
 ---
 Per chiudere in bellezza le festività natalizie cosa c’è di meglio di un bel piatto di pasta? Il Pacchero con la rana pescatrice è un primo di mare con un ingrediente dal gusto deciso che il nostro chef Gabriele Zampaletta prepara per noi per deliziare vista, olfatto e naturalmente palato.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_072.jpg" alt="pacchero-rana-pescatrice-primo-pasta-pesce-piatto-ricetta-recipe-sugo-tuscania-dovevuoi" class="wp-image-812" width="537" height="357" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_072.jpg" >}}
+
 
 **_Ingredienti per 4 persone_**
 
@@ -58,6 +58,5 @@ Nel frattempo in una pentola far bollire 360 gr di paccheri&nbsp; (salare la pas
 
 Aggiungere in mantecazione il prezzemolo e il basilico tritato e &#8230; buon appetito!
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_071.jpg" alt="pacchero-rana-pescatrice-primo-pasta-pesce-piatto-ricetta-recipe-sugo-tuscania-dovevuoi" class="wp-image-810" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_071.jpg" >}}

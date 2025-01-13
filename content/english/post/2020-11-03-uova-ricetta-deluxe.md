@@ -25,9 +25,9 @@ Sempre a cura dello chef Danilo Colaiaquo, che ci descrive le 3 ricette conclusi
 
 ### **Tuorlo fritto su fusa di parmigiano** {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/11/tuorlo-fritto-su-fusa-di-parmigiano.jpg?w=800" alt="ricetta-uova-uovo-tuorlo-fritto" class="wp-image-1788" width="483" height="321" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/11/tuorlo-fritto-su-fusa-di-parmigiano.jpg?w=800" >}}
+
 
 _1 uovo Deluxe_
 
@@ -45,9 +45,9 @@ _&#8211; Sgusciare l’uovo e separare il tuorlo dall’albume. In una ciotola v
 
 ### **Carbonara&nbsp;** {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/11/carbonara-uova-int.jpg?w=800" alt="uovo-carbonara-ricetta-guanciale" class="wp-image-1787" width="464" height="309" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/11/carbonara-uova-int.jpg?w=800" >}}
+
 
 _10 tuorli d’uovo_
 
@@ -65,9 +65,9 @@ _-Tagliare il guanciale in fettine sottile e farle rosolare in padella antiadere
 
 ### **Tiramisù** {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/11/uovo-tiramisucc80.jpg" alt="" class="wp-image-1790" width="447" height="297" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/11/uovo-tiramisucc80.jpg" >}}
+
 
 _100 g tuorlo pastorizzato_
 

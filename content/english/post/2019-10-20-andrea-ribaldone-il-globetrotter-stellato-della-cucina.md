@@ -21,9 +21,9 @@ _Chef Andrea Ribaldone ha il Piemonte nelle vene e, nonostante sia nato e cresci
 
 Instancabile, inarrestabile, incontentabile. In queste poche parole potremmo racchiudere la personalità, e la persona, di chef Andrea Ribaldone, un vero e proprio “nomade” (come si è definito) della cucina italiana. Chef Ribaldone, ora a capo della sua brigata in pieno Piemonte, nella terra dei tartufi, di strada ne ha letteralmente fatta prima di tornare nella sua regione d’origine.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/08/50-ribaldone-andrea-683x1024.jpg" alt="" class="wp-image-290" width="422" height="632" /><figcaption>Chef Andrea Ribaldone</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/08/50-ribaldone-andrea-683x1024.jpg" caption="Chef Andrea Ribaldone" >}}
+
 
 Il suo percorso è stato come orientato da un ideale elastico che, tirato e alterato, è tornato sempre al punto di partenza: tanti viaggi, tante cucine, ma sempre il Piemonte come punto di riferimento e di ritrovo. Lo chef si forma ad Alessandria prima dell’esperienza parigina, torna nel capoluogo piemontese per poi andare a dirigere le cucine di Expo a Milano nel 2015. Apre il ristorante I Due Buoi ancora ad Alessandria prima di iniziare, nel 2016, il suo lavoro di consulenza nei sei ristoranti di Borgo Egnazia, in Puglia. L’anno seguente il ritorno sotto le Alpi nel cuore delle Langhe (Annunziata della Morra, Cuneo) dove apre Osteria Arborina. Il filo rosso che accomuna i suoi locali? Ovviamente, la stella Michelin.
 
@@ -38,9 +38,9 @@ Si tratta sicuramente di un ingrediente particolare. A me piace fare marinature 
 **_Lei, anche grazie all’associazione Ambasciatori del Gusto di cui è membro, si è sempre impegnato nella valorizzazione del cibo italiano all’estero. Come viene considerata la nostra cucina oltre i confini nazionali?&nbsp;_**  
 La cucina italiana è molto rispettata e invidiata, ma soprattutto è amata. La nostra cucina è di sostanza, di qualità, è buona e arriva al cuore della gente. Le persone non sono più clienti bensì individui che vogliono provare un’emozione e la cucina italiana, grazie sia alle sue materie prime che ai cuochi, riesce a far vivere queste emozioni a tutti ovunque nel mondo.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/08/acciuga-al-verde-768x512.jpg" alt="" class="wp-image-292" width="576" height="383" /><figcaption>Acciuga al verde</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/08/acciuga-al-verde-768x512.jpg" caption="Acciuga al verde" >}}
+
 
 **_Che valore ha per uno chef la prima stella Michelin? Si inizia a pensare a come non perderla, o a come ottenere le altre due?  
 _** La prima l’ho presa nel 2003 con La Fermata, nel 2015 l’ho ottenuta ad Alessandria con I Due Buoi e nel 2018, con Domingo Schingaro, a Borgo Egnazia in Puglia. L’ultima, in ordine cronologico, è quella che ho ottenuto con Osteria Arborina. Sono un po’ “anziano” ma mi emoziona ancora questo tipo di riconoscimento perché si tratta pur sempre della stella Michelin. Mi piace pensare che sia un punto di arrivo, di riconoscimento del buon lavoro svolto. Poi per arrivare alla seconda o alla terza chiaramente devi impegnarti tantissimo, devi dedicarci la vita. Non è che non mi piaccia l’idea ma forse è una sfida ancor superiore.
@@ -49,21 +49,6 @@ _** La prima l’ho presa nel 2003 con La Fermata, nel 2015 l’ho ottenuta ad A
 L’attinenza al territorio per me è importante, assieme al rispetto delle tradizioni di una terra abbinate alle tecniche moderne. La materia prima, fondamentale per ogni grande piatto, non deve essere necessariamente a&nbsp; chilometro zero,&nbsp; bensì a “chilometro buono”.
 
 **_Per chiudere, in tre parole per Andrea Ribaldone “cucina” è…  
-_** È, a mio parere “ripetitività”. So che sembra brutto da dire perché associamo sempre questo concetto alla noia. Il cuoco non è un artista che ha il colpo di genio e crea il piatto, dietro a tutto c’è un lavoro fatto di tentativi e ripetizioni. Bisogna avere una grande capacità di sopportazione della “sofferenza del ripetere” e in quella ripetitività c’è la missione di arrivare poi alla perfezione. Il piatto non si pensa di notte e non ci crea dal nulla, ma è frutto di un lavoro ripetitivo che porta quasi allo stremo. Costanza e sacrificio poi fanno il resto.&nbsp; C’è ovviamente chi ha l’illuminazione, ma sono pochi in questo caso i veri geni.<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
-
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/acciuga-al-verde-768x512.jpg?w=768" alt="" data-id="292" class="wp-image-292" /><figcaption class="blocks-gallery-item__caption">Acciuga al verde</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/agnolotti-ai-due-passaggi-768x512.jpg?w=768" alt="" data-id="291" class="wp-image-291" /><figcaption class="blocks-gallery-item__caption">Agnolotti ai due passaggi</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/plin-ghiaccio.jpg?w=309" alt="" data-id="289" class="wp-image-289" /><figcaption class="blocks-gallery-item__caption">Plin ghiaccio</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/50-ribaldone-andrea-683x1024.jpg?w=683" alt="" data-id="290" class="wp-image-290" /><figcaption class="blocks-gallery-item__caption">Chef Andrea Ribaldone</figcaption></figure>
-  </li>
-</ul></figure> 
+_** È, a mio parere “ripetitività”. So che sembra brutto da dire perché associamo sempre questo concetto alla noia. Il cuoco non è un artista che ha il colpo di genio e crea il piatto, dietro a tutto c’è un lavoro fatto di tentativi e ripetizioni. Bisogna avere una grande capacità di sopportazione della “sofferenza del ripetere” e in quella ripetitività c’è la missione di arrivare poi alla perfezione. Il piatto non si pensa di notte e non ci crea dal nulla, ma è frutto di un lavoro ripetitivo che porta quasi allo stremo. Costanza e sacrificio poi fanno il resto.&nbsp; C’è ovviamente chi ha l’illuminazione, ma sono pochi in questo caso i veri geni. 
 
 Ph: credits Carlo Dutto

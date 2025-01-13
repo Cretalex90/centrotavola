@@ -20,9 +20,9 @@ Metamorfosi: &#8220;_**Trasformazione** di un essere o di un oggetto in un altro
 
 Sì, perché **Roy Caceres** si è dovuto trasformare durante la sua vita, sin dall&#8217;età di 16 anni quando dalla lontana Colombia si ritrovò in Italia, passando da una capitale, Bogotà, all&#8217;altra, Roma. 
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/05/image1.jpeg?w=427" alt="roy-caceres-chef" class="wp-image-1306" width="360" height="539" /><figcaption>Roy Salomon Caceres</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/05/image1.jpeg?w=427" caption="Roy Salomon Caceres" >}}
+
 
 Inizialmente nei piani di un giovane Roy c&#8217;era la carriera da giocatore di basket, ma anche qui troviamo una trasformazione nella consapevolezza del futuro chef, conscio che difficilmente avrebbe trovato lavoro nel mondo della palla a spicchi. 
 
@@ -42,9 +42,9 @@ Il resto della sua storia, però, ce la racconta direttamente lui.
 **_Anche se sei nel nostro Paese da tantissimo tempo, sei uno dei pochi stranieri che fa parte dell’associazione&nbsp;[Ambasciatori del Gusto][1], che da sempre valorizza e promuove la cucina italiana nel mondo. Che effetto ti fa questa “carica”?_  
 ** Innanzitutto io mi sento molto italiano e quindi è un onore per me far parte di questa associazione che promuove la cucina italiana del mondo. La mia cucina ha un’impronta italiana di base, anche se può sembrare molto contaminata. Una&nbsp;volta feci l’azzardo di scrivere sul CV che volevo far parte della nuova cucina italiana e di creare una linea di cucina che mi rappresentasse e allo stesso tempo arricchissi il panorama gastronomico italiano. In qualche modo è andata cosi.
 
-<div class="wp-block-image">
-  <figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/05/image0.jpeg?w=463" alt="roy-caceres-chef-metamorfosi" class="wp-image-1307" width="347" height="378" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/05/image0.jpeg?w=463" >}}
+
 
 **_Tu nel mondo della cucina sei partito da lavapiatti, come hai fatto a farti notare per le tue doti culinarie?_  
 ** Diciamo che è avvenuto tutto quasi per caso, nel senso che avevo già deciso di fare il cuoco e quindi da lavapiatti cercavo di entrare in cucina ma l’opportunità non si presentava. Un’estate lavorai in piccolo albergo/ristorante di Forte dei Marmi quando a inizio stagione l’aiuto cuoco decise di andar via. Io presi coraggio e proposi alla direttrice di fare l’uno e l’altro, in pratica aiutavo in cucina e poi subito andavo a lavare i piatti! &nbsp;Videro che avevo tanta voglia di imparare e mettermi alla prova, così in breve tempo il posto di aiuto cuoco fu mio. Da lì in poi è stato tutto uno scalare, un cercare ogni giorno di fare meglio, di rubare con gli occhi e di mettere tutto nel mio bagaglio. Certo, ho anche studiato molto. Non avendo avuto l’opportunità di frequentare una scuola mi sentivo spesso inadeguato se paragonato a ragazzi che avevano avuto quest’opportunità. Ore e ore sui libri mentre i miei coetanei andavano in discoteca o a divertirsi. Io rimanevo in stanza a studiare, a cercare di conoscere quell&#8217;“italianità” che non mi apparteneva.
@@ -52,9 +52,9 @@ Il resto della sua storia, però, ce la racconta direttamente lui.
 **_Hai avuto difficoltà nell’ambientarti alla cucina italiana? C’è stato bisogno, in un certo senso, di “resettare” il palato?_  
 ** Un bisogno vero e proprio non c’è stato, sicuramente perché la cucina italiana è talmente buona che non puoi non apprezzarla. Un piatto che non capivo però era il risotto: in Colombia mangiamo il riso asciutto, accompagnato da carne o verdure e vedere, in Italia, questo riso cosi cremoso mi stupì molto. Per farla breve oggi adoro il&nbsp;risotto&nbsp;tant’è che a Metamorfosi è diventato uno dei piatti che non può mancare. Abbiamo l&#8217;“_opercolato_” con funghi e nocciole e crema di formaggio di capra; e il “_riso rosso cremoso_” mantecato con Blu del Monviso, un battuto di fassona cruda sopra, erbe e pistacchi.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/05/image2.jpeg?w=427" alt="" class="wp-image-1309" width="285" height="427" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/05/image2.jpeg?w=427" >}}
+
 
 **_C’è un aspetto della cultura gastronomica italiana che porteresti in Colombia e viceversa?_  
 ** Porterei in Colombia l’approccio culturale verso la gastronomia perché penso sia uno dei valori più grandi dell’Italia. Mentre in Italia porterei quella grande varietà di colori e di profumi esotici che trovo nei vegetali e nella frutta.
@@ -68,9 +68,9 @@ Sicuramente uno street food colombiano che si chiama&nbsp;_arepa_&nbsp;e che sec
 **_C’è invece un sapore, un odore, un piatto che ricordi che ti ha colpito particolarmente al tuo arrivo in Italia?_  
 ** Stranamente c’è un profumo che mi riporta ai primi tempi in cui sono arrivato in Italia ed è quello della noce moscata. Era un profumo nuovo per me e il solo pensiero mi riporta alla besciamella e quindi alle lasagne.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/05/image3.jpeg?w=640" alt="spaghetti-piatto-plate-pasta-caceres" class="wp-image-1308" width="517" height="345" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/05/image3.jpeg?w=640" >}}
+
 
 **_La figura dello chef, negli ultimi anni, ha goduto di grande impatto dal punto di vista mediatico e comunicativo. In questo momento quanto credi sarà importante la comunicazione, anche da parte vostra, per poter ripartire?_  
 ** Sicuramente è importante, soprattutto in questo momento per comunicare l’energia e la voglia di ripartire. Sarà anche il modo per invogliare i nostri clienti a tornare a trovarci, anche se inizialmente non ci aspettiamo un grande flusso di clientela, nonostante l’impostazione della nostra sala vada oltre i 2 metri di distanza tra un tavolo e l’altro.&nbsp;

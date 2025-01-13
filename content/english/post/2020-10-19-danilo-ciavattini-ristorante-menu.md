@@ -18,9 +18,9 @@ tags:
 
 Lo chef usa la tradizione come trampolino di lancio verso una proposta che sembra migliorare di anno in anno. Una proposta in continua evoluzione grazie anche alla capacità critica, e autocritica, di uno chef che non considera mai “_definitivo_” il piatto al tavolo, ma rimane sempre aperto a nuovi cambiamenti, aggiustamenti, modifiche.
 
-Il menu del <a rel="noreferrer noopener" href="https://www.danilociavattini.com/" target="_blank">Ciavattini Ristorante</a> cambia volto, colori e sapori con l&#8217;offerta autunnale che entra sia in carta che nel menu degustazione. A non mutare è il filo rosso che collega i piatti, il leitmotiv della cucina dello chef, fatta di ingredienti del territorio che replicano sul piatto il sapore della Tuscia.<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-8.jpg?w=1024" alt="" class="wp-image-1745" /> <figcaption>Pignattaccia &#8211; la presentazione</figcaption></figure> 
+Il menu del <a rel="noreferrer noopener" href="https://www.danilociavattini.com/" target="_blank">Ciavattini Ristorante</a> cambia volto, colori e sapori con l&#8217;offerta autunnale che entra sia in carta che nel menu degustazione. A non mutare è il filo rosso che collega i piatti, il leitmotiv della cucina dello chef, fatta di ingredienti del territorio che replicano sul piatto il sapore della Tuscia.
+{{< figure src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-8.jpg?w=1024" caption="Pignattaccia &#8211; la presentazione" >}}
+ 
 
 Ecco, se questo territorio immerso nella provincia di Viterbo avesse sapore, questo sarebbe quello racchiuso nell&#8217;offerta culinaria dello **chef Ciavattini** che, da ormai due anni, mantiene la stella Michelin e le due Forchette della guida del Gambero Rosso.&nbsp;
 
@@ -38,9 +38,9 @@ Ci ho lavorato su, per quanto riguarda l’ideazione, una 20ina di giorni e ho c
 
 Ci sono alcuni piatti che rimangono tali, perché comunque li faccio da anni e li ripropongo con regolarità anche perché è il cliente stesso che li cerca. Per esempio in questo menu ho riproposto il _maialino in tempura_ con gelato di acciughe, che era una ricetta che facevo appena aperto, nel 2017, ma che già eseguivo da anni anche nelle mie esperienze precedenti. Ovviamente i grandi classici devono essere inseriti e ruotati, ma ciò non toglie che mi piace anche dar spazio a proposte nuove e inedite. Penso sia importante non fossilizzarsi troppo su quanto già fatto in precedenza, altrimenti c’è il rischio di non creare più nulla di nuovo.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-1.jpg?w=1000" alt="" class="wp-image-1739" width="580" height="386" /><figcaption>Nido</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-1.jpg?w=1000" caption="Nido" >}}
+
 
 **_C’è pericolo di affezionarsi a un piatto e provare quasi del dispiacere nel toglierlo?_**
 
@@ -54,9 +54,9 @@ Ho voluto riproporre il maialino in tempura, poi c’è l’agnolotto di cinghia
 
 Ora stanno uscendo molte erbe aromatiche. Questo è periodo dei funghi, in particolar modo dei galletti, con cui faccio la patata interrata, ma anche porcini e qualche ovulo. Si trovano poi castagne, nocciole, ma anche cavolfiori e broccoli romani. Ho in mente di creare pure una proposta dedicata interamente al tartufo bianco: antipasto, primo, secondo e dolce a base di questo prodotto.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-10.jpg?w=1000" alt="" class="wp-image-1741" width="575" height="383" /><figcaption>Cappelletti di pignattaccia</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-10.jpg?w=1000" caption="Cappelletti di pignattaccia" >}}
+
 
 **_Da quanto hai iniziato a lavorare con questi ingredienti, ti senti un po’ cambiato, più maturo e consapevole, nell’utilizzo degli stessi?_**  
   
@@ -66,9 +66,9 @@ Assolutamente sì. Ho fatto più mio il concetto di entrare in un territorio, la
 
 Il piatto prima di tutto deve piacere a me, quindi tutte le fasi, da quella ideativa a quella realizzativa, le eseguo io. Tuttavia è importante tenersi sempre aperto a cambiamenti o modifiche: non bisogna pensare che un piatto sia finito, definitivo e terminato, anzi è necessario sempre trovare qualcosa che non va: è questo l’unico modo che conosco per crescere ed evolvermi in cucina.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-4.jpg?w=1000" alt="" class="wp-image-1740" width="571" height="380" /><figcaption>Risotto al gambero rosso e zafferano</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-4.jpg?w=1000" caption="Risotto al gambero rosso e zafferano" >}}
+
 
 **_In questo territorio pensi ci sia un ingrediente sottovalutato, che viene poco valorizzato?&nbsp;_**
 
@@ -76,9 +76,9 @@ Tutti i prodotti hanno potenzialità impressionanti, partendo dalla cosa che sem
 
 **_Per chiudere, c’è pericolo che, rimanendo così fedele al territorio e alla tradizione gastronomica del posto, si rischia di rimanere in qualche modo troppo vincolati da questi “lacci”?_**
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-11.jpg?w=684" alt="offiicina-visiva-ale-&-pepe-foto-food-stella-michelin-danilo-ciavattini-11" class="wp-image-1752" width="302" height="453" /><figcaption>Lo chef Danilo Ciavattini</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-11.jpg?w=684" caption="Lo chef Danilo Ciavattini" >}}
+
 
 C’è sempre modo di aggiornare e valorizzare un piatto che nasce in un dato territorio. La limitazione non esiste in cucina, tutto può essere spunto utile per nuove preparazioni o proposte, pur rispettando la materia prima e le sue caratteristiche. In cucina, con ogni ingrediente, si può fare davvero di tutto. Importante è non snaturare i prodotti con i quali ti trovi a lavorare, mantenendo la loro identità e soprattutto sapore. Fondamentale, poi, secondo me è non cercare di imitare gli altri ma essere sempre originali. Anche per questo cerco di guardare meno ricette possibili sui libri o su internet, per non rimanere influenzato da preparazioni che hanno fatto altri prima di me. È in questo modo che, credo, la creatività verrebbe in qualche modo limitata.
 

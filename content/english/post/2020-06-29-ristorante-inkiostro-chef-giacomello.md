@@ -20,9 +20,9 @@ tags:
 E come tale ha portato avanti un&#8217;idea di cucina inevitabilmente contaminata dall&#8217;esperienza a&nbsp;**El Bulli**, storico ristorante spagnolo che dalla metà degli anni &#8217;90 al 2011 ha riscritto le regole della gastronomia contemporanea.  
 Con chef Giacomello (tra i membri di&nbsp;<a rel="noreferrer noopener" href="http://ambasciatoridelgusto.it/" target="_blank">Ambasciatori del Gusto</a>) ho parlato pochi giorni dopo la riapertura del suo ristorante&nbsp;**Inkiostro**. Immancabile, poi, un ricordo della sua esperienza a El Bulli agli ordini di Adrià.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/06/inkiostro_sala.jpg" alt="Inkiostro-sala-ristorante-chef-parma-aleepepe-food" class="wp-image-1447" width="552" height="324" /><figcaption>La sala di Inkiostro</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/06/inkiostro_sala.jpg" caption="La sala di Inkiostro" >}}
+
 
 ## L&#8217;intervista a Terry Giacomello, del ristorante Inkiostro {.wp-block-heading}
 
@@ -38,9 +38,9 @@ _**Quale è stata la risposta dei clienti una volta riaperto Inkiostro?
 _**Proponi un degustazione particolarmente “ampio”. Da cosa è nata l’idea di&nbsp;creare un percorso da 19 portate?**_  
 Considerate anche le mie esperienze lavorative ho sempre pensato che in un ristorante come questo fosse preferibile puntare sul degustazione, perché il dovere che abbiamo è quello di far divertire il commensale, regalandogli delle emozioni che &nbsp;speriamo &nbsp;possano rimanere impresse nella mente. Utilizziamo ingredienti e tecniche inconsuete, magari anche coinvolgendo il cliente stesso in modo da renderlo partecipe dell&#8217;esperienza. Tutto questo in molti casi &nbsp;crea &nbsp;una certa curiosità, e le persone sono più predisposte a scegliere questo tipo di percorso.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/06/limone-muffa.jpg" alt="limone-ammuffito-muffa-inkiostro-chef-giacomello-dessert-aleepepe" class="wp-image-1446" width="551" height="417" /><figcaption>Il limone ammuffito, uno dei dessert più famosi di Inkiostro</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/06/limone-muffa.jpg" caption="Il limone ammuffito, uno dei dessert più famosi di Inkiostro" >}}
+
 
   
 _**Considerando che si tratta di proposte molto tecniche, quanto lavoro è stato&nbsp;necessario, e quanto hai impiegato, per ideare ed elaborare un menu simile?  
@@ -58,9 +58,9 @@ _**Tu hai lavorato in Francia, Spagna, Brasile; ma nella tua proposta c’è anc
 _**Parlando della tua esperienza a El Bulli, cosa hai imparato al ristorante di Adrià&nbsp;e cosa hai portato di quanto appreso da Inkiostro?**_  
 Tengo a precisare che per me il Bulli non e stato un posto di lavoro normale bensì una &nbsp;famiglia, e che non mi basta una vita intera per restituire agli Adrià tutto ciò che mi hanno trasmesso e insegnato. Lì ho imparato a vedere la cucina sotto altre forme, una forma di pensare che va ben oltre la ricetta, tecniche e concetti applicate ad ingredienti, l&#8217;importanza di collaborare con professionisti dell&#8217;arte , tecnologi del mondo del cibo, designer ecc.&nbsp;Questo in sintesi è poi quello che ho portato a Inkiostro.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/06/terry-giacomello.jpg" alt="terry-giacomello-chef-inkiostro-aleepepe" class="wp-image-1445" width="574" height="451" /><figcaption>Chef Terry Giacomello</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/06/terry-giacomello.jpg" caption="Chef Terry Giacomello" >}}
+
 
 _**C’è stato un insegnamento particolare che hai avuto da Ferran Adrià?  
 **_ Che umiltà e lavoro duro alla fine pagano sempre.&nbsp;Mai sentirsi arrivati perché oggi si può imparare qualcosa da chiunque lavori o collabori con te.&nbsp;  

@@ -17,9 +17,9 @@ tags:
 
 **Questa la ricetta personale di Corrado Brachino**, giovane pizzaiolo che a Viterbo sta portando avanti una proposta inedita per il territorio, sicuramente originale e legata a una ricerca attenta e studiata delle materie prime. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-3.jpg?w=1024" alt="officiva-visiva-ale-&-pepe-foto-pizzeria-pizza-amarcord-3" class="wp-image-1767" width="517" height="344" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-3.jpg?w=1024" >}}
+
 
 Nel **pieno centro storico** della città sorge un locale che forse definire pizzeria nel senso tradizionale del termine è limitativo. Proprio perché il locale stesso è quasi un laboratorio in cui dalla tradizione si vuole uscire per portare avanti una nuova idea di pizza. Idea, per l&#8217;appunto, contemporanea. 
 
@@ -31,9 +31,9 @@ Da Amarcord, infatti, Brachino non si limita alla realizzazione dei grandi class
 
 Da Amarcord troviamo i &#8220;_must_&#8221; come Margherita, Diavola, Quattro Stagioni e similari, ma è nella carta &#8220;_contemporanea_&#8221; **che Corrado riesce a esprimere tutta la sua fantasia e identità**. Ecco dunque che la sua pizza segue la stagionalità, con prodotti sempre diversi personalmente selezionati da piccole aziende locali.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-1.jpg?w=1024" alt="" class="wp-image-1765" width="513" height="341" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-1.jpg?w=1024" >}}
+
 
 E da 5 anni a questa parte, guidato da una grande passione che emerge anche dalle sua parole, Brachino (dopo una lunga gavetta in Italia e all&#8217;estero e dopo numerosi riconoscimenti, tra cui un Guinness World Record) continua a portare avanti la sua idea di cucina. Guidato da pochi compromessi ma molta consapevolezza.
 
@@ -57,9 +57,9 @@ Ora il cliente sta assumendo maggiore consapevolezza e curiosità riguardo quell
 
 Sono assolutamente d&#8217;accordo. Pepe è uno dei più grandi maestri in Italia e in Europa. La pizza nasce come cultura e nessuno può avere, secondo me, la superbia di andare a smuovere una cultura, una tradizione così radicata. La pizza intesa nel senso classico del termine deve certamente rimanere una cosa popolare, ma questo non vuol dire che bisogna essere troppo vincolati alla tradizione; anzi questa va usata come trampolino di lancio, spunto, per nuove idee e preparazioni. A _gourmet_ preferisco il termine &#8220;_contemporaneo_&#8220;, e per me la pizza contemporanea è la ricerca di materie prime di nicchia, poco conosciute al grande pubblico, ma con le quali creare grandi proposte.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-8.jpg?w=1024" alt="" class="wp-image-1764" width="676" height="450" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-8.jpg?w=1024" >}}
+
 
 
 
@@ -75,9 +75,9 @@ Penso che bisognerebbe andare oltre il concetto del prezzo. Magari qualcuno può
 
 Secondo me ci può esser posto. Penso che ci dovrebbe essere e che ci doveva essere da tanto tempo. Anche per quanto riguarda la pizzeria c&#8217;è un professionista che lavora con tutti i suoi collaboratori, è un sistema molto simile a quello dell&#8217;alta cucina contemporanea. Anche i canoni, nelle dovute proporzioni, sono gli stessi.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-5.jpg?w=1024" alt="" class="wp-image-1766" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-5.jpg?w=1024" >}}
+
 
   
 **_Per chiudere, con la pizza consigli l&#8217;abbinamento con il vino o con la birra?_**

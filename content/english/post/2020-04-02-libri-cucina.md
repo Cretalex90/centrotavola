@@ -27,9 +27,9 @@ Qui di seguito voglio segnalarvi alcuni libri, già passati tra le mie mani, ai 
 
 Tutti i volumi sono ordinabili tramite <a rel="noreferrer noopener" href="http://amazon" target="_blank">Amazon</a>.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/04/schermata-2020-04-02-alle-11.03.07.png" alt="apicio-l-arte-culinaria-de-re-coquinaria" class="wp-image-1198" width="293" height="422" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/04/schermata-2020-04-02-alle-11.03.07.png" >}}
+
 
 ## **_L’arte culinaria (De re coquinaria) &#8211; Apicio_**  {.wp-block-heading}
 
@@ -41,9 +41,9 @@ La cucina non è solo il luogo in cui si progettano sopravvivenza e piacere. La 
 
 ## **_Mangiato Bene? &#8211; Roberta Schira_**  {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="alignright is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/04/schermata-2020-04-02-alle-11.03.29.png" alt="libro-schira-mangiato-bene" class="wp-image-1199" width="337" height="478" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/04/schermata-2020-04-02-alle-11.03.29.png" >}}
+
 
 Tutti oggi danno voti e giudizi a ricette, menu, chef e ristoranti; le guide gastronomiche non bastano più. Ma in questo universo di foodies, gourmet e recensionisti selvaggi, di chi ci si può fidare? La risposta è che esiste un modo per riconoscere il Buono con la B maiuscola, al di là dei propri gusti e preferenze. E questo Buono non è fatto solo di ricette più o meno bene eseguite, ma di molti altri ingredienti e della loro combinazione. L’esperienza gastronomica non è fatta solo di cibo. Una buona cena può risultare irrimediabilmente rovinata da un servizio scadente; il locale in apparenza più raffinato può rivelarsi solo pretenzioso; uno chef merita più di altri perché&#8230; non si limita a cucinare. In questo libro prezioso, utile e divertente Roberta Schira, con l’autorevolezza di chi scrive professionalmente da anni di cultura e critica gastronomica, svela le 7 regole universali e sempre valide che ci permettono di riconoscere e valutare la bontà di un’esperienza gastronomica.
 

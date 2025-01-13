@@ -20,9 +20,9 @@ Lo farà con i numeri importanti che da anni lo caratterizzano: **10 giornate** 
 
 Le aziende vitivinicole, orfane dei fondamentali appuntamenti primaverili, non hanno avuto la possibilità di presentare le loro novità tanto agli operatori, ai media e ai winelover. L&#8217;appuntamento romano quindi per suggellare e celebrare un quanto migliore possibile ritorno verso la &#8220;normalità&#8221;.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/vinoforum-roma.jpg?w=1000" alt="vinoforum-roma-programma-2020-alepepe" class="wp-image-1604" width="470" height="285" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/vinoforum-roma.jpg?w=1000" >}}
+
 
 **Vinòforum** diventa quindi la prima occasione per degustare insieme nuove etichette e grandi classici. Il tutto nello scenario del **Parco di Tor di Quinto**, location confermata dopo lo straordinario successo della scorsa edizione. Oltre 12.000 metri quadri di verde, con il laghetto a fare da suggestivo sfondo. Conferme anche per il format di una manifestazione che riesce a mescolare, in un riuscito cocktail, le varie anime dell’universo enogastronomico, articolate e proposte in vere e proprie “stazioni” del gusto.
 

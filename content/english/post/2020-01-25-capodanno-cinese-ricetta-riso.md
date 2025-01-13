@@ -16,15 +16,15 @@ tags:
 ---
 ## Il Capodanno Cinese è arrivato!  {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/anno-del-topo.jpg?w=644" class="wp-image-928" width="520" height="289" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/anno-del-topo.jpg?w=644" >}}
+
 
 Festeggiamo a nostro modo questa ricorrenza con una ricetta a base di riso, uno degli ingredienti più tipici e iconici di questo Paese (tra i maggiori produttori e consumatori mondiali, che lo coltiva da circa 7000 anni), declinato in una piatto che esprime però italianità e stagionalità.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/artichoke-2237845_640.jpg?w=640" class="wp-image-929" width="508" height="269" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/artichoke-2237845_640.jpg?w=640" >}}
+
 
   
 Buon anno del Topo a tutti quanti con questo [risotto][1] cacio e pepe con carciofi croccanti e zeste di limone, presentato per voi in collaborazione con **Ristorante Palazzo Ranucci e [Dove Vuoi Srl][2].**
@@ -62,9 +62,9 @@ Farina
 **PER LA ZESTA DI LIMONE**  
 Grattuggiare la buccia di un limone stando attenti a non prendere anche la parte bianca che altrimenti sarebbe amara.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/lemon-4642988_640.jpg?w=640" class="wp-image-930" width="349" height="232" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/lemon-4642988_640.jpg?w=640" >}}
+
 
 **PREPARAZIONE**  
 Pulire e mondare i carciofi, tagliarli a metà e rimuovere la barba (se presente).  
@@ -84,9 +84,9 @@ Una volta pronto togliere dal fuoco e inserire un goccio di vino bianco e mantec
 ###  
 Impiattare il riso e decorarlo con i carciofi fritti e la buccia di limone grattugiata. {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.jpg?w=768" class="wp-image-931" width="407" height="542" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.jpg?w=768" >}}
+
 
 [Dai uno sguardo anche a questa ricetta!][3]
 

@@ -12,9 +12,9 @@ categories:
   - Eventi
 
 ---
-Sabato 12 novembre CasaNave alle Mura a **Tuscania** apre le sue porte al gusto e lo fa con la prima edizione del progetto **_Sull’onda del gusto, delizia il palato e stuzzica la mente_**.<figure class="wp-block-image aligncenter size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2022/11/0.png?w=443" alt="" class="wp-image-2376" /> </figure> 
+Sabato 12 novembre CasaNave alle Mura a **Tuscania** apre le sue porte al gusto e lo fa con la prima edizione del progetto **_Sull’onda del gusto, delizia il palato e stuzzica la mente_**.
+{{< figure src="images/wp-content/uploads/2022/11/0.png?w=443" >}}
+ 
 
 Una traversata alla scoperta dei **tesori alo-eno-gastronomici**, culturali e storici del **territorio**, promosso dall’Associazione Kinesfera, ideato da Martina Moscini, curato con Sandra Albanesi, Viktoriya Petrova, Daniele Porroni e con la partecipazione di Agriturismo il Romitorio di Nicolai Felice, Az. agricola Agostini Giorgia, Az. agricola Eredi di Pieri Giovanni, Az. agricola La Riserva Bio, Az. agricola Pian di Mola, Az. agricola Valle Perlata, Il Bosco Incantato, Vapoforno Lucchetti.  
 

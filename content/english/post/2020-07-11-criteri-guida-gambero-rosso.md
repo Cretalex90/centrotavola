@@ -27,9 +27,9 @@ L&#8217;ho voluto chiedere a **Laura Mantovano,** direttrice delle guide del **G
 
 ### Guida Ristoranti Gambero Rosso, parola a Laura Mantovano {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/laura-mantovano.jpg" alt="" class="wp-image-1476" width="292" height="274" /><figcaption>Laura Mantovano &#8211; Direttrice guide del Gambero Rosso</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/laura-mantovano.jpg" caption="Laura Mantovano &#8211; Direttrice guide del Gambero Rosso" >}}
+
 
 **Laura, tu che lavori a stretto contatti con il mondo della ristorazione, com&#8217;è attualmente la situazione del settore nel nostro Paese?**  
 _Molte pizzerie sono ripartite alla grande, ristoranti di fine dining invece hanno degli alti e bassi importanti e continui, che li porta anche a proseguire il loro servizio di delivery di &#8220;lusso&#8221;_. _La situazione quindi è molto fluttuante e rimane difficile gestirla anche per noi che ci occupiamo delle guide, che più che mai vanno fatte con grande attenzione; perché dietro ogni ristorante, pizzeria o trattoria ci sono sempre delle persone, delle famiglie, che vivono con la loro attività._ _Ciò non toglie che dovremmo continuare a essere il più obiettivi possibile._
@@ -40,9 +40,9 @@ _La Guida probabilmente sarà più un vademecum di servizio che di giudizio. Ci�
 **Quando, e in che modalità, pensate di presentare la nuova Guida Ristoranti?**  
 _Per questa edizione, incrociando le dita, speriamo di confermare la data del 23 novembre, pensando però a tutte le possibili alternative. Allo stato attuale delle cose non posso escludere una presentazione in streaming ma la speranza è di riuscire a fare qualcosa di &#8220;canonico&#8221;. Per dare un senso di normalità, per quanto possiamo, al nostro settore._
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/guida-ristoranti-gambero-rosso.jpg" alt="" class="wp-image-1475" width="544" height="370" /><figcaption>Un&#8217;immagine tratta dalla cerimonia di presentazione della guida dello scorso anno</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/guida-ristoranti-gambero-rosso.jpg" caption="Un&#8217;immagine tratta dalla cerimonia di presentazione della guida dello scorso anno" >}}
+
 
 **Come vi state muovendo per andare nei locali a giudicare?**  
 _Abbiamo ricominciato gradualmente, iniziando con le visite al centro sud, nelle zone che sembrano più &#8220;tranquille&#8221;. Situazioni come quella della Lombardia, Piemonte e Veneto ci costringono ad procedere con molta cautela, ritardando le ispezioni a settembre, sempre se la situazione lo permetterà._
@@ -53,9 +53,9 @@ _Sì, a qualcosa abbiamo pensato, penso ci sarà sicuramente qualche novità ma 
 **La guida, la vostra come quella delle altre riviste, può essere quest&#8217;anno più che mai uno strumento utile sia per i ristoratori che per i clienti?**  
 _Uno degli scopi che ci siamo prefissati per questa edizione è quello di dare un senso di normalità al settore. Crediamo che le guide debbano essere uno strumento di aiuto e supporto sia per i ristoratori che per i clienti, raccontando anche le formule messe in campo nei ristoranti per ovviare a questa situazione._
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/guida-gambero-rosso-ristoranti.jpg?w=1024" alt="guida-gambero-rosso-ristoranti-italia-aleepepe" class="wp-image-1483" width="517" height="318" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/guida-gambero-rosso-ristoranti.jpg?w=1024" >}}
+
 
 **Per chiudere, una considerazione personale per invitare la gente a mangiare fuori?**  
 _In Italia abbiamo dei grandi professionisti nel mondo della ristorazione, dalla pizzeria al fine dining, e sono state attuate le misure necessarie per mettere in sicurezza i locali. Non andrei sicuramente allo sbaraglio, all&#8217;ultimo degli &#8220;all you can eat&#8221; che magari può non dare tutte le garanzie, però è talmente grande e bella l&#8217;offerta che abbiamo in Italia che sarebbe un peccato farsi vincere dal timore e dalla paura._ _Consiglio quindi di prendere coraggio e tornare a mangiare fuori, magari iniziando da locali che hanno a disposizione un terrazzo o un giardino per ricominciare a prendere confidenza con tutto ciò che significa il pasto fuori casa_.

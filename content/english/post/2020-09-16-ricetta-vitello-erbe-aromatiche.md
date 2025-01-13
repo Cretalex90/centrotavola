@@ -18,9 +18,9 @@ Rimbocchiamoci le maniche e prepariamo un bel manicaretto. 
 
 Quanto ci è mancato stare in cucina, poter assaporare le varie consistenze, scegliere le materie prime e cucinarle con passione? Questa ricetta ci ricorda i colori della terra, degli alberi che perdono le foglie… questo è il profumo dell’autunno che si avvicina! 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2020/09/medaglioni-vitello-ricetta-verdure.jpg?w=600" alt="ricetta-vitello-verdure-purea" class="wp-image-1666" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/medaglioni-vitello-ricetta-verdure.jpg?w=600" >}}
+
 
 ### **Ingredienti** {.wp-block-heading}
 

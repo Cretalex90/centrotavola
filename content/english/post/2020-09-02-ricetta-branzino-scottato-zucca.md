@@ -34,9 +34,9 @@ carne di branzino da 180 gr;
 Q.b sakura mix  
 Q.b Timo, aglio, pepe nero e sale maldon
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/adobestock_127979679.jpg" alt="" class="wp-image-1586" width="341" height="393" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/adobestock_127979679.jpg" >}}
+
 
 **_Procedimento:_**  
 Pulire e lavare tutte le verdure. Sbollentare per qualche minuto in acqua bollente e salata il cipollotto con le catote, raffreddando subito in acqua fredda.  

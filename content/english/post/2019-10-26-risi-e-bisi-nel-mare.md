@@ -15,9 +15,9 @@ tags:
 ---
 C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi al mare. C’erano l’acqua cristallina, i calamari, i gamberi, gli scogli e la spuma: **era il suo posto preferito!**
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/8c8b5a81-afdc-4d76-adf8-db4eb84dce6f.jpg?w=1024" alt="" class="wp-image-529" width="522" height="392" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/8c8b5a81-afdc-4d76-adf8-db4eb84dce6f.jpg?w=1024" >}}
+
 
 **MISE EN PLACE**
 
@@ -49,9 +49,9 @@ C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi 
   </li>
 </ul>
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/9ce3b716-9a41-4726-a69f-40c3595f3b21.jpg?w=1024" alt="" class="wp-image-528" width="473" height="265" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/9ce3b716-9a41-4726-a69f-40c3595f3b21.jpg?w=1024" >}}
+
 
 <ul class="wp-block-list">
   <li>
@@ -69,9 +69,9 @@ C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi 
   <em>lo chef vi augura buon appetito:</em>
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/adb26848-f69a-4b98-99ce-784b18afeeec.jpg?w=1024" alt="" class="wp-image-537" width="604" height="453" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/adb26848-f69a-4b98-99ce-784b18afeeec.jpg?w=1024" >}}
+
 
 
 

@@ -16,9 +16,9 @@ tags:
   - roma
 
 ---
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/anthony-genovese.jpg?w=683" alt="" class="wp-image-626" width="318" height="476" /><figcaption>Anthony Genovese</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/anthony-genovese.jpg?w=683" caption="Anthony Genovese" >}}
+
 
 _Due stelle Michelin_, miglior ristorante di Roma nel 2017, miglior ristorante secondo la guida “_I Cento di Roma_” nel 2018, Quattro Cappelli per le Guide L’Espresso I Ristoranti d’Italia 2019, Tre Forchette per I Ristoranti d’Italia 2018; riconoscimenti confermati anche nelle guide per il 2020. Nonostante il nome, particolare a dire il vero, nel ristorante&nbsp;**[Il Pagliaccio][1]** di&nbsp;**Anthony Genovese**&nbsp;la cucina è una cosa seria.
 
@@ -34,9 +34,9 @@ _Come in ogni nazione che si rispetti, si incontrano delle difficoltà. Difficol
 
 _Sono proprio le mie origini, alle quali sono sempre stato ben saldo e per le quali ho sempre nutrito una forte curiosità, a spingermi a conoscere le basi della cucina italiana. Cucina che non ho mai dimenticato, neanche in Francia, quando la domenica mattina, si apparecchiava la tavola con tipiche pietanze italiane, come la lasagna._
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/tortello-maiale.jpg?w=719" alt="" class="wp-image-621" width="537" height="342" /><figcaption>Tortello di maiale</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/tortello-maiale.jpg?w=719" caption="Tortello di maiale" >}}
+
 
 **Quali sono state le prime difficoltà che hai incontrato al tuo arrivo in Italia?**
 
@@ -54,9 +54,9 @@ _Francia ed Italia condividono profonde origini culturali che inevitabilmente si
 
 _La mia priorità è sempre il rispetto per gli ingredienti. È essenziale. Mi piace fare una netta distinzione tra gli ingredienti, mentre penso a come posso mettere insieme diverse combinazioni di sapori. Chiamo questo concetto “Parallels”, un tracciato che conduce ogni cliente a godere di una personale esperienza culinaria, influenzata non solo dal mio modo di elaborare il piatto, ma anche dall’impatto positivo della sala qui a Il Pagliaccio e dal vissuto personale di ogni ospite. Circus e Charivari sono delle tratte culinarie del nostro ristorante: sorprese che cambiano e si evolvono con il tempo, senza dare tutte le spiegazioni e soluzioni già pronte nei menu._
 
-<div class="wp-block-image">
-  <figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/bsc00346.jpg?w=683" alt="" class="wp-image-624" width="378" height="566" /><figcaption>Ristorante Il Pagliaccio</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/bsc00346.jpg?w=683" caption="Ristorante Il Pagliaccio" >}}
+
 
 **C’è un motivo particolare per il quale hai dato questo curioso nome al tuo ristorante?**
 
@@ -74,9 +74,9 @@ _La creazione di un piatto è un processo che si sviluppa in diversi modi. Di ba
 
 _Sono due competenze che vanno ad integrare la figura di questo mestiere, ma credo che non vada mai dimenticato che sono appunto competenze complementari e che comunque uno Chef rimane colui che crea, vive e respira la sua cucina nella sua cucina!_
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/bsc00793.jpg?w=1024" alt="" class="wp-image-625" width="405" height="405" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/bsc00793.jpg?w=1024" >}}
+
 
 Foto: Lotus International
 

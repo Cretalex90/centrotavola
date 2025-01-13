@@ -14,9 +14,9 @@ tags:
 ---
 ## AlpiNN, all&#8217;interno del Lumen Museum of Mountain Photography di Brunico, è stato eletto come miglior ristorante del mondo in un museo. {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/03/plan-de-corones-restaurant.jpg?w=819" class="wp-image-1119" width="341" height="425" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/03/plan-de-corones-restaurant.jpg?w=819" >}}
+
 
 Leading Culture Destination ha nominato a Berlino, tramite esperti del settore di viaggi culturali, l&#8217;AlpiNN come &#8220;**_Miglior ristorante all&#8217;interno di uno spazio museale_**&#8220;.  
 Importante riconoscimento per il locale curato dallo chef **Robert Niederkofler,** tre stelle Michelin con il ristorante St. Hubertus a San Cassiano in Badia (Bolzano).

@@ -24,9 +24,9 @@ _Nella serata del 20 novembre si è tenuto a Terni, presso l&#8217;Istituto omni
 
 Si avvia verso la conclusione una serie di interessanti incontri dedicati all&#8217;approfondimento del mondo dell&#8217;extravergine di oliva organizzati da **Assoprol Umbria**. L&#8217;Associazione nell&#8217;ultimo mese ha dato vita a vari appuntamenti con focus sulla cultura e conoscenza di questo prezioso alimento, simbolo della dieta mediterranea ma ancora fin troppo poco considerato dal grande pubblico. Esperti, produttori e cuochi si sono alternati nei vari interventi, esponendo ai presenti delle varie date tutte le caratteristiche e tutti i benefici dell&#8217;utilizzo di un prodotto di qualità. Una bella iniziativa per cercare di avvicinare i consumatori verso scelte ponderate e critiche, rivolte all&#8217;acquisto di oli extravergine di qualità.
 
-Masterclass ma non solamente: per avvicinare ancor di più il pubblico all&#8217;evo (a rappresentanza, una serie di agricoltori umbri, tecnici ed esperti del settore per promuovere le produzioni certificate di qualità) a seguito degli incontri si sono tenute delle **cene** a tema, con piatti del territorio valorizzati dall&#8217;utilizzo degli extravergine **Dop Umbria e Bio**.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img decoding="async" src="images/wp-content/uploads/2024/11/olio-evo-oliva-umbria-assoprol-alessandro-creta.jpg?w=576" alt="" class="wp-image-2860" style="width:579px;height:auto" /> </figure> 
+Masterclass ma non solamente: per avvicinare ancor di più il pubblico all&#8217;evo (a rappresentanza, una serie di agricoltori umbri, tecnici ed esperti del settore per promuovere le produzioni certificate di qualità) a seguito degli incontri si sono tenute delle **cene** a tema, con piatti del territorio valorizzati dall&#8217;utilizzo degli extravergine **Dop Umbria e Bio**.
+{{< figure src="images/wp-content/uploads/2024/11/olio-evo-oliva-umbria-assoprol-alessandro-creta.jpg?w=576" >}}
+ 
 
 Quello di Terni è stato, in ordine temporale, l&#8217;ultimo di una serie di appuntamenti che nelle settimane si sono tenuti in località delle due province umbre come Amelia, Tuoro sul Trasimeno e San Gemini. L&#8217;ultimo incontro del 2024 si terrà prossimamente a Todi.
 

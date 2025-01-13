@@ -20,9 +20,9 @@ _Se esiste un prodotto capace di esprimere italianità, convivialità e gusto qu
 La pizza è il simbolo tricolore nel mondo, ambasciatrice non solo del cibo nostrano, ma di una cultura, di una storia e una tradizione che con fierezza in tutto il globo resistono a numerosi quanto azzardati tentativi di imitazione.  
 “Fatte na pizza c’a pummarola ‘ncoppa, vedrai che il mondo ti sorriderà” cantava Pino Daniele, e l’artista napoletano ben sapeva che la pizza, in Italia, è qualcosa che va oltre l’essenza di mero cibo, è quasi uno stile di vita, un “credo” laico irrinunciabile per milioni e milioni di persone.
 
-Questa volta però non andremo a Napoli per parlare di pizza, lasciamoci alle spalle il Vesuvio e spostiamoci a nord-est, a Mestre, in provincia di Venezia, in un locale diventato un punto di riferimento per i bongustai del territorio. Il titolare Ruggero “Lello” Ravagnan ci apre idealmente le porte del suo “Grigoris” e ci spiega cosa vuol dire, in mezzo ad un mondo di chef, alta cucina e piatti ricercati, essere autori di un prodotto così tradizionale e condiviso, ma che allo stesso tempo non stanca mai.<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2019/07/dj9a2179.jpg?w=1024" alt="" class="wp-image-201" /> <figcaption>Ruggero Ravagnan</figcaption></figure> 
+Questa volta però non andremo a Napoli per parlare di pizza, lasciamoci alle spalle il Vesuvio e spostiamoci a nord-est, a Mestre, in provincia di Venezia, in un locale diventato un punto di riferimento per i bongustai del territorio. Il titolare Ruggero “Lello” Ravagnan ci apre idealmente le porte del suo “Grigoris” e ci spiega cosa vuol dire, in mezzo ad un mondo di chef, alta cucina e piatti ricercati, essere autori di un prodotto così tradizionale e condiviso, ma che allo stesso tempo non stanca mai.
+{{< figure src="images/wp-content/uploads/2019/07/dj9a2179.jpg?w=1024" caption="Ruggero Ravagnan" >}}
+ 
 
 Se vi trovate a Venezia e volete concedervi un gustoso break, Ruggero Ravagnan è pronto ad accogliervi nel suo “tempio” della pizza. Per farvi aumentare ulteriormente la voglia della “regina” dei piatti italiani, parola di chi le mani le ha continuamente “in pasta”.
 
@@ -32,9 +32,9 @@ Per una buona pizza la prima regola è la digeribilità, quindi in cucina dobbia
 
 **Lo scorso anno la pizza italiana è stata anche dichiarata patrimonio Unesco…**
 
-Non è stata la pizza ad aver ricevuto il riconoscimento, ma il “sistema pizzeria”. Quindi l’Unesco ha premiato concetti come la convivialità, l’arte dei pizzaioli nello stendere la pasta, la cultura che ruota attorno al mondo della pizza, non tanto il pezzo di pizza in sé. Non mi piacerebbe aprire una pizzeria dove il forno è nascosto, non mi divertirei più: il bello è tutto in quei 3-4 metri dove lavoriamo e dove inforniamo, vedere e toccare le materie prime con le proprie mani e a pochi passi dal cliente.<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2019/07/dsc9399.jpg?w=1000" alt="" class="wp-image-199" /> </figure> 
+Non è stata la pizza ad aver ricevuto il riconoscimento, ma il “sistema pizzeria”. Quindi l’Unesco ha premiato concetti come la convivialità, l’arte dei pizzaioli nello stendere la pasta, la cultura che ruota attorno al mondo della pizza, non tanto il pezzo di pizza in sé. Non mi piacerebbe aprire una pizzeria dove il forno è nascosto, non mi divertirei più: il bello è tutto in quei 3-4 metri dove lavoriamo e dove inforniamo, vedere e toccare le materie prime con le proprie mani e a pochi passi dal cliente.
+{{< figure src="images/wp-content/uploads/2019/07/dsc9399.jpg?w=1000" >}}
+ 
 
 **Non solo pizza&#8230; Ti si è dedicato anche a rielaborare il cannolo. Da cosa viene questa idea e come giudica i risultati?**
 

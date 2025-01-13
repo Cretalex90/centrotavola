@@ -23,6 +23,5 @@ Il 6 novembre 2019, in occasione della presentazione della 65 a edizione della *
   </tr>
 </table></figure> 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2019/11/small.jpg?w=280" class="wp-image-579" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/small.jpg?w=280" >}}

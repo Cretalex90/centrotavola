@@ -58,9 +58,9 @@ Sale, pepe ed olio extravergine
 **Per il dressing**: lavare i pomodorini, togliere il picciolo e nel lato opposto incidere una croce sottile sulla pelle del pomodoro. Immergerli in acqua bollente per 30/35 secondi e raffreddare subito in acqua fredda. Togliere la pelle dal pomodoro, tagliarlo in quattro ed eliminare i semi e lasciar asciugare le falde di pomodoro ricavate, per qualche minuto, su carta assorbente.  
 Mettere tutti gli ingredienti del dressing in un frullatore a immersione ed emulsionare fino ad ottenere una salsa omogenea e compatta. Sistemare con sale e pepe e tenere il frigo.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/ricetta-polpo-pane-aleepepe-alessandro-creta.jpg?w=720" alt="" class="wp-image-1468" width="386" height="505" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/ricetta-polpo-pane-aleepepe-alessandro-creta.jpg?w=720" >}}
+
 
   
 **Per le verdurine**: lavare e pulire tutte le verdure, sbucciare le carote e le patate. Ricavare dei cubetti di patate di ½ centimetro e sbianchire velocemente per 5 minuti circa. Tagliare le restanti verdure a cubetti piccolini. Unite tutte le verdure in una ciotola e condire con sale, pepe, olio, basilico e aceto.  

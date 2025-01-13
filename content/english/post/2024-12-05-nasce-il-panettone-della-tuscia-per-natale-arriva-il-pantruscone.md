@@ -24,9 +24,9 @@ _Il Pantruscone è un panettone artigianale che nasce dalla ricerca e dall’uti
 
 Il **Natale** porta con sé profumi e sapori che richiamano la tradizione, e in **Tuscia** non si può parlare di tradizione senza rievocare il passato etrusco di questo straordinario territorio. La grande novità gastronomica di quest’anno sposa uno dei lievitati delle feste più diffusi e consumati con la storia della Tuscia. Ecco infatti il **Pantruscone**; un panettone artigianale che non è solo un dolce, ma un autentico viaggio sensoriale, capace di trasportarci nelle radici più profonde del territorio in cui nasce e del suo passato tanto glorioso quanto, forse, ancora non sufficientemente conosciuto.  
   
-Ideato e realizzato dall’executive **chef Cristiano Germani, di Agriturismo Parco delle Querce a Valentano**, il Pantruscone è un inno alla cucina del passato, un’esperienza che restituisce gli aromi autentici di un’alimentazione semplice e genuina. La sua consistenza rustica e la croccantezza degli ingredienti conferiscono a ogni morso un carattere distintivo, capace di evocare la vita e i sapori delle **antiche terre etrusche**.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img decoding="async" src="images/wp-content/uploads/2024/12/pantruscone-tuscia-natale-lievitato-ordinazioni.jpeg?w=676" alt="" class="wp-image-2968" style="width:520px;height:auto" /> </figure> 
+Ideato e realizzato dall’executive **chef Cristiano Germani, di Agriturismo Parco delle Querce a Valentano**, il Pantruscone è un inno alla cucina del passato, un’esperienza che restituisce gli aromi autentici di un’alimentazione semplice e genuina. La sua consistenza rustica e la croccantezza degli ingredienti conferiscono a ogni morso un carattere distintivo, capace di evocare la vita e i sapori delle **antiche terre etrusche**.
+{{< figure src="images/wp-content/uploads/2024/12/pantruscone-tuscia-natale-lievitato-ordinazioni.jpeg?w=676" >}}
+ 
 
 **Gli ingredienti del Pantruscone: dal cuore della Tuscia**
 

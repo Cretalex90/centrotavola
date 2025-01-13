@@ -18,9 +18,9 @@ tags:
 ---
 _Andiamo in Campania (precisamente ad Avellino) nella pasticceria di Carmen Vecchione, dove il panettone non è solo sinonimo di Natale ma è un must 365 giorni l’anno_
 
-Se siete convinti che il panettone sia un dolce esclusivamente natalizio, forse non siete mai stati nella pasticceria Dolciarte ad Avellino, dove non è strano trovare questo prodotto anche in piena estate, così come nelle altre stagioni. Carmen Vecchione ha sfatato il tabù che vuole la pasticceria come mondo “esclusivo” maschile, e nel suo capovolgere le regole ha deciso di produrre e commercializzare un dolce tipicamente settentrionale, e natalizio, nella sua Avellino, durante tutto l’anno.<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2019/07/brambilla-serrani.jpg" alt="" class="wp-image-217" /> <figcaption>Carmen Vecchione</figcaption></figure> 
+Se siete convinti che il panettone sia un dolce esclusivamente natalizio, forse non siete mai stati nella pasticceria Dolciarte ad Avellino, dove non è strano trovare questo prodotto anche in piena estate, così come nelle altre stagioni. Carmen Vecchione ha sfatato il tabù che vuole la pasticceria come mondo “esclusivo” maschile, e nel suo capovolgere le regole ha deciso di produrre e commercializzare un dolce tipicamente settentrionale, e natalizio, nella sua Avellino, durante tutto l’anno.
+{{< figure src="images/wp-content/uploads/2019/07/brambilla-serrani.jpg" caption="Carmen Vecchione" >}}
+ 
 
 Carmen ci ha spiegato la sua visione di pasticceria d’avanguardia, aprendoci idealmente le porte del suo goloso laboratorio.
 
@@ -30,9 +30,9 @@ _**
 
 **_Da cosa nasce questa passione per la pasticceria?_**
 
-Ho iniziato a dedicarmici abbastanza tardi, prima mi sono laureata in Economia e avevo in mente di intraprendere tutt’altro percorso. Cominciai a lavorare in un ristorante ad Avellino e da lì la mia passione per il cibo e per la pasticceria è cresciuta di giorno in giorno. Questo grande amore verso la realizzazione di dolci credo provenga dal mio essere meticolosa al limite del maniacale, e la pasticceria è la materia della precisione per eccellenza.<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto..jpg" alt="" class="wp-image-220" /> <figcaption>Il cioccolato nell&#8217;orto</figcaption></figure> 
+Ho iniziato a dedicarmici abbastanza tardi, prima mi sono laureata in Economia e avevo in mente di intraprendere tutt’altro percorso. Cominciai a lavorare in un ristorante ad Avellino e da lì la mia passione per il cibo e per la pasticceria è cresciuta di giorno in giorno. Questo grande amore verso la realizzazione di dolci credo provenga dal mio essere meticolosa al limite del maniacale, e la pasticceria è la materia della precisione per eccellenza.
+{{< figure src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto..jpg" caption="Il cioccolato nell&#8217;orto" >}}
+ 
 
 **_Quest’anno ha celebrato i 10 anni dell’apertura del suo locale, Dolciarte. Come si fa a mantenere alto il livello qualitativo per tutto questo tempo?_**
 

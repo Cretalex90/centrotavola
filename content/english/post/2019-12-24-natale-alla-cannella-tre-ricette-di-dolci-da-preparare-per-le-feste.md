@@ -36,9 +36,9 @@ Tre ricette per i nostri lettori che racchiudono tutto il sapore delle feste nat
   </li>
 </ul>
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/img-20191218-wa0018-e1577102894180.jpg?w=1024" alt="" class="wp-image-788" width="370" height="364" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/img-20191218-wa0018-e1577102894180.jpg?w=1024" >}}
+
 
 Come azienda che si occupa di food per eventi ci capita spesso di avere invitati con bisogni alimentari speciali. 
 
@@ -100,9 +100,9 @@ Decorare a piacere.
   </li>
 </ul>
 
-<div class="wp-block-image">
-  <figure class="alignleft is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/img_20191221_000337_219-e1577102658717.jpg" alt="" class="wp-image-787" width="373" height="391" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/img_20191221_000337_219-e1577102658717.jpg" >}}
+
 
 Durante le feste capita spesso di avere amici e parenti dell’ultimo minuto. Quale dolce potrebbe essere gradito a anche semplice da realizzare? Una **millefoglie con crema chantilly aromatizzata alla cannella**, perché possiamo preparare in anticipo le basi e comporla in pochi minuti.
 
@@ -146,9 +146,9 @@ Decorare con frutti di bosco e spolverare con lo zucchero a velo.
   </li>
 </ul>
 
-<div class="wp-block-image">
-  <figure class="alignleft is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/dm_190427_dv_071-e1577102723863.jpg" alt="" class="wp-image-786" width="304" height="420" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/dm_190427_dv_071-e1577102723863.jpg" >}}
+
 
 Quando i ragazzi sfornano i **biscotti**, il profumo di cannella arriva ad invadere anche gli uffici del piano terra!
 

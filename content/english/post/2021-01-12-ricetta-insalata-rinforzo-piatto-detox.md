@@ -20,9 +20,9 @@ Secondo alcune teorie, il termine &#8220;_rinforzo_&#8221; è dovuto al fatto ch
 
 Se avete voglia di un&#8217;insalata un po&#8217; diversa e sfiziosa, ecco la ricetta che fa al caso vostro.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2021/01/insalata-foto-ricetta.jpg?w=600" alt="" class="wp-image-1927" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/insalata-foto-ricetta.jpg?w=600" >}}
+
 
 #### **_Ingredienti:_** {.wp-block-heading}
 
@@ -66,9 +66,9 @@ Scolare i sottaceti misti ritagliandoli se necessario a rondelle oppure a metà 
 _Per le alici:_  
 Pulire e sfilettare le alici togliendo la spina centrale. Lavarle in acqua fredda, asciugarle bene, infarinarle e friggerle in abbondante olio caldo.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/01/insalata-ricetta-gourmet.jpg" alt="" class="wp-image-1926" width="295" height="370" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/insalata-ricetta-gourmet.jpg" >}}
+
 
 _Finitura:_  
 Disporre la crema di cavolfiore al centro del piatto adagiare le alici fritte nel centro della crema e sistemare l&#8217;insalata di rinforzo, sulla lingua/crostini di pane ponendolo a lato del piatto. Terminare il tutto con dei fiori di cappero e dell&#8217;insalata riccia o misticanza qua e là nel piatto.

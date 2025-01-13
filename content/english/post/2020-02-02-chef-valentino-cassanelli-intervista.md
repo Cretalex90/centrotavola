@@ -25,9 +25,9 @@ Qui nel 2012 **Valentino** diventa l’executive chef e mette a frutto le esperi
 
 ## L&#8217;intervista all&#8217;ex allievo di Locatelli e Cracco {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/notte-sulla-vetta-valentino-cassanelli.jpg" alt="Notte sulla vetta Valentino Cassanelli piatto plate ricetta" class="wp-image-868" width="555" height="369" /><figcaption>Notte sulla vetta</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/notte-sulla-vetta-valentino-cassanelli.jpg" caption="Notte sulla vetta" >}}
+
 
 ### **Valentino, tu gestisci le cucine di un hotel di lusso. Quanto è importante una grande location per il successo di un ristorante?** {.wp-block-heading}
 
@@ -37,9 +37,9 @@ Ogni dettaglio è importante per il successo di un ristorante, tutto fa parte de
 
 Entrambe le situazioni hanno pregi e difetti, vantaggi e svantaggi. Un hotel non dorme mai, ci sono molti più servizi nell’arco stesso della giornata e ovviamente differenti proposte e menù. Nel nostro caso abbiamo tre ristoranti, le colazioni, gli eventi e i catering. Tutto questo potrebbe sembrare uno svantaggio ma se gestito con professionalità, determinazione e guardando al futuro, può rivelarsi vantaggioso e senz’altro gratificante.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/lux-lucis-forte-dei-marmi-ristorante.jpg?w=1024" alt="Lux Lucis Forte dei Marmi ristorante tavoli sedie hotel" class="wp-image-870" width="563" height="327" /><figcaption>Il ristorante</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/lux-lucis-forte-dei-marmi-ristorante.jpg?w=1024" caption="Il ristorante" >}}
+
 
 ### **Da cosa ti lasci guidare nell’ispirazione di nuovi piatti o nella creazione di un menù?** {.wp-block-heading}
 
@@ -53,9 +53,9 @@ La bellezza della clientela del Lux Lucis è la varietà che solitamente si trov
 
 Siamo come una grande famiglia al Lux Lucis. La capacità di saper lavorare bene in squadra è decisamente fondamentale: insieme ci si dedica al menu e solo l’impegno comune aiuta a rendere la visita dei nostri ospiti davvero speciale. Quello che sicuramente cerco nei miei collaboratori sono la passione, la curiosità, una mente aperta ed un cuore libero, la determinazione, la serietà ed il rigore.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/valentino-cassanelli-chef-1.jpg" alt="Valentino Cassanelli chef piatti plate impiattamento cucina" class="wp-image-872" width="574" height="382" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/valentino-cassanelli-chef-1.jpg" >}}
+
 
 ### **Cosa è cambiato, per te e per il tuo ristorante, dopo la stella Michelin?** {.wp-block-heading}
 
@@ -65,9 +65,9 @@ Siamo come una grande famiglia al Lux Lucis. La capacità di saper lavorare bene
 
 Sono sicuramente importanti per mantenere alto il morale della squadra e la consapevolezza nel proprio mondo e stile ma serve sempre dedizione, concentrazione e umiltà per andare avanti. Il cliente è quello che ci dà l’indice di ciò che stiamo facendo ma sicuramente la visibilità aumenta e così le aspettative di tutti.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/piccione-in-crosta-di-calde28099arrosta-rosa-canina-e-patata-alle28099alloro-e-lime-valentino-cassanelli.jpg" alt="Piccione crosta piatto piatti pane ricetta Valentino Cassanelli" class="wp-image-873" width="585" height="397" /><figcaption>Piccione in crosta di cald’arrosta, rosa canina e patata all’alloro e lime </figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/piccione-in-crosta-di-calde28099arrosta-rosa-canina-e-patata-alle28099alloro-e-lime-valentino-cassanelli.jpg" caption="Piccione in crosta di cald’arrosta, rosa canina e patata all’alloro e lime " >}}
+
 
 ### **Hai avuto maestri come Locatelli e <a href="https://aleepepe.com/2019/12/29/tv-il-mio-posto-e-in-cucina-parola-di-carlo-cracco/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">Cracco</a>, cosa ti hanno insegnato e in che modo hanno influenzato l’identità della tua cucina?**  {.wp-block-heading}
 
@@ -77,9 +77,9 @@ Ancora oggi dopo tanti anni li considero dei giganti del nostro tempo gastronomi
 
 Tutta da scoprire, il cliente è sempre più consapevole e lo siamo anche noi. I giovani chef italiani sono in forma e ognuno ha una propria identità nazionale e questo mi fa ben pensare. Il tessuto culturale generale è da riprendere in mano.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/bagnasiuga-valentino-cassanelli.jpg" alt="Bagnasiuga Valentino Cassanelli piatto plate" class="wp-image-875" width="513" height="341" /><figcaption>Bagnasiuga</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/bagnasiuga-valentino-cassanelli.jpg" caption="Bagnasiuga" >}}
+
 
 Credits fotografici: Lido Vannucchi
 

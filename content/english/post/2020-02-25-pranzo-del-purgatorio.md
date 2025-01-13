@@ -20,9 +20,9 @@ Dobbiamo fare un salto indietro nel tempo di quasi 500 anni per togliere le ragn
 
 “_Da sempre nella mattinata del giovedì grasso alcuni membri della confraternita, vestiti con saio marrone e cappuccio e mantella violacei, preceduti dallo stendardo e dal tamburino, attraversano il paese a chiedere offerte_” racconta Roberta Mazziantonio, richiamando le origini di questa tradizione. “_Tutto il raccolto viene quindi messo all’asta nel pomeriggio, nella piazza del paese. Il ricavato viene utilizzato per gli acquisti necessari al pranzo_”.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/cucina-pranzo-purgatorio.jpg" alt="cucina-pranzo-purgatorio-fuoco-legna" class="wp-image-1058" width="472" height="314" /><figcaption>Il grande fuoco con i pentoloni della cucina</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/02/cucina-pranzo-purgatorio.jpg" caption="Il grande fuoco con i pentoloni della cucina" >}}
+
 
 La tradizione col passare del tempo non si è andata perdendo, anzi si è consolidata ancor di più tanto da diventare al giorno d’oggi un evento folkloristico e di costume al quale partecipano ospiti che arrivano anche fuori dai confini regionali. 
 
@@ -30,9 +30,9 @@ La tradizione col passare del tempo non si è andata perdendo, anzi si è consol
 
 **Ma cos’è nello specifico il Pranzo del Purgatorio?** Si tratta di un vero e proprio pranzo, condiviso da quasi 2000 persone, che ha nell’attesa (ma non solo, come vedremo in seguito) una delle sue caratteristiche principali. Così come l’anima nel Purgatorio deve aspettare prima di essere purificata per guadagnarsi il Paradiso, a **Gradoli** i commensali sono protagonisti di un’attesa ben più terrena e materiale per poter mangiare e partecipare a questo rito ultra centenario.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/purgatorio-fratellanza.jpg" alt="sala-pranzo-persone-people-purgatorio" class="wp-image-1061" width="475" height="316" /><figcaption>La veste tipica dei confratelli del Purgatorio</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/02/purgatorio-fratellanza.jpg" caption="La veste tipica dei confratelli del Purgatorio" >}}
+
 
 Parliamo di un pranzo che arriva a durare svariate ore (comprensibile, dato l’elevato numero di presenti e la mole di cibo da preparare) e che nella sua tradizionalità conserva delle caratteristiche che richiamano la sua origine. Su tutte? Il menu è lo stesso da sempre, e comprende pietanze con ingredienti tipici della zona, sia di terra che di lago (quello di Bolsena è davvero ad un passo).
 
@@ -40,9 +40,9 @@ Un pasto integralmente di magro, e il perché è presto spiegato da Roberta: “
 
 Di conseguenza,la cucina del periodo quaresimale era basata principalmente su&nbsp;**pane, ortaggi, legumi e naturalmente pesce**.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/fagioli-purgatorio.jpg?w=720" alt="" class="wp-image-1059" width="328" height="437" /><figcaption>I fagioli del Purgatorio</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/02/fagioli-purgatorio.jpg?w=720" caption="I fagioli del Purgatorio" >}}
+
 
 Ecco quindi che si inizia con la locale minestra di riso con sugo di tinca (la cui ricetta è conosciuta solo dai cuochi che la preparano), per poi proseguire con luccio in umido, nasello fritto e baccalà lesso (preparati e serviti 600 kg di ognuno).&nbsp;
 

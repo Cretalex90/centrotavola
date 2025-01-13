@@ -68,9 +68,9 @@ Di seguito la ricetta dello chef **Danilo Colaiaquo** per realizzare questa dolc
 
 _Per la pasta frolla:_
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/02/ricetta-crostata-lamponi-zucchero-velo.jpg?w=681" alt="ricetta-crostata-lamponi-pistacchio" class="wp-image-1986" width="341" height="512" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/02/ricetta-crostata-lamponi-zucchero-velo.jpg?w=681" >}}
+
 
 In una planetaria montare con la foglia il burro con lo zucchero a velo e successivamente unire il misto d’uovo (meglio se <a href="https://www.maia.it/maia-professional/ovoprodotti/misto-d-uovo-speciale" target="_blank" rel="noreferrer noopener">Maia Professional</a>). Unire la farina di mandorle e legare il tutto con la prima dose di farina (90 gr). Terminare l’impasto con la restante farina, senza lavorare troppo la frolla. Conservare in frigorifero a +4° per almeno 12 ore e successivamente stendere l&#8217;impasto a uno spessore di 2,5 mm. Foderare i vari stampi e lasciarli nuovamente riposare in frigo per altre 12 ore e successivamente cuocerli per circa 15 minuti a 165° C. Il tempo e la cottura possono variare in base alla tipologia del forno, la cosa importante sarà ottenere un guscio bello dorato.
 

@@ -12,9 +12,9 @@ categories:
   - Eventi
 
 ---
-**_Domenica 14 e lunedì 15 maggio: sono queste le date ufficiali di VitignoItalia 2023, il Salone dei Vini e dei Territori Vitivinicoli Italiani ormai da anni punto di riferimento nel calendario degli eventi legati al mondo del vino._** <figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2023/05/maschio7.jpg?w=1024" alt="" class="wp-image-2529" width="551" height="367" /> </figure> 
+**_Domenica 14 e lunedì 15 maggio: sono queste le date ufficiali di VitignoItalia 2023, il Salone dei Vini e dei Territori Vitivinicoli Italiani ormai da anni punto di riferimento nel calendario degli eventi legati al mondo del vino._** 
+{{< figure src="images/wp-content/uploads/2023/05/maschio7.jpg?w=1024" >}}
+ 
 
 Nuova la sede, il prestigioso **Maschio Angioino**; nei suggestivi spazi di quello che è uno dei più celebri simboli di **Napoli** i visitatori potranno godere di un vero e proprio viaggio nell’Italia del vino, con un particolare focus sulle realtà campane.
 

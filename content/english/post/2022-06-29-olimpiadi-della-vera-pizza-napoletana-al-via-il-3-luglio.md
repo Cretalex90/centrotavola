@@ -14,9 +14,9 @@ tags:
   - pizza
 
 ---
-**Più di 300 sfide tra i partecipanti provenienti dai 5 continenti per conquistare l’oro olimpico nella culla mondiale della pizza napoletana**.<figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2022/06/olimpiadi-pizza-napoletana.jpg?w=1024" alt="" class="wp-image-2243" /> </figure> 
+**Più di 300 sfide tra i partecipanti provenienti dai 5 continenti per conquistare l’oro olimpico nella culla mondiale della pizza napoletana**.
+{{< figure src="images/wp-content/uploads/2022/06/olimpiadi-pizza-napoletana.jpg?w=1024" >}}
+ 
 
 Sta per tornare la più grande sfida tra i migliori pizzaioli di tutto il mondo. Le **Olimpiadi della Vera Pizza Napoletana**, a cura di** AVPN – Associazione Verace Pizza Napoletana**, riuniranno il gotha dell’arte bianca nella capitale della pizza dopo le 18 tappe eliminatorie che hanno fatto il giro del mondo, da Napoli a Los Angeles, passando per Parigi, Istanbul, Il Cairo, Atlanta, Poznan, San Paolo e Gifu. Una competizione cosmopolita, in cui gli “atleti”, professionisti e per la prima volta anche amatori, regaleranno la loro personale interpretazione della Vera Pizza Napoletana
 

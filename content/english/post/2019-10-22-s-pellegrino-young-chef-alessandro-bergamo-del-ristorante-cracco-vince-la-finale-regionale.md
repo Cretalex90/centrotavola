@@ -17,16 +17,16 @@ tags:
   <strong>Alessandro</strong> <strong>Bergamo</strong>, classe 1989, originario di Mariano Comense, s<strong>ous chef del ristorante Cracco a Milano</strong>, è il vincitore della <strong><em>Finale Regionale Italia e Sud Est Europa di S.Pellegrino Young Chef,</em></strong> il progetto di scouting internazionale giunto alla quarta edizione che promuove l’ingresso dei giovani talenti nella comunità gastronomica globale. È stata una giornata di intensa competizione quella che si è svolta lunedì 21 ottobre negli spazi de La Scuola de la Cucina Italiana dove si sono sfidati 10 giovani cuochi selezionati in Italia, Croazia, Romania e Slovenia. Al termine della gara, è stato il signature dish di Alessandro Bergamo a convincere la giuria internazionale composta da sette top chef .
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/alessandro-bergamo.jpeg?w=640" alt="" class="wp-image-515" width="583" height="385" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/alessandro-bergamo.jpeg?w=640" >}}
+
 
   
 Il piatto, dal titolo **_Meglio un uovo oggi o una gallina domani?_**, ha saputo soddisfare con efficacia e gusto contemporaneo i criteri di valutazione che hanno guidato il giudizio della giuria: competenze tecniche, creatività, filosofia personale. Qualità e competenze che Alessandro ha avuto l’opportunità di coltivare e affinare nei mesi precedenti la competizione insieme al suo mentore **Riccardo Camanini**, patron del ristorante stellato Lido 84, fra i cuochi più apprezzati della sua generazione.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" src="images/wp-content/uploads/2019/10/piatto-alessandro-bergamo-.jpeg?w=640" alt="" class="wp-image-513" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/piatto-alessandro-bergamo-.jpeg?w=640" >}}
+
 
 Bergamo così ha illustrato il suo piatto &#8220;una creazione che cerca di valorizzare con la tecnica &#8211; dall’affumicatura al sottovuoto &#8211; alimenti popolari talvolta trascurati nelle grandi cucine come il pollo di cui è stata utilizzata anche la pelle, resa croccante e utilizzata come guarnitura finale. Un piatto che valorizza materie prime semplici, di grande qualità, che ho scelto di presentare dedicando particolare attenzione al risultato estetico finale.”
 

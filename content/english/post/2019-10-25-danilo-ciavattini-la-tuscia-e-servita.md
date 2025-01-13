@@ -17,9 +17,9 @@ tags:
   - viterbo
 
 ---
-Lo chef che ha fissato Viterbo nella cartina geografica delle città gourmet è Danilo Ciavattini che,&nbsp; con l’omonimo locale, permette ai clienti di assaporare piatti tipici del territorio rivisitati in chiave moderna. Chef Ciavattini ha bissato nel centro viterbese la stella Michelin già ottenuta nel 2013 con il ristorante romano di Villa Laetitia, di proprietà di Anna Fendi. Lo chef, nato in piena Tuscia (Soriano nel Cimino) non poteva però non valorizzare quella che è la sua terra con quella che, nel corso degli anni, è diventata la sua cucina. <figure class="wp-block-image">
-
-<img decoding="async" src="images/wp-content/uploads/2019/08/img_8618-e1564670592619.jpg" alt="" class="wp-image-265" /> <figcaption>Chef Danilo Ciavattini</figcaption></figure> 
+Lo chef che ha fissato Viterbo nella cartina geografica delle città gourmet è Danilo Ciavattini che,&nbsp; con l’omonimo locale, permette ai clienti di assaporare piatti tipici del territorio rivisitati in chiave moderna. Chef Ciavattini ha bissato nel centro viterbese la stella Michelin già ottenuta nel 2013 con il ristorante romano di Villa Laetitia, di proprietà di Anna Fendi. Lo chef, nato in piena Tuscia (Soriano nel Cimino) non poteva però non valorizzare quella che è la sua terra con quella che, nel corso degli anni, è diventata la sua cucina. 
+{{< figure src="images/wp-content/uploads/2019/08/img_8618-e1564670592619.jpg" caption="Chef Danilo Ciavattini" >}}
+ 
 
 La somma è presto fatta, una somma gourmet che poggia sulla tradizione di uno dei centri storicamente e culturalmente più ricchi d’Italia. Danilo ci ha aperto le porte del suo ristorante e ci ha spiegato la sua cucina fatta di territorialità e tradizione.
 
@@ -45,9 +45,9 @@ Per me l’hanno fatta conoscere meglio, una volta che entra in tv una cosa è n
 
 **_Ormai l’aspetto visivo/estetico è allo stesso livello di quello legato al puro gusto?_**
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/08/patata-interrata.jpg" alt="" class="wp-image-266" width="593" height="394" /><figcaption>Patata interrata</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/08/patata-interrata.jpg" caption="Patata interrata" >}}
+
 
 È un discorso vasto e importante. Oggi c’è molta attenzione più al lato estetico del piatto che a quello del gusto. Il ragionamento del gusto ti compromette alcune cose, in fase di preparazione del piatto. Magari per conservare certi colori, certe sfumature di un prodotto di “sacrifica” il giusto modo di cucinarlo. O si va dietro al sapore o dietro all’estetica, è chiaro che tutti vorrebbero sempre il bello e buono, io ho sempre preferito ricercare la massima espressione gustativa.
 
@@ -61,30 +61,11 @@ Quando ho aperto il Danilo Ciavattini Ristorante avevo l’obiettivo di cucinare
 
 **_Uno chef per ideare i suoi piatti parte da ciò che pensa possa piacere alla gente oppure dai propri gusti personali?_**
 
-A me piace lavorare con quello a cui sono affezionato, quindi lavoro in base al mio gusto e cerco di presentare il piatto il più fedelmente possibile alla mia idea di cucina.<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
+A me piace lavorare con quello a cui sono affezionato, quindi lavoro in base al mio gusto e cerco di presentare il piatto il più fedelmente possibile alla mia idea di cucina.
+{{< figure src="images/wp-content/uploads/2019/08/dbs2227.jpeg?w=1024" alt="" >}}
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/home-page.jpg?w=1024" alt="" data-id="267" class="wp-image-267" /><figcaption class="blocks-gallery-item__caption">Paccheri con muschio di erbe selvatiche</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/patata-interrata.jpg?w=1024" alt="" data-id="266" class="wp-image-266" /><figcaption class="blocks-gallery-item__caption">Patata interrata</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/olio-solido.jpg?w=1024" alt="" data-id="264" class="wp-image-264" /><figcaption class="blocks-gallery-item__caption">Olio solido</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/dsc_0311.jpg?w=1024" alt="" data-id="263" class="wp-image-263" /><figcaption class="blocks-gallery-item__caption">Agnello della Tuscia</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/vermicello_dsc_0545.jpg?w=1024" alt="" data-id="262" class="wp-image-262" /><figcaption class="blocks-gallery-item__caption">Vermicello, pane, burro e acciughe</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/dbs2227.jpeg?w=1024" alt="" data-id="261" class="wp-image-261" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/ciavattini.jpg?w=1024" data-id="260" class="wp-image-260" /></figure>
-  </li>
-</ul></figure> 
+
+{{< figure src="images/wp-content/uploads/2019/08/ciavattini.jpg?w=1024" alt="" >}}
+ 
 
 Per le foto si ringrazia Videosolution.it

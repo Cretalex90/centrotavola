@@ -32,9 +32,9 @@ tags:
   <span class="s1">Si siede in mezzo a noi lo chef, pronto a questa chiacchierata inaspettata quanto piacevole che, se si fosse svolta al bar davanti a un caffè o al pub con una pinta in mano, poco o niente sarebbe cambiato nel clima generale nel quale si è svolta.</span>
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="images/wp-content/uploads/2020/01/ciro-scamardella-pipero-piatto-chef.png" alt="ciro scamardella pipero piatto chef" class="wp-image-888" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/ciro-scamardella-pipero-piatto-chef.png" >}}
+
 
 <p class="p1">
   <span class="s1">E nostre le curiosità, appena <strong>Ciro</strong> si siede, escono fuori come la sua passione per il lavoro che svolge da oltre 15 anni. E che, a suo modo, riesce a trasmetterci con una genuina spontaneità che abbiamo apprezzato in quasi un’ora di conversazione.</span>
@@ -64,9 +64,9 @@ tags:
   <span class="s1">Troppo, si è passati da un eccesso all’altro. Alla fine siamo persone normali ma la considerazione della gente, influenzata magari anche dai numerosissimi programmi televisivi, ci sta facendo diventare quasi dei supereroi. Questa sorta di sacralizzazione magari “spaventa” i ragazzi che non si avvicinano a questo mondo e, più in particolare, non sono spinti a voler entrare nel ristorante stellato. Si sta creando un pericoloso distacco: sempre meno giovani, infatti, vanno a mangiare in questo tipo di locali. E quella del prezzo, secondo me, è una scusa.</span>
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="images/wp-content/uploads/2020/01/piatto-scamardella-pipero.jpg" alt="piatto scamardella pipero" class="wp-image-889" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/piatto-scamardella-pipero.jpg" >}}
+
 
 ### <span class="s2"><b><i>Credi che sia solamente colpa della tv o consideri anche altri fattori che hanno portato a questa mitizzazione della cucina?</i></b></span> {.p1.wp-block-heading}
 
@@ -92,9 +92,9 @@ tags:
   <span class="s1">Io punto molto sul fattore umano, chiedo sempre “come stai” a chi lavora con me quindi cerco sempre di essere più gentile il possibile, anche con gli stagisti che troppo spesso sono visti come coloro che devono lavorare a testa bassa stando zitti. Sono però passato in brigate dove vigeva quasi la regola del mors tua vita mea, dove dovevi pensare a come “sopravvivere” lavorativamente in mezzo a decine di altri colleghi.</span>
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="images/wp-content/uploads/2020/01/scamardella-limone-chef-piatto-pipero.jpg" alt="scamardella limone chef piatto pipero" class="wp-image-890" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/scamardella-limone-chef-piatto-pipero.jpg" >}}
+
 
 ### <span class="s2"><b><i>Cosa ti motiva ad andare avanti nella vita di tutti i giorni? </i></b></span> {.p1.wp-block-heading}
 

@@ -21,9 +21,9 @@ Oltre a questo, dobbiamo considerare il fatto che con un olio scadente si andrà
 
 Se si vuole essere davvero dei consumatori consapevoli e critici, bisogna dare la giusta importanza all’olio, rigorosamente&nbsp;**extra vergine d’oliva (ma capiremo che questa dicitura non è sinonimo di qualità)**, perché quando un prodotto è buono a beneficiarne non è solo la nostra salute, ma anche il&nbsp;piatto&nbsp;nel quale viene utilizzato.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/05/indra-oli-gambero.jpg?w=600" alt="" class="wp-image-1298" width="524" height="349" /><figcaption>Da sinistra: Stefano Polacchi (curatore guida Oli d’Italia del Gambero Rosso), Giulio Scatolini (capo panel) e Indra Galbo (vice curatore della guida)</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/05/indra-oli-gambero.jpg?w=600" caption="Da sinistra: Stefano Polacchi (curatore guida Oli d’Italia del Gambero Rosso), Giulio Scatolini (capo panel) e Indra Galbo (vice curatore della guida)" >}}
+
 
 ## Come riconoscere l&#8217;olio di qualità: parola a Indra Galbo {.wp-block-heading}
 

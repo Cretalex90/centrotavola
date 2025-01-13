@@ -17,9 +17,9 @@ tags:
 
 La sua vita ha viaggiato in parallelo, inevitabilmente, con la sua professione; una professione che dal Giappone lo ha condotto in Europa, dove la curiosità per la cucina italiana lo ha portato a lavorare al fianco dei grandi nomi della gastronomia del Bel paese.&nbsp;
 
-<div class="wp-block-image is-style-rounded">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/kotaro-noda.jpg?w=1024" alt="" class="wp-image-1521" width="453" height="301" /><figcaption>Kotaro Noda. Foto: ufficio stampa Bistrot64</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/kotaro-noda.jpg?w=1024" caption="Kotaro Noda. Foto: ufficio stampa Bistrot64" >}}
+
 
 ### **La stella di Viterbo** {.wp-block-heading}
 
@@ -33,9 +33,9 @@ E proprio parlando della sua esperienza viterbese Kotaro Noda si emoziona, ricor
 
 **Kotaro**, membro di <a rel="noreferrer noopener" href="https://www.ambasciatoridelgusto.it/" target="_blank">Ambasciatori del Gusto</a>, però è anche socio proprietario del **<a rel="noreferrer noopener" href="https://www.bistrot64.it/" target="_blank">Bistrot64</a>** di Roma, locale da una stella Michelin, a due passi dal MAXXI, caratterizzato da una proposta gastronomica snella (ma non banale) e riconoscibile.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-2.jpg" alt="" class="wp-image-1520" width="557" height="371" /><figcaption><strong>Bistrot64 -Finger Food</strong>, da destra: Flan di cicoria, crema d’aglio e cialda di pasta ; Cialda di amaranto, mela marinata con cavolo viola; Finto maki di alga nori, cavolo fermentato e rafano; Cialda di riso venere, curry e cavolfiore; Cazette di nocciola glassata al peperone rosso</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-2.jpg" caption="<strong>Bistrot64 -Finger Food</strong>, da destra: Flan di cicoria, crema d’aglio e cialda di pasta ; Cialda di amaranto, mela marinata con cavolo viola; Finto maki di alga nori, cavolo fermentato e rafano; Cialda di riso venere, curry e cavolfiore; Cazette di nocciola glassata al peperone rosso" >}}
+
 
 Un ristorante in cui, per i prezzi contenuti dei menu, anche i giovani hanno la possibilità di potersi avvicinare a un tipo di cucina che troppo di frequente, e spesso erroneamente, mette eccessiva soggezione: quella stellata.
 
@@ -43,9 +43,9 @@ Bistrot64 è un locale dove l&#8217;inevitabile contaminazione giapponese si ris
 
 La sua storia e la sua filosofia, assieme all’amore per la cucina italiana, però ce la facciamo raccontare direttamente da lui.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-1.jpg?w=1024" alt="" class="wp-image-1523" width="528" height="352" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-1.jpg?w=1024" >}}
+
 
 ### **Kotaro Noda, l&#8217;intervista** {.wp-block-heading}
 
@@ -70,9 +70,9 @@ Quando la cucina italiana iniziò a farsi largo in Giappone c’era mancanza di 
 **Sei uno dei pochi stranieri a essere stato nominato Ambasciatore del Gusto della cucina italiana, che effetto ti fa?**  
 Sono onorato e felicissimo di fare parte di questa associazione. Rappresento il vostro Paese e la vostra cultura pur essendo straniero, ma sono innamorato della vostra gastronomia, ne sono un appassionato e promotore diretto. Quindi è un vero orgoglio considerando che siamo davvero pochi gli stranieri membri di un&#8217;associazione che ha come scopo la diffusione della cucina italiana di qualità nel mondo.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-13.jpg?w=1000" alt="" class="wp-image-1515" width="589" height="393" /><figcaption><strong>Bistrot64</strong> &#8211; Petto e paté di anatra</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-13.jpg?w=1000" caption="<strong>Bistrot64</strong> &#8211; Petto e paté di anatra" >}}
+
 
 **Ci parli del tuo ristorante romano, il** [**Bistrot64?**][1]  
 È un tipo di ristorante che rispecchia i miei gusti: deve essere prima di tutto un locale nel quale prima di tutto deve piacere a me voler andare. Di base è italiano ma con un tocco orientale. Essendo giapponese poi la vostra tradizione per me è innovazione, perché è un qualcosa che non conoscevo e che scopro ogni volta.&nbsp;Dopo la riapertura, fortunatamente, c&#8217;è stata una buona risposta di clienti, specialmente ora che stanno tornano alcuni turisti. Rispetto a prima siamo aperti sette giorni su sette per &#8220;recuperare&#8221; il tempo perso.
@@ -83,9 +83,9 @@ Bisogna partire dal presupposto che anche quella che oggi consideriamo cucina tr
 **Da giornalista di origini viterbesi non posso non farti questa domanda. Come ricordi la tua esperienza a Viterbo e che cosa hai appreso dal lavoro all**’**Enoteca La Torre?**  
 Io ho una grande nostalgia di Viterbo e del territorio viterbese, lo ricordo con grande affetto. Sono arrivato nel 2004 e all’inizio, conoscendo poco della cucina italiana e ancor di meno della cucina del territorio, lavoravo in modo sbagliato, pur convinto di fare una cucina italiana. [Carlo Zucchetti][2] (al tempo uno dei proprietari dell’Enoteca la Torre, ndr) mi ha insegnato tanto: cosa significa cucinare bene, come usare materia prima viterbese. Con lui sono cresciuto e alla fine ho capito cosa non posso fare e cosa devo fare. Il fatto di aver ereditato la cucina di uno chef viterbese doc inoltre mi ha sicuramente messo sulla strada giusta. Ho davvero cambiato mentalità durante quel periodo, raccogliendo un bagaglio di conoscenze che ancora mi porto dietro. Posso dire con grande orgoglio di essere viterbese.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-7.jpg" alt="" class="wp-image-1517" width="519" height="346" /><figcaption><strong>Bistrot64 </strong>&#8211; Spaghetti di patate</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-7.jpg" caption="<strong>Bistrot64 </strong>&#8211; Spaghetti di patate" >}}
+
 
 **Per chiudere, un piatto o un ingrediente che più ti ha colpito del territorio della Tuscia o che ancora usi?**  
 L’acquacotta sicuramente è un piatto della tradizione che mi è rimasto impresso. Ricordo poi la qualità di nocciole, tartufi, olio d’oliva, legumi e castagne: materie prime speciali che mi hanno colpito molto e che, come l’olio, viene utilizzato anche al Bistrot64. Per non parlare delle patate, che utilizzo per creare uno dei piatti simbolo del Bistrot: lo spaghetto di patate, La Tuscia è davvero un territorio ricco dal punto di vista gastronomico.&nbsp;

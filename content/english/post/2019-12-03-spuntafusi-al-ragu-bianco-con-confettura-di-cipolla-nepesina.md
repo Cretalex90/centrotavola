@@ -31,9 +31,9 @@ Farina di grano duro 250 gr
 
 2 prese di sale
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/img-20191115-wa0006-e1575224297262.jpg?w=1000" alt="" class="wp-image-694" width="534" height="467" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/img-20191115-wa0006-e1575224297262.jpg?w=1000" >}}
+
 
 **&nbsp;PER IL RAG**Ù****
 
@@ -110,6 +110,5 @@ Scolarli e saltarli in un padella con il ragù bianco. Mantecarli con una fusa d
 
 Guarnire con la confettura di cipolle nepesine e&#8230; buon appetito!
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/11/img-20191128-wa0009.jpg?w=768" alt="" class="wp-image-695" width="484" height="645" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/img-20191128-wa0009.jpg?w=768" >}}

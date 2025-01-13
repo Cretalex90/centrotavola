@@ -18,9 +18,9 @@ Se all&#8217;esterno inizia a fare freddo dobbiamo trovare il modo per scaldarci
 
 La **mousse di ricotta e cioccolato** dello chef Danilo Colaiaquo ci viene in soccorso.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/09/ricetta-mousse.jpg" alt="" class="wp-image-1708" width="321" height="413" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/09/ricetta-mousse.jpg" >}}
+
 
 **_Ingredienti:_**
 

@@ -25,17 +25,17 @@ _Chef Enrico Crippa, classe 1971, è nella ristretta cerchia di chef&nbsp;triste
 
 “_Per avere una stella devi essere come Luke Skywalker, per prenderne due Obi Wan&#8230;ma se riesci a prenderne 3 sei Yoda_”, questa frase tratta dal film con Bradley Cooper “Il sapore del successo” ben sintetizza cosa significhi essere uno chef tristellato. E in Italia abbiamo il nostro Yoda (per i meno avvezzi di Star Wars, il guerriero più forte dell&#8217;universo creato da George Lucas) e proprio come il personaggio verde chef Crippa è altrettanto schivo ma, allo stesso tempo, un concentrato di conoscenze e abilità, che alla spada laser preferisce coltelli, padelle e sifoni.
 
-<div class="wp-block-image alignnone wp-image-146">
-  <figure class="aligncenter"><img decoding="async" src="images/wp-content/uploads/2019/07/enrico-002.jpg" alt="enrico-002" class="wp-image-146" /><figcaption>Chef Enrico Crippa</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/07/enrico-002.jpg" caption="Chef Enrico Crippa" >}}
+
 
 Enrico non lo si vede in tv e si concede poco al grande pubblico, eppure è uno degli chef italiani di maggior successo, se non il migliore. Il merito ovviamente va ai piatti che i clienti possono assaporare al ristorante Piazza Duomo di Alba (Cuneo). Pochi mesi fa Enrico è stato nominato dalla giuria dei Top Best Chef Awards<span class="Apple-converted-space">&nbsp; </span>come sesto chef a livello mondiale sui 300 presi in considerazione. Nemmeno a dirlo, il primo in graduatoria degli italiani, dietro solamente a Joan Roca (Spagna), seguito da Michel Bras (Francia), David Muñoz, Alex Atala (Brasile) e Nick Bril (Paesi Bassi).
 
 Un riconoscimento che fa seguito al Grand Prix de l’Art de la Cuisine (il “premio Nobel” della cucina) assegnato nel marzo 2017 dall’Académie Internationale de la Gastronomie, con sede a Parigi.<span class="Apple-converted-space">&nbsp;</span>
 
-Nell’ultima edizione di “Identità Golose” Enrico Crippa ci ha parlato del suo mondo, della sua cucina e della cucina italiana in generale. Una cucina che come mai prima d’ora riscuote credito e apprezzamenti a livello mondiale. A tu per tu con lo Yoda degli chef di casa nostra, ecco cosa ci ha detto&#8230;<figure class="wp-block-image">
-
-<img decoding="async" src="images/wp-content/uploads/2019/07/piazza-duomo-gallery-cucina-00001-hd.jpg" alt="piazza-duomo-gallery-cucina-00001-hd" class="wp-image-152" /> </figure> 
+Nell’ultima edizione di “Identità Golose” Enrico Crippa ci ha parlato del suo mondo, della sua cucina e della cucina italiana in generale. Una cucina che come mai prima d’ora riscuote credito e apprezzamenti a livello mondiale. A tu per tu con lo Yoda degli chef di casa nostra, ecco cosa ci ha detto&#8230;
+{{< figure src="images/wp-content/uploads/2019/07/piazza-duomo-gallery-cucina-00001-hd.jpg" >}}
+ 
 
 **_Se potesse sintetizzare l’attuale momento della cucina italiana in poche parole, quali sceglierebbe?_**
 
@@ -47,9 +47,9 @@ Bisogna sempre andare verso il meglio, io ritengo che adesso siamo maturati molt
 
 **_Le 3 stelle Michelin sono un punto di arrivo o di nuova partenza?_**
 
-Lavoro ogni giorno come se non le avessi mai conquistate o come se ce ne fosse una quarta da raggiungere. È importante questo, non bisogna mai sedersi sugli allori o considerarsi arrivati. È una consacrazione del lavoro e dello sforzo che fai quotidianamente, ma non devi mai abbandonare la routine e il sapere che deriva dall’esperienza. È uno stimolo continuo.<figure class="wp-block-image alignnone size-full wp-image-150">
-
-<img decoding="async" src="images/wp-content/uploads/2019/07/piazza-duomo-003.jpg" alt="Piazza Duomo - 003" class="wp-image-150" /> <figcaption>Il ristorante Piazza Duomo &#8211; Alba</figcaption></figure> 
+Lavoro ogni giorno come se non le avessi mai conquistate o come se ce ne fosse una quarta da raggiungere. È importante questo, non bisogna mai sedersi sugli allori o considerarsi arrivati. È una consacrazione del lavoro e dello sforzo che fai quotidianamente, ma non devi mai abbandonare la routine e il sapere che deriva dall’esperienza. È uno stimolo continuo.
+{{< figure src="images/wp-content/uploads/2019/07/piazza-duomo-003.jpg" caption="Il ristorante Piazza Duomo &#8211; Alba" >}}
+ 
 
 **_Per anni la nostra cucina all’estero è stata esclusivamente nota per la pasta e la pizza. Quali sono i piatti che più ci identificano oggi oltre i confini nazionali?_**
 

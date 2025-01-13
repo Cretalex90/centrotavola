@@ -23,9 +23,9 @@ rigenerante con limone e salvia!
 4 g foglie di salvia piccole  
 Buccia di 2 limoni (solo parte gialla)
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/07/sorbetto-salvia-limone.jpg?w=469" alt="" class="wp-image-1503" width="312" height="681" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/07/sorbetto-salvia-limone.jpg?w=469" >}}
+
 
   
 **Procedimento:**  

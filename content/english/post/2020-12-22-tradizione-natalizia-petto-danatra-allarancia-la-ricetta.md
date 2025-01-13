@@ -15,9 +15,9 @@ tags:
 ---
 ## Tra i grandi classici della tradizione natalizia, il petto d’anatra è sicuramente uno dei piatti più ricercati e gustosi.  {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/12/ricetta-petto-anatra-arancia.jpg" alt="" class="wp-image-1917" width="462" height="355" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/12/ricetta-petto-anatra-arancia.jpg" >}}
+
 
 La ricetta del petto d’anatra all’arancia affonda le sue radici in Italia, precisamente in Toscana, per approdare alla corte di Francia solo in un secondo momento.
 
@@ -101,9 +101,9 @@ Pulire e tagliare le carote a pezzi piccoli. In una casseruola mettere olio e il
 
 Preriscaldare il forno a 180 ° C. Imburrare degli stampini monouso di alluminio tondi monoporzione, oppure una teglia per i muffin antiaderente con del burro morbido e tenere da parte. In una grande ciotola unire il burro, l&#8217;olio d&#8217;oliva, il timo sfogliato, l&#8217;aglio tritato finemente, il sale e il pepe.  Aggiungere le patate precedentemente sbucciate e tagliate a fette sottili con la mandolina, circa 2/3 mm di spessore e mescolare in modo uniforme. Distribuire le fette di patate a strati negli stampini per muffin riempiendoli fino in cima e premendo verso il basso sulle pile durante la procedura.  Cospargere la parte superiore con del parmigiano grattugiato.  Infornare e cuocere fino a quando i bordi e le parti superiori saranno dorate e le parti centrali saranno tenere, da 45 a 55 minuti.  Lasciare riposare per 3-5 minuti, cospargere con foglie di timo che rimuoveremo con cura con una piccola spatola sfalsata. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/12/ricetta-anatra-arancia.jpg" alt="" class="wp-image-1918" width="549" height="465" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/12/ricetta-anatra-arancia.jpg" >}}
+
 
 **Impiattamento:**
 

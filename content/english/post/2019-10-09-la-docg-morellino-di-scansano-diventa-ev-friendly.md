@@ -17,9 +17,9 @@ Esplorare il territorio incontaminato della **Maremma** e degustare calici di gr
 
 Il progetto ha coinvolto sinora, oltre alla sede del Consorzio, **nove aziende vitivinicole del territorio che si sono dotate di stazioni di ricarica per veicoli elettrici** sviluppando in questo modo una rete di spostamenti che riduce l’impatto ambientale dei mezzi e rende fruibile la DOCG del Morellino ad un turismo ecologico ed attento alla sostenibilità.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/10/0-1.jpeg" alt="" class="wp-image-468" width="326" height="326" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/10/0-1.jpeg" >}}
+
 
 Ma quello del ‘**Morellino Green**’ non è soltanto un percorso sostenibile, bensì riguarda anche una grande valorizzazione paesaggistica ed enogastronomica, in quanto consente di attraversare l’incantevole territorio del **Morellino** e di sostare presso i suoi poli enogastronomici più interessanti. Il tempo di attesa richiesto per la ricarica dei mezzi potrà essere infatti trascorso nella bellezza delle colline maremmane degustando un ottimo calice di vino prodotto dalle aziende aderenti, presso le quali sono ubicate le stazioni di ricarica, ovvero: Azienda I Lecci, Azienda Agricola Bruni, Cantina Cooperativa Vignaioli Morellino di Scansano, Cantina S. Lucia, Poggio Brigante, Roccapesta, Soc. Agr. Terenzi, Val Delle Rose e Villa Acqua Viva.&nbsp;
 

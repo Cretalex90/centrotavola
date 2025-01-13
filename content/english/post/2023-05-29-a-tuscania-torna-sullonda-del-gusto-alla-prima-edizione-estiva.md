@@ -12,9 +12,9 @@ categories:
   - Eventi
 
 ---
-_**Al crocevia tra benessere e alimentazione, tra ambiente e salute, nasce la prima edizione estiva de Sull’Onda del Gusto, che vede educazione ambientale e attenzione ai prodotti del territorio questioni chiave per lo sviluppo di comunità sostenibili.**_<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2023/05/delgusto_4.jpeg?w=1024" alt="" class="wp-image-2555" width="574" height="392" /> </figure> 
+_**Al crocevia tra benessere e alimentazione, tra ambiente e salute, nasce la prima edizione estiva de Sull’Onda del Gusto, che vede educazione ambientale e attenzione ai prodotti del territorio questioni chiave per lo sviluppo di comunità sostenibili.**_
+{{< figure src="images/wp-content/uploads/2023/05/delgusto_4.jpeg?w=1024" >}}
+ 
 
 Circondati dai Giardini Comunali di Piazzale Trieste appena ristrutturati di **Tuscania**, il 3 giugno dalle ore 16:00, **Sull’Onda del Gusto** è pronta ad accogliere grandi e piccini. Si parte per un viaggio all’insegna del gusto per sollecitare anche i palati più fini e delicati, quelli dei bambini. Sono proprio loro i protagonisti del pomeriggio di questa edizione, storie e stagionalità si intrecciano per costruire nuovi vincoli tra benessere e gusto, attraverso racconti, laboratori creativi e di cucina con due dottoresse speciali, senza camicie e senza troppe pretese: Elisa Cicconi, mamma e Dietista specialista in Scienza della Nutrizione, e Sara Colagiacomo, dottoressa Forestale, specialista in verde urbano.
 

@@ -20,9 +20,9 @@ _Miscele, esperimenti, abbinamenti e non solo. Corrado Assenza ci spiega la sua 
 
 La pasticceria come espressione della propria personalità, la pasticceria come espressione della propria creatività. La pasticceria come completezza in cucina. In questi pochi ma chiari concetti si può riassumere il pensiero di un guru come Corrado Assenza, un maestro che con il suo Caffè Sicilia, a Noto, ha progettato, disegnato e realizzato le nuove frontiere della pasticceria.
 
-Nell’ultima edizione di Identità Golose, a Milano, ho incontrato un vero ambasciatore della cucina italiana, che ha fatto della pasticceria, e del peccato di gola per eccellenza, la sua strada professionale. <figure class="wp-block-image size-large">
-
-<img decoding="async" src="images/wp-content/uploads/2019/08/assenza.jpg" alt="" class="wp-image-283" /> <figcaption>Corrado Assenza</figcaption></figure> 
+Nell’ultima edizione di Identità Golose, a Milano, ho incontrato un vero ambasciatore della cucina italiana, che ha fatto della pasticceria, e del peccato di gola per eccellenza, la sua strada professionale. 
+{{< figure src="images/wp-content/uploads/2019/08/assenza.jpg" caption="Corrado Assenza" >}}
+ 
 
   
 Se molti di noi però considerano la pasticceria come tentazione alla quale non poter resistere a prescindere da pasti, orari e calorie, per Corrado Assenza la pasticceria è molto di più. La pasticceria per il maestro siciliano ha un’anima, ha una sua cultura e una sua storia. Una storia che Corrado Assenza ci ha voluto raccontare. 
@@ -41,9 +41,9 @@ Posso dirti quelli che io desidero che siano: genuinità, freschezza, stagionali
 
 **_Nel grande successo che negli ultimi anni ha riscontrato l’alta cucina italiana, quanto crede abbia influito la pasticceria?_**
 
-Dobbiamo considerare un fatto: nell’attuale mondo dell’alta cucina la pasticceria è stata confinata a un ruolo molto marginale. Fai caso a quante pietanze ha un cuoco per esprimere e declinare il suo pensiero e a quante pietanze ha un pasticcere da proporre in un menù. Massimo due con la piccola pasticceria. È uno strapotere del sale, la nostra è una cultura sapida, a scapito di quella più zuccherina.<figure class="wp-block-image">
-
-<img decoding="async" src="http://progressonline.it/wp-content/uploads/2019/04/Assenza_Oltre-gli-asparagi.-A-cosa-serve-una-passeggiata.-Pensieri-di-primavera-1024x683.jpg" alt="" class="wp-image-11164" /> <figcaption>Oltre gli asparagi. A cosa serve una passeggiata. Pensieri di primavera</figcaption></figure> 
+Dobbiamo considerare un fatto: nell’attuale mondo dell’alta cucina la pasticceria è stata confinata a un ruolo molto marginale. Fai caso a quante pietanze ha un cuoco per esprimere e declinare il suo pensiero e a quante pietanze ha un pasticcere da proporre in un menù. Massimo due con la piccola pasticceria. È uno strapotere del sale, la nostra è una cultura sapida, a scapito di quella più zuccherina.
+{{< figure src="http://progressonline.it/wp-content/uploads/2019/04/Assenza_Oltre-gli-asparagi.-A-cosa-serve-una-passeggiata.-Pensieri-di-primavera-1024x683.jpg" caption="Oltre gli asparagi. A cosa serve una passeggiata. Pensieri di primavera" >}}
+ 
 
 **_La pasticceria ha anche una grande responsabilità, quella di chiudere degnamente un menù…_**
 

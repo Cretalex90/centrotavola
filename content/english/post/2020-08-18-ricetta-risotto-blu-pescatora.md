@@ -15,9 +15,9 @@ tags:
 ---
 ## Avete mai sentito parlare del **Natural Blue foods**?  {.wp-block-heading}
 
-Si tratta di un estratto naturale di spirulina e mela 100%, senza alcun additivo sintetico né solvente organico. Ne basta una piccola quantità per colorare. I **Natural Blue Foods** sono privi di sapore, per questo adatti a preparazioni sia dolci che salate, sono puramente di origine vegetale (adatti anche a preparazioni vegane). Infine, sono idrosolubili e liposolubili.<figure class="wp-block-image size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/08/img-20200818-wa0005__01.jpg?w=1024" alt="risotto-pescatora-gamberi-ricetta-blue-foods-aleepepe" class="wp-image-1578" width="415" height="309" /> </figure> 
+Si tratta di un estratto naturale di spirulina e mela 100%, senza alcun additivo sintetico né solvente organico. Ne basta una piccola quantità per colorare. I **Natural Blue Foods** sono privi di sapore, per questo adatti a preparazioni sia dolci che salate, sono puramente di origine vegetale (adatti anche a preparazioni vegane). Infine, sono idrosolubili e liposolubili.
+{{< figure src="images/wp-content/uploads/2020/08/img-20200818-wa0005__01.jpg?w=1024" >}}
+ 
 
 Lo chef Danilo Colaiquo ne ha usati per colorare di &#8220;_blu mare_&#8221; un gustoso risotto alla pescatora. 
 

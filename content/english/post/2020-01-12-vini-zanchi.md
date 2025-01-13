@@ -12,23 +12,23 @@ tags:
   - vino
 
 ---
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/unnamed-1.jpg" alt="" class="wp-image-835" width="478" height="307" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/unnamed-1.jpg" >}}
+
 
 Sulla sostenibilità e su metodi di coltivazione biologici si basa la filosofia di&nbsp;**Zanchi**, produttore della bassa Umbria che al confine con il Lazio e alle porte di Amelia, in provincia di&nbsp;**Terni**,&nbsp;si è fatto custode degli antichi vitigni del territorio. Qui preserva in un vigneto sperimentale quelli in via di estinzione e valorizza con [vini][1] dalla spiccata identità&nbsp;le varietà autoctone più diffuse.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/unnamed-copia.jpg" alt="" class="wp-image-834" width="456" height="256" /><figcaption>La cantina</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/unnamed-copia.jpg" caption="La cantina" >}}
+
 
 Malvasia e Ciliegiolo su tutti ma anche Grechetto, Trebbiano e Aleatico: la famiglia Zanchi da 50 anni (festeggiati nel 2020) produce vini dalla facile beva, democratici ma non banali. 35 ettari di terreno vitati, qualche albero di <a href="https://aleepepe.com/2019/11/18/valorizzazione-del-territorio-e-olio-di-qualita-parola-di-pierluigi-presciuttini/" target="_blank" rel="noreferrer noopener" aria-label="ulivo (apre in una nuova scheda)">ulivo</a> (varietà Rajo) sulle colline amerine, dalle quali si gode di un suggestivo scorcio del panorama circostante. Una vera immersione nella natura quella di cui si beneficia visitando l&#8217;azienda, con la tenuta famigliare a due passi dalle vigne che nascono su un terreno di origine marina (e a questo sono dovute le note sapide al prodotto). 
 
 Passeggiando tra i filari Flores Zanchi, nipote del fondatore, vi illustrerà la storia della cantina: un progetto nato mezzo secolo fa da un’idea del nonno e che nel tempo si è riuscito ad affermare come uno dei più riusciti della zona, ma non solo.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/unnamed1.jpg" alt="" class="wp-image-836" width="354" height="472" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/unnamed1.jpg" >}}
+
 
 **Zanchi** infatti esporta i suoi vini anche all’estero, dagli&nbsp;USA&nbsp;fino al Giappone, condividendo i vini nati dalle varietà autoctone del&nbsp;territorio Amerino e vinificati con il minimo intervento in cantina.&nbsp;
 
@@ -38,9 +38,9 @@ Impossibile poi non parlare del **Vignavecchia** (annata 2015, degustato in ante
 
 Un vino dalla forte tipicità e caratterizzazione, dal colore giallo oro puro, bouquet ampio (albicocca candita, pesca gialla matura, ginestra, arancia, cenni di fieno ed erbe aromatiche, )&nbsp;pieno al palato, dalla sapidità esplosiva che allunga il sorso e dona persistenza.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/unnamed-copia-2.jpg" alt="zanchi-bottiglia-vino-amelia-botti-wine" class="wp-image-832" width="492" height="368" /><figcaption>Le riserve della cantina. A sinistra il Vignavecchia che abbiamo degustato</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/unnamed-copia-2.jpg" caption="Le riserve della cantina. A sinistra il Vignavecchia che abbiamo degustato" >}}
+
 
 Un vino che, confida Flores, verrà presentato solamente tra qualche mese per le guide del 2021.  
 Un onore e un privilegio avere avuto l&#8217;anteprima dell&#8217;assaggio.

@@ -14,9 +14,9 @@ categories:
 
 Questo fiore tipico dell’inizio della primavera ha ispirato il cuoco **Adelmo Renzi** che, nel lontano 1962, partecipò a Sanremo ad un concorso di pasticceria incentrato sulle torte. Lo chef durante all&#8217;evento portò la sua interpretazione personale dolciaria della mimosa, modo per omaggiare la città dei fiori. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/02/torta-mimosa.jpg" alt="torta-mimosa-ricetta-chef" class="wp-image-2035" width="529" height="352" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/02/torta-mimosa.jpg" >}}
+
 
 Un&#8217;idea, e una preparazione, che valse a Renzi la vittoria del concorso. La ricetta originale, però, non fu mai svelata&#8230;
 
@@ -110,9 +110,9 @@ Far bollire il latte con il glucosio. Unire la gelatina precedentemente idratata
 
 Mettere in un pentolino l&#8217;acqua e lo zucchero, passare sul fuoco e fare sciogliere il tutto, facendo attenzione a non farlo bollire troppo. Far raffreddare e aggiungere il limoncello, mescolare il tutto e tenere in frigo.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/02/torta-mimosa-ricetta-chef.jpg?w=683" alt="" class="wp-image-2037" width="342" height="513" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/02/torta-mimosa-ricetta-chef.jpg?w=683" >}}
+
 
 **_Assemblaggio_**
 

@@ -17,17 +17,17 @@ tags:
   - viterbo
 
 ---
-_Esposizioni, degustazioni ed eventi per promuovere e valorizzare le eccellenze del patrimonio agroalimentare regionale_. Dal 30 settembre al 3 ottobre.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/09/viterbo-assaggi-salone.jpg?w=1024" alt="" class="wp-image-2307" width="540" height="305" /> </figure> 
+_Esposizioni, degustazioni ed eventi per promuovere e valorizzare le eccellenze del patrimonio agroalimentare regionale_. Dal 30 settembre al 3 ottobre.
+{{< figure src="images/wp-content/uploads/2022/09/viterbo-assaggi-salone.jpg?w=1024" >}}
+ 
 
 Olio extravergine d&#8217;oliva, vino, salumi, formaggi, prodotti da forno, pasta, carni, marmellate, ortofrutta, nocciole e tante altre eccellenze di un ricco e variegato patrimonio agroalimentare da scoprire, valorizzare e promuovere. Sono questi i protagonisti di **Assaggi**, il salone dell&#8217;enogastronomia laziale, la cui prima edizione è in programma a **Viterbo** dal 30 settembre al 3 ottobre 2022.
 
 Un&#8217;occasione da non perdere, per conoscere e far conoscere la migliore offerta che il Lazio, regione estesa e dalle caratteristiche territoriali e culturali molto diversificate, propone in tema di gusto e sapori, così che gli amanti del buon cibo e i professionisti del settore che ancora non ne hanno avuto modo possano apprezzarne pienamente gli elevati standard di qualità.
 
-L&#8217;evento porta a **Palazzo dei Papi** e nel centro storico del capoluogo della Tuscia le migliori espressioni enogastronomiche del Lazio, attraverso un intenso programma di appuntamenti e degustazioni.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/03/snapseed.jpg?w=1000" alt="acquacotta-piatto-vino-ristorante-ciavattini" class="wp-image-1173" width="582" height="514" /> </figure> 
+L&#8217;evento porta a **Palazzo dei Papi** e nel centro storico del capoluogo della Tuscia le migliori espressioni enogastronomiche del Lazio, attraverso un intenso programma di appuntamenti e degustazioni.
+{{< figure src="images/wp-content/uploads/2020/03/snapseed.jpg?w=1000" >}}
+ 
 
 **Più di 60 le imprese partecipanti** ad Assaggi, pronte a esporre e presentare a buongustai e addetti ai lavori sia i prodotti classici sia le produzioni innovative, nate per rispondere alle sfide del mercato. Un&#8217;ampia e articolata ricchezza di sapori e profumi, saperi e tradizioni, grazie ai migliori artigiani del food e alle aziende virtuose che si impegnano, ogni giorno, per dare valore alla cultura dell&#8217;alimentazione del territorio regionale.
 

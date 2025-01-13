@@ -28,9 +28,9 @@ tags:
   <span class="s1">Il territorio della <strong>Tuscia</strong> e tutte le sue ricchezze enogastronomiche rimangono il punto focale del nostro discorso. Carlo esprime chiaramente la sua visione: quella di una <strong>valorizzazione del territorio che passi prima di tutto attraverso il racconto di chi il territorio lo abita e lo lavora</strong>, e solo in un secondo momento dei prodotti di qualità che qui hanno origine.</span>
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.jpg" alt="guida vino olio cesanese zucchetti" class="wp-image-894" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.jpg" >}}
+
 
 <p class="p1">
   <span class="s1">Non a caso nella sua guida del vino <strong>Carlo Zucchetti</strong> riserva come “premio speciale” un cappello (suo fedele compagno di viaggio) assegnato non al singolo <a href="http://aleepepe.com/2020/01/12/vini-zanchi/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">vino</a>, ma alle aziende che dimostrano coerenza e chiarezza con i principi del progetto che la sostiene e guida. Da qui, poi, anche la capacità di esportare al di fuori della <strong><a href="http://aleepepe.com/2019/10/25/danilo-ciavattini-la-tuscia-e-servita/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">Tuscia</a></strong> quelli che sono i valori e le ricchezze enogastronomiche di questo territorio del centro Italia forse fin troppo sottovalutato.</span>
@@ -46,9 +46,9 @@ tags:
 
 Una persona di grande capacità e intuizione politica, culturale e sociale. Aveva e ha tutt’ora un approccio diverso all’enogastronomia, intendendola come strumento di analisi della società contemporanea.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/carlo-zucchetti-vini-della-tuscia-guida.jpg?w=768" alt="" class="wp-image-893" width="336" height="448" /><figcaption>Carlo Zucchetti con la Guida del Vino</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/carlo-zucchetti-vini-della-tuscia-guida.jpg?w=768" caption="Carlo Zucchetti con la Guida del Vino" >}}
+
 
 ### Da anni ormai redigi e curi una guida sul vino. Da cosa nasce questa guida? {.wp-block-heading}
 
@@ -66,9 +66,9 @@ Le potenzialità sono enormi. Una è storica: la vite in posizione eretta ce l�
 
 Succede quasi sempre, è praticamente la normalità in questi casi. Spesso c’è chi si lamenta ma questo è quasi naturale. In molte occasione dopo l’uscita della guida mi telefonano dei produttori dicendomi perché avessi premiato quell’azienda invece dell’altra, ma ormai c’ho fatto l’abitudine (ride, ndr). La nostra non è una classica guida ma vuol essere un vademecum di tutte le cantine,&nbsp; i territori, i produttori. Siamo convinti che ci sia necessità di approcci differenti per raccontare la Tuscia nelle sue molte sfaccettature. Soprattutto vuol essere un vademecum per enoturisti e gourmet. Per questa la nostra terra è divisa, in guida,&nbsp; in territori geologici simili, con una introduzione di Sara Roca,&nbsp; e non in divisioni amministrative. Non a caso abbraccia tre regioni e quattro provincie.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.jpg?w=1000" alt="" class="wp-image-894" width="500" height="374" /><figcaption>Le guide di cui Carlo Zucchetti è curatore</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.jpg?w=1000" caption="Le guide di cui Carlo Zucchetti è curatore" >}}
+
 
 ### Che ne pensi di questa tendenza sempre più diffusa dei vini naturali? {.wp-block-heading}
 

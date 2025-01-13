@@ -19,9 +19,9 @@ tags:
 
 Il&nbsp;**Cucchiaio d&#8217;Argento**&nbsp;non è solamente un ricettario ma è uno specchio della società e della cultura (gastronomica e non) che è mutata negli ultimi 70 anni. Era il 1950 quando conobbe la prima edizione il Cucchiaio d&#8217;Argento: si era usciti da poco dalla guerra e le abitudini a tavola erano molto diverse da quelle attuali. Dopo le miserie del conflitto bellico si tornava all&#8217;abbondanza, alle porzioni ricche, grasse di un&#8217;età che si stava avviando verso il boom economico. A 70 anni di distanza molto è cambiato in tutta Italia, a tavola e non. &nbsp;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/10/unnamed.jpg?w=1024" alt="cucchiaio-argento-ricette" class="wp-image-1733" width="431" height="287" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/10/unnamed.jpg?w=1024" >}}
+
 
 ## Il Cucchiaio d&#8217;Argento: ecco l&#8217;edizione numero undici {.wp-block-heading}
 

@@ -18,9 +18,9 @@ tags:
 
 Presentata la settima edizione della guida **Pasticceri & Pasticcerie 2020** di Gambero Rosso. L’alta pasticceria allarga sempre di più i suoi orizzonti con restyling dei locali che puntano alla valorizzazione dei prodotti e un’attenzione sempre maggiore da parte dell’hotellerie di lusso. Gli Hotel con pasticcerie sono infatti il trend del momento: boutique in cui si punta ad una proposta d’eccellenza che seleziona le migliori materie prime da tutto il mondo, senza però dimenticare il territorio.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large"><img decoding="async" src="images/wp-content/uploads/2019/11/schermata-2019-11-21-alle-13.23.29.png?w=487" class="wp-image-665" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/11/schermata-2019-11-21-alle-13.23.29.png?w=487" >}}
+
 
 “_Ritorna l’appuntamento con la guida Pasticceri&Pasticcerie, un settore in continua e costante crescita ed evoluzione_.”&nbsp;**dichiara Paolo Cuccia, Presidente di Gambero Rosso**&nbsp;“_Il Gambero è da sempre attento ai maestri impegnati nell’utilizzo e nella trasformazione dei prodotti eccellenti che ne esaltano le qualità e riescono a produrre grandi capolavori, simbolo della creatività culinaria del nostro Paese_”<figure class="wp-block-table">
 

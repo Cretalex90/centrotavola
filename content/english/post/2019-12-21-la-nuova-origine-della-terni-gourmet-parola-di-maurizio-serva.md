@@ -26,9 +26,9 @@ Non parleremo quindi del ristorante Origine di Maurizio Serva, parleremo di un r
 
 È bene però parlare con lui di questo nuovo progetto nel quale si è tuffato da qualche mese a questa parte. Origine ha inaugurato, senza particolari proclami e annunci (per scelta, ci dirà) solo a fine novembre ma in queste prime settimane ha registrato un grande successo tra la clientela di Terni, cittadina nella quale mancava una vera proposta gourmet.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/ac59831e-a983-4656-b98b-902bba2fa7ad.jpg?w=1024" alt="" class="wp-image-767" width="615" height="410" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/ac59831e-a983-4656-b98b-902bba2fa7ad.jpg?w=1024" >}}
+
 
 E proprio da qui abbiamo iniziato la nostra chiacchierata con Maurizio Serva che, ora sì messosi la giacca da chef, ci spiega cosa vorrà e dovrà essere Origine a Terni.
 
@@ -44,9 +44,9 @@ Ho riflettuto anche su Roma ma ho scelto Terni perché rispetto a Rivodutri è a
 
 La Trota è nata dai nostri genitori quasi dal nulla. Oggi c’è una maggiore consapevolezza anche da parte dei clienti, il mercato è diverso e c’è molta concorrenza. Avendo vissuto in prima persona la graduale conoscenza di questo lavoro oggi è chiaro che si parte da una base diversa, da una considerazione della cucina più alta e approfondita che possa venir incontro alle richieste del cliente. Si parte nel modo che secondo me è giusto: seguendo principi e regole ben precise, che sono quelle che poi devono soddisfare chi viene a mangiare qui. Origine non si propone come locale pretenzioso dal punto di vista economico, anzi offre la possibilità a tutti di accesso, anche ai più giovani. Proponiamo un approccio più snello alla cucina.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-8.jpg?w=1024" alt="" class="wp-image-776" width="574" height="383" /><figcaption>Maurizio Serva e i ragazzi della cucina del ristorante Origine</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-8.jpg?w=1024" caption="Maurizio Serva e i ragazzi della cucina del ristorante Origine" >}}
+
 
 **_Con La Trota siete l’unico 2 stelle in Europa a proporre cucina di pesce d’acqua dolce. Passate da un ristorante in una zona lacustre, nel mezzo della natura ad uno al centro di una città industriale. Come cambia l’approccio alla cucina e la ricerca degli ingredienti?_**
 
@@ -56,9 +56,9 @@ A La Trota nel raggio di 300 metri trovo tutto, dai pesci d’acqua dolce alle e
 
 La pressione è la stessa, ma questa arriva dall’idea di fare le cose per bene, con il rispetto per il cliente in primis. La pressione qui è più legata alle aspettative delle persone, nonostante non ci sia io in cucina ma comunque il mio nome è legato al locale, anche perché il menù è stato seguito e impostato da me. I ragazzi sentono questa pressione sicuramente più di me, perché io ormai sono abituato a questo tipo di attese mentre loro, tra cucina e sala, sono molto giovani.&nbsp;
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-3.jpg?w=1024" alt="" class="wp-image-773" width="592" height="395" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-3.jpg?w=1024" >}}
+
 
 **_Quindi quale sarà il tuo contributo qui a Origine?_**
 
@@ -72,9 +72,9 @@ Molto positiva, senza aver voluto fare grossi proclami o inaugurazioni particola
 
 È stata una nostra scelta, non abbiamo voluto fare le cose in grande. L’idea era di partire con un profilo basso, fare un rodaggio perfetto per poi ingranare piano piano. La notizia, nonostante tutto, però è uscita e questo ci ha spinto a premere sin da subito sull’acceleratore. Ora siamo in ballo, siamo tranquilli che dal punto di vista organizzativo possiamo gestire i nostri ospiti, quindi il rodaggio è finito. L’importante era far passare questa idea: Origine non è un “doppione” de La Trota. Inizialmente non volevo nemmeno dire di esserci io dietro questo progetto, per alleggerire un po’ la pressione ai ragazzi.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-9.jpg?w=1024" alt="" class="wp-image-777" width="612" height="408" /><figcaption>Fish and chips</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-9.jpg?w=1024" caption="Fish and chips" >}}
+
 
 **_Viterbo sta diventando un polo gourmet con stellati come [Danilo Ciavattini][1] e [Lorenzo Iozzia][2], a Terni vede i presupposti per creare una realtà simile?_**
 

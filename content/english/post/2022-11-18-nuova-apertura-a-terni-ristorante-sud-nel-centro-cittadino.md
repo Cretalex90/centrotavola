@@ -14,15 +14,15 @@ categories:
 ---
 **_Zitti zitti che forse pure a Terni inizia a muoversi qualcosa._**..
 
-**Ristorante Sud** ha aperto da meno di un mese. Praticamente non è nemmeno nella sua fase embrionale ma in quella che viene ancora prima, quella dell’ “_Hey, da oggi ci siamo anche noi_”. <figure class="wp-block-image aligncenter size-large is-resized">
-
-<img decoding="async" src="images/wp-content/uploads/2022/11/terni-ristorante-sud-edited.jpg" alt="" class="wp-image-2400" width="568" /> <figcaption class="wp-element-caption">Ostrica, caviale, mela verde</figcaption></figure> 
+**Ristorante Sud** ha aperto da meno di un mese. Praticamente non è nemmeno nella sua fase embrionale ma in quella che viene ancora prima, quella dell’ “_Hey, da oggi ci siamo anche noi_”. 
+{{< figure src="images/wp-content/uploads/2022/11/terni-ristorante-sud-edited.jpg" caption="Ostrica, caviale, mela verde" >}}
+ 
 
 Impossibile quindi parlare in termini assoluti perché anche per chi ci lavora è tutta ancora una **scoperta quotidiana**, e la rotta deve essere imbeccata con decisione. Quello che è stato ieri non è quello che è oggi e non è quel che sarà domani. Per questo solitamente attendo qualche mese prima di visitare una nuova apertura, per arrivare in un locale che abbia già sviluppato una sua personalità. 
 
-Allo stesso tempo, però, è interessante scoprire e seguire il percorso di crescita di una realtà, specialmente se fatta di giovani e da giovani come quella di Sud e in un centro non facile come **Terni**.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/11/menu-sud-ristorante-terni-1-edited.jpg" alt="" class="wp-image-2402" width="554" height="346" /> <figcaption class="wp-element-caption">Risotto acqua dolce con salmerino e caviale</figcaption></figure> 
+Allo stesso tempo, però, è interessante scoprire e seguire il percorso di crescita di una realtà, specialmente se fatta di giovani e da giovani come quella di Sud e in un centro non facile come **Terni**.
+{{< figure src="images/wp-content/uploads/2022/11/menu-sud-ristorante-terni-1-edited.jpg" caption="Risotto acqua dolce con salmerino e caviale" >}}
+ 
 
 Le **idee** sembrano esserci, così come la consapevolezza che strada da fare ce ne è e ce ne sarà. Anche perché lo chef, Alessio Pantalloni, ha appena 25 anni, con un decennio di cucina alle spalle (anche a fianco di un mostro come **Terry Giacomello**) ma è sembrato comunque deciso e umile allo stesso tempo, aperto al confronto e consapevole di quello che il ristorante è ora ma soprattutto già proiettato verso quello **che dovrà essere** quando tutti saranno più rodati.
 
@@ -30,9 +30,9 @@ La proposta di cucina oggi, come ammesso dallo chef, è più indirizzata a **inc
 
 Magari (mio pensiero) costruendo un percorso attorno al **pesce d’acqua dolce**, materia non semplice e magari apparentemente poco accattivante, specialmente quando ci si trova nella terra di tartufi e carni. Questo, però, si vedrà più avanti.
 
-Sud è come un **vino ancora giovane** che ha bisogno di tempo per affinare, svilupparsi e perfezionarsi. A proposito di vini interessante la cantina presente, con le etichette (nazionali e non) ben raccontate, con precisione, passione e cura, dal _maitre_ e _sommelier_ Claudio Dragotto, figlio dei proprietari.<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img loading="lazy" decoding="async" src="images/wp-content/uploads/2022/11/sud-ristornte-terni-menu-1.jpg?w=768" alt="" class="wp-image-2404" width="528" height="704" /> <figcaption class="wp-element-caption">Baccalà in oliocottura, topinanbur, cioccolato, guanciale&nbsp;</figcaption></figure> 
+Sud è come un **vino ancora giovane** che ha bisogno di tempo per affinare, svilupparsi e perfezionarsi. A proposito di vini interessante la cantina presente, con le etichette (nazionali e non) ben raccontate, con precisione, passione e cura, dal _maitre_ e _sommelier_ Claudio Dragotto, figlio dei proprietari.
+{{< figure src="images/wp-content/uploads/2022/11/sud-ristornte-terni-menu-1.jpg?w=768" caption="Baccalà in oliocottura, topinanbur, cioccolato, guanciale&nbsp;" >}}
+ 
 
 Tornado a noi, perfezionamento e **confronto costante** per ora sembrano essere qui le parole chiave: la base, per idee e tecnica, pare esserci e ora sta a questa squadra dimostrare col tempo il suo valore, per di più in una realtà non facile come quella del capoluogo umbro. 
 

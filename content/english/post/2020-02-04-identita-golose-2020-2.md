@@ -14,9 +14,9 @@ tags:
 ---
 A poco più di un mese dall&#8217;avvio di <a href="https://aleepepe.com/2020/01/23/identita-golose-2020/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">Identità Golose 2020,</a> è stato svelato chi sarà protagonista nella chiusura della kermesse enogastronomica milanese. Sul palco salirà Massimo Bottura con il suo progetto **<a rel="noreferrer noopener" href="https://identitagolose.us20.list-manage.com/track/click?u=234a38062b9422b3d7a815973&id=21df0bd39c&e=343d002ec0" target="_blank">Il Tortellante</a>**, il laboratorio terapeutico/abilitativo dove giovani e adulti imparano a produrre pasta fresca fatta a mano.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/02/tortellini.jpg?w=795" alt="" class="wp-image-994" width="465" height="204" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/02/tortellini.jpg?w=795" >}}
+
 
 Il Tortellante è nato a Modena nel 2016 come&nbsp;**progetto ricreativo e di inclusione**:&nbsp;l&#8217;obiettivo iniziale era creare un laboratorio in cui, con l&#8217;aiuto delle&nbsp;_rezdore_, i ragazzi con disturbi dello spettro autistico potessero imparare a lavorare la pasta fresca. Il progetto si è ampliato nel corso degli anni, integrato da attività abilitative e formative utili a migliorare le autonomie dei ragazzi.&nbsp;
 

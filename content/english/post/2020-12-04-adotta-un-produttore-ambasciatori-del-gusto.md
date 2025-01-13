@@ -14,9 +14,9 @@ tags:
 ---
 ### Gli Ambasciatori del Gusto scendono in campo a sostegno della filiera enogastronomica e annunciano il nuovo progetto di comunicazione &#8220;Adotta un Produttore&#8221;. {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/12/cheese-5125021_1280-e1607091866337.jpg?w=1024" alt="cheese-formaggio-formaggi" class="wp-image-1887" width="574" height="323" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/12/cheese-5125021_1280-e1607091866337.jpg?w=1024" >}}
+
 
 Patrocinata dal Ministero degli Affari esteri e della Cooperazione Internazionale, l’iniziativa, a carattere no-profit, conferma l’impegno dell’Associazione nella difesa e promozione del Made in Italy e del “_saper fare_” italiano.  
   

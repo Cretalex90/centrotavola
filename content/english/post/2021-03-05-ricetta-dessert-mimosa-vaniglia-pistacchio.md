@@ -15,9 +15,9 @@ tags:
 ---
 ### E se il dessert per il giorno delle donne fosse al piatto? Lo chef Colaiaquo vi propone una seconda versione (<a rel="noreferrer noopener" href="https://aleepepe.com/2021/02/23/ricetta-torta-mimosa-cioccolato-bianco/" target="_blank">qui per la prima</a>) della torta mimosa, pensata per essere impiattata singolarmente per ogni ospite. {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/03/mimosa-ricetta.jpg" alt="" class="wp-image-2065" width="298" height="437" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/03/mimosa-ricetta.jpg" >}}
+
 
 Ingredienti per 8/10 porzioni
 
@@ -81,9 +81,9 @@ Montare bene con l’aiuto delle fruste elettriche i tuorli con la buccia grattu
 Mettere in un pentolino l’acqua e lo zucchero, passare sul fuoco e fare sciogliere il tutto, facendo  
 attenzione a non farlo bollire troppo. Far raffreddare e aggiungere il limoncello, mescolare il tutto e tenere in frigo.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/03/mimosa-interno.jpg?w=800" alt="" class="wp-image-2072" width="506" height="427" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/03/mimosa-interno.jpg?w=800" >}}
+
 
 **Assemblaggio**  
 Sformare la bavarese dallo stampo (almeno 6h prima del servizio) e immergerla con una leggera pressione nel bisquit precedentemente setacciato. Nebulizzare il cremoso con la vellutina spray e riporre il frigo. Al momento del servizio prendere la bavarese e sistemarla sul piatto di portata, adagiare sopra il cremoso al pistacchio e decorare a piacere con i frutti di bosco, le meringhe e il crumble dolce.

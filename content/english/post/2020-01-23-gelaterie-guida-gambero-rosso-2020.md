@@ -34,9 +34,9 @@ _Gelatiere Emergente_ Martina Francesconi della Gelateria Gelatina a Genova
 _Miglior Gelato Gastronomico_ Golosi Di Natura a Gazzo (PD)  
 _Premio Sostenibilità_ Maison Corsini a Torino
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/01/gambero-rosso-gelaterie-guida.jpg?w=479" alt="" class="wp-image-911" width="359" height="768" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/01/gambero-rosso-gelaterie-guida.jpg?w=479" >}}
+
 
  [1]: https://aleepepe.com/2019/10/30/ristoranti-ditalia-2020-di-gambero-rosso/
  [2]: https://aleepepe.com/2019/12/29/tv-il-mio-posto-e-in-cucina-parola-di-carlo-cracco/

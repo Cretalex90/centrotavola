@@ -18,9 +18,9 @@ Cosa c’è, in fondo, di più epico del concetto del **viaggio**, inteso sia in
 
 Omero ha affidato al tema del **viaggio** una delle colonne portati dei suoi poemi, così come Oliver Glowig è diventato uno dei maggiori rappresentati della cucina contemporanea nel corso di un lungo percorso che dal suo Paese natio, la Germania, lo ha portato a Capri, poi di nuovo in patria, quindi una seconda volta nel Bel Paese, a **Roma** prima e a **Monte Porzio Catone** poi. Senza disdegnare qualche consulenza all’estero, tra cui Toronto, in Canada. Il tutto collezionando, nei vari ristoranti, un totale di **sei stelle Michelin**.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-3.jpg" alt="" class="wp-image-1557" width="568" height="379" /><figcaption>La sala di Barrique</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-3.jpg" caption="La sala di Barrique" >}}
+
 
 A Capri, in una delle sue prime esperienze nel nostro Paese, ebbe come mentore (altra figura che ricorre spesso nel racconto epico) Gualtiero **Marchesi**, sua guida e punto di riferimento nell&#8217;approccio alla cucina italiana.. 
 
@@ -30,9 +30,9 @@ Con Oliver Glowig ho avuto una piacevole chiacchierata nella sala di **Barrique*
 
 E, improvvisamente, ascoltando la sua storia, anche io mi sono sentito catapultato nel suo lungo viaggio…
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-13.jpg?w=1024" alt="" class="wp-image-1566" width="467" height="311" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-13.jpg?w=1024" >}}
+
 
 ### Oliver Glowing: &#8220;Io, tedesco innamorato della cucina italiana&#8221; {.wp-block-heading}
 
@@ -48,9 +48,9 @@ Marchesi era un grande signore, sia in cucina che fuori. Insegnava prima di tutt
 _**  
 Ricordo che quando giunsi a Capri e vidi arrivare per la prima volta frutta e verdura le snobbavo un po&#8217; per il loro aspetto: erano tutte sporche, di grandezza differente e misure diverse. Assaggiandole però ho capito la vera differenza, e di come dovesse essere veramente il sapore. Niente a che vedere, per esempio, con le materie prime che trovavo in Germania: belle, tutte uguali, pulite ma dal sapore più debole. Questo mi ha fatto innamorare delle vostre materie prime. La semplicità e la territorialità vincono sempre.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-7.jpg?w=1000" alt="" class="wp-image-1555" width="510" height="340" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-7.jpg?w=1000" >}}
+
 
 **_Cosa ti ha colpito maggiormente quando ti sei avvicinato alla nostra cucina?_**
 
@@ -64,9 +64,9 @@ Sicuramente esiste questa barriera, ma quello che mi sento di dire alle persone 
 
 La televisione per un verso è stata una cosa positiva ma dall&#8217;altra parte non ha creato un&#8217;immagine esatta di questo mondo. Parlo anche di chi sogna di diventare chef, e che pensa che basti partecipare o vincere un programma in tv per considerarsi già arrivato. Chef si diventa dopo anni, decenni, di gavetta, sudore e lavoro. Prima bisogna imparare, assorbire gli insegnamenti, apprendere da tutto quello che si vede o si legge. Bisogna creare uno stile proprio, che possa essere riconoscibile; solo così ci si può considerare chef.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-8.jpg?w=1000" alt="" class="wp-image-1554" width="595" height="397" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-8.jpg?w=1000" >}}
+
 
 _**Tu sei in Italia da 20 anni e sei sempre stato inserito in questo mondo. Come vedi cambiata l&#8217;alta ristorazione da inizi anni 2000 a oggi?**_
 

@@ -14,9 +14,9 @@ tags:
 ---
 ### **A Castiglione in Teverina, un piccolo comune dell’alto Lazio che affaccia sulla valle del Tevere, l’istituto professionale Intrecci da quattro anni forma giovani che sognano di diventare figure professionali destinate all’accoglienza e al servizio di sala nell’alta ristorazione.** {.wp-block-heading}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-01.jpg?w=1024" alt="officina-visiva-ale-&-pepe-foto-giornalismo-intrecci-01" class="wp-image-1950" width="592" height="394" /><figcaption>L&#8217;ingresso dell&#8217;istituto Intrecci</figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-01.jpg?w=1024" caption="L&#8217;ingresso dell&#8217;istituto Intrecci" >}}
+
 
 **Accoglienza, calore e fattore umano** sono forse i tre punti cardine sui quali si basa <a rel="noreferrer noopener" href="http://www.intreccialtaformazione.com/" target="_blank">Intrecci</a>, e non a caso sono i tre fattori che durante la visita all’istituto abbiamo percepito con maggior vigore.  
   
@@ -26,17 +26,17 @@ Assistendo dal vivo alla lunga fase di preparazione del servizio, partendo dalla
   
 L’aver assistito direttamente a una simulazione di un servizio fa capire quanto lavoro ci sia alla base di una sala perfettamente allestita. Ci siamo ritrovati davanti a una sorta danza di tutti gli aspiranti camerieri coinvolti: una danza fatta di mosse precise, di gesti oculati, di giochi di sguardi reciproci e occhiate veloci ma analitiche. Per assicurarsi che tutto ciò che fa parte della _mise en place_ finale fosse effettivamente, e millimetricamente, al suo posto.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-33.jpg?w=1024" alt="" class="wp-image-1955" width="549" height="365" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-33.jpg?w=1024" >}}
+
 
 Quella degli allievi che si stanno formando da Intrecci, dopo appena due settimane di corsi, è inevitabilmente una danza ancora grezza, che dovrà perfezionarsi con il tempo. I loro meccanismi si olieranno con il passare dei mesi, delle lezioni, degli errori e di nuovi tentativi e simulazioni sotto i sempre vigili occhi e preziosi consigli degli insegnati, dei veri tutor e guide per questi ragazzi che sognano le sale dei grandi ristoranti del mondo. Consapevoli del duro lavoro che c’è da fare, ma con la passione di chi sogna in grande.  
   
 Da Intrecci, e di Intrecci, abbiamo parlato con la direttrice dell’istituto, **Marta Cotarella** (della nota famiglia produttrice di <a rel="noreferrer noopener" href="https://www.famigliacotarella.it/it/" target="_blank">vino</a>), che ci ha aperto metaforicamente e praticamente le porte della scuola per svelarci cosa c’è alla base di questo giovane progetto e dietro un servizio di sala degno di un ristorante di classe.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-04.jpg" alt="officina-visiva-ale-&-pepe-foto-giornalismo-intrecci-04" class="wp-image-1958" width="586" height="391" /><figcaption>Marta Cotarella, direttrice di Intrecci </figcaption></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-04.jpg" caption="Marta Cotarella, direttrice di Intrecci " >}}
+
 
 Oggi più che mai il personale di sala rappresenta il fattore umano che condiziona la buona riuscita dell’esperienza gastronomica. E Marta Cotarella ci ha spiegato perché.
 
@@ -49,9 +49,9 @@ Basta avere un diploma superiore e una grande passione per il mondo dell’accog
 **_Una scuola come la vostra come ha reagito all’emergenza Covid?_**  
 Il Covid ci ha imposto di ragionare sulla programmazione didattica. Con il primo lockdown siamo stati costretti a mandare a casa i ragazzi, che qui alloggiano, nel pieno del terzo anno accademico e a organizzare delle lezioni a distanza. La formazione sul campo in un percorso come questo ovviamente è essenziale, quindi a settembre abbiamo deciso di riaprire la parte pratica e tutti i ragazzi sono tornati per fare ulteriori due mesi in accademia prima di partire per gli stage. Nel nostro caso la didattica a distanza è percorribile solo per alcune discipline teoriche ma la parte importante del percorso presuppone la presenza. Fortunatamente gli istituti che offrono formazione residenziale, come il nostro, hanno la possibilità di proseguire nella didattica in presenza. I ragazzi, così come il personale scolastico sono sottoposti a tampone ogni 20 giorni e noi abbiamo avviato l’11 gennaio il quarto anno accademico mettendo in atto tutte le norme in materia di igiene e sicurezza.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-19.jpg?w=1024" alt="" class="wp-image-1954" width="612" height="407" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-19.jpg?w=1024" >}}
+
 
 **_Quali sono gli aspetti principali nei quali formate gli alunni e come si diventa un cameriere di alta ristorazione?_**  
 I pilastri fondamentali sono il mondo dell’accoglienza, del servizio e della sommellerie. Abbiamo poi immaginato un percorso che permettesse agli studenti di andare in profondità sulle varie materie affrontate. Abbiamo aggiunto l’insegnamento di inglese, francese e spagnolo, fondamentali in questo settore, abbiamo introdotto materie come agronomia e enologia, scienze dell’alimentazione, marketing, psicologia del cliente, bon ton, portamento, luci, musica, tutto ciò che aiuta a comprendere come creare l’atmosfera giusta nella sala di un ristorante. Dopo i sei mesi di formazione in aula, i ragazzi ne fanno altrettanti di stage, poi tornano per l’esame finale.
@@ -63,9 +63,9 @@ Ognuno di noi ha dei talenti naturali che vanno coltivati. Questo in qualsiasi s
   <strong><em>Negli ultimi anni c’è stato un cambio di mentalità che ha portato a considerare la professione di cameriere non più quasi un ripiego, ma una vera scelta professionale consapevole?</em></strong><br />Sicuramente negli ultimi cinque o sei anni si è iniziato a parlare seriamente di sala. Questo a noi fa piacere ma è anche motivo di grande orgoglio. Credo che la cucina sia fondamentale ma che lo sia altrettanto la sala nella buona riuscita di un servizio o nella valutazione di un ristorante. Non solo nell’alta ristorazione ma in generale. Il ristorante è fondamentalmente un’azienda: c’è una parte produttiva, la cucina, e una parte commerciale, che è la sala. L’una senza l’altra non funzionano.
 </p>
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-59.jpg?w=1024" alt="" class="wp-image-1952" width="595" height="396" /></figure>
-</div>
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-59.jpg?w=1024" >}}
+
 
 **_Pensi che, tra guide, critica, giornalismo di settore, al personale di sala venga riconosciuto il giusto valore, specialmente nell’alta ristorazione?_**  
 Negli ultimi tempi si è mosso qualcosa, alla sala sta venendo riconosciuto il valore che merita. C’è ancora molto da fare ma lavoriamo per questo. Le maggiori guide, nazionali e internazionali, da qualche anno riconoscono il premio di sala e questo è molto importante e ci spinge a lavorare sempre col massimo impegno.
@@ -74,40 +74,36 @@ Negli ultimi tempi si è mosso qualcosa, alla sala sta venendo riconosciuto il v
 È un momento per la ristorazione in generale molto delicato. La nostra speranza è che tutto riparta il prima possibile. Noi siamo convinti che il ristorante di per sé non sia un luogo di contagio, nei locali ovviamente dove le norme vengono messe in atto. Speriamo che, anche grazie ai vaccini, sia un’estate relativamente serena e che la macchina possa ripartire il prima possibile.&nbsp;
 
 **_Per chiudere, quali credi siano le tre qualità principali di un ottimo cameriere?_**  
-Per noi di Intrecci le tre caratteristiche essenziali della sala sono la classe, intesa come eleganza nell’accoglienza, il carattere, cioè anche la capacità di esprimere il proprio io pur sempre al servizio del cliente e il calore, tipico del nostro Paese, la capacità di accogliere che solo noi italiani abbiamo.<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-15 is-layout-flex wp-block-gallery-is-layout-flex">
+Per noi di Intrecci le tre caratteristiche essenziali della sala sono la classe, intesa come eleganza nell’accoglienza, il carattere, cioè anche la capacità di esprimere il proprio io pur sempre al servizio del cliente e il calore, tipico del nostro Paese, la capacità di accogliere che solo noi italiani abbiamo.
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-11.jpg?w=1024" alt="" >}}
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-11.jpg?w=1024" alt="" data-id="1962" class="wp-image-1962" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-15.jpg?w=1024" alt="" data-id="1964" class="wp-image-1964" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-20.jpg?w=1024" alt="" data-id="1965" class="wp-image-1965" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-16.jpg?w=1024" alt="" data-id="1969" class="wp-image-1969" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-23.jpg?w=1024" alt="" data-id="1968" class="wp-image-1968" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-27.jpg?w=1024" alt="" data-id="1963" class="wp-image-1963" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-30.jpg?w=1024" alt="" data-id="1966" class="wp-image-1966" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-29.jpg?w=1024" alt="" data-id="1967" class="wp-image-1967" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-45.jpg?w=1024" alt="" data-id="1970" class="wp-image-1970" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-49.jpg?w=1024" alt="" data-id="1971" class="wp-image-1971" /></figure>
-  </li>
-</ul></figure> 
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-15.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-20.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-16.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-23.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-27.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-30.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-29.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-45.jpg?w=1024" alt="" >}}
+
+
+{{< figure src="images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-49.jpg?w=1024" alt="" >}}
+ 
 
 Leggi anche:  
 &#8211; <a rel="noreferrer noopener" href="https://aleepepe.com/2020/08/10/intervista-oliver-glowig-barrique/" target="_blank">Oliver Glowig</a>: &#8220;Non abbiate paura dell&#8217;alta cucina&#8221;  

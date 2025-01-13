@@ -20,9 +20,9 @@ tags:
   - viterbo
 
 ---
-_**Il corso per assaggiatori di olio di oliva presso l&#8217;Università della Tuscia si presenta come utile opportunità per appassionati e professionisti del settore. Offrendo una formazione completa e riconosciuta, il programma si propone di aumentare la conoscenza e le competenze nel campo dell&#8217;olio di oliva, contribuendo così alla promozione della qualità e dell&#8217;eccellenza nel settore.**_<figure class="wp-block-image aligncenter size-large is-resized">
-
-<img decoding="async" src="images/wp-content/uploads/2022/09/viterbo-assaggi.png" alt="" class="wp-image-2311" style="width:588px;height:auto" /> <figcaption class="wp-element-caption">A Viterbo riparte il corso dedicato all&#8217;olio extravergine di oliva</figcaption></figure> 
+_**Il corso per assaggiatori di olio di oliva presso l&#8217;Università della Tuscia si presenta come utile opportunità per appassionati e professionisti del settore. Offrendo una formazione completa e riconosciuta, il programma si propone di aumentare la conoscenza e le competenze nel campo dell&#8217;olio di oliva, contribuendo così alla promozione della qualità e dell&#8217;eccellenza nel settore.**_
+{{< figure src="images/wp-content/uploads/2022/09/viterbo-assaggi.png" caption="A Viterbo riparte il corso dedicato all&#8217;olio extravergine di oliva" >}}
+ 
 
 Presso l&#8217;**Università Degli Studi della Tuscia**, nel dipartimento DIBAF, via San Camillo de Lellis, prende il via la nuova edizione del corso per gli amanti dell&#8217;olio extravergine di oliva e del suo vasto (e ancora poco conosciuto) mondo. Il corso, dal titolo &#8220;**Assaggiatori olio di oliv**a&#8221;, mira a fornire una panoramica completa sull&#8217;olivicoltura italiana, oltre a trasmettere le nozioni fondamentali sulle caratteristiche fisiologiche dell&#8217;olio di oliva, al fine di riconoscere uno di buona qualità oltre ai difetti più tipici del prodotto.
 
