@@ -1,0 +1,141 @@
+# Start of Selection
+############### Navigazione Italiana ################
+
+# Menu a discesa
+[[main]]
+weight = 1
+name = "homepage"
+hasChildren = true
+
+[[main]]
+parent = "homepage"
+name = "Homepage a Larghezza Completa"
+url = "homepage/full/"
+weight = 1
+
+[[main]]
+parent = "homepage"
+name = "Homepage a Larghezza Completa con Sidebar Sinistra"
+url = "homepage/full-left/"
+weight = 2
+
+[[main]]
+parent = "homepage"
+name = "Homepage a Larghezza Completa con Sidebar Destra"
+url = "homepage/full-right/"
+weight = 3
+
+[[main]]
+parent = "homepage"
+name = "Stile Lista Homepage"
+url = "homepage/list/"
+weight = 4
+
+[[main]]
+parent = "homepage"
+name = "Lista Homepage con Sidebar Sinistra"
+url = "homepage/list-left/"
+weight = 5
+
+[[main]]
+parent = "homepage"
+name = "Lista Homepage con Sidebar Destra"
+url = "homepage/list-right/"
+weight = 6
+
+[[main]]
+parent = "homepage"
+name = "Stile Griglia Homepage"
+url = "homepage/grid/"
+weight = 7
+
+[[main]]
+parent = "homepage"
+name = "Griglia Homepage con Sidebar Sinistra"
+url = "homepage/grid-left/"
+weight = 8
+
+[[main]]
+parent = "homepage"
+name = "Griglia Homepage con Sidebar Destra"
+url = "homepage/grid-right/"
+weight = 9
+
+[[main]]
+name = "Chi Siamo"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Contatti"
+url = "contact/"
+weight = 3
+
+# Menu a discesa
+[[main]]
+weight = 4
+name = "Pagine"
+hasChildren = true
+
+[[main]]
+parent = "Pagine"
+name = "Autore"
+url = "author/john-doe/"
+weight = 1
+
+[[main]]
+parent = "Pagine"
+name = "Categoria"
+url = "categories/photography/"
+weight = 2
+
+[[main]]
+parent = "Pagine"
+name = "Tag"
+url = "tags/photo/"
+weight = 3
+
+[[main]]
+parent = "Pagine"
+name = "Cerca"
+url = "https://demo.gethugothemes.com/logbook/site/search/?s=coffee"
+weight = 4
+
+[[main]]
+parent = "Pagine"
+name = "Pagina 404"
+url = "404/"
+weight = 5
+
+[[main]]
+parent = "Pagine"
+name = "Elementi"
+url = "elements/"
+weight = 6
+
+[[main]]
+name = "Negozio"
+url = "shop/"
+weight = 5
+
+# menu footer
+[[footer]]
+name = "Chi Siamo"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contatti"
+url = "contact/"
+weight = 2
+
+[[footer]]
+name = "Informativa sulla Privacy"
+url = "privacy-policy/"
+weight = 3
+
+[[footer]]
+name = "Termini e Condizioni"
+url = "terms-conditions/"
+weight = 4
+# End of Selection

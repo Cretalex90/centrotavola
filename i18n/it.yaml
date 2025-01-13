@@ -1,0 +1,68 @@
+- id: continue_reading
+  translation: Continua a Leggere
+
+- id: search_placeholder
+  translation: Scrivi e Premi Invio...
+
+- id: latest_article
+  translation: Ultimo Articolo
+
+- id: categories
+  translation: Categorie
+
+- id: tags
+  translation: Tag
+
+- id: search
+  translation: Cerca
+
+- id: date
+  translation: Data
+
+- id: posted_by
+  translation: Pubblicato da
+
+- id: send
+  translation: Invia Ora
+
+- id: name
+  translation: Il Tuo Nome
+
+- id: email
+  translation: Il Tuo Indirizzo Email
+
+- id: message
+  translation: Il Tuo Messaggio
+
+- id: subscribe
+  translation: Iscriviti ora
+
+- id: write_email
+  translation: Non ami i moduli? Scrivici una Email
+
+- id: subscribe_newsletter
+  translation: Iscriviti alla Newsletter
+
+- id: quick_links
+  translation: Link Rapidi
+
+- id: social
+  translation: Link Social
+
+- id: back_to_home
+  translation: Torna alla Home
+
+- id: about_me
+  translation: Chi Sono
+
+- id: page_not_found
+  translation: Oops! Questa Pagina Non è Disponibile
+
+- id: search_input_placeholder
+  translation: Cerca nel Blog ..
+
+- id: no_results_for
+  translation: 0 risultati per
+
+- id: empty_search_results_placeholder
+  translation: Scrivi qualcosa per cercare.. 
