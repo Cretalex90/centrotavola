@@ -11,7 +11,7 @@ pagination.pagerSize = 6
 # post excerpt
 summaryLength = 50 # see https://gohugo.io/content-management/excerpts/analytics/answer/1008080?hl=en
 # disable language
-disableLanguages = ["fr"]        # disable language from here
+disableLanguages = ["fr", "en"]        # disable language from here
 capitalizeListTitles = false # capitalize list titles
 
 ########################### Services #############################
