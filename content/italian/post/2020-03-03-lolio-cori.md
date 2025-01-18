@@ -10,7 +10,6 @@ categories:
   - News
 tags:
   - olio
-  - 'olio d&#039;oliva'
 images: ["images/wp-content/uploads/2020/03/oliveto-molino-7cento.webp"]
 ---
 ### “L’essenziale è invisibile agli occhi”. È con questa frase del Piccolo Principe di Antoine de Saint-Exupery che si presenta online l’Azienda Agricola ed Agrituristica Molino 7Cento situata sulle colline di Cori.   {.wp-block-heading}
