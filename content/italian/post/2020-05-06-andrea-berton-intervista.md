@@ -3,7 +3,7 @@ title: 'Andrea Berton: “Asporto e voucher: il ristorante al tempo del Coronavi
 author: ciao
 type: regular
 date: 2020-05-06T08:14:42+00:00
-url: /andrea-berton-intervista/
+
 timeline_notification:
   - 1588752886
 categories:

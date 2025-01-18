@@ -3,7 +3,7 @@ title: 'Il settore degli eventi food&wine è ripartito con Vinòforum – Galler
 author: ciao
 type: regular
 date: 2020-09-22T07:33:45+00:00
-url: /vinoforum-roma-gallery-foto/
+
 timeline_notification:
   - 1600760029
 categories:

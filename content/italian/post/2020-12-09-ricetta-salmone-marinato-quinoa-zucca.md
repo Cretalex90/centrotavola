@@ -3,7 +3,7 @@ title: Ricetta salmone marinato con barbabietola, quinoa e zucca
 author: ciao
 type: regular
 date: 2020-12-09T11:17:34+00:00
-url: /ricetta-salmone-marinato-quinoa-zucca/
+
 timeline_notification:
   - 1607512657
 categories:

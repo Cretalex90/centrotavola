@@ -3,7 +3,7 @@ title: 'Vinòforum: a Roma calici in alto dall’11 al 20 settembre'
 author: ciao
 type: regular
 date: 2020-09-02T14:37:54+00:00
-url: /vinoforum-roma/
+
 timeline_notification:
   - 1599057477
 categories:

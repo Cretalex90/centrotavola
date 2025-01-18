@@ -3,7 +3,7 @@ title: 'Nasce il panettone della Tuscia: per Natale arriva il Pantruscone'
 author: ciao
 type: regular
 date: 2024-12-05T17:18:32+00:00
-url: /nasce-il-panettone-della-tuscia-per-natale-arriva-il-pantruscone/
+
 firehose_sent:
   - 1733419114
 timeline_notification:

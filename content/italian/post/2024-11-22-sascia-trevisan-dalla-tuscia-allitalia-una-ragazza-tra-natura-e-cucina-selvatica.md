@@ -3,7 +3,7 @@ title: 'Sascia Trevisan, dalla Tuscia all’Italia: una ragazza tra natura e cuc
 author: ciao
 type: regular
 date: 2024-11-22T11:57:29+00:00
-url: /sascia-trevisan-dalla-tuscia-allitalia-una-ragazza-tra-natura-e-cucina-selvatica/
+
 firehose_sent:
   - 1732276651
 timeline_notification:

@@ -3,7 +3,7 @@ title: Ricetta – Mousse ricotta e cioccolato, per scaldare il piatto e il pala
 author: ciao
 type: regular
 date: 2020-09-29T09:59:39+00:00
-url: /ricetta-mousse-ricotta-e-cioccolato-per-scaldare-il-piatto-e-il-palato/
+
 timeline_notification:
   - 1601373583
 categories:

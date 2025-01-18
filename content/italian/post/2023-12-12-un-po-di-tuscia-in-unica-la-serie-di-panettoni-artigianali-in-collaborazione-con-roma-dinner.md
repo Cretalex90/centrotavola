@@ -3,7 +3,7 @@ title: Un po’ di Tuscia in “Unica”, la ‘serie’ di panettoni artigianal
 author: ciao
 type: regular
 date: 2023-12-12T20:02:32+00:00
-url: /un-po-di-tuscia-in-unica-la-serie-di-panettoni-artigianali-in-collaborazione-con-roma-dinner/
+
 firehose_sent:
   - 1702411353
 timeline_notification:

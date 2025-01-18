@@ -3,7 +3,7 @@ title: 'A Roma al via Vinòforum: a Parco Tor di Quinto l’edizione del ventenn
 author: ciao
 type: regular
 date: 2023-06-08T20:14:28+00:00
-url: /a-roma-al-via-vinoforum-a-parco-tor-di-quinto-ledizione-del-ventennale/
+
 timeline_notification:
   - 1686255271
 wordads_ufa:

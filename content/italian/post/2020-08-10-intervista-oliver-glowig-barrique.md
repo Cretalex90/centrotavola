@@ -3,7 +3,7 @@ title: “Non abbiate paura dell’alta cucina”, parola di Oliver Glowig
 author: ciao
 type: regular
 date: 2020-08-10T10:00:00+00:00
-url: /intervista-oliver-glowig-barrique/
+
 timeline_notification:
   - 1597054340
 categories:

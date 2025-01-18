@@ -3,7 +3,7 @@ title: 'Corrado Brachino di Amarcord: “Questa è la mia pizza 2.0”'
 author: ciao
 type: regular
 date: 2020-10-26T11:42:22+00:00
-url: /corrado-brachino-amarcord-viterbo/
+
 timeline_notification:
   - 1603712545
 categories:

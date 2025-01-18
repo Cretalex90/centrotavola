@@ -3,7 +3,7 @@ title: 'Ricetta: Risi e Bisi nel mare'
 author: ciao
 type: regular
 date: 2019-10-26T18:43:07+00:00
-url: /risi-e-bisi-nel-mare/
+
 timeline_notification:
   - 1572115390
 categories:

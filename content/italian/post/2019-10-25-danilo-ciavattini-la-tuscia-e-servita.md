@@ -3,7 +3,7 @@ title: 'Danilo Ciavattini: la Tuscia è servita'
 author: ciao
 type: regular
 date: 2019-10-25T14:47:00+00:00
-url: /danilo-ciavattini-la-tuscia-e-servita/
+
 timeline_notification:
   - 1564670859
 categories:

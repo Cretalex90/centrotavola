@@ -3,7 +3,7 @@ title: “Zero tagli, nuovo locale e voglio aprire a Firenze” parola di Paulo 
 author: ciao
 type: regular
 date: 2020-06-01T09:41:32+00:00
-url: /paulo-airaudo/
+
 timeline_notification:
   - 1591004497
 categories:

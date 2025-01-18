@@ -3,7 +3,7 @@ title: Come è cambiato mangiare in un ristorante stellato dopo il lockdown
 author: ciao
 type: regular
 date: 2020-06-24T10:33:46+00:00
-url: /come-e-cambiato-mangiare-ristorante/
+
 timeline_notification:
   - 1592994830
 categories:

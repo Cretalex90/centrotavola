@@ -3,7 +3,7 @@ title: Ricetta crostata lampone e pistacchio
 author: ciao
 type: regular
 date: 2021-02-09T16:14:09+00:00
-url: /ricetta-crostata-lampone-pistacchio/
+
 timeline_notification:
   - 1612887252
 categories:

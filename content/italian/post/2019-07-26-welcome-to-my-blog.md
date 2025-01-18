@@ -3,7 +3,7 @@ title: 'Ale&pepe'
 author: ciao
 type: regular
 date: 2019-07-26T17:50:42+00:00
-url: /welcome-to-my-blog/
+
 sharing_disabled:
   - 'a:1:{i:0;N;}'
 switch_like_status:

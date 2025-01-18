@@ -3,7 +3,7 @@ title: 'Coro: a Orvieto ospite Terry Giacomello in una cena a 4 mani con Ronald 
 author: ciao
 type: regular
 date: 2024-12-03T15:04:47+00:00
-url: /coro-a-orvieto-ospite-terry-giacomello-in-una-cena-a-4-mani-con-ronald-bukri/
+
 firehose_sent:
   - 1733238289
 timeline_notification:

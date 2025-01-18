@@ -3,7 +3,7 @@ title: Colore e sapore, la ricetta del risotto (blu) alla pescatora
 author: ciao
 type: regular
 date: 2020-08-18T11:14:09+00:00
-url: /ricetta-risotto-blu-pescatora/
+
 timeline_notification:
   - 1597749252
 categories:

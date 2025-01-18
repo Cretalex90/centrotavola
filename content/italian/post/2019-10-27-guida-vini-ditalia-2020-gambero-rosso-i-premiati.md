@@ -3,7 +3,7 @@ title: 'Guida Vini d’Italia 2020 Gambero Rosso: i premiati'
 author: ciao
 type: regular
 date: 2019-10-27T19:32:47+00:00
-url: /guida-vini-ditalia-2020-gambero-rosso-i-premiati/
+
 timeline_notification:
   - 1572204771
 categories:

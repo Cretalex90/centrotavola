@@ -3,7 +3,7 @@ title: 'Lenticchie e cotechino: la ricetta gourmet e anti spreco'
 author: ciao
 type: regular
 date: 2020-01-07T11:54:37+00:00
-url: /lenticchie-e-cotechino-ricetta-gourmet/
+
 timeline_notification:
   - 1578398080
 categories:

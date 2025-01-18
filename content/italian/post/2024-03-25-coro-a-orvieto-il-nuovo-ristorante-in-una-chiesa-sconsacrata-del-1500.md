@@ -3,7 +3,7 @@ title: Coro, a Orvieto il nuovo ristorante in una chiesa sconsacrata del 1500
 author: ciao
 type: regular
 date: 2024-03-25T18:14:39+00:00
-url: /coro-a-orvieto-il-nuovo-ristorante-in-una-chiesa-sconsacrata-del-1500/
+
 wordads_ufa:
   - s:wpcom-ufa-v4:1711442499
 firehose_sent:

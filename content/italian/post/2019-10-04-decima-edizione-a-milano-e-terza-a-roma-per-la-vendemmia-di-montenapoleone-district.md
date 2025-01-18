@@ -3,7 +3,7 @@ title: Decima edizione a Milano e terza a Roma per La Vendemmia di MonteNapoleon
 author: ciao
 type: regular
 date: 2019-10-04T12:48:20+00:00
-url: /decima-edizione-a-milano-e-terza-a-roma-per-la-vendemmia-di-montenapoleone-district/
+
 timeline_notification:
   - 1570193303
 categories:

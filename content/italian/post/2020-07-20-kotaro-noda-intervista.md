@@ -3,7 +3,7 @@ title: Kotaro Noda. Tokyo Roma a/r, con tappa a Viterbo – L’intervista
 author: ciao
 type: regular
 date: 2020-07-20T10:00:51+00:00
-url: /kotaro-noda-intervista/
+
 timeline_notification:
   - 1595239534
 categories:

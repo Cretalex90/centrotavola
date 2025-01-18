@@ -3,7 +3,7 @@ title: Nuova apertura a Terni, Ristorante Sud nel centro cittadino
 author: ciao
 type: regular
 date: 2022-11-18T19:45:03+00:00
-url: /nuova-apertura-a-terni-ristorante-sud-nel-centro-cittadino/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1668873724
 timeline_notification:

@@ -3,7 +3,7 @@ title: Giulia Maggini, imprenditrice con il cuore nelle sue ‘terrae’
 author: ciao
 type: regular
 date: 2024-11-12T16:21:36+00:00
-url: /giulia-maggini-unimprenditrice-con-il-cuore-nelle-terrae/
+
 firehose_sent:
   - 1731428497
 timeline_notification:

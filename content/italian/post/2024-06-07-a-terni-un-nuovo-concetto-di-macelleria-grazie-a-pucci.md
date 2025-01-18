@@ -3,7 +3,7 @@ title: A Terni un nuovo concetto di “macelleria” grazie a Pucci
 author: ciao
 type: regular
 date: 2024-06-07T10:19:54+00:00
-url: /a-terni-un-nuovo-concetto-di-macelleria-grazie-a-pucci/
+
 firehose_sent:
   - 1717755596
 timeline_notification:

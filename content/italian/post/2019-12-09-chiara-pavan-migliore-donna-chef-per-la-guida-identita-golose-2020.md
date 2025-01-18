@@ -3,7 +3,7 @@ title: Chiara Pavan migliore donna chef per la guida Identità Golose 2020
 author: ciao
 type: regular
 date: 2019-12-09T19:38:38+00:00
-url: /chiara-pavan-migliore-donna-chef-per-la-guida-identita-golose-2020/
+
 timeline_notification:
   - 1575920321
 categories:

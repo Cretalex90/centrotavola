@@ -3,7 +3,7 @@ title: L’Olio di Cori tra i migliori al mondo
 author: ciao
 type: regular
 date: 2020-03-03T11:16:36+00:00
-url: /lolio-cori/
+
 timeline_notification:
   - 1583234199
 categories:

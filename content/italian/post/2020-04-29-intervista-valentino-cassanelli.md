@@ -3,7 +3,7 @@ title: Intervista a Valentino Cassanelli – La cucina al tempo del Coronavirus
 author: ciao
 type: regular
 date: 2020-04-29T10:51:39+00:00
-url: /intervista-valentino-cassanelli/
+
 timeline_notification:
   - 1588157502
 categories:

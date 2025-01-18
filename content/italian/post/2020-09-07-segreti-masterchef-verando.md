@@ -3,7 +3,7 @@ title: Dietro le quinte di Masterchef con Verando
 author: ciao
 type: regular
 date: 2020-09-07T18:46:06+00:00
-url: /segreti-masterchef-verando/
+
 timeline_notification:
   - 1599504370
 wordads_ufa:

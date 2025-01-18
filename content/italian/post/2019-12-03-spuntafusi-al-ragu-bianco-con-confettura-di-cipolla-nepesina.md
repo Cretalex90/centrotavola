@@ -3,7 +3,7 @@ title: 'Ricetta: Spuntafusi al ragù bianco con confettura di cipolla nepesina'
 author: ciao
 type: regular
 date: 2019-12-03T11:30:00+00:00
-url: /spuntafusi-al-ragu-bianco-con-confettura-di-cipolla-nepesina/
+
 timeline_notification:
   - 1575373229
 categories:

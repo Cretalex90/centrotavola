@@ -3,7 +3,7 @@ title: Ricetta Mimosa al piatto alla vaniglia, frutti rossi e pistacchio
 author: ciao
 type: regular
 date: 2021-03-05T12:02:10+00:00
-url: /ricetta-dessert-mimosa-vaniglia-pistacchio/
+
 timeline_notification:
   - 1614945733
 categories:

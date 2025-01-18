@@ -3,7 +3,7 @@ title: Pasticceri e Pasticcerie di Gambero Rosso 2020
 author: ciao
 type: regular
 date: 2019-11-19T12:24:00+00:00
-url: /pasticceri-e-pasticcerie-di-gambero-rosso-2020/
+
 timeline_notification:
   - 1574339122
 categories:

@@ -3,7 +3,7 @@ title: Andrea Fanti, il Croma Lago e il coraggio di osare
 author: ciao
 type: regular
 date: 2021-03-16T10:50:18+00:00
-url: /andrea-fanti-croma-lago-menu/
+
 timeline_notification:
   - 1615891821
 categories:

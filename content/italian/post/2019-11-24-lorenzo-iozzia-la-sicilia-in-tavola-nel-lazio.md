@@ -3,7 +3,7 @@ title: 'Lorenzo Iozzia: la Sicilia in tavola (nel Lazio)'
 author: ciao
 type: regular
 date: 2019-11-24T08:02:00+00:00
-url: /lorenzo-iozzia-la-sicilia-in-tavola-nel-lazio/
+
 timeline_notification:
   - 1574592923
 categories:

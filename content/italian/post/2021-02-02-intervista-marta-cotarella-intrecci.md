@@ -3,7 +3,7 @@ title: 'Intervista a Marta Cotarella di Intrecci: “Così formiamo il personale
 author: ciao
 type: regular
 date: 2021-02-02T10:33:23+00:00
-url: /intervista-marta-cotarella-intrecci/
+
 timeline_notification:
   - 1612262008
 categories:

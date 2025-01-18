@@ -3,7 +3,7 @@ title: Sociale, inclusivo ed etico il menu di Paolo Trippini a Civitella del Lag
 author: ciao
 type: regular
 date: 2023-04-07T14:30:25+00:00
-url: /sociale-inclusivo-ed-etico-il-menu-di-paolo-trippini-a-civitella-del-lago/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1680878030
 timeline_notification:

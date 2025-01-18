@@ -3,7 +3,7 @@ title: 'Cocktail bar rivelazione d’Italia: tra i candidati anche il Lab di Vit
 author: ciao
 type: regular
 date: 2022-09-22T18:52:47+00:00
-url: /cocktail-bar-rivelazione-ditalia-tra-i-candidati-anche-il-lab-di-viterbo/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1663873083
 timeline_notification:

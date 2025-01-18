@@ -3,7 +3,7 @@ title: 'Nico Salvatori Best Bartender under 35 ai Food&Wine Italia Awards'
 author: ciao
 type: regular
 date: 2020-02-20T19:48:23+00:00
-url: /nico-salvatori-best-bartender-under-35-ai-foodwine-italia-awards/
+
 timeline_notification:
   - 1582228106
 categories:

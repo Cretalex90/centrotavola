@@ -3,7 +3,7 @@ title: Slow Food celebra la Giornata Mondiale dell’Alimentazione
 author: ciao
 type: regular
 date: 2019-10-17T17:29:00+00:00
-url: /slow-food-celebra-la-giornata-mondiale-dellalimentazione/
+
 timeline_notification:
   - 1571333344
 categories:

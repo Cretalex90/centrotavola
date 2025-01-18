@@ -3,7 +3,7 @@ title: 'Philiaz: un viaggio nel gusto ispirandosi a Jules Verne'
 author: ciao
 type: regular
 date: 2019-12-02T21:17:44+00:00
-url: /philiaz-un-viaggio-nel-gusto-ispirandosi-a-jules-verne/
+
 timeline_notification:
   - 1575321467
 categories:

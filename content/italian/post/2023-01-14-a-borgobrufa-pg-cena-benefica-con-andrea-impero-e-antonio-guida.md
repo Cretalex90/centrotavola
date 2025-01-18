@@ -3,7 +3,7 @@ title: A Borgobrufa (PG) cena benefica con Andrea Impero e Antonio Guida
 author: ciao
 type: regular
 date: 2023-01-14T07:44:14+00:00
-url: /a-borgobrufa-pg-cena-benefica-con-andrea-impero-e-antonio-guida/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1673682379
 timeline_notification:

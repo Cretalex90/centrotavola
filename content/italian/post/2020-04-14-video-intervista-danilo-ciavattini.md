@@ -3,7 +3,7 @@ title: Video intervista a Danilo Ciavattini ai tempi della quarantena
 author: ciao
 type: regular
 date: 2020-04-14T09:24:07+00:00
-url: /video-intervista-danilo-ciavattini/
+
 timeline_notification:
   - 1586856250
 categories:

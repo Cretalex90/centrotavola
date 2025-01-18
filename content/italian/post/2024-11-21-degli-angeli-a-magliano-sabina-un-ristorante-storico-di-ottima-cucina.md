@@ -3,7 +3,7 @@ title: Degli Angeli, a Magliano Sabina un ristorante storico di ottima cucina
 author: ciao
 type: regular
 date: 2024-11-21T08:43:38+00:00
-url: /degli-angeli-a-magliano-sabina-un-ristorante-storico-di-ottima-cucina/
+
 timeline_notification:
   - 1732178623
 firehose_sent:

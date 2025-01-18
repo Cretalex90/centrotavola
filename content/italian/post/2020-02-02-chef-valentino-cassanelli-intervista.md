@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2020-02-02T11:00:00+00:00
 excerpt: "Valentino Cassanelli è lo chef del Lux Lucis presso l'Hotel Principe di Forte dei Marmi. Una stella Michelin, è stato allievo di Carlo Cracco e Giorgio Locatelli. Le sue parole"
-url: /chef-valentino-cassanelli-intervista/
+
 timeline_notification:
   - 1580643088
 categories:

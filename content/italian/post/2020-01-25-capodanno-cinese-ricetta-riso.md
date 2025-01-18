@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2020-01-25T10:30:00+00:00
 excerpt: 'Festeggiamo a nostro modo il Capodanno cinese proponendo un piatto a base di uno degli ingredienti tipici della Cina: il riso'
-url: /capodanno-cinese-ricetta-riso/
+
 timeline_notification:
   - 1579949718
 categories:

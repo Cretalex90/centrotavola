@@ -3,7 +3,7 @@ title: “Emergente” i giovani talenti della ristorazione all’Alto Cocktail 
 author: ciao
 type: regular
 date: 2024-06-06T09:14:34+00:00
-url: /emergente-i-giovani-talenti-della-ristorazione-allalto-cocktail-festival-di-cervia/
+
 firehose_sent:
   - 1717665276
 timeline_notification:

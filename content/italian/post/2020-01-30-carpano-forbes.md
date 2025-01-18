@@ -3,7 +3,7 @@ title: Carpano eletto tra le “100 eccellenze italiane 2020” da Forbes
 author: ciao
 type: regular
 date: 2020-01-30T14:31:25+00:00
-url: /carpano-forbes/
+
 timeline_notification:
   - 1580394688
 categories:

@@ -3,7 +3,7 @@ title: 'Ricetta: medaglioni di vitello con erbe aromatiche, purea e verdure'
 author: ciao
 type: regular
 date: 2020-09-16T09:39:25+00:00
-url: /ricetta-vitello-erbe-aromatiche/
+
 timeline_notification:
   - 1600249170
 categories:

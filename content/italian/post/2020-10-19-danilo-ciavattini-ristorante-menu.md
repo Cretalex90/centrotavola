@@ -3,7 +3,7 @@ title: “La Tuscia a modo mio” – Al Danilo Ciavattini Ristorante nuovo menu
 author: ciao
 type: regular
 date: 2020-10-19T10:25:59+00:00
-url: /danilo-ciavattini-ristorante-menu/
+
 timeline_notification:
   - 1603103164
 categories:

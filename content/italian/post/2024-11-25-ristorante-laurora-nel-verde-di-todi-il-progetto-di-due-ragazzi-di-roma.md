@@ -3,7 +3,7 @@ title: Ristorante L’Aurora, nel verde di Todi il progetto di due ragazzi di Ro
 author: ciao
 type: regular
 date: 2024-11-25T15:25:18+00:00
-url: /ristorante-laurora-nel-verde-di-todi-il-progetto-di-due-ragazzi-di-roma/
+
 firehose_sent:
   - 1732548319
 timeline_notification:

@@ -3,7 +3,7 @@ title: Riccardo Camanini e Gabriele Bonci mentori della finale San Pellegrino Yo
 author: ciao
 type: regular
 date: 2019-09-28T18:34:16+00:00
-url: /riccardo-camanini-e-gabriele-bonci-mentori-della-finale-san-pellegrino-young-chef/
+
 timeline_notification:
   - 1569695659
 categories:

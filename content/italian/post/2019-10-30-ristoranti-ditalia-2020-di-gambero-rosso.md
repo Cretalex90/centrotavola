@@ -3,7 +3,7 @@ title: 'Ristoranti d’Italia 2020 di Gambero Rosso: i Tre Forchette'
 author: ciao
 type: regular
 date: 2019-10-30T15:27:41+00:00
-url: /ristoranti-ditalia-2020-di-gambero-rosso/
+
 timeline_notification:
   - 1572449264
 categories:

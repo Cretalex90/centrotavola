@@ -3,7 +3,7 @@ title: “A casa come da noi”, a Viterbo il LAB scommette su delivery e asport
 author: ciao
 type: regular
 date: 2021-02-14T08:47:10+00:00
-url: /delivery-asporto-lab-viterbo/
+
 timeline_notification:
   - 1613292434
 categories:

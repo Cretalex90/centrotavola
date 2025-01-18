@@ -3,7 +3,7 @@ title: Come è stata la prima edizione di Assaggi, il salone dell’enogastronom
 author: ciao
 type: regular
 date: 2022-10-04T08:45:00+00:00
-url: /come-e-stata-la-prima-edizione-di-assaggi-il-salone-dellenogastronomia-laziale-a-viterbo/
+
 wordads_ufa:
   - u:wpcom-ufa-v3-beta:1664873564
 timeline_notification:

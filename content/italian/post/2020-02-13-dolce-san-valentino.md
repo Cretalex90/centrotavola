@@ -3,7 +3,7 @@ title: 'Dolce di San Valentino: bavarese al cioccolato bianco e rosmarino con gl
 author: ciao
 type: regular
 date: 2020-02-13T13:33:40+00:00
-url: /dolce-san-valentino/
+
 timeline_notification:
   - 1581600823
 categories:

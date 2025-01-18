@@ -3,7 +3,7 @@ title: Pesce di lago? A Grotte di Castro più che un Capriccio, è una filosofia
 author: ciao
 type: regular
 date: 2024-12-09T08:57:26+00:00
-url: /pesce-di-lago-a-grotte-di-castro-piu-che-un-capriccio-e-una-filosofia/
+
 firehose_sent:
   - 1733734647
 timeline_notification:

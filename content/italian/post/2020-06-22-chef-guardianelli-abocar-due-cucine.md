@@ -3,7 +3,7 @@ title: 'Chef Guardianelli, Abocar Due Cucine: “Chiusura ristorante? A me ha fa
 author: ciao
 type: regular
 date: 2020-06-22T10:01:50+00:00
-url: /chef-guardianelli-abocar-due-cucine/
+
 timeline_notification:
   - 1592820113
 categories:

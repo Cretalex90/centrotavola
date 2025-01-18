@@ -3,7 +3,7 @@ title: Andrea Astolfi, uno chef della Tuscia tra i migliori giovani per la redaz
 author: ciao
 type: regular
 date: 2024-11-26T07:57:46+00:00
-url: /andrea-astolfi-uno-chef-della-tuscia-tra-i-migliori-giovani-per-la-redazione-di-cook/
+
 firehose_sent:
   - 1732607867
 timeline_notification:

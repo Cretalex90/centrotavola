@@ -3,7 +3,7 @@ title: 'Mammé: sulle colline ternane un ristorantino tutto da scoprire'
 author: ciao
 type: regular
 date: 2024-06-06T09:33:19+00:00
-url: /mamme-sulle-colline-ternane-un-ristorantino-tutto-da-scoprire/
+
 firehose_sent:
   - 1717666400
 timeline_notification:

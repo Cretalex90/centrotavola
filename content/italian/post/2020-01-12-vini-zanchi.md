@@ -3,7 +3,7 @@ title: 'Vini Zanchi: 50 anni all’insegna del bio e della tradizione'
 author: ciao
 type: regular
 date: 2020-01-12T11:00:00+00:00
-url: /vini-zanchi/
+
 timeline_notification:
   - 1578830236
 categories:

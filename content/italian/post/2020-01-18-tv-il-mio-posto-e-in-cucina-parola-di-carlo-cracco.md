@@ -3,7 +3,7 @@ title: “Tv? Il mio posto è in cucina” – Parola di Carlo Cracco
 author: ciao
 type: regular
 date: 2020-01-18T11:07:00+00:00
-url: /tv-il-mio-posto-e-in-cucina-parola-di-carlo-cracco/
+
 timeline_notification:
   - 1577617658
 categories:

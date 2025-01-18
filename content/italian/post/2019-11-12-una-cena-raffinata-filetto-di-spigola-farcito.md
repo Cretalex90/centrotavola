@@ -3,7 +3,7 @@ title: 'Ricetta: Una cena raffinata. Filetto di spigola farcito'
 author: ciao
 type: regular
 date: 2019-11-12T12:30:47+00:00
-url: /una-cena-raffinata-filetto-di-spigola-farcito/
+
 timeline_notification:
   - 1573561850
 categories:

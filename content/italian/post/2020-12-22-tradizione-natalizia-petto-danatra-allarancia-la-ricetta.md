@@ -3,7 +3,7 @@ title: 'Tradizione natalizia: Petto d’anatra all’arancia, la ricetta'
 author: ciao
 type: regular
 date: 2020-12-22T17:49:15+00:00
-url: /tradizione-natalizia-petto-danatra-allarancia-la-ricetta/
+
 timeline_notification:
   - 1608659360
 categories:

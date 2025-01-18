@@ -3,7 +3,7 @@ title: Massimo Bottura apre Gucci Osteria a Los Angeles
 author: ciao
 type: regular
 date: 2020-02-11T17:40:38+00:00
-url: /bottura-gucci-osteria/
+
 timeline_notification:
   - 1581442841
 categories:

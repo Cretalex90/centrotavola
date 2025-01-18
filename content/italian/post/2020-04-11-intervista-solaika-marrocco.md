@@ -3,7 +3,7 @@ title: Intervista a Solaika Marrocco – La cucina (e la Pasqua) al tempo del Co
 author: ciao
 type: regular
 date: 2020-04-11T15:00:00+00:00
-url: /intervista-solaika-marrocco/
+
 timeline_notification:
   - 1586679193
 categories:

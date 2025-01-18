@@ -3,7 +3,7 @@ title: La mia pasticceria capovolta – L’intervista a Carmen Vecchione
 author: ciao
 type: regular
 date: 2019-07-30T20:02:26+00:00
-url: /la-mia-pasticceria-capovolta-lintervista-a-carmen-vecchione/
+
 timeline_notification:
   - 1564516949
 categories:

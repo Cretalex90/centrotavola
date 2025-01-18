@@ -3,7 +3,7 @@ title: Ricetta risotto fumè, funghi lamponi e caffè
 author: ciao
 type: regular
 date: 2020-11-24T11:14:33+00:00
-url: /ricetta-risotto-funghi-lamponi-caffe/
+
 timeline_notification:
   - 1606216476
 categories:

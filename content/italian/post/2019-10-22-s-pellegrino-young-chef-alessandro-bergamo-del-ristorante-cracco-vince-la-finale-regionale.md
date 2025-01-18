@@ -3,7 +3,7 @@ title: 'S.Pellegrino Young Chef: Alessandro Bergamo, del ristorante Cracco, vinc
 author: ciao
 type: regular
 date: 2019-10-22T20:00:49+00:00
-url: /s-pellegrino-young-chef-alessandro-bergamo-del-ristorante-cracco-vince-la-finale-regionale/
+
 timeline_notification:
   - 1571774452
 categories:

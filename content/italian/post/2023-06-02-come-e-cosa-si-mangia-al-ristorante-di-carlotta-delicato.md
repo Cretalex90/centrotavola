@@ -3,7 +3,7 @@ title: Come e cosa si mangia al ristorante di Carlotta Delicato
 author: ciao
 type: regular
 date: 2023-06-02T15:12:36+00:00
-url: /come-e-cosa-si-mangia-al-ristorante-di-carlotta-delicato/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1685719858
 timeline_notification:

@@ -3,7 +3,7 @@ title: 'Civita di Bagnoregio riparte dopo il Covid, il sindaco: “Tornano tanti
 author: ciao
 type: regular
 date: 2023-09-18T17:15:40+00:00
-url: /civita-di-bagnoregio-riparte-dopo-il-covid-il-sindaco-tornano-tanti-turisti/
+
 wordads_ufa:
   - s:wpcom-ufa-v4:1695057540
 wpcom_is_first_post:

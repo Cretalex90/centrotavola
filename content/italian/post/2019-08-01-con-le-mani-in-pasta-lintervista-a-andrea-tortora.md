@@ -3,7 +3,7 @@ title: Con le mani in pasta – L’intervista a Andrea Tortora
 author: ciao
 type: regular
 date: 2019-08-01T07:15:56+00:00
-url: /con-le-mani-in-pasta-lintervista-a-andrea-tortora/
+
 timeline_notification:
   - 1564643760
 categories:

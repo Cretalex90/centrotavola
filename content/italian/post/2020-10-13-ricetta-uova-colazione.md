@@ -3,7 +3,7 @@ title: 'Ricetta – Uova Deluxe: Colori e consistenze pt. 1'
 author: ciao
 type: regular
 date: 2020-10-13T09:41:00+00:00
-url: /ricetta-uova-colazione/
+
 timeline_notification:
   - 1602582063
 categories:

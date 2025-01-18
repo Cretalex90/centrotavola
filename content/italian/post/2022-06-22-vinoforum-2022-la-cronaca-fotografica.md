@@ -3,7 +3,7 @@ title: 'Vinòforum 2022: la cronaca fotografica'
 author: ciao
 type: regular
 date: 2022-06-22T19:12:56+00:00
-url: /vinoforum-2022-la-cronaca-fotografica/
+
 timeline_notification:
   - 1655925177
 categories:

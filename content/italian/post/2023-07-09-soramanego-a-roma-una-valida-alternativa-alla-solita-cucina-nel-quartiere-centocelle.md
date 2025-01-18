@@ -3,7 +3,7 @@ title: Soramànego, a Roma una valida alternativa alla ‘solita cucina’ nel q
 author: ciao
 type: regular
 date: 2023-07-09T17:32:53+00:00
-url: /soramanego-a-roma-una-valida-alternativa-alla-solita-cucina-nel-quartiere-centocelle/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1688924188
 timeline_notification:

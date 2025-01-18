@@ -3,7 +3,7 @@ title: Avvocato sì ma con la Stella Michelin – L’intervista a Cristina Bowe
 author: ciao
 type: regular
 date: 2019-07-27T19:19:04+00:00
-url: /avvocato-si-ma-con-la-stella-michelin-lintervista-a-cristina-bowerman/
+
 images: ["images/wp-content/uploads/2019/07/30a3275.webp"]
 timeline_notification:
   - 1564255150

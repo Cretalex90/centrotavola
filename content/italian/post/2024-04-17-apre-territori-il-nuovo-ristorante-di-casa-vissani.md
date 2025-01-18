@@ -3,7 +3,7 @@ title: Apre TerritOri, il nuovo ristorante di Casa Vissani
 author: ciao
 type: regular
 date: 2024-04-17T06:09:24+00:00
-url: /apre-territori-il-nuovo-ristorante-di-casa-vissani/
+
 wordads_ufa:
   - s:wpcom-ufa-v4:1713334887
 firehose_sent:

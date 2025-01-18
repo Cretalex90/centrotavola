@@ -3,7 +3,7 @@ title: 'Ripartenza con vista: la terrazza aperitivo al Cetaria dello chef Avallo
 author: ciao
 type: regular
 date: 2020-06-12T10:00:29+00:00
-url: /terrazza-cetaria-ristorante-avallone/
+
 timeline_notification:
   - 1591956390
 categories:

@@ -3,7 +3,7 @@ title: 'Ristorante Inkiostro, chef Giacomello: â€œSorprendere sempre il clienteâ
 author: ciao
 type: regular
 date: 2020-06-29T11:20:22+00:00
-url: /ristorante-inkiostro-chef-giacomello/
+
 timeline_notification:
   - 1593429625
 categories:

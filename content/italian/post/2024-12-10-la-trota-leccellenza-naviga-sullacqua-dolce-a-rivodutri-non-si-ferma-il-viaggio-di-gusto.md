@@ -3,7 +3,7 @@ title: La Trota, l’eccellenza “naviga” sull’acqua dolce. A Rivodutri non
 author: ciao
 type: regular
 date: 2024-12-10T17:36:37+00:00
-url: /la-trota-leccellenza-naviga-sullacqua-dolce-a-rivodutri-non-si-ferma-il-viaggio-di-gusto/
+
 firehose_sent:
   - 1733852199
 timeline_notification:

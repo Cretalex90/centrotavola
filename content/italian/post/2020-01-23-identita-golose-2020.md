@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2020-01-23T16:45:03+00:00
 excerpt: Il Senso di Responsabilità sarà il tema della nuova edizione di Identità Golose, a Milano dal 7 al 9 marzo.
-url: /identita-golose-2020/
+
 timeline_notification:
   - 1579797906
 categories:

@@ -3,7 +3,7 @@ title: Guida MICHELIN Italia 2020 – Segui la diretta streaming
 author: ciao
 type: regular
 date: 2019-11-05T08:28:33+00:00
-url: /guida-michelin-italia-2020-segui-la-diretta-streaming/
+
 timeline_notification:
   - 1572942516
 categories:

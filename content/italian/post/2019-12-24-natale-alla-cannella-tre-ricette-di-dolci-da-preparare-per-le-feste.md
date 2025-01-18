@@ -3,7 +3,7 @@ title: 'Natale alla cannella: tre ricette di dolci da preparare per le feste'
 author: ciao
 type: regular
 date: 2019-12-24T10:56:40+00:00
-url: /natale-alla-cannella-tre-ricette-di-dolci-da-preparare-per-le-feste/
+
 timeline_notification:
   - 1577185003
 categories:

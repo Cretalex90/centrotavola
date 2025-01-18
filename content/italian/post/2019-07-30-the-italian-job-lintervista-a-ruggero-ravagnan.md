@@ -3,7 +3,7 @@ title: The italian job – L’intervista a Ruggero Ravagnan
 author: ciao
 type: regular
 date: 2019-07-30T19:45:39+00:00
-url: /the-italian-job-lintervista-a-ruggero-ravagnan/
+
 timeline_notification:
   - 1564515942
 categories:

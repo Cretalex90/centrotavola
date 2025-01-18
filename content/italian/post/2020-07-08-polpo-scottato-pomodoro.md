@@ -3,7 +3,7 @@ title: Polpo scottato, su dressing al pomodoro e verdure croccanti
 author: ciao
 type: regular
 date: 2020-07-08T10:00:53+00:00
-url: /polpo-scottato-pomodoro/
+
 timeline_notification:
   - 1594203046
 categories:

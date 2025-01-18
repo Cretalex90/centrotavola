@@ -3,7 +3,7 @@ title: Riparte a Viterbo il Corso di idoneità fisiologica per assaggiatori di o
 author: ciao
 type: regular
 date: 2024-01-08T19:03:27+00:00
-url: /riparte-a-viterbo-il-corso-di-idoneita-fisiologica-per-assaggiatori-di-oli-vergini-di-oliva/
+
 wordads_ufa:
   - s:wpcom-ufa-v4:1704740851
 firehose_sent:

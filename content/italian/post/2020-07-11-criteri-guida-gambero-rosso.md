@@ -3,7 +3,7 @@ title: 'Riapertura ristoranti: come cambia la Guida del Gambero Rosso'
 author: ciao
 type: regular
 date: 2020-07-11T09:21:36+00:00
-url: /criteri-guida-gambero-rosso/
+
 timeline_notification:
   - 1594459301
 categories:

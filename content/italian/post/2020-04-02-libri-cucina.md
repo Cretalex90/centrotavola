@@ -3,7 +3,7 @@ title: 'Libri sulla cucina: le letture consigliate durante la quarantena. Parte 
 author: ciao
 type: regular
 date: 2020-04-02T12:38:45+00:00
-url: /libri-cucina/
+
 timeline_notification:
   - 1585831129
 categories:

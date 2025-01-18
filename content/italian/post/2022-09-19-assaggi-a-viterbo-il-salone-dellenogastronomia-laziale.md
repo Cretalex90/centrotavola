@@ -3,7 +3,7 @@ title: 'Assaggi: a Viterbo il salone dell’enogastronomia laziale'
 author: ciao
 type: regular
 date: 2022-09-19T16:51:31+00:00
-url: /assaggi-a-viterbo-il-salone-dellenogastronomia-laziale/
+
 timeline_notification:
   - 1663606294
 wordads_ufa:

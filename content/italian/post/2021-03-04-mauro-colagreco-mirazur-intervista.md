@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2021-03-04T13:31:27+00:00
 excerpt: Intervista allo chef del migliore ristorante al mondo, secondo la classifica 50 Best 2019. Mauro Colagreco
-url: /mauro-colagreco-mirazur-intervista/
+
 timeline_notification:
   - 1581246025
 categories:

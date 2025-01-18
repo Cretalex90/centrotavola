@@ -3,7 +3,7 @@ title: “Adotta un produttore” il nuovo progetto di Ambasciatori del Gusto
 author: ciao
 type: regular
 date: 2020-12-04T14:29:56+00:00
-url: /adotta-un-produttore-ambasciatori-del-gusto/
+
 timeline_notification:
   - 1607092199
 categories:

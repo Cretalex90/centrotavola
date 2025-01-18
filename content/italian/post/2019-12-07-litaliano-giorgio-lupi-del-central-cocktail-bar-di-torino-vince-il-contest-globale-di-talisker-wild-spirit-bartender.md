@@ -3,7 +3,7 @@ title: L’italiano Giorgio Lupi del Centràl Cocktail Bar di Torino vince il co
 author: ciao
 type: regular
 date: 2019-12-07T11:11:59+00:00
-url: /litaliano-giorgio-lupi-del-central-cocktail-bar-di-torino-vince-il-contest-globale-di-talisker-wild-spirit-bartender/
+
 timeline_notification:
   - 1575717122
 categories:

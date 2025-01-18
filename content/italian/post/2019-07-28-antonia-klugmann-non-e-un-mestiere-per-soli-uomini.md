@@ -3,7 +3,7 @@ title: 'Antonia Klugmann:  non è un mestiere per (soli) uomini'
 author: ciao
 type: regular
 date: 2019-07-28T11:00:44+00:00
-url: /antonia-klugmann-non-e-un-mestiere-per-soli-uomini/
+
 timeline_notification:
   - 1564311648
 categories:

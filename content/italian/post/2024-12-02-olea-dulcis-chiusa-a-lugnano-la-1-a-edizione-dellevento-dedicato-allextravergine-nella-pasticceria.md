@@ -3,7 +3,7 @@ title: Olea Dulcis, chiusa a Lugnano la 1.a edizione dellâ€™evento dedicato allâ
 author: ciao
 type: regular
 date: 2024-12-02T14:13:58+00:00
-url: /olea-dulcis-chiusa-a-lugnano-la-1-a-edizione-dellevento-dedicato-allextravergine-nella-pasticceria/
+
 firehose_sent:
   - 1733148840
 timeline_notification:

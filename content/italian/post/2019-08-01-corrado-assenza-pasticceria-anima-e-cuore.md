@@ -3,7 +3,7 @@ title: 'Corrado Assenza- Pasticceria: anima e cuore'
 author: ciao
 type: regular
 date: 2019-08-01T15:07:44+00:00
-url: /corrado-assenza-pasticceria-anima-e-cuore/
+
 timeline_notification:
   - 1564672067
 categories:

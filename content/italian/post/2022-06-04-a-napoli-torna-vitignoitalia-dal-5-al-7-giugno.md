@@ -3,7 +3,7 @@ title: A Napoli torna Vitignoitalia dal 5 al 7 giugno
 author: ciao
 type: regular
 date: 2022-06-04T18:17:00+00:00
-url: /a-napoli-torna-vitignoitalia-dal-5-al-7-giugno/
+
 timeline_notification:
   - 1654460274
 categories:

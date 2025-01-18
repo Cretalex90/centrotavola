@@ -3,7 +3,7 @@ title: 'Pranzo del Purgatorio: a Gradoli una tradizione di 500 anni fermata dal 
 author: ciao
 type: regular
 date: 2020-02-25T08:01:32+00:00
-url: /pranzo-del-purgatorio/
+
 timeline_notification:
   - 1582617695
 categories:

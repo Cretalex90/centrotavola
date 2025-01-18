@@ -3,7 +3,7 @@ title: 'Ricetta- Branzino “scottato”, zucca e verdurine arrostite'
 author: ciao
 type: regular
 date: 2020-09-02T09:49:06+00:00
-url: /ricetta-branzino-scottato-zucca/
+
 timeline_notification:
   - 1599040150
 categories:

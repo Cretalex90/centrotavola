@@ -3,7 +3,7 @@ title: Borgobrufa (Perugia) si illumina della stella di Elementi
 author: ciao
 type: regular
 date: 2024-04-07T07:13:52+00:00
-url: /borgobrufa-perugia-si-illumina-della-stella-di-elementi/
+
 wordads_ufa:
   - s:wpcom-ufa-v4:1712474655
 firehose_sent:

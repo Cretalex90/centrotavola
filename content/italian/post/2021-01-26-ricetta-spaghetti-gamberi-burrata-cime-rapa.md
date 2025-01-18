@@ -3,7 +3,7 @@ title: Ricetta spaghetti con gamberi, burrata e cime di rapa
 author: ciao
 type: regular
 date: 2021-01-26T11:59:47+00:00
-url: /ricetta-spaghetti-gamberi-burrata-cime-rapa/
+
 timeline_notification:
   - 1611662390
 categories:

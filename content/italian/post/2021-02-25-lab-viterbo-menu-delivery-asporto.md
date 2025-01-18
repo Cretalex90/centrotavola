@@ -3,7 +3,7 @@ title: LAB Viterbo, il menu per delivery e asporto
 author: ciao
 type: regular
 date: 2021-02-25T15:33:47+00:00
-url: /lab-viterbo-menu-delivery-asporto/
+
 timeline_notification:
   - 1614267230
 categories:

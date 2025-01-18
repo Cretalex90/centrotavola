@@ -3,7 +3,7 @@ title: 'Madrid food&drink: dove mangiare e bere nella Capitale spagnola. Mini gu
 author: ciao
 type: regular
 date: 2024-12-11T10:44:43+00:00
-url: /madrid-fooddrink-dove-mangiare-e-bere-nella-capitale-spagnola-mini-guida/
+
 firehose_sent:
   - 1733913885
 timeline_notification:

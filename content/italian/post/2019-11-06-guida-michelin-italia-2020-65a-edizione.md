@@ -3,7 +3,7 @@ title: Guida MICHELIN Italia 2020 – 65a edizione
 author: ciao
 type: regular
 date: 2019-11-06T13:26:04+00:00
-url: /guida-michelin-italia-2020-65a-edizione/
+
 timeline_notification:
   - 1573046769
 categories:

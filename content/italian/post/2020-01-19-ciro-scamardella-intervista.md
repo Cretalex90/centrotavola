@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2020-01-19T11:39:16+00:00
 excerpt: 'Le parole e la filosofia di Ciro Scamardella, chef di Pipero, (ristorante una stella Michelin), che ci racconta il suo lavoro e la sua vita privata. '
-url: /ciro-scamardella-intervista/
+
 timeline_notification:
   - 1579433960
 categories:

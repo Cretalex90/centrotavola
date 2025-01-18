@@ -3,7 +3,7 @@ title: 'Enrico Bartolini: “Tre Stelle a Milano come Marchesi? Un onore” – 
 author: ciao
 type: regular
 date: 2021-02-25T20:50:27+00:00
-url: /enrico-bartolini/
+
 timeline_notification:
   - 1583669879
 categories:

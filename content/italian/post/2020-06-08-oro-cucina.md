@@ -3,7 +3,7 @@ title: 'L’oro in cucina: quando il cibo diventa uno status symbol'
 author: ciao
 type: regular
 date: 2020-06-08T10:36:09+00:00
-url: /oro-cucina/
+
 timeline_notification:
   - 1591612573
 categories:

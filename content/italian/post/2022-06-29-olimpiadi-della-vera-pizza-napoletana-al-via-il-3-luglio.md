@@ -3,7 +3,7 @@ title: 'Olimpiadi della Vera Pizza Napoletana: al via il 3 luglio'
 author: ciao
 type: regular
 date: 2022-06-29T07:16:43+00:00
-url: /olimpiadi-della-vera-pizza-napoletana-al-via-il-3-luglio/
+
 wordads_ufa:
   - s:1656487177
 timeline_notification:

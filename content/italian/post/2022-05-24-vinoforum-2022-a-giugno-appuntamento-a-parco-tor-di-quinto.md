@@ -3,7 +3,7 @@ title: 'Vinòforum 2022: a giugno appuntamento a Parco Tor di Quinto'
 author: ciao
 type: regular
 date: 2022-05-24T19:35:54+00:00
-url: /vinoforum-2022-a-giugno-appuntamento-a-parco-tor-di-quinto/
+
 timeline_notification:
   - 1653328476
 categories:

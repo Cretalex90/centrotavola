@@ -3,7 +3,7 @@ title: Le Lase, a Orte la storia al femminile di una cantina “in rosa”
 author: ciao
 type: regular
 date: 2020-12-03T13:48:56+00:00
-url: /le-lase-vini-intervista-orte/
+
 timeline_notification:
   - 1607003339
 categories:

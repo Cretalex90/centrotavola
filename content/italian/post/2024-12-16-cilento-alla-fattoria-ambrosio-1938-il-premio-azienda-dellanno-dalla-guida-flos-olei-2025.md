@@ -3,7 +3,7 @@ title: Cilento, alla Fattoria Ambrosio 1938 il premio “Azienda dell’Anno” 
 author: ciao
 type: regular
 date: 2024-12-16T14:16:00+00:00
-url: /cilento-alla-fattoria-ambrosio-1938-il-premio-azienda-dellanno-dalla-guida-flos-olei-2025/
+
 firehose_sent:
   - 1734358562
 timeline_notification:

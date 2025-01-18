@@ -3,7 +3,7 @@ title: Cosa si mangia da Origine a Terni, nel locale supervisionato da Maurizio 
 author: ciao
 type: regular
 date: 2020-07-24T08:28:21+00:00
-url: /origine-terni-cosa-mangiare/
+
 timeline_notification:
   - 1595579304
 categories:

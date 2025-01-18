@@ -3,7 +3,7 @@ title: 'Assoprol: in conclusione il ciclo di incontri di formazione sull’olio 
 author: ciao
 type: regular
 date: 2024-11-21T14:54:45+00:00
-url: /assoprol-in-conclusione-il-ciclo-di-incontri-di-formazione-sullolio-evo/
+
 timeline_notification:
   - 1732200888
 firehose_sent:

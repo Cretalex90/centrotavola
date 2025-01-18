@@ -3,7 +3,7 @@ title: 'Ricetta: Pacchero con rana pescatrice e pomodorini gialli'
 author: ciao
 type: regular
 date: 2020-01-04T11:01:13+00:00
-url: /ricetta-pacchero-con-rana-pescatrice-e-pomodorini-gialli/
+
 timeline_notification:
   - 1578135805
 categories:

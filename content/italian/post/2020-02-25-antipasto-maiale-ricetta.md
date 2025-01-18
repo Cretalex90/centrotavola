@@ -3,7 +3,7 @@ title: 'Non il solito antipasto: filetto di maiale con puntarelle all’agro'
 author: ciao
 type: regular
 date: 2020-02-25T09:02:58+00:00
-url: /antipasto-maiale-ricetta/
+
 timeline_notification:
   - 1582621381
 categories:

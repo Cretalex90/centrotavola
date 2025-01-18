@@ -3,7 +3,7 @@ title: Italo Da Ponte, a San Gemini un giovane professionista guida la sala di O
 author: ciao
 type: regular
 date: 2024-10-31T08:44:18+00:00
-url: /italo-da-ponte-a-san-gemini-un-giovane-professionista-guida-la-sala-di-origine/
+
 firehose_sent:
   - 1730364260
 timeline_notification:

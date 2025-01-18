@@ -3,7 +3,7 @@ title: Come e cosa si mangia da Kresios, due stelle Michelin a Telese Terme
 author: ciao
 type: regular
 date: 2022-11-12T16:56:19+00:00
-url: /come-e-cosa-si-mangia-da-kresios-due-stelle-michelin-a-telese-terme/
+
 timeline_notification:
   - 1668272181
 wordads_ufa:

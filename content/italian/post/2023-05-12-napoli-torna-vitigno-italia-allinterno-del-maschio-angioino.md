@@ -3,7 +3,7 @@ title: 'Napoli: torna Vitigno Italia all’interno del Maschio Angioino'
 author: ciao
 type: regular
 date: 2023-05-12T17:54:17+00:00
-url: /napoli-torna-vitigno-italia-allinterno-del-maschio-angioino/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1684173751
 timeline_notification:

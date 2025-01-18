@@ -3,7 +3,7 @@ title: 'Uova deluxe: colori e consistenze pt. 2'
 author: ciao
 type: regular
 date: 2020-11-03T11:50:09+00:00
-url: /uova-ricetta-deluxe/
+
 timeline_notification:
   - 1604404212
 categories:

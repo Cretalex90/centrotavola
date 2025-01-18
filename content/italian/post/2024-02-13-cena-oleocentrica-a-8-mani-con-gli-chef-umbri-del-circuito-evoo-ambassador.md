@@ -3,7 +3,7 @@ title: Cena Oleocentrica a 8 mani con gli chef umbri del circuito “Evoo Ambass
 author: ciao
 type: regular
 date: 2024-02-13T09:53:32+00:00
-url: /cena-oleocentrica-a-8-mani-con-gli-chef-umbri-del-circuito-evoo-ambassador/
+
 firehose_sent:
   - 1707818012
 wordads_ufa:

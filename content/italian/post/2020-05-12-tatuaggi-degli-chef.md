@@ -3,7 +3,7 @@ title: I tatuaggi degli chef, quando la giacca nasconde un tattoo
 author: ciao
 type: regular
 date: 2020-05-12T10:07:00+00:00
-url: /tatuaggi-degli-chef/
+
 timeline_notification:
   - 1589278198
 categories:

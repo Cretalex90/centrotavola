@@ -3,7 +3,7 @@ title: “Riconoscere l’olio di qualità”, con Indra Galbo, vice curatore gu
 author: ciao
 type: regular
 date: 2020-05-12T09:27:13+00:00
-url: /riconoscere-olio-qualita/
+
 timeline_notification:
   - 1589275636
 categories:

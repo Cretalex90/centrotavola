@@ -3,7 +3,7 @@ title: 'Tra le sfumature del Grechetto: a Civitella D’Agliano un weekend dedic
 author: ciao
 type: regular
 date: 2022-07-27T18:32:25+00:00
-url: /tra-le-sfumature-del-grechetto-a-civitella-dagliano-un-weekend-dedicato/
+
 timeline_notification:
   - 1658946746
 wordads_ufa:

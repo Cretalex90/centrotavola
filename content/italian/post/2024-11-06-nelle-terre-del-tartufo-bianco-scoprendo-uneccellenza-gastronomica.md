@@ -3,7 +3,7 @@ title: 'Nelle terre del tartufo bianco: scoprendo un’eccellenza gastronomica'
 author: ciao
 type: regular
 date: 2024-11-06T07:58:12+00:00
-url: /nelle-terre-del-tartufo-bianco-scoprendo-uneccellenza-gastronomica/
+
 firehose_sent:
   - 1730879894
 timeline_notification:

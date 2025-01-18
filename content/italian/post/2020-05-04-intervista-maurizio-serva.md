@@ -3,7 +3,7 @@ title: Intervista a Maurizio Serva – La cucina al tempo del Coronavirus
 author: ciao
 type: regular
 date: 2020-05-04T09:59:22+00:00
-url: /intervista-maurizio-serva/
+
 timeline_notification:
   - 1588586365
 categories:

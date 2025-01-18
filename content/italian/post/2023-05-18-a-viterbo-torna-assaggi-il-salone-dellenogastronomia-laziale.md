@@ -3,7 +3,7 @@ title: A Viterbo torna Assaggi, il salone dell’enogastronomia laziale
 author: ciao
 type: regular
 date: 2023-05-18T20:05:50+00:00
-url: /a-viterbo-torna-assaggi-il-salone-dellenogastronomia-laziale/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1684440485
 timeline_notification:

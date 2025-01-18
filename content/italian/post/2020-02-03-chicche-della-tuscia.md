@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2020-02-03T12:00:59+00:00
 excerpt: "Conversazione con Massimiliano Biaggiolo, presidente dell'associazione Le Chicche della Tuscia"
-url: /chicche-della-tuscia/
+
 timeline_notification:
   - 1580734458
 categories:

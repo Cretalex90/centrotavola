@@ -3,7 +3,7 @@ title: “Valorizzazione del territorio e olio di qualità” parola di Pierluig
 author: ciao
 type: regular
 date: 2019-11-18T11:00:00+00:00
-url: /valorizzazione-del-territorio-e-olio-di-qualita-parola-di-pierluigi-presciuttini/
+
 timeline_notification:
   - 1574074843
 categories:

@@ -3,7 +3,7 @@ title: 'A Roma il cibo protagonista: Tiburtino Food Fest dall’8 al 19 febbraio
 author: ciao
 type: regular
 date: 2023-02-06T19:30:21+00:00
-url: /a-roma-il-cibo-protagonista-tiburtino-food-fest-dall8-al-19-febbraio/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1675711995
 timeline_notification:

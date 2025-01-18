@@ -3,7 +3,7 @@ title: 'Da Roma ad Alicante: Alba Restaurante, una “luce” sulla costa'
 author: ciao
 type: regular
 date: 2024-09-27T09:35:21+00:00
-url: /da-roma-ad-alicante-alba-restaurante-una-luce-sulla-costa/
+
 firehose_sent:
   - 1727429723
 timeline_notification:

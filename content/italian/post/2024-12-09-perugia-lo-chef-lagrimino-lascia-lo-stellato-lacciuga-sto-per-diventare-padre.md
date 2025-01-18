@@ -3,7 +3,7 @@ title: 'Perugia, lo chef Lagrimino lascia lo stellato L’Acciuga: «Sto per div
 author: ciao
 type: regular
 date: 2024-12-09T08:42:44+00:00
-url: /perugia-lo-chef-lagrimino-lascia-lo-stellato-lacciuga-sto-per-diventare-padre/
+
 firehose_sent:
   - 1733733766
 timeline_notification:

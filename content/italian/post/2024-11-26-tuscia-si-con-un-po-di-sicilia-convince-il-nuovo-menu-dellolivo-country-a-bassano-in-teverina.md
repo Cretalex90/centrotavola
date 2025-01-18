@@ -3,7 +3,7 @@ title: 'Tuscia, sì, con un po’ di Sicilia: convince il nuovo menu dell’Oliv
 author: ciao
 type: regular
 date: 2024-11-26T10:25:17+00:00
-url: /tuscia-si-con-un-po-di-sicilia-convince-il-nuovo-menu-dellolivo-country-a-bassano-in-teverina/
+
 firehose_sent:
   - 1732616719
 timeline_notification:

@@ -3,7 +3,7 @@ title: 'I Masanielli: racconto di un pranzo nella pizzeria da primato di Martucc
 author: ciao
 type: regular
 date: 2022-05-23T19:29:19+00:00
-url: /i-masanielli-racconto-di-un-pranzo-nella-pizzeria-da-primato-di-martucci/
+
 timeline_notification:
   - 1653334162
 categories:

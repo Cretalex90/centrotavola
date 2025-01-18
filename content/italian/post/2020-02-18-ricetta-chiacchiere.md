@@ -3,7 +3,7 @@ title: 'Ricetta di Carnevale: non le solite Chiacchiere'
 author: ciao
 type: regular
 date: 2020-02-18T07:12:02+00:00
-url: /ricetta-chiacchiere/
+
 timeline_notification:
   - 1582009925
 categories:

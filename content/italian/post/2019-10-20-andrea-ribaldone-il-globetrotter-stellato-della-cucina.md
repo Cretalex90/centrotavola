@@ -3,7 +3,7 @@ title: 'Andrea Ribaldone: il globetrotter (stellato) della cucina'
 author: ciao
 type: regular
 date: 2019-10-20T14:19:15+00:00
-url: /andrea-ribaldone-il-globetrotter-stellato-della-cucina/
+
 timeline_notification:
   - 1564755558
 categories:

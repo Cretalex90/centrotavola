@@ -3,7 +3,7 @@ title: 'Taste of Roma 2019 ha chiuso i battenti: tanti i riscontri positivi'
 author: ciao
 type: regular
 date: 2019-09-22T20:04:00+00:00
-url: /taste-of-roma-2019-ha-chiuso-i-battenti-tanti-i-riscontri-positivi/
+
 timeline_notification:
   - 1569355612
 categories:

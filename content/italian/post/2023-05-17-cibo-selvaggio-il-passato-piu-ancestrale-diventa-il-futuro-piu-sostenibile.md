@@ -3,7 +3,7 @@ title: 'Cibo Selvaggio: il passato più ancestrale diventa il futuro più sosten
 author: ciao
 type: regular
 date: 2023-05-17T19:12:12+00:00
-url: /cibo-selvaggio-il-passato-piu-ancestrale-diventa-il-futuro-piu-sostenibile/
+
 wordads_ufa:
   - s:wpcom-ufa-v3-beta:1684350867
 timeline_notification:

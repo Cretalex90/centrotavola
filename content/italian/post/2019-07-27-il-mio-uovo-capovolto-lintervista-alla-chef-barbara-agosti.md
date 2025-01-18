@@ -3,7 +3,7 @@ title: Il mio uovo capovolto – L’intervista alla chef Barbara Agosti
 author: ciao
 type: regular
 date: 2019-07-27T08:25:50+00:00
-url: /il-mio-uovo-capovolto-lintervista-alla-chef-barbara-agosti/
+
 images: ["images/wp-content/uploads/2019/07/eggs-gioco-dellova.webp"]
 timeline_notification:
   - 1564215953

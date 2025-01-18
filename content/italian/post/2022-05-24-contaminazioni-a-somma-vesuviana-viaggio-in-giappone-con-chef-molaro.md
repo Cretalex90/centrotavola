@@ -3,7 +3,7 @@ title: 'Contaminazioni a Somma Vesuviana: viaggio in Giappone con chef Molaro'
 author: ciao
 type: regular
 date: 2022-05-24T13:13:38+00:00
-url: /contaminazioni-a-somma-vesuviana-viaggio-in-giappone-con-chef-molaro/
+
 timeline_notification:
   - 1653398020
 categories:

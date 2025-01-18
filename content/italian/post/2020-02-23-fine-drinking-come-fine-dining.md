@@ -3,7 +3,7 @@ title: Perché il fine drinking è come il fine dining
 author: ciao
 type: regular
 date: 2020-02-23T10:17:17+00:00
-url: /fine-drinking-come-fine-dining/
+
 timeline_notification:
   - 1582453040
 categories:

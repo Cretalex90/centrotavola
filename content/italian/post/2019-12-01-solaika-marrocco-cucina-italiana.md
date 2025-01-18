@@ -3,7 +3,7 @@ title: 'Solaika Marrocco: è lei il futuro della cucina italiana?'
 author: ciao
 type: regular
 date: 2019-12-01T09:00:43+00:00
-url: /solaika-marrocco-cucina-italiana/
+
 timeline_notification:
   - 1575191094
 categories:

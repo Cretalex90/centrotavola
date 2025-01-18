@@ -3,7 +3,7 @@ title: Intervista a Iside De Cesare – La cucina al tempo del Coronavirus
 author: ciao
 type: regular
 date: 2020-04-19T11:19:45+00:00
-url: /intervista-iside-de-cesare/
+
 timeline_notification:
   - 1587295189
 categories:

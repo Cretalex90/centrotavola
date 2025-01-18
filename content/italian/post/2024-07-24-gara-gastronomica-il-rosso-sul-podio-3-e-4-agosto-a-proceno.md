@@ -3,7 +3,7 @@ title: Gara Gastronomica “Il Rosso sul Podio” 3 e 4 agosto a Proceno
 author: ciao
 type: regular
 date: 2024-07-24T13:34:22+00:00
-url: /gara-gastronomica-il-rosso-sul-podio-3-e-4-agosto-a-proceno/
+
 firehose_sent:
   - 1721828063
 wordads_ufa:

@@ -3,7 +3,7 @@ title: 'La ricetta di Carlotta Delicato: la forza delle idee e della famiglia'
 author: ciao
 type: regular
 date: 2024-03-02T07:54:57+00:00
-url: /la-ricetta-di-carlotta-delicato-la-forza-delle-idee-e-della-famiglia/
+
 timeline_notification:
   - 1709366098
 wordads_ufa:

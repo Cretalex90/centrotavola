@@ -3,7 +3,7 @@ title: 'Paolo Trippini ristorante: è qui l’Umbria da gustare – Intervista'
 author: ciao
 type: regular
 date: 2020-11-16T16:48:02+00:00
-url: /paolo-trippini-ristorante-intervista/
+
 timeline_notification:
   - 1605545286
 categories:

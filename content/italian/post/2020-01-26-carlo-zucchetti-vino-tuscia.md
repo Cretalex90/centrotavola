@@ -4,7 +4,7 @@ author: ciao
 type: regular
 date: 2020-01-26T12:14:14+00:00
 excerpt: "L'intervista a Carlo Zucchetti, tra i fondatori di Slow Food e curatore della Guida dei vini della Tuscia."
-url: /carlo-zucchetti-vino-tuscia/
+
 timeline_notification:
   - 1580040857
 categories:

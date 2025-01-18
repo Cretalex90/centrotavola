@@ -3,7 +3,7 @@ title: 'Si chiude VitignoItalia 2023: i numeri di questa edizione'
 author: ciao
 type: regular
 date: 2023-05-17T19:01:38+00:00
-url: /si-chiude-vitignoitalia-2023-i-numeri-di-questa-edizione/
+
 timeline_notification:
   - 1684350101
 wordads_ufa:

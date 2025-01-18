@@ -3,7 +3,7 @@ title: Alla scoperta dell’acquacotta
 author: ciao
 type: regular
 date: 2020-03-15T11:34:54+00:00
-url: /acquacotta-ricetta/
+
 timeline_notification:
   - 1584272099
 categories:

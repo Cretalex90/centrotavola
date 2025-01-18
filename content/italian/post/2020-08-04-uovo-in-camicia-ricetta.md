@@ -3,7 +3,7 @@ title: Uovo in camicia con patate al timo, asparagi scottati e mandorle salate
 author: ciao
 type: regular
 date: 2020-08-04T10:00:34+00:00
-url: /uovo-in-camicia-ricetta/
+
 timeline_notification:
   - 1596535391
 categories:
