@@ -11,7 +11,7 @@ categories:
 tags:
   - ristorante
   - viterbo
-
+images: ["images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food-drink-foto-07.webp"]
 ---
 ### Se nel <a rel="noreferrer noopener" href="https://aleepepe.com/2021/02/14/delivery-asporto-lab-viterbo/" target="_blank">precedente articolo </a>abbiamo metaforicamente alzato la cloche su tutto ciò che c’è dietro il progetto delivery/asporto del LAB di Viterbo, ora scopriamo più nello specifico le proposte gastronomiche che il locale mette a disposizione dei suoi clienti.&nbsp; {.wp-block-heading}
 

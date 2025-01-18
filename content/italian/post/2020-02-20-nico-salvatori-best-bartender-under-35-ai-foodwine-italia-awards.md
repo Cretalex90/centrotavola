@@ -8,7 +8,7 @@ timeline_notification:
   - 1582228106
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2020/02/food-and-wine-bartender.webp"]
 ---
 Assegnati ieri a Milano i premi dei **Food&Wine Italia Awards**, ideati per celebrare il talento, la creatività, l’innovazione e la responsabilità sociale nell’enogastronomia italiana.
 

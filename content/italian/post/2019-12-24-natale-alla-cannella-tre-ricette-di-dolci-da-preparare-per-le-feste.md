@@ -14,7 +14,7 @@ tags:
   - natale
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2019/12/dm_190427_dv_071-1.webp"]
 ---
 Tre ricette per i nostri lettori che racchiudono tutto il sapore delle feste natalizie con un unico, imperdibile, ingrediente!
 

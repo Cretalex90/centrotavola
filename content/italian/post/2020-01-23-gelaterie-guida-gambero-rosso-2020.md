@@ -13,7 +13,7 @@ tags:
   - gambero rosso
   - gelaterie
   - guida
-
+images: ["images/wp-content/uploads/2020/01/gelato-gelaterie-gambero-guidajpg.webp"]
 ---
 ## Presentata al Sigep la quarta edizione della **Guida Gelaterie d’Italia 2020** del [Gambero Rosso][1].  {.wp-block-heading}
 

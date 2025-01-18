@@ -14,7 +14,7 @@ tags:
   - cucina italiana
   - dolci
   - pasticceria
-
+images: ["images/wp-content/uploads/2019/07/v3a0338.webp"]
 ---
 _Andiamo in Campania (precisamente ad Avellino) nella pasticceria di Carmen Vecchione, dove il panettone non è solo sinonimo di Natale ma è un must 365 giorni l’anno_
 

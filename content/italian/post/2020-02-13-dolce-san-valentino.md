@@ -12,7 +12,7 @@ tags:
   - dolci
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/02/dolce-san-valentino.webp"]
 ---
 ### Per questo San Valentino stupiamo la persona amata con un dolce tutto da scoprire: bavarese al cioccolato bianco, rosmarino e glassa ai frutti rossi. {.wp-block-heading}
 

@@ -11,7 +11,7 @@ categories:
   - Eventi
 tags:
   - identità golose
-
+images: ["images/wp-content/uploads/2020/01/identitacc80-golose-milano-2020.webp"]
 ---
 La sedicesima edizione del **Congresso Internazionale di Cucina, [Pasticceria][1] e Servizio di Sala **è in programma da **sabato 7 a lunedì 9 marzo 2020**, come sempre al **Mi.Co &#8211; Milano Congressi &#8211; Via Gattamelata, 5**. 
 

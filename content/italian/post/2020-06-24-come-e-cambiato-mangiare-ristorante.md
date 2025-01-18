@@ -8,7 +8,7 @@ timeline_notification:
   - 1592994830
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2020/06/schermata-2020-06-22-alle-16.09.54.webp"]
 ---
 ## Il mondo della ristorazione è stato tra i settori più colpiti dal recente lockdown.  {.wp-block-heading}
 

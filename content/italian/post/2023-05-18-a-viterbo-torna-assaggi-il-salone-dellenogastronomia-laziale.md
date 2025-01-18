@@ -13,7 +13,7 @@ categories:
 tags:
   - assaggi
   - viterbo
-
+images: ["images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_1.webp"]
 ---
 **_A pochi mesi di distanza dalla prima edizione, tenutasi lo scorso settembre, torna a Viterbo Assaggi, il salone dell&#8217;enogastronomia laziale. Ricco il programma della manifestazione, tra incontri con i produttori, cooking show e un ricco menu di degustazioni ed eventi collaterali con Fuori Assaggi._**
 {{< figure src="images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_7.webp?w=1000" >}}

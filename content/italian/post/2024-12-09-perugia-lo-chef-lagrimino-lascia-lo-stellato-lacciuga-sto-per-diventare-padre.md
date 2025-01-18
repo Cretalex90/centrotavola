@@ -15,7 +15,7 @@ tags:
   - perugia
   - ristorante
   - stellato
-
+images: ["images/wp-content/uploads/2024/12/lagrimino-perugia-acciuga.webp"]
 ---
 _  
 Tramite una lettera condivisa sui social lo chef Marco Lagrimino annuncia un nuovo importante capitolo della sua vita privata. Colui che ha portato la prima Stella a Perugia, infatti, lascia L’Acciuga dal prossimo 15 gennaio. Nuove priorità per lui: diventerà padre._

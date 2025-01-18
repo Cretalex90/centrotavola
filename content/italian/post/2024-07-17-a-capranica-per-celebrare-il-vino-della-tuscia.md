@@ -16,7 +16,7 @@ tags:
   - tuscia
   - vino
   - viterbo
-
+images: ["images/wp-content/uploads/2024/07/screenshot-2024-07-19-alle-18.07.00.webp"]
 ---
 _**Il 19 e 20 Luglio Capranica apre le porte alla decima edizione di Giro di Vino, la prima manifestazione a narrare la Tuscia attraverso i suoi vitigni autoctoni.**_
 

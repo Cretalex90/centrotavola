@@ -18,7 +18,7 @@ tags:
   - cucina
   - elementi
   - perugia
-
+images: ["images/wp-content/uploads/2024/04/elementi-fine-dining-borgobrufa-alessandro-creta.webp"]
 ---
 _**Elementi. Perché è di elementi, intesi come pura materia prima, che è fatta la cucina. Ma anche “e le menti”, perché per fare una buona cucina non basta un bravo chef, ma un team al suo fianco che possa supportarlo tanto nel processo creativo quanto in quello materialmente esecutivo.**_ 
 

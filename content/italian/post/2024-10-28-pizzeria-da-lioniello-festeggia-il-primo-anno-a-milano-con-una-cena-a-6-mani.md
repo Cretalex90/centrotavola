@@ -14,7 +14,7 @@ tags:
   - milano
   - pizza
   - pizzeria
-
+images: ["images/wp-content/uploads/2024/10/unnamed.webp"]
 ---
 **Lunedì 28 ottobre 2024 la Pizzeria ‘Da Lioniello’ ospita una cena evento presso la sua seconda sede a Milano, in via Friuli 46. Un trio d’eccellenza direttamente dalla Campania: Lioniello da Succivo (CE), Sasà Martucci da Caserta (CE) e Giuseppe Pignalosa da Ercolano (NA). Tre noti maestri pizzaioli, amici e colleghi.**
 

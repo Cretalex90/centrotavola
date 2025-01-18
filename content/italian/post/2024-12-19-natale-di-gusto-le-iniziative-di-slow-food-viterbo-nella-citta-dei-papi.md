@@ -10,7 +10,7 @@ timeline_notification:
   - 1734638652
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2024/12/viterbo-tuscia-slow-food-natale-eventi-alessandro-creta.webp"]
 ---
 _Weekend all&#8217;insegna delle specialità enogastronomiche del territorio. A Viterbo in occasione del Natale al via le iniziative Slow Food con i cuochi della Tuscia._
 

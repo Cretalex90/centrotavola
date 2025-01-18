@@ -20,7 +20,7 @@ tags:
   - fine dining
   - michelin
   - ristorante
-
+images: ["images/wp-content/uploads/2024/03/00-31-food-ofv-carlotta-delicato_social-37.webp"]
 ---
 _**Prima ancora che un locale in cui si mangia bene ristorante Delicato è un locale in cui si sta bene. Umanamente intendo; questioni di feelings, e non è qualcosa di scontato.**_..
 

@@ -11,7 +11,7 @@ categories:
 tags:
   - cucina
   - cucina italiana
-
+images: ["images/wp-content/uploads/2019/10/88b98077-0ac6-4644-927d-ec7c51975bed.webp"]
 ---
 C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi al mare. C’erano l’acqua cristallina, i calamari, i gamberi, gli scogli e la spuma: **era il suo posto preferito!**
 

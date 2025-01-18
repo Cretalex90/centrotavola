@@ -11,7 +11,7 @@ categories:
 tags:
   - pizza
   - viterbo
-
+images: ["images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-9.webp"]
 ---
 ## Passione, idee chiare, consapevolezza. A supporto di una grande dose di coraggio e spirito di iniziativa.  {.wp-block-heading}
 

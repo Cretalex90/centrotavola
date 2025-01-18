@@ -11,7 +11,7 @@ categories:
 tags:
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/09/ricetta-branzino-zucca.webp"]
 ---
 ### Non è finita ancora l&#8217;estate, ma allo stesso tempo dall&#8217;orizzonte vediamo avvicinarsi l&#8217;autunno.  {.wp-block-heading}
 

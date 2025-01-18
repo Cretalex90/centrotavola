@@ -13,7 +13,7 @@ tags:
   - chef stellati
   - intervista
   - milano
-
+images: ["images/wp-content/uploads/2020/05/c2a9-marco-scarpa-dsc03350.webp"]
 ---
 ### Andrea Berton è uno dei &#8220;Gualtieri boys&#8221;, quel gruppo di chef (di cui fanno parte, tra gli altri, <a rel="noreferrer noopener" href="https://aleepepe.com/2019/12/29/tv-il-mio-posto-e-in-cucina-parola-di-carlo-cracco/" target="_blank">Carlo Cracco</a> e <a rel="noreferrer noopener" href="https://aleepepe.com/2019/07/27/in-cucina-come-nella-vita-la-mia-ricetta-del-successo/" target="_blank">Davide Oldani</a>) che si sono formati sotto le direttive del grande maestro milanese.  {.wp-block-heading}
 

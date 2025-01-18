@@ -10,7 +10,7 @@ timeline_notification:
   - 1733734648
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2024/12/bolsena-lago-capriccio-dove-mangiare-guida-sbroscia-alessandro-creta.webp"]
 ---
 _Si chiama, per l&#8217;appunto, Il Capriccio il ristorante sulle sponde del lago di Bolsena (nel comune di Grotte di Castro) che punta tanto su una cucina a base di pesce di lago e d&#8217;acqua dolce in generale. Una sfida non semplice ma un obiettivo ambizioso, coerente con il contesto in cui ci troviamo._
 

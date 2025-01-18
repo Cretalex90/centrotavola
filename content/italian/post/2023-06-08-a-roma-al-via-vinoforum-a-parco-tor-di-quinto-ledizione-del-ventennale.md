@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1686255465
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-20.webp"]
 ---
 _**Al via a Roma la ventesima edizione di Vinòforum, nell&#8217;ormai consueto spazio di Parco Tor di Quinto. Dal 9 al 18 giugno degustazioni, masterclass, incontri con protagonisti il cibo e il vino.**_ 
 {{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-29-1.webp?w=1000" >}}

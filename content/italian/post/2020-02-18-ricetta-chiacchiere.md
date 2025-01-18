@@ -11,7 +11,7 @@ categories:
 tags:
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/02/chiacchiere-carnevale.webp"]
 ---
 ## Il mese di febbraio ci ricorda subito l’avvento di una delle feste più amate da grandi e piccini: il Carnevale! {.wp-block-heading}
 

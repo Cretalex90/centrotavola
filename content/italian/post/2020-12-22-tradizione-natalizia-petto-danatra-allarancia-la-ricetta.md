@@ -11,7 +11,7 @@ categories:
 tags:
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/12/petto-anatra-arancia-ricetta.webp"]
 ---
 ## Tra i grandi classici della tradizione natalizia, il petto d’anatra è sicuramente uno dei piatti più ricercati e gustosi.  {.wp-block-heading}
 

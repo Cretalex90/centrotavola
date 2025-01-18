@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 tags:
   - ricetta
-
+images: ["images/wp-content/uploads/2020/09/ricetta-vitello-verdure-cover.webp"]
 ---
 ### Una nuova stagione è alle porte. Abbandoniamo i teli da mare e i costumi per infilarci nuovamente il grembiule da cucina.  {.wp-block-heading}
 

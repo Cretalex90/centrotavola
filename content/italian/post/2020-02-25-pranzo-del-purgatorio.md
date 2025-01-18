@@ -10,7 +10,7 @@ categories:
   - Eventi
 tags:
   - tuscia
-
+images: ["images/wp-content/uploads/2020/02/purgatorio.webp"]
 ---
 ### Il 26 febbraio a Gradoli si sarebbe dovuto rinnovare, come ogni Mercoledì delle Ceneri, l’appuntamento con il Pranzo del Purgatorio. L&#8217;evento è stato però rimandato a data da destinarsi per tutelare la salute pubblica a seguito del diffondersi del Coronavirus. {.wp-block-heading}
 

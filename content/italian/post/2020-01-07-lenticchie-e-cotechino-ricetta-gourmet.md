@@ -8,7 +8,7 @@ timeline_notification:
   - 1578398080
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2020/01/cotechino.webp"]
 ---
 Chi l&#8217;ha detto che la cucina gourmet può essere esclusiva per pochi? Nelle prossime righe andremo a illustrarvi una ricetta che, alla tradizione delle feste, abbina l&#8217;innovazione di una metodologia di preparazione non certo convenzionale. 
 

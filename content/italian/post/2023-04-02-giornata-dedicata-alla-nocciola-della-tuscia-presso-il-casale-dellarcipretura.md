@@ -10,7 +10,7 @@ timeline_notification:
   - 1680460450
 categories:
   - News
-
+images: ["images/wp-content/uploads/2023/04/schermata-2023-04-02-alle-20.17.09.webp"]
 ---
 **_Si è tenuta venerdì scorso presso gli spazi del Casale dell’Arcipretura a Carbognano (VT) una mini giornata di formazione sul mondo della nocciola e in particolar modo sulla varietà più diffusa e coltivata nella Tuscia viterbese, la Gentile Romana._** 
 {{< figure src="images/wp-content/uploads/2023/04/schermata-2023-04-02-alle-20.21.15.webp?w=875" >}}

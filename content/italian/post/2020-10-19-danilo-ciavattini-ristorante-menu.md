@@ -12,7 +12,7 @@ tags:
   - Danilo ciavattini
   - tuscia
   - viterbo
-
+images: ["images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-10.webp"]
 ---
 ### Quella di Danilo Ciavattini è una cucina sempre più matura e consapevole, che vuole rispecchiare il territorio ma non attenersi alla tradizione intesa nel senso stretto, forse limitativo e fin troppo semplicistico, del termine.&nbsp; {.wp-block-heading}
 

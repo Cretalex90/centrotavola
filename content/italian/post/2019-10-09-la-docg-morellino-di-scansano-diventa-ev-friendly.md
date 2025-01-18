@@ -11,7 +11,7 @@ categories:
 tags:
   - toscana
   - vino
-
+images: ["images/wp-content/uploads/2019/10/0.webp"]
 ---
 Esplorare il territorio incontaminato della **Maremma** e degustare calici di grandi vini tutelando l’ambiente è ora possibile grazie a ‘**_Morellino Green_**’, il progetto ideato e realizzato dal **Consorzio di Tutela del Morellino di Scansano** che rende così l’area del Morellino tra le prime **DOCG “EV friendly” in Italia**. Un obiettivo tanto voluto e, con orgoglio, raggiunto. In un momento storico, sociale e ambientale in cui la sostenibilità si pone come una delle emergenze primarie, il Consorzio ha deciso di intraprendere un programma di sostenibilità concreto, destinato a crescere e ad ampliarsi ulteriormente.&nbsp;
 

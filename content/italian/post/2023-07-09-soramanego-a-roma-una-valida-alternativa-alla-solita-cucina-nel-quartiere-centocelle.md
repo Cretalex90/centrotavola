@@ -13,7 +13,7 @@ categories:
 tags:
   - cucina
   - roma
-
+images: ["images/wp-content/uploads/2023/07/roma-soramanego-centocelle.webp"]
 ---
 **_Un veneto (Pietro) e un sardo (Andrea) con la passione per la cucina. L’incontro a Bologna. La decisione di aprire un ristorante a Roma, quartiere Centocelle, rilevando una precedente attività. _**
 {{< figure src="images/wp-content/uploads/2023/07/panzanella-roma-centocelle-soramanego.webp" caption="Amuse bouche: Panzanella" >}}

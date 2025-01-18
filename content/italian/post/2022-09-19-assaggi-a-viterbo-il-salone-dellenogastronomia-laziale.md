@@ -15,7 +15,7 @@ tags:
   - gastronomia
   - lazio
   - viterbo
-
+images: ["images/wp-content/uploads/2022/09/viterbo-assaggi.webp"]
 ---
 _Esposizioni, degustazioni ed eventi per promuovere e valorizzare le eccellenze del patrimonio agroalimentare regionale_. Dal 30 settembre al 3 ottobre.
 {{< figure src="images/wp-content/uploads/2022/09/viterbo-assaggi-salone.webp?w=1024" >}}

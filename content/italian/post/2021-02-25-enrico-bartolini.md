@@ -14,7 +14,7 @@ tags:
   - chef stellati
   - intervista
   - milano
-
+images: ["images/wp-content/uploads/2020/03/638a6660.webp"]
 ---
 _Enrico Bartolini è, numeri e riconoscimenti alla mano, il miglior chef d’Italia. Grazie al ristorante presso il Mudec di Milano, e al Glam di Venezia (che hanno conquistato rispettivamente le 3 e le 2 Stelle nell&#8217;ultima guida Michelin), il 2019 è stato l’anno della definitiva consacrazione del cuoco toscano_.
 

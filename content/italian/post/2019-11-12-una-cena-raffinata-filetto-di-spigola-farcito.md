@@ -12,7 +12,7 @@ tags:
   - chef
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2019/11/ga191030_dovevuoi_147.webp"]
 ---
 Questo piatto è ideale quando si hanno ospiti a cena, perché è semplice ma al tempo stesso raffinato. Il gusto deciso del lardo si sposa perfettamente con la delicatezza della spigola, la morbida farcia interna è sapientemente studiata per accostarsi alla croccantezza del lardo. Consiglio anche alle mani meno esperte di provarlo!
 

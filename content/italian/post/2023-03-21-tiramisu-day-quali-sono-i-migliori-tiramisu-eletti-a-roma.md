@@ -10,7 +10,7 @@ timeline_notification:
   - 1679417242
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2023/03/tiramisu-day.webp"]
 ---
 _In occasione del **Tiramisù Day,** dolce ricorrenza che cade il 21 marzo, a Roma sono stati eletti i migliori dolci rigorosamente a tema con questa festa. Quali tiramisù hanno trionfato nella Capitale?_
 

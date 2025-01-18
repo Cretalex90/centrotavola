@@ -12,7 +12,7 @@ tags:
   - chef
   - Eventi
   - food
-
+images: ["images/wp-content/uploads/2019/09/finalisti_spyc20_bn_regcom.webp"]
 ---
 Sono in corso in tutto il mondo le finali regionali dell’edizione 2020 di  
 S.Pellegrino Young Chef, il progetto di scouting internazionale che promuove l’ingresso dei giovani talenti nella comunità gastronomica globale.  

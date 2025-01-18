@@ -13,7 +13,7 @@ tags:
   - chef stellati
   - intervista
   - stella michelin
-
+images: ["images/wp-content/uploads/2020/01/valentino-cassanelli-chef.webp"]
 ---
 ## Chi è Valentino Cassanelli {.wp-block-heading}
 

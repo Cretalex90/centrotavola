@@ -10,7 +10,7 @@ timeline_notification:
   - 1675711823
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2023/02/325695636_571862877787929_8530645849939839518_n.webp"]
 ---
 **_Si svolgerà dall&#8217; 8 al 19 Febbraio all&#8217;interno dei locali aderenti del quartiere Tiburtino&dintorni,  l&#8217;evento eno gastronomico più goloso della Capitale_**. 
 {{< figure src="images/wp-content/uploads/2023/02/322734147_1217028132357716_4266921258627687078_n.webp?w=1024" >}}

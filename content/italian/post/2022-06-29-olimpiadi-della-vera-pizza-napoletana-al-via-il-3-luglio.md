@@ -12,7 +12,7 @@ categories:
   - Eventi
 tags:
   - pizza
-
+images: ["images/wp-content/uploads/2022/06/pizza-napoletana-olimpiadi.webp"]
 ---
 **Più di 300 sfide tra i partecipanti provenienti dai 5 continenti per conquistare l’oro olimpico nella culla mondiale della pizza napoletana**.
 {{< figure src="images/wp-content/uploads/2022/06/olimpiadi-pizza-napoletana.webp?w=1024" >}}

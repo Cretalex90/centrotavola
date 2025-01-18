@@ -15,7 +15,7 @@ tags:
   - pizza
   - pizzeria
   - viterbo
-
+images: ["images/wp-content/uploads/2023/09/79-officina-visiva-foto-pizza-italia-a-tavola-alessandro-creta-mactra-andrea-pechini_23.webp"]
 ---
 _Andrea Pechini è il pizzaiolo e proprietario del locale. Trentaduenne già con tanta esperienza alle spalle (importante il suo passato all&#8217;Agriturismo il Casaletto di Grotte Santo Stefano), crea nel piccolo borgo di origine etrusca qualcosa di inedito nel raggio di chilometri. Alla scoperta delle pizze di Mactra._
 {{< figure src="images/wp-content/uploads/2023/09/79-officina-visiva-foto-pizza-italia-a-tavola-alessandro-creta-mactra-andrea-pechini_22.webp?w=1024" >}}

@@ -13,7 +13,7 @@ categories:
 tags:
   - bar
   - viterbo
-
+images: ["images/wp-content/uploads/2023/04/schermata-2023-04-01-alle-13.58.05.webp"]
 ---
 _**E no amici miei, Nico Sacco non lavora più al Lab. Se anche un minimo lo seguivate sui social specialmente su Facebook in modo ironico concludeva molti suoi post con la frase &#8220;lavoro sempre al Lab&#8221;, diventata quasi un suo marchio di fabbrica.**_
 {{< figure src="images/wp-content/uploads/2023/04/officina-visiva-foto-drink-list-lab-viterbo-nico-sacco-07b-edited.webp" caption="Foto di Officina Visiva" >}}

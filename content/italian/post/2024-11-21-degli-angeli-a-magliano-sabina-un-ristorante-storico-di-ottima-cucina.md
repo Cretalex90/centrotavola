@@ -16,7 +16,7 @@ tags:
   - ristorante
   - sabina
   - tuscia
-
+images: ["images/wp-content/uploads/2024/11/degli-angeli-marciani-magliano-sabina-alessandro-creta.webp"]
 ---
 _Nel borgo reatino al confine con l&#8217;Umbria, a poca distanza dal casello autostradale, un indirizzo che è diventato un punto di riferimento per il buon mangiare e buon bere della zona. Degli Angeli, il ristorante della famiglia Marciani._
 

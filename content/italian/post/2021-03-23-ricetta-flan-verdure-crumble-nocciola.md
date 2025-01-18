@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 tags:
   - ricetta
-
+images: ["images/wp-content/uploads/2021/03/ricetta-flan-di-verdure.webp"]
 ---
 ### Nonostante il termine sia chiaramente di origini francesi, in Italia il _flan_ non è inteso alla stessa maniera dei nostri cugini transalpini.  {.wp-block-heading}
 

@@ -12,7 +12,7 @@ tags:
   - gambero rosso
   - guida
   - vino
-
+images: ["images/wp-content/uploads/2019/10/unnamed-2-1.webp"]
 ---
 **_Vino con miglior rapporto qualità prezzo. Barbera d’Asti Lavignone ’18 di Pico Maccario._** Barbera d’Asti Lavignone ’18 di Pico Maccario è il vino con il migliore rapporto qualità prezzo per la guida Vini d&#8217;Italia 2020
 

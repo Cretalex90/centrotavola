@@ -17,7 +17,7 @@ tags:
   - foraging
   - naturali
   - tuscia
-
+images: ["images/wp-content/uploads/2024/11/sascia-trevisan-erbe-foragin-tuscia-alessandro-creta.webp"]
 ---
   
 _Due le passioni ereditate dalla nonna: la natura e la cucina, entrambe trasformate da Sascia in un vero e proprio lavoro e in tutta la sua vita._

@@ -4,7 +4,6 @@ author: ciao
 type: regular
 date: 2019-07-27T07:56:15+00:00
 draft: true
-url: /?p=71
 images:
   -  images/wp-content/uploads/2019/07/riccardo-camanini3.webp
 timeline_notification:

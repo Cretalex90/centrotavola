@@ -11,7 +11,7 @@ categories:
 tags:
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/12/salmone-marinato-cover.webp"]
 ---
 ### Si avvicina il Natale e nella nostra classica rubrica di ricette non poteva mancare un piatto a base di uno degli ingredienti più consumati durante le feste, in particolar modo per la Vigilia: il salmone. {.wp-block-heading}
 

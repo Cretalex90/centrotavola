@@ -8,7 +8,7 @@ timeline_notification:
   - 1586203525
 categories:
   - News
-
+images: ["images/wp-content/uploads/2020/04/img_0310.webp"]
 ---
 Dopo i <a rel="noreferrer noopener" href="https://aleepepe.com/2020/04/02/libri-cucina/" target="_blank">primi libri</a> che vi ho presentato la scorsa settimana, proseguiamo con i consigli letterari a stampo gastronomico per passare al meglio questo periodo di isolamento. Tutti i testi sono acquistabili online.
 

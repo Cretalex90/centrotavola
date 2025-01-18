@@ -14,7 +14,7 @@ tags:
   - carne
   - macelleria
   - terni
-
+images: ["images/wp-content/uploads/2024/06/pucci_ingresso_terni_macelleria_alessandro_creta.webp"]
 ---
 _A Terni, la macelleria Pucci non è solo un luogo dove acquistare carne, ma un vero e proprio locale che fa della lavorazione della carne, e della sua preparazione culinaria, il suo punto di forza. Tanto da conquistare i locali, ma non solamente._ 
 

@@ -10,7 +10,7 @@ categories:
   - News
 tags:
   - ambasciatori del gusto
-
+images: ["images/wp-content/uploads/2020/12/baker-4840960_1280.webp"]
 ---
 ### Gli Ambasciatori del Gusto scendono in campo a sostegno della filiera enogastronomica e annunciano il nuovo progetto di comunicazione &#8220;Adotta un Produttore&#8221;. {.wp-block-heading}
 

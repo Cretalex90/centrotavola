@@ -11,7 +11,7 @@ categories:
 tags:
   - chef
   - chef stellati
-
+images: ["images/wp-content/uploads/2020/06/mariano-21.webp"]
 ---
 ### Nelle battute finali della sua intervista <a rel="noreferrer noopener" href="https://aleepepe.com/2020/06/01/paulo-airaudo/" target="_blank">Paulo Airaudo</a>, chef di Amelia a San Sebastian (Paesi Baschi), ci ha tenuto a farmi una raccomandazione. &#8220;_Ti consiglio di scambiare due parole con uno chef argentino che lavora a Rimini. Si chiama Mariano Guardianelli e il suo ristorante è Abocar Due Cucine_&#8220;.  {.wp-block-heading}
 

@@ -12,7 +12,7 @@ timeline_notification:
   - 1707818012
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2020/05/olive-oil-3803168_1280.webp"]
 ---
 **Il 19 febbraio a Bettona (Pg) saranno quattro gli chef protagonisti** **due chef stellati Michelin e due Bib Gourmand: Ada Stifani, Fabio Cappiello, Lorenzo Cantoni e Paolo Trippini**.
 

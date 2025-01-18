@@ -11,7 +11,7 @@ categories:
 tags:
   - olio
   - 'olio d&#039;oliva'
-
+images: ["images/wp-content/uploads/2020/05/olive-oil-3803168_1280.webp"]
 ---
 ## In un mondo in cui si dà grande importanza alla cucina e al piatto finito, alla bellezza oltre al gusto della pietanza, c’è un ingrediente al quale, troppo spesso, non viene rinosciuta la giusta importanza: l’olio d’oliva.  {.wp-block-heading}
 

@@ -8,7 +8,7 @@ timeline_notification:
   - 1573046769
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2019/11/chef-2020.webp"]
 ---
 
 {{< figure src="images/wp-content/uploads/2019/11/copertina-2020.webp?w=597" >}}

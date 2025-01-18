@@ -12,7 +12,7 @@ timeline_notification:
   - 1721828064
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2024/07/whatsapp-image-2024-07-24-at-10.45.36.webp"]
 ---
 _**Il 3 e 4 agosto, nel suggestivo borgo medievale di Proceno, avrà luogo la prima edizione della Gara Gastronomica &#8220;Il Rosso sul Podio&#8221;. Questa competizione culinaria, organizzata per valorizzare l&#8217;Aglio Rosso di Proceno, è parte integrante del &#8220;Festival dell&#8217;Aglio Rosso di Proceno&#8221;, realizzato dal Comune di Proceno grazie ai fondi del PNRR e al sostegno dell&#8217;Unione Europea.**_ 
 

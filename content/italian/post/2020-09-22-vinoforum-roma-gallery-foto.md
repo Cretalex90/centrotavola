@@ -11,7 +11,7 @@ categories:
 tags:
   - roma
   - vino
-
+images: ["images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-11.webp"]
 ---
 ### Si è trattato del primo grande evento di settore ad aver riaperto i battenti in questo 2020. {.wp-block-heading}
 

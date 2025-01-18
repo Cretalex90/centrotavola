@@ -11,7 +11,7 @@ categories:
 tags:
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/02/piatto-antipasto-maiale.webp"]
 ---
 Stufi del solito antipasto di salumi e formaggi? Questa volta vi proponiamo un piatto tipico della tradizione etrusca che accosta un trio senza tempo: pancia di maiale &#8211; finocchio – arance.&nbsp;
 

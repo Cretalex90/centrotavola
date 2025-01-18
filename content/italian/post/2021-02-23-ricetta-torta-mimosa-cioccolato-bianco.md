@@ -8,7 +8,7 @@ timeline_notification:
   - 1614078942
 categories:
   - le ricette dello chef
-
+images: ["images/wp-content/uploads/2021/02/torta-mimosa-cover.webp"]
 ---
 ### Ci avviciniamo alla festa della donna e, come ogni 8 marzo che si rispetti, impossibile non pensare alla mimosa. Anche a tavola&#8230; {.wp-block-heading}
 

@@ -11,7 +11,7 @@ categories:
 tags:
   - cucina
   - cucina italiana
-
+images: ["images/wp-content/uploads/2020/04/img_0310.webp"]
 ---
 In questo periodo in cui siamo costretti a stare in casa in molti si sono avvicinati (o riavvicinati) alla <a rel="noreferrer noopener" href="https://aleepepe.com/2020/01/04/ricetta-pacchero-con-rana-pescatrice-e-pomodorini-gialli/" target="_blank">cucina</a>, intesa in tutte le sue salse e declinazioni. 
 

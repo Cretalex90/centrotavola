@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1668101706
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2022/11/cnam_12_nov_2022.webp"]
 ---
 Sabato 12 novembre CasaNave alle Mura a **Tuscania** apre le sue porte al gusto e lo fa con la prima edizione del progetto **_Sull’onda del gusto, delizia il palato e stuzzica la mente_**.
 {{< figure src="images/wp-content/uploads/2022/11/0.webp?w=443" >}}

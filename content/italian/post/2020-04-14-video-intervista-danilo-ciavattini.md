@@ -12,7 +12,7 @@ tags:
   - Danilo ciavattini
   - intervista
   - viterbo
-
+images: ["images/wp-content/uploads/2020/04/progetto-senza-titolo-4.webp"]
 ---
 Per passare qualche minuto in compagnia, chiacchierata via Skype con **Danilo Ciavattini**, del&nbsp;**[Danilo Ciavattini Ristorante][1]** (Viterbo, 1 Stella Michelin e 2 Forchette del Gambero Rosso) che ci racconta come passa la quarantena uno chef lontano dalla &#8220;sua&#8221; cucina.&nbsp;
 

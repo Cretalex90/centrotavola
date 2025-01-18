@@ -14,7 +14,7 @@ tags:
   - bar
   - lab
   - viterbo
-
+images: ["images/wp-content/uploads/2022/09/lab-viterbo-candidatura-miglior-bar.webp"]
 ---
 _**Erano in totale 500 i locali inizialmente selezionati come “Cocktail bar rivelazione d’Italia” dalla rivista Bargiornale. Dopo un’importante scrematura ne sono rimasti appena 20, e tra questi figura il Lab restaurant & drink di Viterbo.**_ **_Le parole dei protagonisti._**
 {{< figure src="images/wp-content/uploads/2022/09/lab-viterbo-miglior-bar-officina-visiva.webp?w=966" >}}

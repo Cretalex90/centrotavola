@@ -11,7 +11,7 @@ categories:
 tags:
   - guida michelin
   - stella michelin
-
+images: ["images/wp-content/uploads/2019/11/small.webp"]
 ---
 Il 6 novembre 2019, in occasione della presentazione della 65 a edizione della **Guida Michelin Italia 2020** al Teatro Municipale di Piacenza, sarà possibile seguire in diretta l’evento a partire dalle 10:40 collegandosi al link:<figure class="wp-block-table aligncenter">
 

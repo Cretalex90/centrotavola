@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1684350295
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2023/05/vitignoitalia.webp"]
 ---
 **_Sold out le masterclass, fiore all’occhiello della manifestazione. Grande attenzione da parte dei 25 buyer, provenienti da 15 Paesi, protagonisti di decine di incontri con le cantine presenti alla manifestazione._**
 {{< figure src="images/wp-content/uploads/2023/05/vitigno-italia166.webp?w=1024" >}}

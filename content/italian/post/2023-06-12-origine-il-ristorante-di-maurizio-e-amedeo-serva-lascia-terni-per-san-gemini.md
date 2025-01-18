@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1686684643
 categories:
   - News
-
+images: ["images/wp-content/uploads/2023/06/origine-sangemini.webp"]
 ---
 **_Li avevo conosciuti pochi giorni dopo la loro apertura, nelle battute finali del 2019, nel centro storico di Terni. Ora i ragazzi di Origine, il ristorante di Maurizio e Amedeo Serva con in cucina lo chef Luigi Ficca, lascia la città per trasferirsi nella vicina San Gemini._** **_&#8220;Sfida stimolante che arriva al momento giusto&#8221;, le parole di Amedeo Serva._** 
 {{< figure src="images/wp-content/uploads/2023/06/352269546_1256815978539968_9002200089047203676_n-edited.webp" >}}

@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1667057119
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2022/10/calice-stella-canepina-slow-food.webp"]
 ---
  
 

@@ -19,7 +19,7 @@ tags:
   - salvo cravero
   - tuscia
   - viterbo
-
+images: ["images/wp-content/uploads/2024/02/pepe-nero-spaghettone.webp"]
 ---
 **_Un nuovo progetto per lo chef Salvo Cravero, molisano di origine ma ormai viterbese d’adozione, che dopo aver salutato l’Olivo Country Club a Bassano in Teverina ha deciso di trasferirsi, professionalmente parlando, sul lago di Bolsena. _**
 {{< figure src="images/wp-content/uploads/2024/02/pepe-nero-sala.webp" caption="La sala vista lago del Pepe Nero" >}}

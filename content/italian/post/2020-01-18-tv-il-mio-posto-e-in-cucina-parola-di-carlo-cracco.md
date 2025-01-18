@@ -14,7 +14,7 @@ tags:
   - cracco
   - milano
   - ristorante
-
+images: ["images/wp-content/uploads/2019/11/cracco-rist.-credits-barbara-santoro.webp"]
 ---
 C’è un nome che balena nella testa di tutti appena si inizia a parlare di alta cucina, e risponde all’appello di **Carlo Cracco.** Chef, divo, istituzione della gastronomia a livello internazionale, tra i maggiori rappresentanti all’estero del saper cucinare (e mangiare) italiano.
 

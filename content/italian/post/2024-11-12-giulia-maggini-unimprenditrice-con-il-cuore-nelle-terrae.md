@@ -18,7 +18,7 @@ tags:
   - giulia maggini
   - tuscia
   - viterbo
-
+images: ["images/wp-content/uploads/2024/11/whatsapp-image-2024-08-19-at-15.40.01.webp"]
 ---
 _In strada San Nicolao, a Viterbo, Terraemaggini è un’azienda agricola giovane dove la terra viene vissuta come una poesia scandita dalle stagioni e dai suoi cicli._
 

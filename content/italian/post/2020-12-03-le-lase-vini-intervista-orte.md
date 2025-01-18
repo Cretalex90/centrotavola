@@ -11,7 +11,7 @@ categories:
 tags:
   - 'vini d&#039;italia'
   - vino
-
+images: ["images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-01.webp"]
 ---
 ## **È una storia giovane quella de Le Lase, ma una storia di territorio, di famiglia, di perseveranza e a tinte decisamente rosa.**  {.wp-block-heading}
 

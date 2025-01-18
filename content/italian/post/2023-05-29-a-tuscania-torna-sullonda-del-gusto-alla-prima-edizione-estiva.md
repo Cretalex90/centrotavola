@@ -10,7 +10,7 @@ timeline_notification:
   - 1685387636
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2023/05/del-gusto_2.webp"]
 ---
 _**Al crocevia tra benessere e alimentazione, tra ambiente e salute, nasce la prima edizione estiva de Sull’Onda del Gusto, che vede educazione ambientale e attenzione ai prodotti del territorio questioni chiave per lo sviluppo di comunità sostenibili.**_
 {{< figure src="images/wp-content/uploads/2023/05/delgusto_4.webp?w=1024" >}}

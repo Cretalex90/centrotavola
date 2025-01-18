@@ -14,7 +14,7 @@ tags:
   - cucina italiana
   - intervista
   - solaika marrocco
-
+images: ["images/wp-content/uploads/2019/07/solaika-marrocco_1.webp"]
 ---
 _Solaika Marrocco: segnatevi questo nome, perché è il presente e il futuro della cucina italiana. È lei la più giovane Ambasciatrice del Gusto, è lei il capo brigata del Primo Restaurant a Lecce._
 

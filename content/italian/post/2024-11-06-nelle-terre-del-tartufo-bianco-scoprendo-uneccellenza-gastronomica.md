@@ -15,7 +15,7 @@ tags:
   - cucina
   - tartufo
   - umbria
-
+images: ["images/wp-content/uploads/2024/11/bpregiato6.webp"]
 ---
   
 _A Città di Castello, Umbria, un festival dedicato a uno dei prodotti più preziosi e rari della gastronomia italiana. In scena tutte le varietà di tartufo, tra cui il bianco pregiato._

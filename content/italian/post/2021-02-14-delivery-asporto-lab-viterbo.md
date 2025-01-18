@@ -10,7 +10,7 @@ categories:
   - News
 tags:
   - viterbo
-
+images: ["images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food-drink-foto-13.webp"]
 ---
 ### Mangiare a casa a come al ristorante. Bere a casa come al cocktail bar.&nbsp; {.wp-block-heading}
 

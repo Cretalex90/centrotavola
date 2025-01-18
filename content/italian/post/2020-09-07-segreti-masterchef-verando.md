@@ -12,7 +12,7 @@ categories:
   - interviste bistrot
 tags:
   - masterchef
-
+images: ["images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-7-web.webp"]
 ---
 ### &#8220;Ehi coniglio, hai fegato?!&#8221; con queste poche parole Verando è entrato, se non nella storia, almeno nel cuore di molti appassionati di Masterchef. {.wp-block-heading}
 

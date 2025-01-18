@@ -14,7 +14,7 @@ tags:
   - corchiano
   - pasticceria
   - viterbo
-
+images: ["images/wp-content/uploads/2024/10/whatsapp-image-2024-10-12-at-16.10.36.webp"]
 ---
 _Isanti, la pluripremiata pasticceria di Corchiano (in provincia di Viterbo) arricchisce la sua proposta con una bella novità. Inaugurata e già da metà ottobre operativa una sala dedicata al mondo del tè, con selezioni e prodotti provenienti da tutto il mondo. Su prenotazione poi la possibilità di vivere l’esperienza legata al rito del tè inglese o marocchino._ _Con prodotti tipici delle due tradizioni._
 

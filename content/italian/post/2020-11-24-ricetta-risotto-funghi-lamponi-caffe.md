@@ -12,7 +12,7 @@ tags:
   - chef
   - ricetta
   - ricette
-
+images: ["images/wp-content/uploads/2020/11/risotto-fumecc80-ricetta-chef.webp"]
 ---
 ## La storia del riso affonda le sue radici in un passato molto lontano.  {.wp-block-heading}
 

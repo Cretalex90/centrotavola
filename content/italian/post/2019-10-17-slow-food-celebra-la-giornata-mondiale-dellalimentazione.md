@@ -8,7 +8,7 @@ timeline_notification:
   - 1571333344
 categories:
   - News
-
+images: ["images/wp-content/uploads/2019/10/11_kazimiera-puzo.webp"]
 ---
 Il 16 ottobre,&nbsp;**Giornata Mondiale dell&#8217;Alimentazione**, la FAO invita ad agire a ogni livello per far sì che una dieta sana e sostenibile sia accessibile a tutti. Inoltre, qualche ora fa è stato reso pubblico il&nbsp;<a href="http://slowfood.emailsp.com/e/t?q=9%3dRXQeR%26F%3dT%26J%3dTYRa%26B%3dXMYQVQ%26Q%3d5NEL_Eunv_P5_Cwpt_MB_Eunv_O0DHBQ1KB8.zIxC7OC.70I_Eunv_O0z_Nnwk_X3N_Cwpt_NBD_Llym_Wyf_Eunv_OYN0p3gBp_Llym_VPXSk_Cwpt_MaP8i_Nnwk_XRVQq_Eunv_OYN0r4h6_Eunv_OYMbZ_Llym_VPY13d4t9k_Nnwk_XRVQx_Eunv_OYN0SsUs_cP4S_nZ_STDO_ci_cP4S_meXzh.eBr.ZqH_uBR1_5QoVeWhDdehPqd_q2VA_1GvZeB_uBR1_5QdO_uBR1_7x5vdLZB5Q_Llym_VPXSc_Cwpt_MaP8_Cwpt_MaOZJv_Eunv_OYN0l1j6p3h%260%3d%266M%3dLXVWPaU" rel="noreferrer noopener" target="_blank">rapporto SOFA 2019</a>(State of Food and Agriculture).&nbsp;
 

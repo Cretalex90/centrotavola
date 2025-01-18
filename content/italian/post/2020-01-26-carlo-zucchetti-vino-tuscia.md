@@ -12,7 +12,7 @@ categories:
 tags:
   - tuscia
   - vino
-
+images: ["images/wp-content/uploads/2020/01/zucchetti-vino.webp"]
 ---
 # <span class="s1">Con Carlo Zucchetti ci diamo appuntamento in un bar per parlare di vino e di territorio, in questo caso quello della Tuscia e nello specifico della Tuscia viterbese, terra d’origine di entrambi. </span> {.p1.wp-block-heading}
 

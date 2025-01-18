@@ -8,7 +8,7 @@ timeline_notification:
   - 1579607667
 categories:
   - News
-
+images: ["images/wp-content/uploads/2020/01/1.webp"]
 ---
 _Da informazioni provenienti dal mercato, i dazi decisi dagli Stati Uniti hanno già determinato i primi effetti_ – commenta **Sandro Boscaini, presidente di Masi Agricola e Federvini** – _e gli aumenti sui vini francesi e spagnoli danno evidenza degli incrementi dei prezzi quantificabili tra il 10 e il 35%, una differenza dovuta in gran parte all&#8217;assorbimento della maggiore tassa da parte di produttori o importatori. Il quadro è oltremodo preoccupante perché aumenti maggiori al 35% non potrebbero essere assorbiti e in caso di dazi al 100%, come si prospetta, i prezzi delle bottiglie raddoppierebbero. Non solo, ma è doveroso sottolineare che le ripercussioni di tale situazione danneggerebbero non solo i produttori, ma tutta la filiera del vino USA considerando che, fatto 100 l’aumento delle bottiglie di vino determinato dai potenziali dazi, solo il 25% compete al produttore italiano mentre il restante 75% agli Stati Uniti per costi dovuti a tasse, servizi distributivi e logistica.<img loading="lazy" decoding="async" class="  wp-image-902 alignleft" src="images/wp-content/uploads/2020/01/1.webp" alt="1" width="260" height="378" />_ 
 

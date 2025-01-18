@@ -10,7 +10,7 @@ categories:
   - News
 tags:
   - cucina
-
+images: ["images/wp-content/uploads/2020/06/untitled-design.webp"]
 ---
 ## Impreziosire la tavola decorando le pietanze con oro e argento alimentare: un’usanza che in tanti, erroneamente, reputano tanto moderna quanto specchio di un’epoca, questa, in cui l’apparenza reclama la sua parte.  {.wp-block-heading}
 

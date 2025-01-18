@@ -11,7 +11,7 @@ categories:
 tags:
   - chef
   - chef stellati
-
+images: ["images/wp-content/uploads/2020/06/terry-giacomello.webp"]
 ---
 ## **Terry Giacomello è lo chef del ristorante&nbsp;<a rel="noreferrer noopener" href="https://www.facebook.com/RistoranteInkiostro/" target="_blank">Inkiostro</a>&nbsp;di Parma, locale insignito della Stella Michelin. Cucina d&#8217;avanguardia e sperimentazione le parole chiave della sua filosofia.**  {.wp-block-heading}
 

@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1668272442
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2022/11/cosa-si-mangia-kresios.webp"]
 ---
 **_Alcuni assaggi dal menu Mr. Brown, del ristorante Kresios due stelle Michelin._** 
 {{< figure src="images/wp-content/uploads/2022/11/kresios-cosa-si-mangia.webp?w=819" caption="&#8216;Sushi&#8217; di sgombro e melone" >}}

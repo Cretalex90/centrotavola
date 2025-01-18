@@ -15,7 +15,7 @@ tags:
   - Danilo ciavattini
   - guida michelin
   - viterbo
-
+images: ["images/wp-content/uploads/2019/08/ciavattini.webp"]
 ---
 Lo chef che ha fissato Viterbo nella cartina geografica delle città gourmet è Danilo Ciavattini che,&nbsp; con l’omonimo locale, permette ai clienti di assaporare piatti tipici del territorio rivisitati in chiave moderna. Chef Ciavattini ha bissato nel centro viterbese la stella Michelin già ottenuta nel 2013 con il ristorante romano di Villa Laetitia, di proprietà di Anna Fendi. Lo chef, nato in piena Tuscia (Soriano nel Cimino) non poteva però non valorizzare quella che è la sua terra con quella che, nel corso degli anni, è diventata la sua cucina. 
 {{< figure src="images/wp-content/uploads/2019/08/img_8618-e1564670592619.webp" caption="Chef Danilo Ciavattini" >}}

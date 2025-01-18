@@ -16,7 +16,7 @@ tags:
   - cibo
   - food
   - viterbo
-
+images: ["images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_1.webp"]
 ---
 **_Finalmente ho visto Viterbo più fremente e in fermento del solito. Finalmente ho visto Viterbo più fremente e in fermento del solito grazie all’enogastronomia. _**
 {{< figure src="images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_26.webp?w=1024" >}}

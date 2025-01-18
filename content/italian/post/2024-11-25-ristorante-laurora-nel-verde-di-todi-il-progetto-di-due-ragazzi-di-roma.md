@@ -16,7 +16,7 @@ tags:
   - ristorante
   - todi
   - umbria
-
+images: ["images/wp-content/uploads/2024/11/aurora-borgo-cipressi-agnello-tartufo-alessandro-creta.webp"]
 ---
 _Si chiama L&#8217;Aurora il ristorante che, dalle colline umbre, guarda &#8220;in faccia&#8221; Todi. Nel cuore verde d&#8217;Italia un progetto di due giovani trentenni di Roma, Davide e Federica, che qui hanno avviato un agriturismo con camere: Borgo dei Cipressi._
 

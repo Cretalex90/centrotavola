@@ -13,7 +13,7 @@ tags:
   - chef stellati
   - cucina italiana
   - intervista
-
+images: ["images/wp-content/uploads/2020/04/valentino-cassanelli-chef-intervista-ale-pepe.webp"]
 ---
 ### Si parla di cucina e di ristorazione con Valentino Cassanelli, chef del ristorante Lux Lucis, presso l&#8217;hotel Principe a Forte dei Marmi. {.wp-block-heading}
 

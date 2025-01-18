@@ -10,7 +10,7 @@ categories:
   - interviste bistrot
 tags:
   - intervista
-
+images: ["images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-28.webp"]
 ---
 ### **A Castiglione in Teverina, un piccolo comune dell’alto Lazio che affaccia sulla valle del Tevere, l’istituto professionale Intrecci da quattro anni forma giovani che sognano di diventare figure professionali destinate all’accoglienza e al servizio di sala nell’alta ristorazione.** {.wp-block-heading}
 

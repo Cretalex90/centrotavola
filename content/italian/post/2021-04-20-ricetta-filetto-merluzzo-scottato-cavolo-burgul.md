@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 tags:
   - ricetta
-
+images: ["images/wp-content/uploads/2021/04/ricetta-merluzzo-avocado-cavolo.webp"]
 ---
 ### La seconda ricetta di aprile è un richiamo alla primavera e al nutrirsi in modo sano firmata dallo chef Colaiaquo.  {.wp-block-heading}
 

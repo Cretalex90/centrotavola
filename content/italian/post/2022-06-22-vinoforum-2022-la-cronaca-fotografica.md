@@ -12,7 +12,7 @@ tags:
   - roma
   - vino
   - vinoforum
-
+images: ["images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-29-1.webp"]
 ---
 Si è tenuta al Parco Tor di Quinto a Roma l&#8217;edizione 2022 del **Vinòforum** (giunto al diciannovesimo anno), tra i più importanti e partecipati eventi di settore in Italia. Per la prima volta dal 2020, quando causa Covid l&#8217;evento venne spostato a settembre, Vinòforum è tornato a tenersi a giugno. 
 

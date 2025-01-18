@@ -16,7 +16,7 @@ tags:
   - cucina romana
   - food
   - roma
-
+images: ["images/wp-content/uploads/2020/01/ciro-scamardella-pipero-chef.webp"]
 ---
 ## <span class="s1">Delle tante interviste che potete leggere in questo blog quella a Ciro Scamardella è stata sicuramente la più improvvisata e, sotto certi aspetti, più sorprendente e meno convenzionale delle altre. </span> {.p1.wp-block-heading}
 

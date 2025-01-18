@@ -10,7 +10,7 @@ timeline_notification:
   - 1684173498
 categories:
   - Eventi
-
+images: ["images/wp-content/uploads/2023/05/locandinavitigno2.webp"]
 ---
 **_Domenica 14 e lunedì 15 maggio: sono queste le date ufficiali di VitignoItalia 2023, il Salone dei Vini e dei Territori Vitivinicoli Italiani ormai da anni punto di riferimento nel calendario degli eventi legati al mondo del vino._** 
 {{< figure src="images/wp-content/uploads/2023/05/maschio7.webp?w=1024" >}}

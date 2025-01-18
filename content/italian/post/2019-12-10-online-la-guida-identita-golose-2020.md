@@ -12,7 +12,7 @@ tags:
   - guida
   - identità golose
   - ristoranti
-
+images: ["images/wp-content/uploads/2019/12/281a6291.webp"]
 ---
 **1111 insegne recensite in 52 Paesi di tutto il mondo**, **246 novità, 99 pizzerie, 75 insegne guidate da chef under 30&nbsp;**  
 

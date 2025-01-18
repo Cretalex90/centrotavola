@@ -17,7 +17,7 @@ tags:
   - tuscania
   - tuscia
   - viterbo
-
+images: ["images/wp-content/uploads/2024/11/astolfi-andrea-cook-corriere-tuscia.webp"]
 ---
 _Il cuoco del Convivial di Tuscania inserito in una selezione di dieci chef e maestri pizzaioli under 35, scelti dalla redazione di Cook (Corriere della Sera) per rappresentare il futuro della cucina italiana._
 

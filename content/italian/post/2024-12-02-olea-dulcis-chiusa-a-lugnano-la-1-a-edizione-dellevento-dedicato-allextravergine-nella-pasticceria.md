@@ -10,7 +10,7 @@ timeline_notification:
   - 1733148841
 categories:
   - Senza categoria
-
+images: ["images/wp-content/uploads/2024/12/olea-dulcis-umbria-extravergine-olio-alessandro-creta.webp"]
 ---
 _Grande successo per la prima edizione di Olea Dulcis, un evento che si è svolto tra la bassa Umbria e l&#8217;alto Lazio nel bellissimo Borgo ternano di Lugnano in Teverina per mettere in risalto il mondo olivicolo nel panorama dolciario_.
 

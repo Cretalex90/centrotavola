@@ -12,7 +12,7 @@ tags:
   - chef
   - intervista
   - solaika marrocco
-
+images: ["images/wp-content/uploads/2020/04/solaika-marrocco-intervista-video.webp"]
 ---
 ## Chiacchierata pre-pasquale con Solaika Marrocco, tra gli chef più promettenti di tutto il panorama nazionale.  {.wp-block-heading}
 
