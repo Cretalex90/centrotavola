@@ -6,6 +6,6 @@ layout: "contact"
 draft: false
 ---
 
-# Ask Us Anything <br> Or just Say Hi,
+# Chiedici Qualsiasi Cosa <br> O Semplicemente Salutaci,
 
-Rather than just filling out a form, Sleeknote also offers help to the user <br> with links directing them to find additional information or take popular actions.
+Invece di compilare semplicemente un modulo, Sleeknote offre anche aiuto all'utente <br> con collegamenti che lo indirizzano a trovare informazioni aggiuntive o a eseguire azioni popolari.
