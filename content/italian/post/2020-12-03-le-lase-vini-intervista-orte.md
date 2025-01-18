@@ -9,7 +9,6 @@ timeline_notification:
 categories:
   - interviste bistrot
 tags:
-  - 'vini d&#039;italia'
   - vino
 images: ["images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-01.webp"]
 ---
