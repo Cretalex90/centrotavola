@@ -17,7 +17,7 @@ tags:
 _È una storia di sacrificio e di passione, di forza di volontà e determinazione. La storia di Franco Pepe travalica l’essenza di pizzaiolo migliore del mondo._
 
 
-{{< figure src="images/wp-content/uploads/2019/11/pepe-copia-1-copia-1.jpg?w=570" caption="Franco Pepe Credits: Brambilla &#8211; Serrani" >}}
+{{< figure src="images/wp-content/uploads/2019/11/pepe-copia-1-copia-1.webp?w=570" caption="Franco Pepe Credits: Brambilla &#8211; Serrani" >}}
 
 
 **Franco Pepe** è stato questo, è questo, ma non solo. Perché per diventare famoso in tutto il pianeta con un prodotto così tipico e imitato come la pizza ci vuole qualcosa in più, ci vuole quell’ingrediente segreto che ognuno deve trovare dentro di sé. Tenacia, coraggio, intraprendenza, “_saper fare dell’uomo_”, rispetto e ricerca sono gli ingredienti del successo di **Franco Pepe**, valori che spiccano dalle sue parole in occasione di un incontro che abbiamo avuto con lui presso la facoltà di Economia dell’Università La Sapienza di Roma. Sono questi i valori che più delineano la figura genuina che ritroviamo nelle vesti di maestro della pizza. 
@@ -33,7 +33,7 @@ Ultimo traguardo, la nomina a Cavaliere dell’Ordine al merito della Repubblica
 Ultimo capitolo di una storia iniziata anni fa in un piccolo borgo campano, una storia che ci ha raccontato di persona&#8230;
 
 
-{{< figure src="images/wp-content/uploads/2019/11/pepe-margherita-sbagliata-1.jpg?w=607" caption="Margherita sbagliata Credits: Brambilla &#8211; Serrani" >}}
+{{< figure src="images/wp-content/uploads/2019/11/pepe-margherita-sbagliata-1.webp?w=607" caption="Margherita sbagliata Credits: Brambilla &#8211; Serrani" >}}
 
 
 **_Dice spesso che ha intrapreso una gavetta molto lunga e ne sottolinea l’importanza. Cosa ricorda delle prime esperienze?_**
@@ -53,7 +53,7 @@ Stefano è stato libero fin da subito, penso sia un grave errore costringere un 
 Rispondo con un esempio, molto spesso si sente parlare di “lunghe lievitazioni” in termini di benefici per la salute, ma è sbagliato, c’è una scorretta informazione. Per poter digerire bene occorre far fare la giusta lievitazione all’impasto, bisogna partire del presupposto che ogni farina necessita del proprio tempo nel processo di lievitazione. Generalmente è “il giusto” che va ricercato, dunque per rispondere alla tua domanda, noi dobbiamo assumere un corretto apporto di carboidrati giornaliero ed è questo il motivo per cui nel mio progetto ho incluso una biologa nutrizionista. Sono molti gli aspetti che determinano un prodotto buono a livello di salute alimentare, dunque mi posso ritenere soddisfatto quando ho riscontri positivi riguardo questi aspetto nutrizionali, sia da chi è nel settore che da chi non ne fa parte, i loro pareri sono una conferma sulla riuscita del nostro lavoro. 
 
 
-{{< figure src="images/wp-content/uploads/2019/11/pepe-mare-in-terra-maritati.jpg?w=768" caption="Terra in mare maritati Credits: Brambilla &#8211; Serrani" >}}
+{{< figure src="images/wp-content/uploads/2019/11/pepe-mare-in-terra-maritati.webp?w=768" caption="Terra in mare maritati Credits: Brambilla &#8211; Serrani" >}}
 
 
 **_Per quanto riguarda invece l’aspetto della formazione, tra i futuri progetti è presente anche quello di una possibile scuola?_**

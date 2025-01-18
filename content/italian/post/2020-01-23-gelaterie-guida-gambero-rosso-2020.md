@@ -35,7 +35,7 @@ _Miglior Gelato Gastronomico_ Golosi Di Natura a Gazzo (PD)
 _Premio Sostenibilità_ Maison Corsini a Torino
 
 
-{{< figure src="images/wp-content/uploads/2020/01/gambero-rosso-gelaterie-guida.jpg?w=479" >}}
+{{< figure src="images/wp-content/uploads/2020/01/gambero-rosso-gelaterie-guida.webp?w=479" >}}
 
 
  [1]: https://aleepepe.com/2019/10/30/ristoranti-ditalia-2020-di-gambero-rosso/

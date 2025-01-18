@@ -15,7 +15,7 @@ categories:
 Le necessarie misure restrittive che hanno fatto seguito la lunga quarantena hanno messo ancora più in dubbio il futuro, ma anche il presente, di migliaia di locali, chiamati ora a fronteggiare (nella maggior parte dei casi) un inevitabile calo della clientela. Molti ristoranti però sono ripartiti, seppur tra mille incertezze, per cercare di tornare a lavorare a pieno regime nel minor tempo possibile. Per &#8220;_rimediare_&#8221; agli oltre due mesi di chiusura forzata e dare alla gente una ventata di &#8220;_normalità_&#8220;.
 
 
-{{< figure src="images/wp-content/uploads/2020/06/schermata-2020-06-22-alle-16.10.50.png" >}}
+{{< figure src="images/wp-content/uploads/2020/06/schermata-2020-06-22-alle-16.10.50.webp" >}}
 
 
 In molti sono titubanti nel ritornare a mangiare fuori; timorosi che le misure restrittive adottate nei locali possano in qualche modo &#8220;danneggiare&#8221; sia l&#8217;esperienza gastronomica che dei momenti di convivialità spensierata. Dubbi legittimi, quesiti comprensibili, ma che possono trovare risposta solo andando effettivamente al ristorante, così da capire in prima persona come i locali si siano adoperati per rispettare tutte le normative. 
@@ -25,7 +25,7 @@ Sono stato di recente in un ristorante stellato, il** <a rel="noreferrer noopene
 ### Mangiare in uno stellato: cosa è cambiato {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2019/08/img_8618-e1564670592619.jpg?w=1000" caption="Chef Danilo Ciavattini" >}}
+{{< figure src="images/wp-content/uploads/2019/08/img_8618-e1564670592619.webp?w=1000" caption="Chef Danilo Ciavattini" >}}
 
 
 Sì perché di fatto le uniche differenze sostanziali con _&#8220;il prima_&#8221; sono la misurazione della temperatura all&#8217;ingresso, la firma di una liberatoria e la presenza di dispenser igienizzanti nel locale. Per il resto, mascherina del personale di sala a parte, sì può affermare come l&#8217;esperienza gastronomica vissuta non sia mutata praticamente in nessun modo. A tavola la prima &#8220;novità&#8221; che subito si nota è la presenza di un elegante cartoncino con impresso un qr code, via diretta per consultare il menu digitale. Per il resto camerieri riducono allo zero ogni contatto diretto col cliente o con i suoi oggetti (giacche, borse ecc), poi è finalmente tempo del servizio. Durante il quale ho chiesto a **Daniela Ciavattini**, responsabile della sala, come sia effettivamente cambiato l&#8217;approccio del personale con la clientela. 
@@ -38,7 +38,7 @@ Quasi tutti i clienti hanno adoperato il qr code per consultare il menu in via d
  _&#8220;Abbiamo notato questo scambio quasi generazionale, con i più grandi che hanno consultato il menu sullo smartphone mentre i giovani hanno preferito la carta, anche per ripercorrere visivamente il percorso degustazione man mano che i piatti arrivano al tavolo_&#8220;.
 
 
-{{< figure src="images/wp-content/uploads/2020/06/img_1575.jpg" caption="Omaggio al nido. Spuma di patate, crema di fegatelli e tartufo" >}}
+{{< figure src="images/wp-content/uploads/2020/06/img_1575.webp" caption="Omaggio al nido. Spuma di patate, crema di fegatelli e tartufo" >}}
 
 
 La conversazione prosegue e tutto il personale, formato in totale tre ragazze, durante il servizio rispettano in sala le distanze previste, come in un gioco di movimenti già ben oliato. Tutto fila liscio e anche i clienti sembrano a loro agio. La mascherina non scende mai dal viso dei camerieri: &#8220;_La cambiamo anche ogni due o tre ore ma, tolti i primissimi giorni, ci stiamo abituando anche a questa&#8221;_. Tutto il locale, informa Daniela, è stato sanificato a ridosso della riapertura.
@@ -46,7 +46,7 @@ La conversazione prosegue e tutto il personale, formato in totale tre ragazze, d
 _**Prima della riapertura abbiamo dovuto partecipare a corsi di aggiornamento specifici** per quanto riguarda la sicurezza sul lavoro e abbiamo rivisto alcuni parametri, comunque già alti, dell&#8217;HCCP. La quantità di normative e regolamenti in generale è stata veramente tanta, i nostri consulenti però ci hanno &#8220;fuso&#8221; il tutto spiegandoci come dobbiamo comportarci nel locale e quali sono le accortezze da adottare, dall&#8217;accoglienza con misurazione della temperatura sino al servizio al tavolo_&#8220;. 
 
 
-{{< figure src="images/wp-content/uploads/2020/06/img_1579.jpg?w=1024" caption="Acquacotta alla viterbese" >}}
+{{< figure src="images/wp-content/uploads/2020/06/img_1579.webp?w=1024" caption="Acquacotta alla viterbese" >}}
 
 
 Proprio il numero, e la disposizione, dei **tavoli** è tra i fattori più soggetti a mutamento da una serata all&#8217;altra: &#8220;_Dipende dal numero di persone che prenotano e se queste siano congiunte perché, in caso contrario, dobbiamo sistemarle ognuna su un tavolo diverso, a distanza di un metro. Ogni sera quindi ci troviamo a dover sistemare adeguatamente la sala. Va detto però che, data la tipologia di locale, siamo stati in qualche modo favoriti perché esisteva il distanziamento tra la maggior parte dei tavoli_&#8220;.

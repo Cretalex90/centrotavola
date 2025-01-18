@@ -18,7 +18,7 @@ tags:
 Attingendo al celebre romanzo di Jules Verne – Il Giro del Mondo in 80 giorni – nasce a **Caldaro** un ristorante il cui tema dominate è “_il viaggio_”. Il **Philiaz**, nome di fantasia creato per ricordare il protagonista del romanzo Phileas Fogg, è un nuovo concept restaurant che permette di “viaggiare” attraverso il mondo assaggiando piatti che si ispirano ai molti posti visitati dal protagonista del romanzo, come Suez, Bombay, Hong Kong, San Francisco, New York, Londra…
 
 
-{{< figure src="images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a2581.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a2581.webp?w=1024" >}}
 
 
 Il ristorante (con una vista lago mozzafiato) è diviso in due sale: nella prima, la sala **Fix** (nome del poliziotto del romanzo), si possono degustare piatti esotici à la carte, come il Philiaz Kebap “Persian Art”, i “Cook Island Tiger Shrimps”, i “Korean Tacos” e diversi variazioni di “Dim Sum”, creati dal giovane team di cucina con i resident chefs (Chef di cucina: Martin Crnomarkovic e Jens Liefke, Chef de partie: Daniele Lampis, Manuel Zenoiani, Kebba Sowe).
@@ -26,7 +26,7 @@ Il ristorante (con una vista lago mozzafiato) è diviso in due sale: nella prima
 Nella seconda, la sala **Auda** (come l’amata del Signor Fogg), si alternano chef provenienti da diversi Paesi del mondo che ogni due mesi offrono un menù particolare e raffinato, come lo Chef Guest Anirudh Arora (Londra) o Serban Mihai Pavel, del Bodil di Copenhagen.
 
 
-{{< figure src="images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a2607.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a2607.webp?w=1024" >}}
 
 
   
@@ -39,4 +39,4 @@ Completano l’atmosfera del locale un soundtrack stile lounge, house, electro e
 Infine, a partire da Mercoledì 04 dicembre, il Philiaz sarà uno dei primi ristoranti in Europa a diventare cashless; ovvero, non saranno più accettati pagamenti in contanti per poter offrire un servizio più trasparente, veloce, sicuro e puntuale.
 
 
-{{< figure src="images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a3176.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a3176.webp?w=1024" >}}

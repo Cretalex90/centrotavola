@@ -18,7 +18,7 @@ tags:
 La **marinatura** rappresenta uno dei metodi più antichi di preparazione, una tecnica che risalirebbe al Medioevo quando i pescatori, per conservare il pesce appena catturato, lo lasciavano a fermentare sotto la sabbia durante le alte maree. 
 
 
-{{< figure src="images/wp-content/uploads/2020/12/salmone-interna.jpg?w=800" >}}
+{{< figure src="images/wp-content/uploads/2020/12/salmone-interna.webp?w=800" >}}
 
 
 Stavolta il **salmone marinato** è il protagonista della ricetta dello chef Danilo Colaiaquo, che lo propone accostato alla barbabietola, alla quinoa e alla zucca.
@@ -96,7 +96,7 @@ Pulire e tagliare la zucca a pezzi piccoli. In una casseruola mettere l’olio, 
 Mettere a bagno la quinoa una mezz&#8217;oretta prima della cottura. Scolare l&#8217;acqua di ammollo e sciacquarla molto bene. Disporre la quinoa in una piccola casseruola con acqua e sale e lasciar cuocere coperta per circa 12 minuti circa, inseguito spegnere e lasciarla altri 5 minuti a fuoco spento, così da far gonfiare la quinoa in modo uniforme. Contemporaneamente saltare in una padella una brunoise di zucchine e carote, con un filo di olio, uno spicchio d&#8217;aglio e del pepe. Mettere in una ciotola ed amalgamare il tutto con la quinoa.
 
 
-{{< figure src="images/wp-content/uploads/2020/12/salmone-marinato-interna.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/12/salmone-marinato-interna.webp" >}}
 
 
 **_Finitura_**

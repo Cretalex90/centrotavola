@@ -33,7 +33,7 @@ tags:
 </p>
 
 
-{{< figure src="images/wp-content/uploads/2020/01/ciro-scamardella-pipero-piatto-chef.png" >}}
+{{< figure src="images/wp-content/uploads/2020/01/ciro-scamardella-pipero-piatto-chef.webp" >}}
 
 
 <p class="p1">
@@ -65,7 +65,7 @@ tags:
 </p>
 
 
-{{< figure src="images/wp-content/uploads/2020/01/piatto-scamardella-pipero.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/01/piatto-scamardella-pipero.webp" >}}
 
 
 ### <span class="s2"><b><i>Credi che sia solamente colpa della tv o consideri anche altri fattori che hanno portato a questa mitizzazione della cucina?</i></b></span> {.p1.wp-block-heading}
@@ -93,7 +93,7 @@ tags:
 </p>
 
 
-{{< figure src="images/wp-content/uploads/2020/01/scamardella-limone-chef-piatto-pipero.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/01/scamardella-limone-chef-piatto-pipero.webp" >}}
 
 
 ### <span class="s2"><b><i>Cosa ti motiva ad andare avanti nella vita di tutti i giorni? </i></b></span> {.p1.wp-block-heading}

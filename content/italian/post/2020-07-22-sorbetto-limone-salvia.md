@@ -24,7 +24,7 @@ rigenerante con limone e salvia!
 Buccia di 2 limoni (solo parte gialla)
 
 
-{{< figure src="images/wp-content/uploads/2020/07/sorbetto-salvia-limone.jpg?w=469" >}}
+{{< figure src="images/wp-content/uploads/2020/07/sorbetto-salvia-limone.webp?w=469" >}}
 
 
   

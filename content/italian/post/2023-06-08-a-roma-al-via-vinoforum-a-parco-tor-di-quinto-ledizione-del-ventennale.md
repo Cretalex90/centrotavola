@@ -13,7 +13,7 @@ categories:
 
 ---
 _**Al via a Roma la ventesima edizione di Vinòforum, nell&#8217;ormai consueto spazio di Parco Tor di Quinto. Dal 9 al 18 giugno degustazioni, masterclass, incontri con protagonisti il cibo e il vino.**_ 
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-29-1.jpg?w=1000" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-29-1.webp?w=1000" >}}
  
 
 Parte la nuova edizione di **Vinòforum**, Lo Spazio del Gusto di Roma che celebra 20 anni di divulgazione e conoscenza delle migliori eccellenze del Bel Paese. Si conferma il format di successo che ogni anno anima gli ampi spazi di Parco Tor di Quinto, coinvolgendo un numero sempre maggiore di professionisti e appassionati con un calendario ricco di appuntamenti. Top Tasting, cene, momenti di business e approfondimento, una combinazione unica che fa di Vinòforum uno degli eventi enogastronomici più attesi della Capitale. 

@@ -18,7 +18,7 @@ La sedicesima edizione del **Congresso Internazionale di Cucina, [Pasticceria][
 **Il Senso di Responsabilità** sarà il tema della nuova edizione, declinato e interpretato da relatori individuati tra i più rappresentativi protagonisti della scena gastronomica internazionale, che si alterneranno in un fitto palinsesto di interventi e cooking show.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/identitacc80-golose-milano-2020.jpg?w=1000" >}}
+{{< figure src="images/wp-content/uploads/2020/01/identitacc80-golose-milano-2020.webp?w=1000" >}}
 
 
 &#8220;**_Il Senso di Responsabilità_**&#8211; dichiara Paolo Marchi, fondatore e curatore di Identità Golose &#8211; _ci deve portare a nutrire ogni verità di contenuti autentici. […] Si tratta di iniziare a prendere coscienza che bisogna cambiare, bisogna compiere i primi passi e non rinunciare a fare qualcosa di virtuoso. […] **Identità Golose 2020** testimonierà tutto questo, porterà alla ribalta grandi e piccole storie in cui il Senso di Responsabilità permette qui e ora di realizzare buone pratiche e cambiamenti necessari e destinati ad essere imitati e sempre più diffusi_&#8220;.

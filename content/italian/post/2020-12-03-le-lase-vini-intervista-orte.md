@@ -18,7 +18,7 @@ tags:
 ### **Una storia raccontata a Orte (VT) nel cuore della Tuscia viterbese.** {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/12/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-12.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2020/12/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-12.webp?w=1024" >}}
 
 
 Il progetto **Le Lase** è interamente gestito da quattro sorelle che, da ormai una quindicina di anni, hanno tra le mani un’azienda giovane ma ambiziosa. Locale seppur con ampi margini di apertura. Proiettata al futuro, con grandi ispirazioni imprenditoriali, ma che non dimentica le sue radici “_famigliari”_.&nbsp;
@@ -28,7 +28,7 @@ La storia de **Le Lase** è però forse soprattutto “_rosa_”: a capo di ques
 Anche per questo **Le Lase** ha intenzione di rappresentare qualcosa di diverso, di nuovo, nel territorio in cui è inserita, ma non solo. Qui, dove nel pieno delle campagne che fanno da cornice a Orte (a pochi chilometri da Viterbo) sorge la grande sede/cantina aziendale, le sorelle Ceccarelli hanno in mente di arricchire la loro azienda di bistrot, sala degustazioni e appartamenti per i turisti che vogliono visitare una zona, la Tuscia viterbese, ricchissima dal punto di vista storico, culturale ed enogastronomico.&nbsp;
 
 
-{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-05.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-05.webp" >}}
 
 
 Il legame con il territorio in fondo è alla base del nome stesso dell’azienda. &#8220;**_Lase_&#8220;** richiama le figure femminili della mitologia etrusca, semi divine, responsabili della cura del focolare domestico. Quale miglior riferimento a una cultura che proprio in questa zona conobbe la sua culla e, per certi versi, anche l&#8217;inizio della sua fine?&nbsp; A poche centinaia di metri da dove sorge la cantina, infatti, venne combattuta nel 309 a.C. una sanguinosa battaglia (presso il lago Vadimone) tra gli etruschi, a difesa della loro zona, e i romani in progressiva e inarrestabile espansione.&nbsp;
@@ -44,7 +44,7 @@ Per studi fatti mai pensavamo che avremmo lavorato nel settore agricolo. Tutto �
 Quando abbiamo iniziato il nostro percorso imprenditoriale ci siamo avvalse dell&#8217;aiuto di un&#8217;agenzia di comunicazione esterna, anche perché essendo completamente inesperte non volevamo commettere eventuali errori già in fase di startup. Siamo state aiutate nella scelta dei nomi dei vini, nella realizzazione delle etichette, e sono stati i nostri consulenti a suggerirci di adottare questo nome per sottolineare il legame con un territorio, il nostro, che è stata a culla della civiltà etrusca. Le Lase erano delle semi divinità femminili molto legate al focolare domestico e, considerando che a gestire questo progetto siamo quattro sorelle, l&#8217;abbiamo trovato attinente con la nostra storia. Il nome giusto per questa cantina, in grado anche di raccontare questo territorio che, secondo noi, ha molto da offrire.
 
 
-{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-02.jpg" caption="Chiara e Giada Ceccarelli, due delle quattro sorelle che gestiscono Le Lase" >}}
+{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-02.webp" caption="Chiara e Giada Ceccarelli, due delle quattro sorelle che gestiscono Le Lase" >}}
 
 
 **Siamo a poche centinaia di metri dal Tevere. La presenza del fiume, e la morfologia del terreno, quanto determinano le caratteristiche del prodotto finale?&nbsp;**
@@ -60,7 +60,7 @@ In fase iniziale, appunto perché nessuna di noi aveva esperienza in questo camp
 La vendemmia ci ha sorpreso. Sicuramente è stata molto buona ma non ottima come pensavamo durante il lockdown. Essendoci stata una primavera molto calda credevamo che sarebbe avvenuta una maturazione delle uve un po&#8217; diversa da quella poi effettiva. Però dobbiamo dire che è andata molto bene.
 
 
-{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-07.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-07.webp" >}}
 
 
 **Secondo voi questa zona è un po’ sottovalutata, o poco sfruttata, dal punto di vista enogastronomico?**
@@ -76,7 +76,7 @@ La difficoltà è stata considerevole, perché in provincia o a livello regional
 Durante il lockdown il lavoro è stato costante e necessario, perché comunque la natura non fermava il suo corso. Per il resto abbiamo sofferto così come tutto il mondo della ristorazione. Ristoranti, wine bar e enoteche sono il nostro sbocco commerciale principale, quindi anche noi abbiamo accusato il colpo delle varie chiusure.
 
 
-{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-03.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-03.webp" >}}
 
 
 **Per concludere, progetti per il 2021?**
@@ -86,7 +86,7 @@ In verità avevamo molti progetti per il 2020 sia riguardo la produzione che nel
 **Le Lase &#8211; di Giada, Marta, Chiara e Benedetta Ceccarelli**
 
 
-{{< figure src="images/wp-content/uploads/2020/12/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-14.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/12/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-14.webp" >}}
 
 
 Vini prodotti e uvaggio:

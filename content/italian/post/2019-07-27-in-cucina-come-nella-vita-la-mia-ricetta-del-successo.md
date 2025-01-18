@@ -5,7 +5,7 @@ type: regular
 date: 2019-07-27T09:25:34+00:00
 url: /in-cucina-come-nella-vita-la-mia-ricetta-del-successo/
 images:
-  -  images/wp-content/uploads/2019/07/adm6311.jpg
+  -  images/wp-content/uploads/2019/07/adm6311.webp
 timeline_notification:
   - 1564219541
 categories:
@@ -21,7 +21,7 @@ tags:
 ---
 _Equilibrio, armonia, curiosità e qualità: sono questi gli ingredienti principali della cucina, e della mentalità, di Davide Oldani.<span class="Apple-converted-space">&nbsp;</span>_
 
-<figure id="attachment_99" aria-describedby="caption-attachment-99" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-99" src="images/wp-content/uploads/2019/07/oldani_1159.jpg?w=225" alt="" width="300" height="400" /><figcaption id="caption-attachment-99" class="wp-caption-text">Davide Oldani</figcaption></figure>
+<figure id="attachment_99" aria-describedby="caption-attachment-99" style="width: 300px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-99" src="images/wp-content/uploads/2019/07/oldani_1159.webp?w=225" alt="" width="300" height="400" /><figcaption id="caption-attachment-99" class="wp-caption-text">Davide Oldani</figcaption></figure>
 
 Lombardo, classe 1967, lo chef fa parte di Ambasciatori del Gusto: associazione di oltre 80 cuochi, pizzaioli, sommelier, maitre, manager di ristoranti e professionisti “nostrani” che portano alta la cucina italiana nel mondo. **Chef Oldani** è questo, un “artigiano”, come ama definirsi, che tra i fornelli non si sente mai realmente compiuto, che all’armonia dei suoi ingredienti unisce la curiosità che in cucina (come nella vita) non può mai mancare.<span class="Apple-converted-space">&nbsp;</span>
 
@@ -29,7 +29,7 @@ Lombardo, classe 1967, lo chef fa parte di Ambasciatori del Gusto: associazione 
 
 Eppure **Davide Oldani** doveva diventare un calciatore. Era questa l’intenzione iniziale, stoppata da un infortunio che lo ha portato a slacciare gli scarpini e a maneggiare padelle e coltelli. Il destino gli ha riservato una vita in un altro campo da gioco, quello della cucina, a organizzare e creare proprio come faceva sul rettangolo verde. Dopotutto non è andata poi così male, anche perché su questo nuovo campo da gioco che è nata la “_Cucina pop_” di chef Oldani…
 
-<figure id="attachment_97" aria-describedby="caption-attachment-97" style="width: 400px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-97" src="images/wp-content/uploads/2019/07/cotto-crudo-morbido-croccante-acido-basico-zucca-credito-sebastiano-rossi.jpg?w=300" alt="" width="400" height="266" /><figcaption id="caption-attachment-97" class="wp-caption-text">Cotto-crudo, morbido-croccante, acido-basico credits: SEBASTIANO ROSSI</figcaption></figure>
+<figure id="attachment_97" aria-describedby="caption-attachment-97" style="width: 400px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-97" src="images/wp-content/uploads/2019/07/cotto-crudo-morbido-croccante-acido-basico-zucca-credito-sebastiano-rossi.webp?w=300" alt="" width="400" height="266" /><figcaption id="caption-attachment-97" class="wp-caption-text">Cotto-crudo, morbido-croccante, acido-basico credits: SEBASTIANO ROSSI</figcaption></figure>
 
 **_“Cucina pop” ci può spiegare cosa significa questo termine?_**
 
@@ -49,7 +49,7 @@ No, non ho paura dei prodotti contraffatti perché non li uso. Sarebbe sufficien
 
 **_Si sente tra i fautori del successo della cucina italiana all’estero?_**
 
-<figure id="attachment_100" aria-describedby="caption-attachment-100" style="width: 400px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="wp-image-100" src="images/wp-content/uploads/2019/07/riso_pane_01.jpg?w=300" alt="" width="400" height="271" /><figcaption id="caption-attachment-100" class="wp-caption-text">Riso pane</figcaption></figure>
+<figure id="attachment_100" aria-describedby="caption-attachment-100" style="width: 400px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="wp-image-100" src="images/wp-content/uploads/2019/07/riso_pane_01.webp?w=300" alt="" width="400" height="271" /><figcaption id="caption-attachment-100" class="wp-caption-text">Riso pane</figcaption></figure>
 
 No, mi sento solamente un artigiano che fa il suo dovere in Italia, in un piccolo paese lombardo e che rende riconoscibile l’identità italiana nel mondo.
 
@@ -61,7 +61,7 @@ E’ un grande numero 1, nel campo e fuori. Quello che ho notato è che un ragaz
 
 Più che altro bisogna essere capaci ad essere sempre sul pezzo, mettersi a disposizione del cliente per capire i cambiamenti della società. Se uno si mette a disposizione riesce a essere all’avanguardia e al passo con i tempi. Bisogna sempre tenere un occhio verso la società, i suoi mutamenti, ed il cliente in sé.
 
-**_<img loading="lazy" decoding="async" class="alignleft wp-image-101" src="images/wp-content/uploads/2019/07/seb_5621.jpg?w=200" alt="" width="266" height="400" />Esiste la rivalità tra chef?_**
+**_<img loading="lazy" decoding="async" class="alignleft wp-image-101" src="images/wp-content/uploads/2019/07/seb_5621.webp?w=200" alt="" width="266" height="400" />Esiste la rivalità tra chef?_**
 
 Esiste ma è una rivalità è positiva. Una rivalità costruttiva per avere una maggiore qualità sul lavoro, una maggiore attenzione. Più che rivalità però la chiamerei competitività pulita, c’è un confrontarsi sempre corretto e questo aiuta tutti a crescere. Questo all’estero è avvenuto prima, parlo di circa 30 anni fa, in Italia in tempi più recenti. Da oggi noi in quanto a comunicazione e collaborazione tra colleghi credo sia il momento più bello della cucina italiana.<span class="Apple-converted-space">&nbsp;</span>
 

@@ -13,7 +13,7 @@ categories:
 Per chiudere in bellezza le festività natalizie cosa c’è di meglio di un bel piatto di pasta? Il Pacchero con la rana pescatrice è un primo di mare con un ingrediente dal gusto deciso che il nostro chef Gabriele Zampaletta prepara per noi per deliziare vista, olfatto e naturalmente palato.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_072.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_072.webp" >}}
 
 
 **_Ingredienti per 4 persone_**
@@ -59,4 +59,4 @@ Nel frattempo in una pentola far bollire 360 gr di paccheri&nbsp; (salare la pas
 Aggiungere in mantecazione il prezzemolo e il basilico tritato e &#8230; buon appetito!
 
 
-{{< figure src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_071.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/01/ga191030_dovevuoi_071.webp" >}}

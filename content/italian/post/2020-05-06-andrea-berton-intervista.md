@@ -20,7 +20,7 @@ tags:
 Proprio a Milano lo chef ha aperto il suo ristorante (il <a href="https://www.ristoranteberton.com/" target="_blank" rel="noreferrer noopener">Berton</a>), nel 2013, insignito nello stesso anno della Stella Michelin. È di origini trentine ma nel capoluogo lombardo è riuscito a realizzarsi professionalmente e a realizzare la sua idea di cucina. 
 
 
-{{< figure src="images/wp-content/uploads/2020/05/e294acc2ae-marco-scarpa-berton_05mag20174176-andrea-berton.jpg?w=683" caption="Lo chef Andrea Berton" >}}
+{{< figure src="images/wp-content/uploads/2020/05/e294acc2ae-marco-scarpa-berton_05mag20174176-andrea-berton.webp?w=683" caption="Lo chef Andrea Berton" >}}
 
 
 In una fase in cui praticamente tutti i ristoratori stanno pensando alle iniziative per la ripartenza, **Andrea Berton** è stato tra i primi a muoversi in ottica riapertura. 
@@ -36,7 +36,7 @@ Un voucher, o bond (disponibile sul <a rel="noreferrer noopener" href="https://w
 Uno stimolo condiviso con tutto il suo team, che ci tiene a lodare per il buon lavoro svolto durante questi due mesi di stallo: &#8220;_Devo dire che tutti hanno reagito con grande professionalità e intelligenza, hanno capito da subito la situazione e hanno accettato le scelte che l’azienda ha fatto. Siamo tutti motivati e pronti a rientrare, durante la settimana ci sentiamo con quasi tutto lo staff e abbiamo tutti voglia di tornare a lavorare e rimetterci in moto. I ritmi che avevamo prima sicuramente non ci saranno, almeno all’inizio, ma il ritorno al ristorante ci motiva e carica_&#8220;.
 
 
-{{< figure src="images/wp-content/uploads/2020/05/schermata-2020-05-05-alle-11.06.20.png?w=390" >}}
+{{< figure src="images/wp-content/uploads/2020/05/schermata-2020-05-05-alle-11.06.20.webp?w=390" >}}
 
 
 Una sfida, quella alla quale l’attuale emergenza ha messo di fronte a Berton (e come lui a tutti i suoi colleghi), alla quale lo chef ha voluto rispondere anche in un altro modo; con una personale forma di servizio d&#8217;asporto che, rivela, “_è una formula **prendi e mangi**_, _partirà nella seconda metà di maggio_”.

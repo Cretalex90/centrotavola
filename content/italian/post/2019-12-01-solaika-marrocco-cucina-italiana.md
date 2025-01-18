@@ -18,7 +18,7 @@ tags:
 ---
 _Solaika Marrocco: segnatevi questo nome, perché è il presente e il futuro della cucina italiana. È lei la più giovane Ambasciatrice del Gusto, è lei il capo brigata del Primo Restaurant a Lecce._
 
-<figure id="attachment_164" aria-describedby="caption-attachment-164" style="width: 267px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-164" src="images/wp-content/uploads/2019/07/solaika-marrocco_2.jpg?w=200" alt="" width="267" height="400" /><figcaption id="caption-attachment-164" class="wp-caption-text">Chef Solaika Marrocco</figcaption></figure>
+<figure id="attachment_164" aria-describedby="caption-attachment-164" style="width: 267px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="wp-image-164" src="images/wp-content/uploads/2019/07/solaika-marrocco_2.webp?w=200" alt="" width="267" height="400" /><figcaption id="caption-attachment-164" class="wp-caption-text">Chef Solaika Marrocco</figcaption></figure>
 
 C’è chi a 24 anni sta completando il percorso di studi per ottenere la laurea, chi si sta affacciando per la prima volta sul mondo del lavoro, o chi non è ancora riuscito a ben decifrare quel che sarà il suo futuro. Poi c’è chi, a 24 anni, già dirige (da tempo) la cucina di un rinomato ristorante e può vantare, nel recente passato, premi e riconoscimenti quasi da veterano del mestiere.
 
@@ -37,7 +37,7 @@ Io in cuor mio l’ho sempre saputo, cucinavo sin da bambina e a 10 anni già fa
 
 Sinceramente no, ma mi conosco e so che sono una persona determinata, ambiziosa, che se si pone un obiettivo è per raggiungerlo.<span class="Apple-converted-space"> </span>
 
-<figure id="attachment_162" aria-describedby="caption-attachment-162" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-162" src="images/wp-content/uploads/2019/07/dsc_2713.jpg?w=300" alt="" width="400" height="267" /><figcaption id="caption-attachment-162" class="wp-caption-text"> </figcaption></figure>
+<figure id="attachment_162" aria-describedby="caption-attachment-162" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-162" src="images/wp-content/uploads/2019/07/dsc_2713.webp?w=300" alt="" width="400" height="267" /><figcaption id="caption-attachment-162" class="wp-caption-text"> </figcaption></figure>
 
 **_Spesso i giovanissimi hanno dei modelli ai quali ispirarsi. Quali sono i tuoi?_**
 
@@ -49,7 +49,7 @@ La cosa più bella che mi viene detta è che, nonostante la mia giovane età, gi
 
 **_Molti tuoi coetanei, o comunque giovani ragazzi, cercano di entrare nel mondo della cucina tramite i talent evitando magari una prima gavetta. La consideri formativa come esperienza ?_**
 
-Per me come esperienza serve tutto nella vita ma devo dire che la cucina non è quella che appare in tv, almeno per quanto mi riguarda. Nei talent è come se si andasse ancora a scuola, si è in una bolla, in una sorta di comfort zone che non esiste nella vera cucina. Uscito da lì vieni immesso in un mondo totalmente diverso: la cucina è fatta di sacrificio, 20 ore di lavoro giornaliere, in tv è tutto molto ovattato, è più spettacolo. La mia filosofia mi porta a stare dietro ai fornelli, anche se ormai lo chef non è più solo quello che spadella ma è diventato anche una figura imprenditoriale, che nel mondo cerca di fare qualcosa di diverso e di nuovo.<img loading="lazy" decoding="async" class="alignright wp-image-161" src="images/wp-content/uploads/2019/07/dsc_2609.jpg?w=200" alt="" width="267" height="400" />
+Per me come esperienza serve tutto nella vita ma devo dire che la cucina non è quella che appare in tv, almeno per quanto mi riguarda. Nei talent è come se si andasse ancora a scuola, si è in una bolla, in una sorta di comfort zone che non esiste nella vera cucina. Uscito da lì vieni immesso in un mondo totalmente diverso: la cucina è fatta di sacrificio, 20 ore di lavoro giornaliere, in tv è tutto molto ovattato, è più spettacolo. La mia filosofia mi porta a stare dietro ai fornelli, anche se ormai lo chef non è più solo quello che spadella ma è diventato anche una figura imprenditoriale, che nel mondo cerca di fare qualcosa di diverso e di nuovo.<img loading="lazy" decoding="async" class="alignright wp-image-161" src="images/wp-content/uploads/2019/07/dsc_2609.webp?w=200" alt="" width="267" height="400" />
 
 **_Secondo te un giovane come può riuscire a ottenere credibilità in questo mondo? Tu, nonostante i tuoi 24 anni, come sei riuscita a bruciare le tappe e affermarti?_**
 

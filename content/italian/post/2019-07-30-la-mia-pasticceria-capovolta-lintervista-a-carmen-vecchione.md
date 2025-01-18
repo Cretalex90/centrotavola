@@ -19,7 +19,7 @@ tags:
 _Andiamo in Campania (precisamente ad Avellino) nella pasticceria di Carmen Vecchione, dove il panettone non è solo sinonimo di Natale ma è un must 365 giorni l’anno_
 
 Se siete convinti che il panettone sia un dolce esclusivamente natalizio, forse non siete mai stati nella pasticceria Dolciarte ad Avellino, dove non è strano trovare questo prodotto anche in piena estate, così come nelle altre stagioni. Carmen Vecchione ha sfatato il tabù che vuole la pasticceria come mondo “esclusivo” maschile, e nel suo capovolgere le regole ha deciso di produrre e commercializzare un dolce tipicamente settentrionale, e natalizio, nella sua Avellino, durante tutto l’anno.
-{{< figure src="images/wp-content/uploads/2019/07/brambilla-serrani.jpg" caption="Carmen Vecchione" >}}
+{{< figure src="images/wp-content/uploads/2019/07/brambilla-serrani.webp" caption="Carmen Vecchione" >}}
  
 
 Carmen ci ha spiegato la sua visione di pasticceria d’avanguardia, aprendoci idealmente le porte del suo goloso laboratorio.
@@ -31,7 +31,7 @@ _**
 **_Da cosa nasce questa passione per la pasticceria?_**
 
 Ho iniziato a dedicarmici abbastanza tardi, prima mi sono laureata in Economia e avevo in mente di intraprendere tutt’altro percorso. Cominciai a lavorare in un ristorante ad Avellino e da lì la mia passione per il cibo e per la pasticceria è cresciuta di giorno in giorno. Questo grande amore verso la realizzazione di dolci credo provenga dal mio essere meticolosa al limite del maniacale, e la pasticceria è la materia della precisione per eccellenza.
-{{< figure src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto..jpg" caption="Il cioccolato nell&#8217;orto" >}}
+{{< figure src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto..webp" caption="Il cioccolato nell&#8217;orto" >}}
  
 
 **_Quest’anno ha celebrato i 10 anni dell’apertura del suo locale, Dolciarte. Come si fa a mantenere alto il livello qualitativo per tutto questo tempo?_**
@@ -48,19 +48,19 @@ Quando abbiamo iniziato è stato complicato, ma la strada è stata in discesa pe
 
 <ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/raviolo-di-santa-rosa.jpg" data-id="222" class="wp-image-222" /></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/raviolo-di-santa-rosa.webp" data-id="222" class="wp-image-222" /></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/raviolo-di-santa-rosa-.jpg?w=683" data-id="221" class="wp-image-221" /></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/raviolo-di-santa-rosa-.webp?w=683" data-id="221" class="wp-image-221" /></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto..jpg?w=1024" alt="" data-id="220" class="wp-image-220" /><figcaption>Il cioccolato nell&#8217;orto</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto..webp?w=1024" alt="" data-id="220" class="wp-image-220" /><figcaption>Il cioccolato nell&#8217;orto</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto-.jpg?w=683" data-id="219" class="wp-image-219" /></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/il-cioccolato-nellorto-.webp?w=683" data-id="219" class="wp-image-219" /></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/carmen-vecchione_ritratto.jpg?w=683" data-id="218" class="wp-image-218" /></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/07/carmen-vecchione_ritratto.webp?w=683" data-id="218" class="wp-image-218" /></figure>
   </li>
 </ul>
 

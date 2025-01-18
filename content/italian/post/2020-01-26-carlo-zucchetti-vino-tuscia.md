@@ -29,7 +29,7 @@ tags:
 </p>
 
 
-{{< figure src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.webp" >}}
 
 
 <p class="p1">
@@ -47,7 +47,7 @@ tags:
 Una persona di grande capacità e intuizione politica, culturale e sociale. Aveva e ha tutt’ora un approccio diverso all’enogastronomia, intendendola come strumento di analisi della società contemporanea.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/carlo-zucchetti-vini-della-tuscia-guida.jpg?w=768" caption="Carlo Zucchetti con la Guida del Vino" >}}
+{{< figure src="images/wp-content/uploads/2020/01/carlo-zucchetti-vini-della-tuscia-guida.webp?w=768" caption="Carlo Zucchetti con la Guida del Vino" >}}
 
 
 ### Da anni ormai redigi e curi una guida sul vino. Da cosa nasce questa guida? {.wp-block-heading}
@@ -67,7 +67,7 @@ Le potenzialità sono enormi. Una è storica: la vite in posizione eretta ce l�
 Succede quasi sempre, è praticamente la normalità in questi casi. Spesso c’è chi si lamenta ma questo è quasi naturale. In molte occasione dopo l’uscita della guida mi telefonano dei produttori dicendomi perché avessi premiato quell’azienda invece dell’altra, ma ormai c’ho fatto l’abitudine (ride, ndr). La nostra non è una classica guida ma vuol essere un vademecum di tutte le cantine,&nbsp; i territori, i produttori. Siamo convinti che ci sia necessità di approcci differenti per raccontare la Tuscia nelle sue molte sfaccettature. Soprattutto vuol essere un vademecum per enoturisti e gourmet. Per questa la nostra terra è divisa, in guida,&nbsp; in territori geologici simili, con una introduzione di Sara Roca,&nbsp; e non in divisioni amministrative. Non a caso abbraccia tre regioni e quattro provincie.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.jpg?w=1000" caption="Le guide di cui Carlo Zucchetti è curatore" >}}
+{{< figure src="images/wp-content/uploads/2020/01/guida-vino-olio-cesanese-zucchetti.webp?w=1000" caption="Le guide di cui Carlo Zucchetti è curatore" >}}
 
 
 ### Che ne pensi di questa tendenza sempre più diffusa dei vini naturali? {.wp-block-heading}

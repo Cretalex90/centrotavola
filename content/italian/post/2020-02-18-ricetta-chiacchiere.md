@@ -16,7 +16,7 @@ tags:
 ## Il mese di febbraio ci ricorda subito l’avvento di una delle feste più amate da grandi e piccini: il Carnevale! {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/02/chiacchiere-dolce.jpg?w=819" >}}
+{{< figure src="images/wp-content/uploads/2020/02/chiacchiere-dolce.webp?w=819" >}}
 
 
 La ricetta che proponiamo nasce dalla volontà di unire due ricette diverse tra loro: **le classiche chiacchiere** (o bugie o frappe), e le **samosa**, gli involti di carne tipici dell’india, ma diffusi anche in altre zone del mondo, che vengono serviti come snack accompagnati con varie salse.
@@ -76,7 +76,7 @@ Mettere con l’ausilio di una sacca da pasticcere (o di un cucchiaino) un po’
 Friggere in olio a 160° C e spolverare con zucchero a velo.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/chiacchiere-carnevale.jpg?w=1000" >}}
+{{< figure src="images/wp-content/uploads/2020/02/chiacchiere-carnevale.webp?w=1000" >}}
 
 
 Lo chef consiglia di servire il dolce accompagnandolo con una salsa al cioccolato, o altro di proprio gusto.

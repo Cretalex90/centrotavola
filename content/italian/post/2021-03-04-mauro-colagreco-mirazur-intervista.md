@@ -17,7 +17,7 @@ tags:
 Quando si parla di&nbsp;**Mauro Colagreco**&nbsp;si rischia di sfociare nel banale. Come quando, scrivendo di calcio, si decide di conversare di Messi o Ronaldo, o come quando nel basket si affronta l’argomento LeBron James: chef tristellato di origini italiane (i suoi nonni erano di un paesino abruzzese della provincia di Chieti, di cui ha la cittadinanza onoraria) ma di nazionalità argentina, ha raccolto in Francia (Mentone, a due passi dal confine italiano) i risultati della sua lunga ma fruttuosa semina. Una semina partita da Buenos Aires e compiuta nel Paese dei Lumi.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/mc40matteo-carassale.jpg?w=683" caption="@Matteo Carassale" >}}
+{{< figure src="images/wp-content/uploads/2020/02/mc40matteo-carassale.webp?w=683" caption="@Matteo Carassale" >}}
 
 
 ## Mauro Colagreco, simply the best {.wp-block-heading}
@@ -37,7 +37,7 @@ Le mie origini e il mio apprendistato hanno giocato un ruolo enorme nella creazi
 La mia strada nel mondo della cucina l’ho intrapresa in un periodo di crisi. Non ero sicuro di quale direzione prendere nella mia vita ed ero giunto di fronte a un bivio, ma a volte è questo che ti porta alle migliori opportunità. Ho studiato per una laurea in letteratura e ho provato a seguire le orme di mio padre come contabile, ma non avevo passione per nessuno dei due settori.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/pigeon-from-marie-le-guen-wild-strawberries-spelt-yarrow.-credit40eduardo-torres.jpg" caption="Piccione, fragole selvatiche e farro @Eduardo Torres" >}}
+{{< figure src="images/wp-content/uploads/2020/02/pigeon-from-marie-le-guen-wild-strawberries-spelt-yarrow.-credit40eduardo-torres.webp" caption="Piccione, fragole selvatiche e farro @Eduardo Torres" >}}
 
 
 **E allora cosa è successo?**
@@ -57,7 +57,7 @@ Certamente, il Mirazur è sul confine franco-italiano quindi l’ispirazione vie
 Questo riconoscimento, che viene dai miei stimati colleghi e dalla critica, è un grande onore. Valorizza il percorso della mia vita dall’Argentina sino alla Costa Azzurra, un territorio che mi accolto così calorosamente quasi 20 anni fa. È stata una grande gioia aver riportato questo premio in Francia. I miei piatti arrivano dal cuore e io amo condividerli con i miei ospiti. Al Mirazur stiamo ancora festeggiando…
 
 
-{{< figure src="images/wp-content/uploads/2020/02/mirazur-dining-room2-40nicolas-lobbestael.jpg" caption="Il ristorante Mirazur @Nicolas Lobbestael" >}}
+{{< figure src="images/wp-content/uploads/2020/02/mirazur-dining-room2-40nicolas-lobbestael.webp" caption="Il ristorante Mirazur @Nicolas Lobbestael" >}}
 
 
 **Da quando hai aperto il Mirazur, nel 2006, a oggi in cosa ti senti maturato e cambiato?**
@@ -69,7 +69,7 @@ Sono arrivato a Mentone con molte ricette apprese durante le mie esperienze prec
 Siamo obbligati a fermarci e focalizzarci sulla sostenibilità e sul futuro del pianeta. Come chef siamo in diretto contatto con gli ingredienti e con i <a href="https://aleepepe.com/2020/02/03/chicche-della-tuscia/" target="_blank" rel="noreferrer noopener" aria-label="produttori (apre in una nuova scheda)">produttori</a>, beneficiamo inoltre di una grande visibilità che ci mette in primo piano agli occhi della società. Abbiamo la responsabilità di dettare tendenze, educare il nostro team e condividere i nostri valori con una ampia audience in giro per il mondo.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/salt-crusted-beetroot-from-mirazur-garden-caviar-cream.-credit40lopezdezubiria.jpg" caption="Barbabietola in crosta di sale e crema di caviale @Lopez De Zubiria" >}}
+{{< figure src="images/wp-content/uploads/2020/02/salt-crusted-beetroot-from-mirazur-garden-caviar-cream.-credit40lopezdezubiria.webp" caption="Barbabietola in crosta di sale e crema di caviale @Lopez De Zubiria" >}}
 
 
 **Ultimamente il tema ambientale è molto dibattuto. Tra lotta agli sprechi e sostenibilità anche alimentare, cosa potete comunicare voi grandi chef a chi vi segue?**

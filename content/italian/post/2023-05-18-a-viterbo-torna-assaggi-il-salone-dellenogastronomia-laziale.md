@@ -16,13 +16,13 @@ tags:
 
 ---
 **_A pochi mesi di distanza dalla prima edizione, tenutasi lo scorso settembre, torna a Viterbo Assaggi, il salone dell&#8217;enogastronomia laziale. Ricco il programma della manifestazione, tra incontri con i produttori, cooking show e un ricco menu di degustazioni ed eventi collaterali con Fuori Assaggi._**
-{{< figure src="images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_7.jpg?w=1000" >}}
+{{< figure src="images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_7.webp?w=1000" >}}
  
 
 Un ricco e variegato patrimonio agroalimentare tutto da scoprire, promuovere e valorizzare. Olio extravergine d&#8217;oliva, vino, salumi, formaggi, pasta, prodotti da forno, carni, ortofrutta, marmellate, nocciole, miele, tisane: queste e tante altre eccellenze sono protagoniste della seconda edizione di **Assaggi**, il Salone dell&#8217;enogastronomia laziale in programma a **Viterbo** dal 19 al 22 maggio 2023.
 
 Dopo il successo dello scorso anno, l&#8217;evento porta di nuovo a **Palazzo dei Papi** e nel centro storico del capoluogo della Tuscia le migliori espressioni agroalimentari del Lazio, attraverso esposizioni, degustazioni e appuntamenti di vario genere. Un intenso fine settimana per conoscere e far conoscere la migliore offerta in tema di gusto e sapori che è in grado di proporre una regione estesa e dalle caratteristiche territoriali e culturali molto diversificate. Per gli amanti del buon cibo e i professionisti del settore, è un&#8217;occasione da non perdere per approfondirne e apprezzarne pienamente gli elevati standard di qualità.
-{{< figure src="images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_13.jpg?w=1000" >}}
+{{< figure src="images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_13.webp?w=1000" >}}
  
 
 **Sono oltre 70 le imprese partecipanti** ad Assaggi 2023, pronte ad accogliere buongustai e addetti ai lavori per esporre e presentare sia le loro produzioni classiche che quelle innovative, nate per rispondere alle sfide di un mercato in continua evoluzione. Una ricchezza ampia e articolata di sapori e profumi, saperi e tradizioni, grazie ai migliori artigiani del food e alle aziende virtuose che si impegnano nei territori, ogni giorno, per dare valore alla cultura dell&#8217;alimentazione. Ai professionisti del Food&Beverage, in aggiunta all’accesso al Salone durante l’apertura al pubblico dal venerdì alla domenica, è riservata la giornata di lunedì 22 maggio. 

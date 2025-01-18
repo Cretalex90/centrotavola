@@ -23,31 +23,31 @@ Positivo anche il debutto del format&nbsp;**Pizza d’Autore**, progetto organiz
 Di seguito la mini cronaca fotografica della diciannovesima edizione di Vinòforum, attraverso gli scatti di <a rel="noreferrer noopener" href="https://www.officinavisiva.it/" target="_blank"><strong>Officina Visiva</strong></a>. 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-16 is-layout-flex wp-block-gallery-is-layout-flex"> 
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-13.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-13.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-1.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-1.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-39.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-39.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-29.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-29.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-51.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-51.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-20.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-20.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-18.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-18.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-7.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-7.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-10.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-10.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-32.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-32.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-43.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-43.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-44.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-44.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-2.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-2.webp?w=1024" >}}
  
-{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-45.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2022/06/officina-visiva-foto-vinoforum-2022-alessandro-creta-giornalista-roma-45.webp?w=1024" >}}
  </figure>

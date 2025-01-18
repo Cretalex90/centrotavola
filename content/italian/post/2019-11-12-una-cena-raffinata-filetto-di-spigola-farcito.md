@@ -17,7 +17,7 @@ tags:
 Questo piatto è ideale quando si hanno ospiti a cena, perché è semplice ma al tempo stesso raffinato. Il gusto deciso del lardo si sposa perfettamente con la delicatezza della spigola, la morbida farcia interna è sapientemente studiata per accostarsi alla croccantezza del lardo. Consiglio anche alle mani meno esperte di provarlo!
 
 
-{{< figure src="images/wp-content/uploads/2019/11/ga191030_dovevuoi_149.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2019/11/ga191030_dovevuoi_149.webp?w=1024" >}}
 
 
 **MISE EN PLACE PER 4 PAX**
@@ -59,4 +59,4 @@ Avvolgere il pesce così preparato con due fettine di lardo e mettere in forno a
 Contorno consigliato: insalatina di finocchi e arance tagliate a vivo
 
 
-{{< figure src="images/wp-content/uploads/2019/11/ga191030_dovevuoi_146.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2019/11/ga191030_dovevuoi_146.webp?w=1024" >}}

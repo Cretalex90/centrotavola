@@ -15,7 +15,7 @@ tags:
 ### Gamberi, cime di rapa e burrata è una variante, appetitosa ed originale, di uno dei più grandi e intramontabili classici della cucina pugliese: le orecchiette con le cime di rapa. {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2021/01/spaghetti-chef-ricetta-gamberi-cime.jpg?w=1024" caption="Spaghetti con gamberi, burrata e cime di rapa &#8211; Realizzazione chef Danilo Colaiaquo" >}}
+{{< figure src="images/wp-content/uploads/2021/01/spaghetti-chef-ricetta-gamberi-cime.webp?w=1024" caption="Spaghetti con gamberi, burrata e cime di rapa &#8211; Realizzazione chef Danilo Colaiaquo" >}}
 
 
 Le cime di rapa e la burrata unite al sapore minerale e marino dei gamberi daranno vita a un connubio invitante e sorprendente che lo chef Danilo Colaiaquo vi propone in questa ricetta.  
@@ -56,7 +56,7 @@ Olio extravergine di oliva q.b.
 **_Per la crema delle cime di rapa_**: Pulire, lavare e tenere da parte tutte le cime di rapa più tenere. In una casseruola far imbiondire uno spicchio d&#8217;aglio senz&#8217;anima e ½ peperoncino nell’olio extravergine d&#8217;oliva, aggiungere le cime di rapa, saltandole velocemente fino a farle insaporire per bene, sistemare di sale e frullare il tutto, aggiungendo qualche goccia di acqua o olio per ricavare una crema liscia ed omogenea.
 
 
-{{< figure src="images/wp-content/uploads/2021/01/spaghetti-gamberi-cime-rapa.jpg" caption="Spaghetti gamberi e cime di rapa &#8211; impiattamento alternativo" >}}
+{{< figure src="images/wp-content/uploads/2021/01/spaghetti-gamberi-cime-rapa.webp" caption="Spaghetti gamberi e cime di rapa &#8211; impiattamento alternativo" >}}
 
 
 **_Finitura del piatto_**: cuocete la pasta in una pentola con abbondante acqua salata per tre quarti del tempo di cottura scritto sulla confezione. Scolare e finire la cottura in padella già calda con la bisque aggiungendo qualche mestolo di acqua se necessario e, infine, i gamberi precedentemente messi a marinare. Mettere al centro del piatto un cucchiaio di crema di cime di rapa, adagiare sopra gli spaghetti e concludere con della burrata precedentemente ridotta a pezzetti.

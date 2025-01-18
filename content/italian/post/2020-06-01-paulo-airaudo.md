@@ -19,7 +19,7 @@ tags:
 Un’inaugurazione ritardata per ovvi motivi dato il momento attuale, ma nella quale lo chef non ha mai smesso di credere. La sua visione ottimistica emerge sin dalle prime battute della nostra chiacchierata, quando dice che durante il lockdown, con relativa chiusura dei locali, lui non ha licenziato nessun dipendente. 
 
 
-{{< figure src="images/wp-content/uploads/2020/05/osk08067.jpg" caption="Chef Paulo Airaudo.<br />Ph: Oscar Oliva" >}}
+{{< figure src="images/wp-content/uploads/2020/05/osk08067.webp" caption="Chef Paulo Airaudo.<br />Ph: Oscar Oliva" >}}
 
 
 Non solo in Spagna, a **San Sebastian**,&nbsp;dove tiene il suo quartier generale e altri due locali, ma anche negli altri ristoranti sparsi tra Londra, Ginevra e Hong Kong. “_Il ristorante è fatto prima di tutto dalle persone, non solo dallo chef, quindi non ho voluto licenziare nessuno. Per me lo staff è la cosa più importante e ho pagato a tutti lo stipendio in questo periodo. **Se falliremo non sarà per una o due persone in più che ho deciso di tenere**. Il ristorante è fatto di mani e cuore, non è una fabbrica_” ci dice in perfetto italiano “sporcato” da un’inevitabile una cadenza spagnola.&nbsp;
@@ -37,7 +37,7 @@ In un periodo in cui molti imprenditori e ristoratori si vedono costretti a tagl
 ** La mia cucina è molto identitaria, quindi nei vari Paesi la porto avanti secondo quelle che sono le mie regole. Un’idea di cucina che si basa sulla forte contaminazione italiana, perché mi sono accorto che all’estero la tradizione italiana non viene percepita come dovrebbe. A chi si lamenta, nel mio ristorante, di un piatto di pasta a 14€ io rispondo che la pasta è fresca, fatta a mano ogni mattina, che gli ingredienti sono di prima qualità. Il personale costa, i professionisti costano, così come la materia prima. Tutto deve essere proporzionato.
 
 
-{{< figure src="images/wp-content/uploads/2020/05/49769557_980679945449125_1882425539533209600_n.jpg?w=733" >}}
+{{< figure src="images/wp-content/uploads/2020/05/49769557_980679945449125_1882425539533209600_n.webp?w=733" >}}
 
 
 **Hai ottenuto la stella Michelin in vari locali di tua proprietà, tra i quali ovviamente Amelìa a San Sebastian. Qual è secondo te la formula giusta per ricevere, e poi replicare, un riconoscimento simile?  
@@ -50,7 +50,7 @@ In un periodo in cui molti imprenditori e ristoratori si vedono costretti a tagl
 Il business è il mio, e di conseguenza anche l’offerta. Se qualcuno vuole venire sa che tipo di offerta propongo, altrimenti se si vuole scegliere liberamente ci sono altri molti locali che hanno la carta. Considero chi si lamenta della sola possibilità del degustazione come un dinosauro, ma fortunatamente solo una piccolissima parte non accetta il non poter scegliere liberamente cosa mangiare. La carta in realtà non è nemmeno “conveniente” economicamente per il ristorante e la formula del menu degustazione è quella più funzionale per mantenere l&#8217;impresa. Il mio degustazione, inoltre, è più “breve” rispetto alla media: in un’ora si mangia e i miei piatti non sono “assaggi”, ma porzioni abbondanti perché per me l’importante è che si possa mangiare veramente. Se vieni in un ristorante come il mio, è perché prima di tutto ne accetti il concetto che c’è dietro.
 
 
-{{< figure src="images/wp-content/uploads/2020/05/schermata-2020-06-01-alle-10.42.00.png" caption="Ph: Oscar Oliva" >}}
+{{< figure src="images/wp-content/uploads/2020/05/schermata-2020-06-01-alle-10.42.00.webp" caption="Ph: Oscar Oliva" >}}
 
 
 **In molti, tradizionalmente, all’estero associano la cucina italiana a pasta e pizza. Tu che all’estero vivi e lavori, e che la nostra cucina la conosci molto bene essendo anche un membro di&nbsp;Ambasciatori del Gusto, pensi che davvero sia ancora così oppure questa concezione è stata definitivamente superata?  

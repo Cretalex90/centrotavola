@@ -26,7 +26,7 @@ tags:
 </table></figure> 
 
 
-{{< figure src="images/wp-content/uploads/2020/02/52f87731-ad19-4424-8277-b6c28b5bec16.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2020/02/52f87731-ad19-4424-8277-b6c28b5bec16.webp?w=1024" >}}
 <figure class="wp-block-table">
 
 <table>

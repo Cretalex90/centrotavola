@@ -35,7 +35,7 @@ Q.b sakura mix
 Q.b Timo, aglio, pepe nero e sale maldon
 
 
-{{< figure src="images/wp-content/uploads/2020/09/adobestock_127979679.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/09/adobestock_127979679.webp" >}}
 
 
 **_Procedimento:_**  

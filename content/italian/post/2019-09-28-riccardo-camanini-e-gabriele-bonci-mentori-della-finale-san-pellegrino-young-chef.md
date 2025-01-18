@@ -27,7 +27,7 @@ comprendere il ruolo della gastronomia come forza trasformatrice e motore per il
 
 
 
-{{< figure src="images/wp-content/uploads/2019/09/gabriele-bonci_ph.-arianna-giuntini.png?w=1000" caption="Gabriele Bonci. Ph. Arianna Giuntini" >}}
+{{< figure src="images/wp-content/uploads/2019/09/gabriele-bonci_ph.-arianna-giuntini.webp?w=1000" caption="Gabriele Bonci. Ph. Arianna Giuntini" >}}
 
 
 Questi i mentori scelti dai giovani chef in gara alla finale regionale in programma a Milano il  
@@ -39,7 +39,7 @@ dish “Lol &#8220;eel&#8221; pop – beach honey & lake’s potatoes”
 Marzullo, che presenterà come signature dish “Aubergine in black tie”
 
 
-{{< figure src="images/wp-content/uploads/2019/07/riccardo-camanini1.jpg?w=1000" caption="Riccardo Camanini" >}}
+{{< figure src="images/wp-content/uploads/2019/07/riccardo-camanini1.webp?w=1000" caption="Riccardo Camanini" >}}
 
 
 **Francesco Nunziata**, Resident Executive Chef di ATTIMI by Heinz Beck Milano City Life, sarà  

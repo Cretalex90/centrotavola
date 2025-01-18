@@ -20,7 +20,7 @@ tags:
 **_Dopo qualche anno torno a parlare di Paolo Trippini. L&#8217;avevamo conosciuto un paio di stagioni fa (<a href="https://wordpress.com/post/aleepepecom.wordpress.com/1803" target="_blank" rel="noreferrer noopener">qui la sua intervista</a>), quando venne eletto Ambasciatore del Gusto, primo chef umbro a ricoprire questa carica. Stavolta alla scoperta del suo menu che combatte lo spopolamento e supporta l&#8217;economia del piccolo borgo di Civitella del Lago (TR)._**
 
 Paolo Trippini è lo **chef umbro** sempre attento a rappresentare le filiere corte locali e si è guadagnato il titolo di &#8220;food scout&#8221; per la sua abilità di individuare prodotti e produttori di qualità, che ha presentato in tutto il mondo come chef a**mbasciatore del gusto** e come membro della prestigiosa associazione internazionale dei JRE (Giovani Ristoratori d&#8217;Europa). Attualmente, Trippini ricopre anche il ruolo di Presidente Umbria presso APCI.
-{{< figure src="images/wp-content/uploads/2023/04/interni-ristorante_trippini.jpeg?w=1000" >}}
+{{< figure src="images/wp-content/uploads/2023/04/interni-ristorante_trippini.webp?w=1000" >}}
  
 
   
@@ -28,7 +28,7 @@ Storico il ristorante Trippini. Da oltre **60 anni**, la famiglia ha trasformato
 
   
 Circa un anno fa, insieme al fratello Luca, lo chef ha avviato un progetto volto al recupero “**delle cose e delle persone**&#8221; di questo borgo che sta subendo un progressivo spopolamento (si pensi che c&#8217;è solo un bambino iscritto alla scuola materna), e che oggi sta raggiungendo i primi **importanti traguardi**.
-{{< figure src="images/wp-content/uploads/2023/04/ritratto_paolo-trippini.jpg" >}}
+{{< figure src="images/wp-content/uploads/2023/04/ritratto_paolo-trippini.webp" >}}
  
 
 Lo chef nella sua filosofia culinaria, ha integrato da tempo i concetti di **sostenibilità**, **recupero** e riduzione degli sprechi. Tuttavia, ciò che sembrava limitarsi alla cucina si è trasformato in un progetto più ampio che coinvolge l&#8217;intera comunità e promuove uno stile di **vita sostenibile** in un piccolo borgo umbro. Una sfida che sembrava al di là dei suoi sogni. Eppure, è diventata **realtà**.
@@ -37,7 +37,7 @@ Lo chef nella sua filosofia culinaria, ha integrato da tempo i concetti di **sos
 **_Il progetto della Comunità De Pazzi_**
 
 La cucina per Paolo Trippini non è insomma solamente mera cucina, ma significa anche poter parlare di **persone**, **territori**, **tradizioni** e tanta **umanità**. Il progetto della cooperativa “**_Comunità De Pazz_**_**i**_” è un esempio virtuoso di sostenibilità e coesione sociale, guidato da Paolo Trippini insieme a suo fratello Luca. Il nome &#8220;De Pazzi&#8221; può essere interpretato in due modi diversi: si riferisce sia alla famiglia antica di Civitella, che alla presunta vicinanza di un manicomio. Tuttavia, quando i fratelli Trippini hanno avviato il loro progetto, molti li hanno considerati &#8220;_pazzi_&#8220;.
-{{< figure src="images/wp-content/uploads/2023/04/tortelli-al-pecorino_trippini-edited.jpg" caption="Tortelli al pecorino" >}}
+{{< figure src="images/wp-content/uploads/2023/04/tortelli-al-pecorino_trippini-edited.webp" caption="Tortelli al pecorino" >}}
  
 
   
@@ -50,7 +50,7 @@ Il risultato? Dopo un anno la cooperativa ha assunto 16 persone tutte residenti 
 
 
 La **cucina** proposta dallo chef Trippini e dal suo secondo Enrico Grillo unisce tradizione e innovazione attraverso la ricerca e lo studio delle fermentazioni, della panificazione con grani antichi e lievito madre, e delle erbe selvatiche. Grazie alla collaborazione con la cooperativa agricola e alla partecipazione dei giovani e degli anziani del territorio, si crea un **circolo virtuoso** di alta cucina, conservazione del patrimonio gastronomico e microeconomia locale.
-{{< figure src="images/wp-content/uploads/2023/04/bosco-umbro_trippini-edited.jpeg" caption="Bosco umbro " >}}
+{{< figure src="images/wp-content/uploads/2023/04/bosco-umbro_trippini-edited.webp" caption="Bosco umbro " >}}
  
 
   

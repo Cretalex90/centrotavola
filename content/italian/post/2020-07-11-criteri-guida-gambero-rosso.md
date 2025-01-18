@@ -28,7 +28,7 @@ L&#8217;ho voluto chiedere a **Laura Mantovano,** direttrice delle guide del **G
 ### Guida Ristoranti Gambero Rosso, parola a Laura Mantovano {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/07/laura-mantovano.jpg" caption="Laura Mantovano &#8211; Direttrice guide del Gambero Rosso" >}}
+{{< figure src="images/wp-content/uploads/2020/07/laura-mantovano.webp" caption="Laura Mantovano &#8211; Direttrice guide del Gambero Rosso" >}}
 
 
 **Laura, tu che lavori a stretto contatti con il mondo della ristorazione, com&#8217;è attualmente la situazione del settore nel nostro Paese?**  
@@ -41,7 +41,7 @@ _La Guida probabilmente sarà più un vademecum di servizio che di giudizio. Ci�
 _Per questa edizione, incrociando le dita, speriamo di confermare la data del 23 novembre, pensando però a tutte le possibili alternative. Allo stato attuale delle cose non posso escludere una presentazione in streaming ma la speranza è di riuscire a fare qualcosa di &#8220;canonico&#8221;. Per dare un senso di normalità, per quanto possiamo, al nostro settore._
 
 
-{{< figure src="images/wp-content/uploads/2020/07/guida-ristoranti-gambero-rosso.jpg" caption="Un&#8217;immagine tratta dalla cerimonia di presentazione della guida dello scorso anno" >}}
+{{< figure src="images/wp-content/uploads/2020/07/guida-ristoranti-gambero-rosso.webp" caption="Un&#8217;immagine tratta dalla cerimonia di presentazione della guida dello scorso anno" >}}
 
 
 **Come vi state muovendo per andare nei locali a giudicare?**  
@@ -54,7 +54,7 @@ _Sì, a qualcosa abbiamo pensato, penso ci sarà sicuramente qualche novità ma 
 _Uno degli scopi che ci siamo prefissati per questa edizione è quello di dare un senso di normalità al settore. Crediamo che le guide debbano essere uno strumento di aiuto e supporto sia per i ristoratori che per i clienti, raccontando anche le formule messe in campo nei ristoranti per ovviare a questa situazione._
 
 
-{{< figure src="images/wp-content/uploads/2020/07/guida-gambero-rosso-ristoranti.jpg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2020/07/guida-gambero-rosso-ristoranti.webp?w=1024" >}}
 
 
 **Per chiudere, una considerazione personale per invitare la gente a mangiare fuori?**  

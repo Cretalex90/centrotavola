@@ -21,7 +21,7 @@ _Miscele, esperimenti, abbinamenti e non solo. Corrado Assenza ci spiega la sua 
 La pasticceria come espressione della propria personalità, la pasticceria come espressione della propria creatività. La pasticceria come completezza in cucina. In questi pochi ma chiari concetti si può riassumere il pensiero di un guru come Corrado Assenza, un maestro che con il suo Caffè Sicilia, a Noto, ha progettato, disegnato e realizzato le nuove frontiere della pasticceria.
 
 Nell’ultima edizione di Identità Golose, a Milano, ho incontrato un vero ambasciatore della cucina italiana, che ha fatto della pasticceria, e del peccato di gola per eccellenza, la sua strada professionale. 
-{{< figure src="images/wp-content/uploads/2019/08/assenza.jpg" caption="Corrado Assenza" >}}
+{{< figure src="images/wp-content/uploads/2019/08/assenza.webp" caption="Corrado Assenza" >}}
  
 
   
@@ -42,7 +42,7 @@ Posso dirti quelli che io desidero che siano: genuinità, freschezza, stagionali
 **_Nel grande successo che negli ultimi anni ha riscontrato l’alta cucina italiana, quanto crede abbia influito la pasticceria?_**
 
 Dobbiamo considerare un fatto: nell’attuale mondo dell’alta cucina la pasticceria è stata confinata a un ruolo molto marginale. Fai caso a quante pietanze ha un cuoco per esprimere e declinare il suo pensiero e a quante pietanze ha un pasticcere da proporre in un menù. Massimo due con la piccola pasticceria. È uno strapotere del sale, la nostra è una cultura sapida, a scapito di quella più zuccherina.
-{{< figure src="http://progressonline.it/wp-content/uploads/2019/04/Assenza_Oltre-gli-asparagi.-A-cosa-serve-una-passeggiata.-Pensieri-di-primavera-1024x683.jpg" caption="Oltre gli asparagi. A cosa serve una passeggiata. Pensieri di primavera" >}}
+{{< figure src="http://progressonline.it/wp-content/uploads/2019/04/Assenza_Oltre-gli-asparagi.-A-cosa-serve-una-passeggiata.-Pensieri-di-primavera-1024x683.webp" caption="Oltre gli asparagi. A cosa serve una passeggiata. Pensieri di primavera" >}}
  
 
 **_La pasticceria ha anche una grande responsabilità, quella di chiudere degnamente un menù…_**
@@ -60,22 +60,22 @@ Sono quelli che farò, quelli che non ho ancora fatto. Perché sono il risultato
 
 <ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza.jpg?w=1024" alt="" data-id="283" class="wp-image-283" /><figcaption>Corrado Assenza</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza.webp?w=1024" alt="" data-id="283" class="wp-image-283" /><figcaption>Corrado Assenza</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_sguardo.-a-pensarci-bene..jpg?w=1024" alt="" data-id="282" class="wp-image-282" /><figcaption>Sguardo. A pensarci bene</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_sguardo.-a-pensarci-bene..webp?w=1024" alt="" data-id="282" class="wp-image-282" /><figcaption>Sguardo. A pensarci bene</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_oltre-gli-asparagi.-a-cosa-serve-una-passeggiata.-pensieri-di-primavera.jpg?w=1024" alt="" data-id="281" class="wp-image-281" /><figcaption>Oltre gli asparagi</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_oltre-gli-asparagi.-a-cosa-serve-una-passeggiata.-pensieri-di-primavera.webp?w=1024" alt="" data-id="281" class="wp-image-281" /><figcaption>Oltre gli asparagi</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_giochi-per-il-palato.jpg?w=1024" alt="" data-id="280" class="wp-image-280" /><figcaption>Giochi per il palato</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_giochi-per-il-palato.webp?w=1024" alt="" data-id="280" class="wp-image-280" /><figcaption>Giochi per il palato</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_col-tempo-ritornano.-cambiate-cresciute-maturate.-idee..jpg?w=683" alt="" data-id="279" class="wp-image-279" /><figcaption>Col tempo ritornano. Cambiate, cresciute, idee</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/assenza_col-tempo-ritornano.-cambiate-cresciute-maturate.-idee..webp?w=683" alt="" data-id="279" class="wp-image-279" /><figcaption>Col tempo ritornano. Cambiate, cresciute, idee</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/ad55582.jpg?w=1024" alt="" data-id="276" class="wp-image-276" /></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/ad55582.webp?w=1024" alt="" data-id="276" class="wp-image-276" /></figure>
   </li>
 </ul>
 

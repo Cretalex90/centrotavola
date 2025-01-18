@@ -13,7 +13,7 @@ categories:
 Dopo i <a rel="noreferrer noopener" href="https://aleepepe.com/2020/04/02/libri-cucina/" target="_blank">primi libri</a> che vi ho presentato la scorsa settimana, proseguiamo con i consigli letterari a stampo gastronomico per passare al meglio questo periodo di isolamento. Tutti i testi sono acquistabili online.
 
 
-{{< figure src="images/wp-content/uploads/2020/04/img_0300.jpg" >}}
+{{< figure src="images/wp-content/uploads/2020/04/img_0300.webp" >}}
 
 
 ## The devil in the kitchen. La vita di Marco Pierre White &#8211; Marco Pierre White {.wp-block-heading}

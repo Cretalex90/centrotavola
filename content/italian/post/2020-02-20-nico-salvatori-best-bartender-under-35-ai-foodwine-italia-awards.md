@@ -15,7 +15,7 @@ Assegnati ieri a Milano i premi dei **Food&Wine Italia Awards**, ideati per cele
 Ad aggiudicarsi il riconoscimento come **Best Bartender under 35** è stato **Nico Salvatori,** del ristorante _Oltre_ di Bologna. Classe 1986, elabora con creatività e precisione cocktail all’insegna del **_less is more_**, lavorando su qualità e ricerca.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/food-and-wine-bartender.jpeg?w=1024" >}}
+{{< figure src="images/wp-content/uploads/2020/02/food-and-wine-bartender.webp?w=1024" >}}
 
 
 A contendersi il premio di **Best Bartender under 35**, in gara con Nico Salvatori, sono stati **Leonardo Todisco**, bar manager del _Rita & Cocktails_, storico locale milanese in cui è approdato dopo una lunga gavetta tra Italia e Londra e **Solomiya Grytsyshyn**, barlady di origine ucraina tra le giovani promesse del bartending nella Capitale, dove lavora al fianco del _master blender_ Massimo D’Addezio al _Chorus Cafè_.

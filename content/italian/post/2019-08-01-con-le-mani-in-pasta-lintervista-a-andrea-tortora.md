@@ -21,7 +21,7 @@ Un gioco di alchimie, il risultato di formule, prove, errori e continui migliora
 La pasticceria è questa, prendere o lasciare, e dietro ad ogni nostro morso ad una fetta di torta, un bignè o un pasticcino ci sono ore e ore di tentativi, azzardi e calcoli matematici da parte di chi vuole riuscire ad azzeccare dosi, combinare gusti, per realizzare il dolce perfetto. Lo sa bene&nbsp;**Andrea Tortora**, pasticcere classe 1986, che nonostante la giovane età è uno dei maestri di questa branca così difficile, ma così gustosa e irrinunciabile, della cucina. Ora le sue mani realizzano i dolci per i fortunati ospiti dell’hotel Rosa Alpina, in Alta Badia, e del&nbsp;**Restaurant St. Hubertus**, regno dello chef tristellato Norbert Niederkofler.
 
 
-{{< figure src="images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-02-768x512.jpg" caption="Pastry chef Andrea Tortora" >}}
+{{< figure src="images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-02-768x512.webp" caption="Pastry chef Andrea Tortora" >}}
 
 
 “I miei maestri mi hanno indicato la direzione” afferma Andrea, “dicendomi dove guardare, ma non cosa vedere. Li ho ascoltati con rispetto e con la libertà di procedere in modo personale e creativo”. Il resto del percorso poi Andrea Tortora se l’è costruito da solo, a suon di ricette, tentativi, fallimenti e successi.
@@ -35,7 +35,7 @@ Parola a chi, a 30 anni, è stato eletto “Miglior Chef Pasticcere” dalla Gui
 La pasticceria è un elemento dell´orchestra, e a lei sono affidati due momenti molto particolari dell’esperienza in ristorante: l’accoglienza, attraverso il pane, ed il commiato, attraverso la piccola pasticceria. Fondamentale è il suo essere in piena armonia con la strada indicata dallo Chef di cucina.
 
 
-{{< figure src="images/wp-content/uploads/2019/08/at_cioclamponic2a9danieltc3b6chterle_1.jpg" caption="CiocLamponi ©DanielTöchterle" >}}
+{{< figure src="images/wp-content/uploads/2019/08/at_cioclamponic2a9danieltc3b6chterle_1.webp" caption="CiocLamponi ©DanielTöchterle" >}}
 
 
 **La pasticceria è forse l’arte più difficile della cucina, quanto studio e precisione ci vogliono per preparare un dolce di livello?&nbsp;**
@@ -60,25 +60,25 @@ Sicuramente la famiglia mi ha dato il via, poi ogni esperienza che ho fatto, pos
 
 <ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-02-768x512.jpg?w=768" alt="" data-id="253" class="wp-image-253" /><figcaption>Pastry chef Andrea Tortora</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-02-768x512.webp?w=768" alt="" data-id="253" class="wp-image-253" /><figcaption>Pastry chef Andrea Tortora</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/tortoraconfweb_c2a9danieltc3b6chterle-4-300x200.jpg?w=300" alt="" data-id="252" class="wp-image-252" /><figcaption>Il Panettone ©DanielTöchterle</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/tortoraconfweb_c2a9danieltc3b6chterle-4-300x200.webp?w=300" alt="" data-id="252" class="wp-image-252" /><figcaption>Il Panettone ©DanielTöchterle</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/torta-di-pane_creditjustfilippopiva.png?w=901" alt="" data-id="249" class="wp-image-249" /><figcaption>Torta di pane @Justfilippopiva</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/torta-di-pane_creditjustfilippopiva.webp?w=901" alt="" data-id="249" class="wp-image-249" /><figcaption>Torta di pane @Justfilippopiva</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/at_cioclamponic2a9danieltc3b6chterle_1.jpg?w=1024" alt="" data-id="248" class="wp-image-248" /><figcaption>CiocLamponi ©DanielTöchterle</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/at_cioclamponic2a9danieltc3b6chterle_1.webp?w=1024" alt="" data-id="248" class="wp-image-248" /><figcaption>CiocLamponi ©DanielTöchterle</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/applestrudelc2a9danieltc3b6chterle-02.jpg?w=1024" alt="" data-id="247" class="wp-image-247" /><figcaption>Apple Strudel ©DanielTöchterle</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/applestrudelc2a9danieltc3b6chterle-02.webp?w=1024" alt="" data-id="247" class="wp-image-247" /><figcaption>Apple Strudel ©DanielTöchterle</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/sth_0716_web_c2a9danieltc3b6chterle-183.jpg?w=1024" alt="" data-id="246" class="wp-image-246" /><figcaption> ©DanielTöchterle</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/sth_0716_web_c2a9danieltc3b6chterle-183.webp?w=1024" alt="" data-id="246" class="wp-image-246" /><figcaption> ©DanielTöchterle</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/granosaraceno_mirtillirossic2a9danieltc3b6chterle-01.jpg?w=1024" alt="" data-id="244" class="wp-image-244" /><figcaption>Grano Saraceno e mirtilli rossi ©DanielTöchterle</figcaption></figure>
+    <figure><img decoding="async" src="images/wp-content/uploads/2019/08/granosaraceno_mirtillirossic2a9danieltc3b6chterle-01.webp?w=1024" alt="" data-id="244" class="wp-image-244" /><figcaption>Grano Saraceno e mirtilli rossi ©DanielTöchterle</figcaption></figure>
   </li>
 </ul>
 
