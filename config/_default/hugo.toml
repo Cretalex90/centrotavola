@@ -58,22 +58,22 @@ target = '$1'
 home = ["HTML", "RSS", "JSON", "WebAppManifest", "SearchIndex"]
 
 ############################# Imaging ############################
-# [imaging]
-# # See https://github.com/disintegration/imaging
-# # Default JPEG or WebP quality setting. Default is 75.
-# quality = 90
-# resampleFilter = "Lanczos"
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+resampleFilter = "Lanczos"
 
 
-# ############################# Caches ###############################
-# [caches]
-# [caches.images]
-# dir = ":resourceDir/_gen"
-# maxAge = "720h"
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
 
-# [caches.assets]
-# dir = ":resourceDir/_gen"
-# maxAge = "720h"
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
 
 ############################# Markup ###############################
 [markup]
