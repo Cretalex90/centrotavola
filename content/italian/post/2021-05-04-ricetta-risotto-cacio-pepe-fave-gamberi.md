@@ -8,7 +8,7 @@ timeline_notification:
   - 1620126874
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - ricetta
   - risotto
 images: ["images/wp-content/uploads/2021/05/ricetta-risotto-cacio-e-pepe.webp"]

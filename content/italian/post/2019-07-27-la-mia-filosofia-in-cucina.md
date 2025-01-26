@@ -10,7 +10,7 @@ timeline_notification:
   - 1564215165
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - cucina
   - cucina italiana
   - guardone riviera

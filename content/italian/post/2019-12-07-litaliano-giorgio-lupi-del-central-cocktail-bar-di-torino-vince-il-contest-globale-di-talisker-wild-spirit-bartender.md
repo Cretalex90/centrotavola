@@ -8,7 +8,7 @@ timeline_notification:
   - 1575717122
 categories:
   - News
-tags:
+meta_tags:
   - bar
   - bartender
   - drink

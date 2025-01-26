@@ -9,7 +9,7 @@ timeline_notification:
   - 1579949718
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - ricetta
   - ricette
 images: ["images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp"]

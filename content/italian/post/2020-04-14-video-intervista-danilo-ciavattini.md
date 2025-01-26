@@ -8,7 +8,7 @@ timeline_notification:
   - 1586856250
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - Danilo ciavattini
   - intervista
   - viterbo

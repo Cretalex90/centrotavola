@@ -10,7 +10,7 @@ author: "John Doe"
 description: "This is meta description"
 # Taxonomies
 categories: ["four seasone"]
-tags: ["seasone", "new"]
+meta_tags: ["seasone", "new"]
 type: "featured" # available type (regular or featured)
 draft: false
 ---

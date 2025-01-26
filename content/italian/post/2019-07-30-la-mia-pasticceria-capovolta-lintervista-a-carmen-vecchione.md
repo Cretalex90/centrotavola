@@ -9,7 +9,7 @@ timeline_notification:
 categories:
   - Carmen Vecchione
   - interviste bistrot
-tags:
+meta_tags:
   - cucina
   - cucina italiana
   - dolci

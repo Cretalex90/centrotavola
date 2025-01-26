@@ -10,7 +10,7 @@ timeline_notification:
   - 1684350735
 categories:
   - Eventi
-tags:
+meta_tags:
   - chef
   - umbria
 images: ["images/wp-content/uploads/2023/05/petto-danatra-selvatica-di-lucio-pompili.webp"]

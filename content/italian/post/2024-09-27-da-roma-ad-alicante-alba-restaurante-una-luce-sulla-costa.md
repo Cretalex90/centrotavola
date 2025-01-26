@@ -10,7 +10,7 @@ timeline_notification:
   - 1727429724
 categories:
   - News
-tags:
+meta_tags:
   - alba restaurante
   - alicante
   - ristorante

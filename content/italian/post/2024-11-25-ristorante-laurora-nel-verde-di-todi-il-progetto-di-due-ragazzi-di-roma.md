@@ -10,7 +10,7 @@ timeline_notification:
   - 1732548322
 categories:
   - News
-tags:
+meta_tags:
   - agriturismo
   - cucina
   - ristorante

@@ -8,7 +8,7 @@ timeline_notification:
   - 1581409240
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - chef stellati
   - identità golose

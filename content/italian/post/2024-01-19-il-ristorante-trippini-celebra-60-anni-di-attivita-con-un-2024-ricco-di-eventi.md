@@ -12,7 +12,7 @@ wordads_ufa:
   - s:wpcom-ufa-v4:1705696311
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - cucina italiana
   - paolo trippini

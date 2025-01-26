@@ -8,7 +8,7 @@ timeline_notification:
   - 1578830236
 categories:
   - Eventi
-tags:
+meta_tags:
   - vino
 images: ["images/wp-content/uploads/2020/01/unnamed.webp"]
 ---

@@ -10,7 +10,7 @@ timeline_notification:
   - 1732616721
 categories:
   - News
-tags:
+meta_tags:
   - bassano
   - country
   - menu

@@ -8,7 +8,7 @@ timeline_notification:
   - 1564755558
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - Andrea ribaldone
   - chef
   - chef stellati

@@ -8,7 +8,7 @@ timeline_notification:
   - 1584272099
 categories:
   - Eventi
-tags:
+meta_tags:
   - ricetta
   - ricette
   - tuscia

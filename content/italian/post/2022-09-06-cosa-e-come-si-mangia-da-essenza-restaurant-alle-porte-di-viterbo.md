@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - Eventi
   - News
-tags:
+meta_tags:
   - chef
   - cucina
   - viterbo

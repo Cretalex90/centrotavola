@@ -8,7 +8,7 @@ timeline_notification:
   - 1583516660
 categories:
   - News
-tags:
+meta_tags:
   - ristorante
 images: ["images/wp-content/uploads/2020/03/alpinn-plan-de-corones.webp"]
 ---

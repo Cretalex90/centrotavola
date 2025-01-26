@@ -10,7 +10,7 @@ timeline_notification:
   - 1731775637
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - cucina
   - cucina italiana

@@ -8,7 +8,7 @@ timeline_notification:
   - 1608659360
 categories:
   - Senza categoria
-tags:
+meta_tags:
   - ricetta
   - ricette
 images: ["images/wp-content/uploads/2020/12/petto-anatra-arancia-ricetta.webp"]

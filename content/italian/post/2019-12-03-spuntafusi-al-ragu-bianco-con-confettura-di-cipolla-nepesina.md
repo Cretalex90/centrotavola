@@ -8,7 +8,7 @@ timeline_notification:
   - 1575373229
 categories:
   - 'Gabriele Zampaletta: lo chef per casa vostra'
-tags:
+meta_tags:
   - chef
   - ricette
 images: ["images/wp-content/uploads/2019/11/img-20191128-wa0010.webp"]

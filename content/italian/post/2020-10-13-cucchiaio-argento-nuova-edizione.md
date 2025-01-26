@@ -8,7 +8,7 @@ timeline_notification:
   - 1602592880
 categories:
   - News
-tags:
+meta_tags:
   - ricetta
   - ricette
 images: ["images/wp-content/uploads/2020/10/unnamed.webp"]

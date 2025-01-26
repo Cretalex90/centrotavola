@@ -12,7 +12,7 @@ wordads_ufa:
   - s:wpcom-ufa-v4:1719533278
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - mammè
   - ristorante

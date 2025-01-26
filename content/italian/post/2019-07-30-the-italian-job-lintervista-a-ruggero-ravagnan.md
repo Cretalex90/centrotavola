@@ -8,7 +8,7 @@ timeline_notification:
   - 1564515942
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - cucina
   - cucina italiana
   - grigoris

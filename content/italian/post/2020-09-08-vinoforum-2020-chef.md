@@ -8,7 +8,7 @@ timeline_notification:
   - 1599570364
 categories:
   - Eventi
-tags:
+meta_tags:
   - roma
   - vino
 images: ["images/wp-content/uploads/2020/09/vinoforum-chef.webp"]

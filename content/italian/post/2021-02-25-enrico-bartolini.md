@@ -9,7 +9,7 @@ timeline_notification:
 categories:
   - Interviste stellate
   - Senza categoria
-tags:
+meta_tags:
   - chef
   - chef stellati
   - intervista

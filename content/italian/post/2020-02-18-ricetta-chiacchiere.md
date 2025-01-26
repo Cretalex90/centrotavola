@@ -8,7 +8,7 @@ timeline_notification:
   - 1582009925
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - ricetta
   - ricette
 images: ["images/wp-content/uploads/2020/02/chiacchiere-carnevale.webp"]

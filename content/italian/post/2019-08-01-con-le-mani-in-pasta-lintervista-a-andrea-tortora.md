@@ -8,7 +8,7 @@ timeline_notification:
   - 1564643760
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - Andrea tortora
   - chef
   - intervista

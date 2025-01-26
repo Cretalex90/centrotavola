@@ -13,7 +13,7 @@ firehose_sent:
 categories:
   - News
   - Senza categoria
-tags:
+meta_tags:
   - carlotta delicato
   - chef
   - contigliano

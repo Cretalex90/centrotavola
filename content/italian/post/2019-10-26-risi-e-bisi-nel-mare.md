@@ -8,7 +8,7 @@ timeline_notification:
   - 1572115390
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - cucina
   - cucina italiana
 images: ["images/wp-content/uploads/2019/10/88b98077-0ac6-4644-927d-ec7c51975bed.webp"]

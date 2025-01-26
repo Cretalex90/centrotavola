@@ -8,7 +8,7 @@ timeline_notification:
   - 1602582063
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - ricetta
   - ricette
 images: ["images/wp-content/uploads/2020/10/uovo-strapazzato.webp"]

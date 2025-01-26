@@ -8,7 +8,7 @@ timeline_notification:
   - 1578684591
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - chef stellati
   - niko romito

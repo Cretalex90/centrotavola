@@ -8,7 +8,7 @@ timeline_notification:
   - 1589275636
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - olio
 images: ["images/wp-content/uploads/2020/05/olive-oil-3803168_1280.webp"]
 ---

@@ -8,7 +8,7 @@ timeline_notification:
   - 1604404212
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - ricetta
   - ricette
 images: ["images/wp-content/uploads/2020/11/carbonara-uova-cover.webp"]

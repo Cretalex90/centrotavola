@@ -9,7 +9,7 @@ timeline_notification:
   - 1564215953
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - barbara agosti
   - cucina italiana
   - cucina romana

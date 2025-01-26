@@ -10,7 +10,7 @@ timeline_notification:
   - 1734512559
 categories:
   - News
-tags:
+meta_tags:
   - agriturismo
   - bonaventura
   - intervista

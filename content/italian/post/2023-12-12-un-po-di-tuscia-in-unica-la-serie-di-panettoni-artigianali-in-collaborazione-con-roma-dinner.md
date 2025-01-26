@@ -10,7 +10,7 @@ timeline_notification:
   - 1702411353
 categories:
   - News
-tags:
+meta_tags:
   - panettoni
   - tuscia
   - viterbo

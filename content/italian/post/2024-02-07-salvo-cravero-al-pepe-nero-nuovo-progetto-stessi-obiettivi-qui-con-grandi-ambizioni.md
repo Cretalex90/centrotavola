@@ -12,7 +12,7 @@ timeline_notification:
   - 1707328366
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - bolsena
   - chef
   - intervista

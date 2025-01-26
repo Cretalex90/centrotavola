@@ -12,7 +12,7 @@ wordads_ufa:
   - s:wpcom-ufa-v4:1721405673
 categories:
   - Eventi
-tags:
+meta_tags:
   - tuscia
   - vino
   - viterbo

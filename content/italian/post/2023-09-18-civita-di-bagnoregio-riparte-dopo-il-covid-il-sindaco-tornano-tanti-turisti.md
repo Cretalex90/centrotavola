@@ -12,7 +12,7 @@ timeline_notification:
   - 1695057343
 categories:
   - News
-tags:
+meta_tags:
   - cibo
   - civita
   - civita bagnoregio

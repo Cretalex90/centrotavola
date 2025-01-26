@@ -10,7 +10,7 @@ firehose_sent:
   - 1732178620
 categories:
   - News
-tags:
+meta_tags:
   - degli angeli
   - rieti
   - ristorante

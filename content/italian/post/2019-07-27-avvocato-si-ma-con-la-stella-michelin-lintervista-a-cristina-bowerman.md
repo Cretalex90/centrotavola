@@ -9,7 +9,7 @@ timeline_notification:
   - 1564255150
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - chef
   - chef stellati
   - Cristina bowerman

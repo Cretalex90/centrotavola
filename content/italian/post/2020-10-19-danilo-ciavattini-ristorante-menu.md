@@ -8,7 +8,7 @@ timeline_notification:
   - 1603103164
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - Danilo ciavattini
   - tuscia
   - viterbo

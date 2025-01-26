@@ -8,7 +8,7 @@ timeline_notification:
   - 1607092199
 categories:
   - News
-tags:
+meta_tags:
   - ambasciatori del gusto
 images: ["images/wp-content/uploads/2020/12/baker-4840960_1280.webp"]
 ---

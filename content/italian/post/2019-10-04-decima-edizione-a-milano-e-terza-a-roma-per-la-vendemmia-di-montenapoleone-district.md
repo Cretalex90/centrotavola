@@ -8,7 +8,7 @@ timeline_notification:
   - 1570193303
 categories:
   - Eventi
-tags:
+meta_tags:
   - milano
   - News
   - roma

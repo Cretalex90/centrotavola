@@ -8,7 +8,7 @@ timeline_notification:
   - 1570641377
 categories:
   - News
-tags:
+meta_tags:
   - toscana
   - vino
 images: ["images/wp-content/uploads/2019/10/0.webp"]

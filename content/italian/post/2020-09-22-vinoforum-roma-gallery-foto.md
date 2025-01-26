@@ -8,7 +8,7 @@ timeline_notification:
   - 1600760029
 categories:
   - Eventi
-tags:
+meta_tags:
   - roma
   - vino
 images: ["images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-11.webp"]

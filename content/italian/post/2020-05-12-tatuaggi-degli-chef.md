@@ -8,7 +8,7 @@ timeline_notification:
   - 1589278198
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - chef stellati
 images: ["images/wp-content/uploads/2020/04/melissa-dolci-2.webp"]

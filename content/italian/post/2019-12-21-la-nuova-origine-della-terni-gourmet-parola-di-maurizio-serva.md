@@ -8,7 +8,7 @@ timeline_notification:
   - 1576941839
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - chef
   - chef stellati
   - intervista

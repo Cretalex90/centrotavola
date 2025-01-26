@@ -10,7 +10,7 @@ author: "John Doe"
 description: "This is meta description"
 # Taxonomies
 categories: ["Photobooth"]
-tags: ["booth", "image"]
+meta_tags: ["booth", "image"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---

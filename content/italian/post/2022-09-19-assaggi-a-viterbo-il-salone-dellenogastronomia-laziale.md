@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1663609534
 categories:
   - Eventi
-tags:
+meta_tags:
   - assaggi
   - gastronomia
   - lazio

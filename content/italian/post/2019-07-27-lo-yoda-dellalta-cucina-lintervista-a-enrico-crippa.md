@@ -9,7 +9,7 @@ timeline_notification:
   - 1564256605
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - chef
   - chef stellati
   - cucina

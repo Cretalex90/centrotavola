@@ -10,7 +10,7 @@ author: "John Doe"
 description: "This is meta description"
 # Taxonomies
 categories: ["photography"]
-tags: ["photo", "image"]
+meta_tags: ["photo", "image"]
 type: "regular" # available type (regular or featured)
 search_keyword: "gethugothemes"
 draft: false

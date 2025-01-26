@@ -8,7 +8,7 @@ timeline_notification:
   - 1572204771
 categories:
   - News
-tags:
+meta_tags:
   - gambero rosso
   - guida
   - vino

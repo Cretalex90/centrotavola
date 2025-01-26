@@ -12,7 +12,7 @@ timeline_notification:
   - 1711390481
 categories:
   - News
-tags:
+meta_tags:
   - chef
   - coro
   - gourmet

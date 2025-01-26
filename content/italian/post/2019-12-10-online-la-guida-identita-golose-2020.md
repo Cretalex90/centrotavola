@@ -8,7 +8,7 @@ timeline_notification:
   - 1575967548
 categories:
   - News
-tags:
+meta_tags:
   - guida
   - identità golose
   - ristoranti

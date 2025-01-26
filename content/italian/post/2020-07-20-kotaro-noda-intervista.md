@@ -8,7 +8,7 @@ timeline_notification:
   - 1595239534
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - chef
   - chef stellati
 images: ["images/wp-content/uploads/2020/07/kotaro-noda-chef.webp"]

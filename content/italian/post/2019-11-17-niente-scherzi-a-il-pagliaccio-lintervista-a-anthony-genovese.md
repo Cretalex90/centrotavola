@@ -8,7 +8,7 @@ timeline_notification:
   - 1573987947
 categories:
   - Interviste stellate
-tags:
+meta_tags:
   - anthony genovese
   - chef
   - chef stellati

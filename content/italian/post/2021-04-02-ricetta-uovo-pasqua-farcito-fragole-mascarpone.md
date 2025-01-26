@@ -8,7 +8,7 @@ timeline_notification:
   - 1617359787
 categories:
   - le ricette dello chef
-tags:
+meta_tags:
   - ricetta
 images: ["images/wp-content/uploads/2021/03/ricetta-uovo-di-pasqua-farcito-fragole.webp"]
 ---

@@ -8,7 +8,7 @@ timeline_notification:
   - 1608040912
 categories:
   - News
-tags:
+meta_tags:
   - Eventi
 images: ["images/wp-content/uploads/2020/12/azzurro-food-piatto.webp"]
 ---

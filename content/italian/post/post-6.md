@@ -10,7 +10,7 @@ author: "John Doe"
 description: "This is meta description"
 # Taxonomies
 categories: ["newyork city"]
-tags: ["city", "photo"]
+meta_tags: ["city", "photo"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---

@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - interviste bistrot
   - News
-tags:
+meta_tags:
   - maitre
   - origine
   - ristorante

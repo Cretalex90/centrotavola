@@ -8,7 +8,7 @@ timeline_notification:
   - 1574339122
 categories:
   - News
-tags:
+meta_tags:
   - corrado assenza
   - dolci
   - pasticceria

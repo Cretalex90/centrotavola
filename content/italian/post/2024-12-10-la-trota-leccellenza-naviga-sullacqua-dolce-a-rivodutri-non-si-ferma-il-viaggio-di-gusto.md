@@ -10,7 +10,7 @@ timeline_notification:
   - 1733852200
 categories:
   - News
-tags:
+meta_tags:
   - la trota
   - menu
   - rieti

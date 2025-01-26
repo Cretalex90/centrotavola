@@ -8,7 +8,7 @@ timeline_notification:
   - 1582453040
 categories:
   - Eventi
-tags:
+meta_tags:
   - drink
   - intervista
   - mixology

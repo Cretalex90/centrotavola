@@ -8,7 +8,7 @@ timeline_notification:
   - 1612262008
 categories:
   - interviste bistrot
-tags:
+meta_tags:
   - intervista
 images: ["images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-28.webp"]
 ---
