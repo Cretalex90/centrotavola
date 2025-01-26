@@ -1,6 +1,6 @@
 [hugoVersion]
 extended = true
-min = "0.115.1"
+min = "0.131.0"
 
 [[imports]]
 path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
@@ -95,5 +95,5 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/basic-seo"
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/gzip-caching"
 
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/adsense"
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/adsense"
