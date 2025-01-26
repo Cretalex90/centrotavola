@@ -26,7 +26,7 @@ Qui nel 2012 **Valentino** diventa l’executive chef e mette a frutto le esperi
 ## L&#8217;intervista all&#8217;ex allievo di Locatelli e Cracco {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/01/notte-sulla-vetta-valentino-cassanelli.webp" caption="Notte sulla vetta" >}}
+{{< figure src="/images/wp-content/uploads/2020/01/notte-sulla-vetta-valentino-cassanelli.webp" caption="Notte sulla vetta" >}}
 
 
 ### **Valentino, tu gestisci le cucine di un hotel di lusso. Quanto è importante una grande location per il successo di un ristorante?** {.wp-block-heading}
@@ -38,7 +38,7 @@ Ogni dettaglio è importante per il successo di un ristorante, tutto fa parte de
 Entrambe le situazioni hanno pregi e difetti, vantaggi e svantaggi. Un hotel non dorme mai, ci sono molti più servizi nell’arco stesso della giornata e ovviamente differenti proposte e menù. Nel nostro caso abbiamo tre ristoranti, le colazioni, gli eventi e i catering. Tutto questo potrebbe sembrare uno svantaggio ma se gestito con professionalità, determinazione e guardando al futuro, può rivelarsi vantaggioso e senz’altro gratificante.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/lux-lucis-forte-dei-marmi-ristorante.webp?w=1024" caption="Il ristorante" >}}
+{{< figure src="/images/wp-content/uploads/2020/01/lux-lucis-forte-dei-marmi-ristorante.webp" caption="Il ristorante" >}}
 
 
 ### **Da cosa ti lasci guidare nell’ispirazione di nuovi piatti o nella creazione di un menù?** {.wp-block-heading}
@@ -54,7 +54,7 @@ La bellezza della clientela del Lux Lucis è la varietà che solitamente si trov
 Siamo come una grande famiglia al Lux Lucis. La capacità di saper lavorare bene in squadra è decisamente fondamentale: insieme ci si dedica al menu e solo l’impegno comune aiuta a rendere la visita dei nostri ospiti davvero speciale. Quello che sicuramente cerco nei miei collaboratori sono la passione, la curiosità, una mente aperta ed un cuore libero, la determinazione, la serietà ed il rigore.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/valentino-cassanelli-chef-1.webp" >}}
+{{< figure src="/images/wp-content/uploads/2020/01/valentino-cassanelli-chef-1.webp" >}}
 
 
 ### **Cosa è cambiato, per te e per il tuo ristorante, dopo la stella Michelin?** {.wp-block-heading}
@@ -66,7 +66,7 @@ Siamo come una grande famiglia al Lux Lucis. La capacità di saper lavorare bene
 Sono sicuramente importanti per mantenere alto il morale della squadra e la consapevolezza nel proprio mondo e stile ma serve sempre dedizione, concentrazione e umiltà per andare avanti. Il cliente è quello che ci dà l’indice di ciò che stiamo facendo ma sicuramente la visibilità aumenta e così le aspettative di tutti.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/piccione-in-crosta-di-calde28099arrosta-rosa-canina-e-patata-alle28099alloro-e-lime-valentino-cassanelli.webp" caption="Piccione in crosta di cald’arrosta, rosa canina e patata all’alloro e lime " >}}
+{{< figure src="/images/wp-content/uploads/2020/01/piccione-in-crosta-di-calde28099arrosta-rosa-canina-e-patata-alle28099alloro-e-lime-valentino-cassanelli.webp" caption="Piccione in crosta di cald’arrosta, rosa canina e patata all’alloro e lime " >}}
 
 
 ### **Hai avuto maestri come Locatelli e <a href="https://aleepepe.com/2019/12/29/tv-il-mio-posto-e-in-cucina-parola-di-carlo-cracco/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">Cracco</a>, cosa ti hanno insegnato e in che modo hanno influenzato l’identità della tua cucina?**  {.wp-block-heading}
@@ -78,7 +78,7 @@ Ancora oggi dopo tanti anni li considero dei giganti del nostro tempo gastronomi
 Tutta da scoprire, il cliente è sempre più consapevole e lo siamo anche noi. I giovani chef italiani sono in forma e ognuno ha una propria identità nazionale e questo mi fa ben pensare. Il tessuto culturale generale è da riprendere in mano.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/bagnasiuga-valentino-cassanelli.webp" caption="Bagnasiuga" >}}
+{{< figure src="/images/wp-content/uploads/2020/01/bagnasiuga-valentino-cassanelli.webp" caption="Bagnasiuga" >}}
 
 
 Credits fotografici: Lido Vannucchi

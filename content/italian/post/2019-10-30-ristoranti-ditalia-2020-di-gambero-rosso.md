@@ -18,7 +18,7 @@ Ristoranti d’Italia del Gambero Rosso compie trent’anni. Trent’anni durant
 “_Siamo felici di festeggiare questa tappa fondamentale per noi e per la ristorazione italiana_” dichiara Paolo Cuccia Presidente di Gambero Rosso “I nostri premiati possiedono tutte le qualità che abbiamo analizzato durante il&nbsp;_convegno “**Da Cuoco Di Qualità A Chef Di Successo”:**&nbsp;ricerca attenta alla biodiversità, tecnologie, organizzazione economica, comunicazione e promozione nella rivoluzione digitale in corso e il ruolo fondamentale della formazione settoriale e manageriale.”_
 
 
-{{< figure src="images/wp-content/uploads/2019/10/copristo2020low.webp?w=400" >}}
+{{< figure src="/images/wp-content/uploads/2019/10/copristo2020low.webp" >}}
 
 
 L’enogastronomia italiana è ormai sul tetto del mondo, volano per eccellenza dell’immagine del made in Italy. Il cibo è un valore riconosciuto e non è più il tempo dei cuochi “per caso”.&nbsp;**Studio, ricerca, sperimentazione, formazione continua sono requisiti indispensabili.**&nbsp;Lotta allo spreco e sostenibilità “impongono” un comportamento etico. È il tempo della “verità”, del sapore assoluto, della tecnologia al servizio dell’ingrediente selezionato in modo “scientifico”.&nbsp;**Il ristorante è un’esperienza complessiva che nasce da un’intesa sempre più serrata fra sala e cucina.**

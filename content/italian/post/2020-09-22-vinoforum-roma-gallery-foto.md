@@ -24,76 +24,76 @@ In via del tutto eccezionale **Vinòforum** quest&#8217;anno si è tenuto a sett
 Il tutto si è svolto, chiaramente, **nel pieno rispetto delle regole anti Covid**. Ingressi contingentanti, mascherine e controllo della temperatura all&#8217;entrata. A dimostrazione di come anche in questo periodo di convivenza con il Coronavirus il settore degli eventi food&wine può ugualmente operare, se non a pieno regime, comunque con numeri importanti.
 
 Qui di seguito la gallery fotografica dell&#8217;evento. **Vinòforum** visto attraverso <a rel="noreferrer noopener" href="https://www.officinavisiva.it/" target="_blank">l&#8217;obiettivo di OfficinaVisiva:</a>
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-1.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-1.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-2.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-2.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-3.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-3.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-4.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-4.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-6.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-6.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-7.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-7.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-8.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-8.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-9.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-9.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-10.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-10.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-11.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-11.webp?w=1024" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-12.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-12.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-13.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-13.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-14.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-14.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-16.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-16.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-17.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-17.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-18.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-18.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-20.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-20.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-21.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-21.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-23.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-23.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-25.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-25.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-27.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-27.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-28.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-28.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-29.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-29.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-31.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-food-vinoforum-roma-31.webp" alt="" >}}
  
 
 Leggi anche:  

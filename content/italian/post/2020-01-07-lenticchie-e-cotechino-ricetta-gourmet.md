@@ -17,7 +17,7 @@ Ecco la nostra proposta, rivisitata, della più classica &#8220;Lenticchie e cot
 Come ogni anno dopo gli abbondanti pasti del periodo natalizio ci si ritrova con tanti avanzi sia di cibi da cuocere, sia di cibi già cotti. Questa volta quindi vogliamo proporvi una _ricetta anti-spreco_ utilizzando una _coppia affiatata_ che sulle tavole degli italiani non manca davvero mai.
 
 
-{{< figure src="images/wp-content/uploads/2020/01/cotechino-1.webp?w=1024" caption="Lenticchie e cotechino: ricetta antispreco" >}}
+{{< figure src="/images/wp-content/uploads/2020/01/cotechino-1.webp" caption="Lenticchie e cotechino: ricetta antispreco" >}}
 
 
 **_VELLUTATA DI LENTICCHIE DI CASTELLUCCIO DI NORCI_**A
@@ -53,7 +53,7 @@ Olio extra vergine di olive q.b
 Origano q.b
 
 
-{{< figure src="images/wp-content/uploads/2020/01/lentils-2790516_1280.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2020/01/lentils-2790516_1280.webp" >}}
 
 
 **_Preparazione:&nbsp;_**

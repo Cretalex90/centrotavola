@@ -20,7 +20,7 @@ images: ["images/wp-content/uploads/2019/10/unnamed-1.webp"]
 Dal 7 al 13 ottobre si celebra il decimo anniversario de La Vendemmia uno degli eventi più attesi dell’autunno milanese, ideato e promosso da <a rel="noreferrer noopener" href="http://gwep.musvc2.net/e/t?q=A%3dLbMdG%26D%3dJ%26L%3dIYO%26M%3dIYMYK%26M%3d19p3tR9HB_Pfui_ap_Jj1e_Ty_Pfui_ZuOFU.2G7RtFtN4DxM37wG8LAGrL.2R_7slx_G82R%26s%3dEDQA5K.LtL%262Q%3dGWMg" target="_blank"><strong>MonteNapoleone District</strong></a>, e realizzato in collaborazione con il Comitato Grandi Cru d’Italia, con l’obiettivo di unire i grandi marchi del lusso internazionale e le più prestigiose cantine nazionali e internazionali, con la partecipazione dei migliori ristoranti e degli hotel 5 stelle lusso della città. **<a rel="noreferrer noopener" href="http://gwep.musvc2.net/e/t?q=4%3d7hMW2%26J%3dJ%26E%3d4eO%26F%3d4eMR6%26S%3d1KtNB_IQ1i_Ta_PjtP_Zy_IQ1i_SfUFN.mM7KeLtGoJxFnCw0sRA0cR.2K_rylq_2D2K_rylq_2DE6nBxDmGt%265%3dm2a9tSBMcZ.76t%26GB%3dS5bR" target="_blank">La Vendemmia 2019</a>** vedrà animarsi centosei boutique delle vie Montenapoleone, Sant’Andrea, Verri, Santo Spirito, Gesù, Borgospesso, Bagutta e di via della Spiga, che partecipa per il secondo anno consecutivo, e per la prima volta anche di via San Pietro al’Orto.
 
 
-{{< figure src="images/wp-content/uploads/2019/10/unnamed.webp?w=784" >}}
+{{< figure src="/images/wp-content/uploads/2019/10/unnamed.webp" >}}
 
 
 “_Con la decima edizione de La Vendemmia rinnoviamo ancora una volta il nostro desiderio di celebrare il felice connubio tra il mondo della moda e del vino, due pilastri del Made in Italy,_” ha dichiarato Guglielmo Miani, Presidente di MonteNapoleone District. “_L’amore per il bello e la ricerca, fra tradizione e innovazione, che si respirano nelle vie e nelle boutique del Quadrilatero milanese, vengono valorizzate nella settimana di Vendemmia, uno degli eventi che contribuisce ad accrescere il prestigio di Milano anche a livello internazionale_”.
@@ -28,7 +28,7 @@ Dal 7 al 13 ottobre si celebra il decimo anniversario de La Vendemmia uno degli 
 E, per celebrare il successo del format, dal 14 al 20 ottobre si tiene la terza edizione de <a rel="noreferrer noopener" href="http://gwep.musvc2.net/e/t?q=5%3dPZFXK%26B%3dC%26F%3dMWH%26G%3dMWFSO%26K%3dt3t1mLCF5_Jjsb_Ut_Hcui_Rr_Jjsb_TyM9O.518774qE69mJ8Cm.AC_Hcui_Rr%266%3d6K5NvR.z7C%2695%3dTNTK" target="_blank"><strong>La Vendemmia di Roma</strong></a>, versione capitolina dell’evento milanese. Organizzata da Andrea Amoruso Manzari, con il patrocinio dell’Associazione di Via Condotti, La Vendemmia di Roma ha luogo quest’anno nel centro storico della Capitale tra Via Condotti, Piazza di Spagna, Via Borgognona, Piazza San Lorenzo in Lucina, Via Bocca di Leone, Piazza San Lorenzo in Lucina e Via Fontanella Borghese. Il format di questa edizione prevede una App dedicata, la presenza delle ‘VIP Lounge Experiences’, un Wine Tasting del Comitato dei Gran Cru d’Italia, Sell Training formativi per gli operatori del mondo del lusso e, grande novità, la **Vendemmia Young**, una serata con un party dedicato esclusivamente ai millennial. Prendono parte oltre cento boutique grazie al coinvolgimento, per la prima volta, anche di quelle del Terminal E dell’aeroporto Leonardo da Vinci a Fiumicino, in seguito all’accordo siglato dall’agenzia di Andrea Amoruso Manzari con Aeroporti di Roma.
 
 
-{{< figure src="images/wp-content/uploads/2019/10/unnamed-2.webp?w=1000" >}}
+{{< figure src="/images/wp-content/uploads/2019/10/unnamed-2.webp" >}}
 
 
 **LA VENDEMMIA 2019. IL PROGRAMMA DI MILANO**

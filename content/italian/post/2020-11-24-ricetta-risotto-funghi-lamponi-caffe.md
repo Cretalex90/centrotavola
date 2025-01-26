@@ -25,7 +25,7 @@ Ad oggi **il riso è il cereale più conosciuto ed utilizzato nella dieta medite
 Lo chef **Danilo Colaiaquo** ci presenta la sua versione autunnale accostandolo a funghi e lamponi.
 
 
-{{< figure src="images/wp-content/uploads/2020/11/risotto-fumecc80-ricetta-lamponi-chef-funghi.webp" >}}
+{{< figure src="/images/wp-content/uploads/2020/11/risotto-fumecc80-ricetta-lamponi-chef-funghi.webp" >}}
 
 
 **Ingredienti per 4 persone:**
@@ -63,7 +63,7 @@ Grattugiare il parmigiano e porlo insieme all&#8217;acqua in una pentola capient
 **Per il burro affumicato:**
 
 
-{{< figure src="images/wp-content/uploads/2020/11/risotto-fumecc80-funghi-lamponi-piatto-ricetta.webp?w=469" >}}
+{{< figure src="/images/wp-content/uploads/2020/11/risotto-fumecc80-funghi-lamponi-piatto-ricetta.webp" >}}
 
 
 Ammorbidire il burro in microonde fino a renderlo una pomata, coprirlo con una garza ed affumicarlo a freddo per un&#8217;ora con l&#8217;apposita pistola per affumicazione utilizzando trucioli di ulivo.

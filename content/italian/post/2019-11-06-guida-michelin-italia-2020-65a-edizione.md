@@ -11,7 +11,7 @@ categories:
 images: ["images/wp-content/uploads/2019/11/chef-2020.webp"]
 ---
 
-{{< figure src="images/wp-content/uploads/2019/11/copertina-2020.webp?w=597" >}}
+{{< figure src="/images/wp-content/uploads/2019/11/copertina-2020.webp" >}}
 
 
 **Enrico Bartolini riporta le** 3 stelle **a Milano** 
@@ -30,7 +30,7 @@ Enrico Bartolini ha conquistato la sua prima stella nel 2010 a le Robinie e poi 
 **Gli 11 3 stelle** **che “valgono il viaggio”**
 
 
-{{< figure src="images/wp-content/uploads/2019/11/unnamed.webp?w=40" >}}
+{{< figure src="/images/wp-content/uploads/2019/11/unnamed.webp" >}}
 
 
 Nella Guida Michelin 2020, i ristoranti che propongono **una cucina che “vale il viaggio”**, e quindi le 3 stelle Michelin, sono: 

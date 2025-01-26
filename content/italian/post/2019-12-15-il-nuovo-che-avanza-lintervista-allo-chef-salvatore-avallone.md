@@ -23,7 +23,7 @@ Come più di una volta ci è capitato di raccontare in queste pagine, anche in q
 Campano, precisamente di Cetara, classe 1983, Salvatore ancora ragazzo studia Giurisprudenza a Napoli e si trova ad abbracciare anche il mondo giornalistico. Il tutto portando avanti la sua passione tra fornelli e pentole, con piatti e sperimentazioni culinarie che si alternano a prove di arringhe e articoli di cronaca locale.
 
 
-{{< figure src="images/wp-content/uploads/2019/07/linguine-con-carciofi-alla-griglia-ricciola-e-lemongrass.webp?w=1000" caption="Linguine con carciofi alla griglia, ricciola e lemongrass" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/linguine-con-carciofi-alla-griglia-ricciola-e-lemongrass.webp" caption="Linguine con carciofi alla griglia, ricciola e lemongrass" >}}
 
 
 Con il passare del tempo però la cucina si afferma come primo amore e Salvatore, rimanendole fedele, decide di approfondire tecniche e nozioni girando l’Europa e facendo esperienze tra Francia, Svizzera ed Inghilterra. La sua storia Salvatore ha deciso di scriverla però nella sua Campania, aprendo il **Ristorante Cetaria** a Baronissi (Salerno): un omaggio al suo paese d’origine e a quelle tradizioni tramandate dalla nonna, la sua prima maestra. Un ristorante che, recentemente, è stato anche segnalato nella Guida Michelin 2020.
@@ -39,7 +39,7 @@ Sembrerà scontato ma la mia passione nasce seguendo la nonna materna in cucina.
 Ho sempre studiato tutt’altro. Nonostante la mia vena artistica e letteraria, ho frequentato l’istituto tecnico per ragionieri programmatori, poi sono stato quasi obbligato a iscrivermi a Giurisprudenza a Napoli. Per mantenere studi e affitto ho avuto l’esigenza di iniziare a lavorare seriamente nelle cucine. Il resto è storia: oggi qui, domani lì mi sono ritrovato a girare l’Europa. Non ho mai avuto un vero maestro, perciò ho colmato le mie carenze con molto studio, libri, cene e pranzi in ristoranti importanti e soprattutto ore e ore di cucina.
 
 
-{{< figure src="images/wp-content/uploads/2019/07/linguine-al-gambero-rosso-con-zucca-limone-e-liquirizia.webp" caption="Linguine al gambero rosso con zucca, limone e liquirizia" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/linguine-al-gambero-rosso-con-zucca-limone-e-liquirizia.webp" caption="Linguine al gambero rosso con zucca, limone e liquirizia" >}}
 
 
 **_Parlaci della tua cucina. A chi, e a cosa, ti ispiri?_**
@@ -75,7 +75,7 @@ Difficile, soprattutto in Campania o nelle regioni con una vocazione ristorativa
 La maggior parte di questi bambini non immagina nemmeno cosa sia stare in cucina. Caldo asfissiante, ore ed ore in piedi, pasti irregolari, vita privata ridotta ai minimi termini, stress, pressione… Superato questo però c’è la soddisfazione di presentare un piatto perfetto e prenderti i complimenti, la visibilità, il successo anche per il singolo cliente. I meriti sono dei grandi maestri che hanno iniziato a far capire che la cucina è fatta di tanti sacrifici ma enormi soddisfazioni. Poi è arrivata la TV ed il gioco è fatto.
 
 
-{{< figure src="images/wp-content/uploads/2019/07/sgombro-affumicato-spinaci-mandorle-e-riduzione-di-porto.webp" caption="Sgombro affumicato" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/sgombro-affumicato-spinaci-mandorle-e-riduzione-di-porto.webp" caption="Sgombro affumicato" >}}
 
 
 _Per le foto si ringrazia l&#8217;ufficio stampa di Ambasciatori del Gusto_

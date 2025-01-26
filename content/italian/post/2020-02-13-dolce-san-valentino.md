@@ -97,7 +97,7 @@ Sformare la bavarese e glassare con la glassa ai frutti rossi.&nbsp; Riporre in 
 Prima di servire decorare con un ciuffo di rosmarino e un rametto di ribes rosso.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/dolce-san-valentino.webp?w=1000" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/dolce-san-valentino.webp?w=1000" >}}
 
 
 Leggi anche:

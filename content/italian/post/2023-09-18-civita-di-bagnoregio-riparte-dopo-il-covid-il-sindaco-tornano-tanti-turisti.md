@@ -20,13 +20,13 @@ meta_tags:
 images: ["images/wp-content/uploads/2020/03/officina-visiva-ale-pepe-foto-civita-bagnoregio-alba-1.webp"]
 ---
 _Chiamato anche **“La Città che Muore”**, per via dell’erosione atmosferica che tiene continuamente sotto scacco il colle tufaceo sul quale nasce, il borgo di **Civita di Bagnoregio** è una delle mete più visitate del Lazio, ma non solamente._ 
-{{< figure src="images/wp-content/uploads/2020/03/officina-visiva-ale-e-pepe-civita-di-bagnoregio-8.webp?w=1000" caption="Civita di Bagnoregio" >}}
+{{< figure src="/images/wp-content/uploads/2020/03/officina-visiva-ale-e-pepe-civita-di-bagnoregio-8.webp" caption="Civita di Bagnoregio" >}}
  
 
 Centro abitato di **origine etrusca**, pare abbia almeno 3000 anni, e ogni anno diventa meta turistica da centinaia di migliaia di persone (<a rel="noreferrer noopener" href="https://www.italiaatavola.net/attualita-mercato/2023/8/9/italia-vip-jordan-de-niro-douglas-harry-styles-chi-sceglie-bel-paese/98663/" target="_blank">qualche vip ha una casa qui</a>). A collegarla al resto del mondo solo un **ponte**, lungo 300 metri e per un buon tratto praticamente sospeso nel vuoto.
 
 Passando di qua non si può non rimanere affascinati e incantati. Ci rimangono i turisti, italiani e stranieri, ma in qualche modo pure gli **stessi bagnoresi** o chi abita nelle vicinanze non riescono a dare questo posto per scontato. Non riesce a dare questo posto per scontato il **sindaco di Bagnoregio** (il comune comprende anche Civita, oggi popolata da una decina di cittadini),** Luca Profili**, con il quale ho parlato dell’importanza del borgo sia per i bagnoresi ma, ovviamente, anche della sua **rilevanza turistica internazionale**.
-{{< figure src="images/wp-content/uploads/2023/09/civita_sindaco_profili.webp?w=1024" caption="Il sindaco di Bagnoregio Luca Profili &#8211; foto da Facebook" >}}
+{{< figure src="/images/wp-content/uploads/2023/09/civita_sindaco_profili.webp" caption="Il sindaco di Bagnoregio Luca Profili &#8211; foto da Facebook" >}}
  
 
 **Sindaco, cosa significa per un bagnorese Civita da un punto di vista personale ma anche di istituzione politica?  
@@ -34,7 +34,7 @@ Passando di qua non si può non rimanere affascinati e incantati. Ci rimangono i
 
 **_Questo 2023 è stato l’anno della definitiva ripartenza post Covid, della riesplosione turistica generale. Come valuti stagione turistica che si sta chiudendo?_  
 ** «Nell’immediato post Covid, per ovvie ragioni legate all’impossibilità di accogliere turisti stranieri, abbiamo avuto molti visitatori italiani. Il turismo di prossimità è servito per far conoscere Civita ai nostri connazionali che, magari, invece qui non erano o non sarebbero mai venuti. Da qualche mese a questa parte è tornata una grande presenza di stranieri, soprattuto asiatici, con i cinesi in particolare che negli ultimi tempi sono tornati in gran numero. Stesso discorso anche per gli statunitensi, la ruota sta man mano tornando a girare. Questo 2023 è il primo anno vero di turismo nel post Covid, non siamo ancora ai livelli pre pandemia ma comunque i flussi stanno tornando. Speriamo che il tutto si consolidi nel 2024».
-{{< figure src="images/wp-content/uploads/2020/03/officina-visiva-ale-e-pepe-civita-di-bagnoregio-24.webp?w=684" caption="Agnolotti di bufala con crema di pecorino, noci e pere del ristorante Alma Civita" >}}
+{{< figure src="/images/wp-content/uploads/2020/03/officina-visiva-ale-e-pepe-civita-di-bagnoregio-24.webp" caption="Agnolotti di bufala con crema di pecorino, noci e pere del ristorante Alma Civita" >}}
  
 
 **_Parlando di cibo, Civita in passato fu snodo commerciale, via trafficata da mercanti e oggi tanti produttori e aziende agricole sorgono nelle zone circostanti. Quanto è centrale l’enogastronomia e che ruolo ha il cibo in un centro così piccolo?_  

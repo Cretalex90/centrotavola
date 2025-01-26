@@ -21,13 +21,13 @@ images: ["images/wp-content/uploads/2024/09/alba-restaurante-alicante.webp"]
 _Proprio quando mi stavo rassegnando per quanto riguarda il cibo ad Alicante, ecco che come un’oasi nel deserto compare un’insegna, una luce nel buio: Alba Restaurante._
 
 Non esagero, dopo giorni in cui ho mandato giù (metaforicamente e letteralmente) più delusioni che piatti che mi hanno colpito (l’offerta gastronomica era davvero povera), dopo una camminata di una 15ina di minuti dal centro arrivo a un ristorante che mi aveva consigliato direttamente dall’Italia una persona fidata. Un locale al quale probabilmente non sarei mai giunto senza questa dritta, perché leggermente dislocato rispetto a dove fossi di base e in cui ero “circondato” da indirizzi per lo più turistici.
-{{< figure src="images/wp-content/uploads/2024/09/img_9266.webp?w=768" >}}
+{{< figure src="/images/wp-content/uploads/2024/09/img_9266.webp" >}}
  
 
 **Alba Restaurante** è stato aperto circa 3 anni fa da **Alba Esteve Ruiz** (assieme al compagno e maitre Michel), chef originaria della zona alicantina con alle spalle un’importante esperienza a Roma nelle cucine di Marzapane. Esperienza, col senno di poi, direi quasi salvifica considerata l’ottima, originale, proposta. Ottima offerta, a mio parere, perché non legata strettamente alla gastronomia di qui ma figlia di un mix che nasce sull’asse Città Eterna-Costa Valenciana.
 
 Da Alba la cucina non è spagnola in senso stretto tantomeno italiana in senso altrettanto stretto. Ma nonostante ciò è una cucina dalla forte identità: personale, personalizzata e originale. Una rotta a sé, una cucina che abbraccia due Paesi, che prende il buono da entrambi, ma da cui al contempo se ne discosta per creare qualcosa di nuovo.&nbsp;
-{{< figure src="images/wp-content/uploads/2024/09/alba-restaurante-alicante-spain.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2024/09/alba-restaurante-alicante-spain.webp" >}}
  
 
 Si tratta di una cucina **poco inquadrabile** per certi versi, ma che sa perfettamente ciò che vuole essere e che alla fine riesce ad esserlo. In modo consapevole, coerente con la propria storia, tra origini e trascorsi. Una cucina ‘de core’, per ricordare i 13 anni spesi a Roma e riportati, inevitabilmente, poi in patria. Una cucina “de corazon”, perché allo stesso modo l’anima spagnoleggiante rimane (tra materie prime e preparazioni), seducente e al contempo sedotta in un flamenco continuo con il passato romano. 
@@ -49,7 +49,7 @@ Qua la concezione è completamente diversa, qui è raro lo schema antipasto, pri
 **_Qui ti porti dietro l’esperienza di Roma. Per esempio c’è un piatto che proponi da 11 anni ormai: gambero, burrata e chips di pistacchio…_**
 
 Sì, dal 2013. Dall’esperienza a Roma, durata 13 anni, mi porto tanto, alla fine io mi sento 50% spagnola e 50% italiana, se non proprio romana. Allo stesso modo, però, anche quando ero a Roma mantenevo le mie radici spagnole, la mia identità, ho sempre cercato di trovare il giusto mix tra le due cucine, le due culture. Sono parte di me, non le posso togliere e le esprimo tramite i miei piatti.
-{{< figure src="images/wp-content/uploads/2024/09/5ece3a9d-e992-49d2-bcea-6b6a42453685-1467045626-e1727429676186.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2024/09/5ece3a9d-e992-49d2-bcea-6b6a42453685-1467045626-e1727429676186.webp" >}}
  
 
 **_E anche in virtù di ciò, della natura della tua cucina un po’ inedita per qui, come ricordi il primo periodo di apertura?_**

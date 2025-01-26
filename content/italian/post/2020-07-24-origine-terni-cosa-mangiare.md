@@ -24,7 +24,7 @@ A penalizzare&nbsp;**Origine**&nbsp;il fatto di aver dovuto chiudere forzatament
 &#8220;_Dopo la riapertura, specialmente nelle prime due settimane, c&#8217;è stata una bella risposta da parte della gente, che è tornata a mangiare da noi. Poi qualcosa si è bloccato e ora molte sere fatichiamo_&#8221; ci rivelano al ristorante. &#8220;_Un blocco dovuto anche ai primi caldi estivi, e Terni è una città che soffre molto le alte temperature e di conseguenza le persone escono poco_&#8221; ci raccontano. La provincia umbra, non essendo un polo turistico particolarmente battuto, a maggior ragione d&#8217;estate ha anche poca affluenza di gente. &#8220;_L&#8217;obiettivo_&#8220;, dicono i ragazzi della sala, &#8220;_ora_&nbsp;_è tenere duro e lavorare nel miglior modo possibile, per far vedere di essere attivi e di essere a disposizione dei clienti. Poi in autunno speriamo di poter tornare a fare i numeri registrati dalla prima apertura fino agli inizi di marzo_&#8220;.
 
 
-{{< figure src="images/wp-content/uploads/2019/12/img_8958.webp?w=768" >}}
+{{< figure src="/images/wp-content/uploads/2019/12/img_8958.webp" >}}
 
 
 &#8220;_Ci siamo trovati in mezzo alla tempesta perfetta_&#8221; ci racconta il responsabile di sala, &#8220;_anche perché molta gente è ancora timorosa di andar a mangiare fuori_&#8220;. Timore per certi versi anche legittimo, ma che può essere superato attraverso l&#8217;adozione di tutte le misure igieniche e sanitarie previste (qui, ovviamente, osservate) e soprattutto tornando a provare in prima persona <a rel="noreferrer noopener" href="https://aleepepe.com/2020/06/24/come-e-cambiato-mangiare-ristorante/" target="_blank">questo tipo di esperienza</a>.
@@ -34,14 +34,14 @@ A penalizzare&nbsp;**Origine**&nbsp;il fatto di aver dovuto chiudere forzatament
 **Quello di Origine è un menu trainato da una proposta in gran parte a base di pesce**, e qui si sente l&#8217;influenza della &#8220;casa madre&#8221; La Trota, ma che comunque non disegna anche la carne. Una proposta di cucina non eccessivamente ampia, bensì precisa e ponderata, che propone il degustazione a 45€. Ed è quello che ho provato.
 
 
-{{< figure src="images/wp-content/uploads/2020/07/origine-terni-tartufo.webp?w=600" caption="Il benvenuto dello chef: tartufo, patata e semi di papavero" >}}
+{{< figure src="/images/wp-content/uploads/2020/07/origine-terni-tartufo.webp" caption="Il benvenuto dello chef: tartufo, patata e semi di papavero" >}}
 
 
   
 Si parte con due finger food di benvenuto, una chips di polenta con crema di baccalà e un piccolo &#8220;tartufo&#8221; ripieno di patata e una farcia di asiago sciolto. L&#8217;antipasto è uno sgombro glassato nel miele accompagnato da panzanella e un gazpacho al cetriolo, seguito poi da un interessante tortello ripieno di parmigiana frullata e accompagnato da salse al pomodoro, basilico e parmigiano (foto di copertina). 
 
 
-{{< figure src="images/wp-content/uploads/2020/07/sgombro-panzanella-origine.webp?w=600" caption="Sgombro laccato al miele su panzanella e gazpacho di cetriolo" >}}
+{{< figure src="/images/wp-content/uploads/2020/07/sgombro-panzanella-origine.webp" caption="Sgombro laccato al miele su panzanella e gazpacho di cetriolo" >}}
 
 
 Il secondo è una spigola cotta in cartoccio con un piacevole tocco di freschezza dato da una giardiniera di verdure e salsa di fagiolini. Come dessert ho optato per una ricotta al latte di mandorle con fondo di fragole e cialde al cacao. In abbinamento al dolce un passito di aleatico, con spiccate note di amarena e ciliegia, che ben si accostava al sapore della fragola e del cacao.&nbsp;A fine cena scambiamo due parole con lo chef, Enzo Cerroni, che conferma quanto la ripartenza sia balbettante ma che comunque, anche con l&#8217;aiuto e il supporto di Maurizio Serva, si cerchi di andare avanti nel miglior modo possibile. Tenere botta fino al termine dell&#8217;estate, per poi ripartire con rinnovata speranza e ancor più dedizione.

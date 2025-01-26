@@ -13,7 +13,7 @@ images: ["images/wp-content/uploads/2022/06/napoli-vitigno-italia-2022.webp"]
 250 aziende, oltre 1500 etichette, 25 buyer internazionali con un fitto programma di degustazioni, convegni e approfondimenti: da domenica 5 giugno a martedì 7 giugno, presso il suggestivo&nbsp;**Castel dell’Ovo**&nbsp;di Napoli, a Borgo Marinari, avrà luogo la XVI edizione di&nbsp;<a rel="noreferrer noopener" href="https://www.vitignoitalia.it/" target="_blank"><strong>VitignoItalia</strong></a>, il Salone dei Vini e dei Territori Vitivinicoli Italiani. 
 
 Produttori del vino da tutto il Paese attesi sul golfo di Partenope per una tre giorni in cui Napoli sarà a tutti gli effetti la Capitale del mondo enoico. 
-{{< figure src="images/wp-content/uploads/2022/06/borgo-marinari-napoli-vino.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2022/06/borgo-marinari-napoli-vino.webp" >}}
  
 
 Durante l&#8217;evento si terrà anche la premiazione di **50 Top Rosé** e del **Miglior Sommelier AIS Campania**.

@@ -21,7 +21,7 @@ E come tale ha portato avanti un&#8217;idea di cucina inevitabilmente contaminat
 Con chef Giacomello (tra i membri di&nbsp;<a rel="noreferrer noopener" href="http://ambasciatoridelgusto.it/" target="_blank">Ambasciatori del Gusto</a>) ho parlato pochi giorni dopo la riapertura del suo ristorante&nbsp;**Inkiostro**. Immancabile, poi, un ricordo della sua esperienza a El Bulli agli ordini di Adrià.&nbsp;
 
 
-{{< figure src="images/wp-content/uploads/2020/06/inkiostro_sala.webp" caption="La sala di Inkiostro" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/inkiostro_sala.webp" caption="La sala di Inkiostro" >}}
 
 
 ## L&#8217;intervista a Terry Giacomello, del ristorante Inkiostro {.wp-block-heading}
@@ -39,7 +39,7 @@ _**Proponi un degustazione particolarmente “ampio”. Da cosa è nata l’idea
 Considerate anche le mie esperienze lavorative ho sempre pensato che in un ristorante come questo fosse preferibile puntare sul degustazione, perché il dovere che abbiamo è quello di far divertire il commensale, regalandogli delle emozioni che &nbsp;speriamo &nbsp;possano rimanere impresse nella mente. Utilizziamo ingredienti e tecniche inconsuete, magari anche coinvolgendo il cliente stesso in modo da renderlo partecipe dell&#8217;esperienza. Tutto questo in molti casi &nbsp;crea &nbsp;una certa curiosità, e le persone sono più predisposte a scegliere questo tipo di percorso.
 
 
-{{< figure src="images/wp-content/uploads/2020/06/limone-muffa.webp" caption="Il limone ammuffito, uno dei dessert più famosi di Inkiostro" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/limone-muffa.webp" caption="Il limone ammuffito, uno dei dessert più famosi di Inkiostro" >}}
 
 
   
@@ -59,7 +59,7 @@ _**Parlando della tua esperienza a El Bulli, cosa hai imparato al ristorante di 
 Tengo a precisare che per me il Bulli non e stato un posto di lavoro normale bensì una &nbsp;famiglia, e che non mi basta una vita intera per restituire agli Adrià tutto ciò che mi hanno trasmesso e insegnato. Lì ho imparato a vedere la cucina sotto altre forme, una forma di pensare che va ben oltre la ricetta, tecniche e concetti applicate ad ingredienti, l&#8217;importanza di collaborare con professionisti dell&#8217;arte , tecnologi del mondo del cibo, designer ecc.&nbsp;Questo in sintesi è poi quello che ho portato a Inkiostro.&nbsp;
 
 
-{{< figure src="images/wp-content/uploads/2020/06/terry-giacomello.webp" caption="Chef Terry Giacomello" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/terry-giacomello.webp" caption="Chef Terry Giacomello" >}}
 
 
 _**C’è stato un insegnamento particolare che hai avuto da Ferran Adrià?  

@@ -18,7 +18,7 @@ meta_tags:
 images: ["images/wp-content/uploads/2019/08/ciavattini.webp"]
 ---
 Lo chef che ha fissato Viterbo nella cartina geografica delle città gourmet è Danilo Ciavattini che,&nbsp; con l’omonimo locale, permette ai clienti di assaporare piatti tipici del territorio rivisitati in chiave moderna. Chef Ciavattini ha bissato nel centro viterbese la stella Michelin già ottenuta nel 2013 con il ristorante romano di Villa Laetitia, di proprietà di Anna Fendi. Lo chef, nato in piena Tuscia (Soriano nel Cimino) non poteva però non valorizzare quella che è la sua terra con quella che, nel corso degli anni, è diventata la sua cucina. 
-{{< figure src="images/wp-content/uploads/2019/08/img_8618-e1564670592619.webp" caption="Chef Danilo Ciavattini" >}}
+{{< figure src="/images/wp-content/uploads/2019/08/img_8618-e1564670592619.webp" caption="Chef Danilo Ciavattini" >}}
  
 
 La somma è presto fatta, una somma gourmet che poggia sulla tradizione di uno dei centri storicamente e culturalmente più ricchi d’Italia. Danilo ci ha aperto le porte del suo ristorante e ci ha spiegato la sua cucina fatta di territorialità e tradizione.
@@ -46,7 +46,7 @@ Per me l’hanno fatta conoscere meglio, una volta che entra in tv una cosa è n
 **_Ormai l’aspetto visivo/estetico è allo stesso livello di quello legato al puro gusto?_**
 
 
-{{< figure src="images/wp-content/uploads/2019/08/patata-interrata.webp" caption="Patata interrata" >}}
+{{< figure src="/images/wp-content/uploads/2019/08/patata-interrata.webp" caption="Patata interrata" >}}
 
 
 È un discorso vasto e importante. Oggi c’è molta attenzione più al lato estetico del piatto che a quello del gusto. Il ragionamento del gusto ti compromette alcune cose, in fase di preparazione del piatto. Magari per conservare certi colori, certe sfumature di un prodotto di “sacrifica” il giusto modo di cucinarlo. O si va dietro al sapore o dietro all’estetica, è chiaro che tutti vorrebbero sempre il bello e buono, io ho sempre preferito ricercare la massima espressione gustativa.
@@ -62,10 +62,10 @@ Quando ho aperto il Danilo Ciavattini Ristorante avevo l’obiettivo di cucinare
 **_Uno chef per ideare i suoi piatti parte da ciò che pensa possa piacere alla gente oppure dai propri gusti personali?_**
 
 A me piace lavorare con quello a cui sono affezionato, quindi lavoro in base al mio gusto e cerco di presentare il piatto il più fedelmente possibile alla mia idea di cucina.
-{{< figure src="images/wp-content/uploads/2019/08/dbs2227.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2019/08/dbs2227.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2019/08/ciavattini.webp?w=1024" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2019/08/ciavattini.webp?w=1024" alt="" >}}
  
 
 Per le foto si ringrazia Videosolution.it

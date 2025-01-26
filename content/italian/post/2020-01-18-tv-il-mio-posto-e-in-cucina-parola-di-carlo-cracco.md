@@ -19,7 +19,7 @@ images: ["images/wp-content/uploads/2019/11/cracco-rist.-credits-barbara-santoro
 C’è un nome che balena nella testa di tutti appena si inizia a parlare di alta cucina, e risponde all’appello di **Carlo Cracco.** Chef, divo, istituzione della gastronomia a livello internazionale, tra i maggiori rappresentanti all’estero del saper cucinare (e mangiare) italiano.
 
 
-{{< figure src="images/wp-content/uploads/2019/11/ritratto-carlo-craccoc2a9malgarini.webp?w=683" caption="©Malgarini." >}}
+{{< figure src="/images/wp-content/uploads/2019/11/ritratto-carlo-craccoc2a9malgarini.webp" caption="©Malgarini." >}}
 
 
 **Cracco** non a caso è stato tra i primi chef superstar della cucina italiana. Non va sottovalutato il suo contributo, dal punto di vista comunicativo, nel rendere maggiormente fruibile un mondo fino a qualche anno fa esclusivo di una nicchia di interessati o esperti. Anche grazie a Carlo Cracco infatti il mondo dell’alta cucina è entrato nei salotti degli italiani, prendendo sempre più piede nei palinsesti delle varie reti.
@@ -33,7 +33,7 @@ Difficile dire qualcosa di nuovo su un personaggio così famoso, dibattuto, a vo
 Noi abbiamo provato a farlo durante un evento promosso dal Gambero Rossi. Ecco cosa ci ha raccontato.
 
 
-{{< figure src="images/wp-content/uploads/2019/11/cracco_in_galleria_12feb2019_0196_02.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2019/11/cracco_in_galleria_12feb2019_0196_02.webp" >}}
 
 
 **_Chef, quest’anno il Gambero Rosso ha modificato i criteri di giudizio della sua Guida, dando maggior peso specifico alla voce &#8220;servizio&#8221;. Lei su cosa punta per offrire un grande servizio, cosa chiede al suo personale di sala?_**
@@ -49,7 +49,7 @@ La rivalità non esiste, nel senso che chi è più bravo spinge gli altri a migl
 C’è sempre il rischio, il problema è che si tratta di un mondo che non viene percepito dall’esterno, quindi è difficile anche da spiegare. Poi si può anche cercare di spiegarlo, ma la gente vuole vedere il piatto, il prodotto finito. È questo che interessa al cliente che si siede al ristorante. Poi se quel piatto è buono ed è fatto come si deve, con i prodotti giusti, il cliente è ancora più felice. L’emozione e l’esperienza legata al gusto sono quelle che ti fanno scattare la molla.
 
 
-{{< figure src="images/wp-content/uploads/2019/11/uovo-soffice-marinato-alla-curcuma-carote-nocciole-e-caffc3a8-.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2019/11/uovo-soffice-marinato-alla-curcuma-carote-nocciole-e-caffc3a8-.webp" >}}
 
 
 **_I media, secondo lei, riescono a veicolare una giusta informazione e una giusta immagine degli chef e della cucina?_**
@@ -65,7 +65,7 @@ Il problema è molto più serio e profondo. Bisognerebbe sviscerarlo, soprattutt
 Sono più che soddisfatto, abbiamo raccolto molto più di quello che pensavamo e molto di più di quello che ci auguravamo. Siamo veramente contenti non tanto del lavoro fatto quanto per l’opportunità che stiamo creando per il futuro.
 
 
-{{< figure src="images/wp-content/uploads/2019/11/tavolofinestraristornate.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2019/11/tavolofinestraristornate.webp" >}}
 
 
 **_Per chiudere, come si trova in questa veste, meno rigida, di “Nella mia cucina” su Rai2?_**

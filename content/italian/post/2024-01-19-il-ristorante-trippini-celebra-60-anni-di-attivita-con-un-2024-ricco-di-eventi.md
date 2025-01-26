@@ -22,7 +22,7 @@ meta_tags:
 images: ["images/wp-content/uploads/2023/04/interni-ristorante_trippini.webp"]
 ---
 **_Tra gli chef più amati e apprezzati dell’Umbria, ambasciatore delle filiere e di quel caleidoscopio enogastronomico che caratterizza il microterritorio tra Umbria, Lazio e Toscana, lo chef Paolo Trippini si appresta, con il fratello Luca, a celebrare i 60 anni di attività del famoso Ristorante Trippini._** **_Indirizzo gourmet nel centro del piccolo borgo di Civitella del Lago (Tr)._**
-{{< figure src="images/wp-content/uploads/2024/01/paolo_trippini_officina_visiva.webp.webp?w=1024" caption="Lo chef Paolo Trippini &#8211; foto di Officina Visiva" >}}
+{{< figure src="/images/wp-content/uploads/2024/01/paolo_trippini_officina_visiva.webp.webp?w=1024" caption="Lo chef Paolo Trippini &#8211; foto di Officina Visiva" >}}
  
 
 Una festa lunga tutto l’anno, che vedrà un susseguirsi di pranzi evento a 4 mani, con gli chef che hanno incrociato <a href="https://aleepepecom.wordpress.com/2023/04/07/sociale-inclusivo-ed-etico-il-menu-di-paolo-trippini-a-civitella-del-lago/" target="_blank" rel="noreferrer noopener">lo chef Trippini e l’omonimo ristorante</a> in questo lungo cammino, alternate da serate dedicate agli esordi, chiamate “Da Peppe se Pappa” per omaggiare il fondatore.

@@ -13,7 +13,7 @@ images: ["images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice
 ## Accoglienza, territorialità e calore umano: questa la ricetta vincente di Felice Arletti per la ripartenza del suo ristorante Il calice & la stella, a Canepina (in provincia di Viterbo).  {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-1.webp?w=684" caption="Felice Arletti" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-1.webp" caption="Felice Arletti" >}}
 
 
 Tutte prerogative &#8220;_assaporate_&#8221; durante una visita al suo locale. Lo chef, canepinese doc, ci ha ospitati per una cena durante la quale si è seduto a tavola con noi, raccontandoci man mano, tra processo di ideazione, realizzazione e perfezionamento, i piatti che andavamo ad assaggiare.
@@ -29,7 +29,7 @@ La ripartenza di **Felice Arletti ,** e della sua chef Tara, poggia anche su alc
 &#8220;_Ora più che mai dovremo puntare sul calore umano e sull&#8217;accoglienza_&#8221; confessa lo chef durante la cena, &#8220;_e anche su proposte nuove che abbiamo ideato con **Tara**, qui da 5 anni e che sta prendendo in mano la situazione della cucina_&#8220;. Felice infatti ammette di passare ormai più in tempo in sala che dietro ai fornelli (almeno durante il servizio); affidandosi nella realizzazione dei piatti alla chef e al suo aiutante.
 
 
-{{< figure src="images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-4.webp?w=1000" caption="Uovo fritto su crema di tartufo e chips croccanti di guanciale" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-4.webp" caption="Uovo fritto su crema di tartufo e chips croccanti di guanciale" >}}
 
 
 Da bravo padrone di casa trascorre gran parte del tempo a contatto con i clienti, cercando di metterli a loro agio e, perché no, raccontare qualche storia sui prodotti tipici della Tuscia che lui propone nel suo menu.
@@ -39,7 +39,7 @@ Lo chef, dopo un brindisi a base di bollicine, ci racconta come è stata la riap
 **Il calice & la stella**, locale presente sulle maggiori guide nazionali, a breve potrà contare anche sugli spazi della piazza antistante, nella quale **Felice** potrà disporre alcuni tavoli per far sedere la gente all&#8217;aperto. Per assaporare, sotto il cielo della Tuscia, i prodotti tipici di questo territorio così ricco di materie prime.
 
 
-{{< figure src="images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-8.webp?w=1024" caption="Fieno di Canepina in dessert" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-8.webp" caption="Fieno di Canepina in dessert" >}}
 
 
 Materie prime su cui si basa nella sua quasi totalità la cucina di Felice e Tara. Carni, nocciole, olio, vino, tutto a chilometro zero o quasi, che fanno parte di una proposta _contaminata_ da un tocco &#8220;**pop**&#8220;. L&#8217;uovo fritto su crema di tartufo e chips di guanciale croccante è uno degli antipasti più apprezzati, ma una menzione lo merita (tra i primi piatti) il raviolo (ripieno di patate e limone) al Mojito, saltato cioè nel rum e nella menta, con briciole di pane tostato a simulare lo zucchero di canna. L&#8217;hamburger di Fassona della Tuscia, poi, è una delle nuove proposte appena entrate in menu. Il concetto di evoluzione poi lo si ritrova a fine pasto, nella carta dei dessert, dove Felice ripropone sotto forma di dolce la più tipica tipologia di pasta della zona: il **fieno**. Per concludere in bellezza, con la rivisitazione di un must della cucina del luogo, la cena e la chiacchierata con lo chef **Arletti**.

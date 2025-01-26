@@ -18,7 +18,7 @@ images: ["images/wp-content/uploads/2020/09/vinoforum-chef.webp"]
 A Parco Tor di Quinto dall&#8217;11 al 20 settembre appuntamento con il grande vino e il grande cibo. Presenti numerosi chef che popolano la Capitale, pronti a &#8220;_prendere per la gola_&#8221; gli ospiti che parteciperanno all&#8217;evento. Ci saranno sia chef provenienti da cucine stellate che da moderne e rinomate trattorie, per un&#8217;esperienza gastronomica a tutto tondo e accessibile a tutti. I piatti, infatti, partono dalla simbolica e democratica cifra di 6 euro.
 
 
-{{< figure src="images/wp-content/uploads/2020/09/unnamed.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2020/09/unnamed.webp" >}}
 
 
 Di seguito l&#8217;elenco degli chef di **Vinòforum**, tutti i presenti a Parco Tor di Quinto nel corso della manifestazione. A loro disposizione 6 temporary restaurants:

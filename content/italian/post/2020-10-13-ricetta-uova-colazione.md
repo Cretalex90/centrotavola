@@ -26,7 +26,7 @@ In particolar modo i colori delle uova (deluxe) proposte in questa ricetta sono 
 **Uovo alla coque e caviale**
 
 
-{{< figure src="images/wp-content/uploads/2020/10/uovo-alla-coque-e-caviale.webp?w=740" >}}
+{{< figure src="/images/wp-content/uploads/2020/10/uovo-alla-coque-e-caviale.webp" >}}
 
 
   
@@ -41,7 +41,7 @@ Scolarle, disporle nel portauovo e tagliere la parte superiore con l’apposito 
 **Uovo strapazzato**
 
 
-{{< figure src="images/wp-content/uploads/2020/10/uovo-strapazzato.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2020/10/uovo-strapazzato.webp?w=1024" >}}
 
 
   
@@ -59,7 +59,7 @@ Scaldare un pentolino antiaderente, unire il burro e dopo averlo sciolto complet
 **Uovo occhio di bue**
 
 
-{{< figure src="images/wp-content/uploads/2020/10/uovo-a-occhio-di-bue.webp?w=740" >}}
+{{< figure src="/images/wp-content/uploads/2020/10/uovo-a-occhio-di-bue.webp" >}}
 
 
   

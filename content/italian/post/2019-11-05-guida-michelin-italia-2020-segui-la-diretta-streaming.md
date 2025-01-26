@@ -24,4 +24,4 @@ Il 6 novembre 2019, in occasione della presentazione della 65 a edizione della *
 </table></figure> 
 
 
-{{< figure src="images/wp-content/uploads/2019/11/small.webp?w=280" >}}
+{{< figure src="/images/wp-content/uploads/2019/11/small.webp?w=280" >}}

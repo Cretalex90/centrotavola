@@ -18,14 +18,14 @@ images: ["images/wp-content/uploads/2019/10/un-momento-della-premiazione-.webp"]
 </p>
 
 
-{{< figure src="images/wp-content/uploads/2019/10/alessandro-bergamo.webp?w=640" >}}
+{{< figure src="/images/wp-content/uploads/2019/10/alessandro-bergamo.webp" >}}
 
 
   
 Il piatto, dal titolo **_Meglio un uovo oggi o una gallina domani?_**, ha saputo soddisfare con efficacia e gusto contemporaneo i criteri di valutazione che hanno guidato il giudizio della giuria: competenze tecniche, creatività, filosofia personale. Qualità e competenze che Alessandro ha avuto l’opportunità di coltivare e affinare nei mesi precedenti la competizione insieme al suo mentore **Riccardo Camanini**, patron del ristorante stellato Lido 84, fra i cuochi più apprezzati della sua generazione.
 
 
-{{< figure src="images/wp-content/uploads/2019/10/piatto-alessandro-bergamo-.webp?w=640" >}}
+{{< figure src="/images/wp-content/uploads/2019/10/piatto-alessandro-bergamo-.webp" >}}
 
 
 Bergamo così ha illustrato il suo piatto &#8220;una creazione che cerca di valorizzare con la tecnica &#8211; dall’affumicatura al sottovuoto &#8211; alimenti popolari talvolta trascurati nelle grandi cucine come il pollo di cui è stata utilizzata anche la pelle, resa croccante e utilizzata come guarnitura finale. Un piatto che valorizza materie prime semplici, di grande qualità, che ho scelto di presentare dedicando particolare attenzione al risultato estetico finale.”

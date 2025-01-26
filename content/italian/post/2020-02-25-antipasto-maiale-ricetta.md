@@ -20,7 +20,7 @@ Stufi del solito antipasto di salumi e formaggi? Questa volta vi proponiamo un p
 L’accostamento classico con le puntarelle completano il piatto per presentare un antipasto delizioso.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/antipasto-dettaglio.webp" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/antipasto-dettaglio.webp" >}}
 
 
 ### INGREDIENTI per 4 pax {.wp-block-heading}
@@ -74,4 +74,4 @@ Per la citronette mettere tutti gli ingredienti dentro uno squeez (o in una ciot
 Per la composizione del piatto adagiare la centro un ciuffo di puntarelle e tagliare la pancette a fette sottili e adagiarle sopra. Terminare con un filo di citronette al miele e un ciuffo di finocchietto fresco o aneto.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/antipasto-dove-vuoi.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/antipasto-dove-vuoi.webp" >}}

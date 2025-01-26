@@ -22,7 +22,7 @@ meta_tags:
 
 ---
 _Riccardo Camanini, del ristorante Lido 84 di Gardone Riviera, è stato insignito del premio “One To Watch” durante l’ultima edizione del World’s 50 Best Restaurant. Abbiamo parlato con lui della sua cucina che affonda radici solide&nbsp; storia e nella filosofia_
-{{< figure src="images/wp-content/uploads/2019/07/riccardo-camanini3.webp?w=1000" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/riccardo-camanini3.webp" >}}
  
 
 Se non fosse diventato uno chef, forse, Riccardo Camanini lo avremmo visto dietro qualche cattedra&nbsp; a elargire perle di storia o filosofia. In effetti il “professor Camanini” lo scopriamo nella sua essenza di chef, perché quelle idee filosofiche che in molti abbiamo studiato sui libri di scuola sono invece una vera e propria guida nel percorso personale, e professionale, di chi ha 47 anni e da 32 ha scelto di stare dietro ai fornelli. Di chi si è scoperto, insomma, quasi un filosofo al servizio della cucina.&nbsp;
@@ -38,7 +38,7 @@ Non ho mai avuto idee chiare, credo che averle sia abbastanza limitante; ma devo
 **_Nella tua idea si nota un’ influenza filosofica e letteraria, con il flusso di coscienza che ci rimanda al pensiero di Joyce. Come riesci a mixare questi due mondi alla cucina?_**
 
 Quello di Joyce è un pensiero che sento molto. Nell’ultima edizione di Identità Golose a Milano ho presentato 14 piatti in 35 minuti e l’ho fatto per non lasciare memorie dei piatti stessi ma per creare un flusso di coscienza e di gola, in cui prevalesse il gusto. Ho voluto creare un vero e proprio flusso gastronomicocome Joyce lo creava di idee e concetti attraverso i suoi personaggi.
-{{< figure src="images/wp-content/uploads/2019/07/chips-of-various-seeds-and-vinegard1.webp?w=1000" caption="Chips di semi e aceto" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/chips-of-various-seeds-and-vinegard1.webp" caption="Chips di semi e aceto" >}}
  
 
 **_Ti sei anche dedicato alla riscoperta di ricette dell’antichità. Da cosa nasce questa curiosità?_**
@@ -51,7 +51,7 @@ La cucina italiana ha grandissimi tesori. Il fatto di essere stata frammentata h
 
 **_Ci spieghi come hai ideato il tuo piatto più celebre, la Cacio e pepe in vescica?  
 _** L’idea è nata da una delle mie letture “antiche”. Da un manoscritto risalente al primo secolo di Marco Gavio Apicio, il “De re coquinaria”, in cui spiega come venivano utilizzate delle vesciche di maiale per conservare e trasportare delle carni da una colonia romana all’altra o per fermentare degli ingredienti. Da qui mi sono ispirato per “attualizzare” una tecnica di cottura allacciandomi ad un piatto della cucina popolare romana come la cacio e pepe. Apicio, Roma, Italia: così è nata la Cacio e pepe in vescica.
-{{< figure src="images/wp-content/uploads/2019/07/riccardo-camanini-2.webp?w=1000" caption="Cacio e pepe in vescica" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/riccardo-camanini-2.webp" caption="Cacio e pepe in vescica" >}}
  
 
 **_È sicuramente un piatto che ha alle spalle molti tentativi. Come ricordi la sua sperimentazione?_**
@@ -61,7 +61,7 @@ Abbiamo fatto 4 mesi di prove, solitamente non sto dietro ad un piatto così tan
 **_L’hai anche portata come prova a Masterchef, come giudichi questa esperienza?_**
 
 Sono andato a Masterchef spinto dalla curiosità di fare qualcosa di diverso e mi ha stimolato molto vedere come i concorrenti abbiamo approcciato la mia ricetta. Da lì ho guardato in che modo si muovevano per capire se ci fosse qualche passaggio che potesse essere in qualche modo migliorabile. Loro sono andati per flussi propri nell’interpretazione della mia ricetta e devo dire che ho visto e imparato molto da questa esperienza.
-{{< figure src="images/wp-content/uploads/2019/07/pechinese-veal-tongue_dry-crusco-pepper_lemon-leaves4.webp?w=1000" caption="Lingua di vitello alla pechinese" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/pechinese-veal-tongue_dry-crusco-pepper_lemon-leaves4.webp" caption="Lingua di vitello alla pechinese" >}}
  
 
 **_Per chiudere, ormai cucina e arte hanno molti punti in comune. Secondo te dove si pone il confine tra questi due mondi?&nbsp;_**

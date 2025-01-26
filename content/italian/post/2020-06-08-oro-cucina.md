@@ -19,7 +19,7 @@ images: ["images/wp-content/uploads/2020/06/untitled-design.webp"]
 Stiamo parlando infatti di un’usanza che dall’antico Egitto attraversa i millenni, passando per il Giappone imperiale e l’antica Roma, divenendo un vero e proprio costume e _“termometro sociale”_ tra le corti signorili di Medioevo e Rinascimento. Epoche in cui, chi ne aveva possibilità, non disdegnava l’esaltazione dell’opulenza e dello sfarzo nella propria tavola, davanti a illustri ospiti.
 
 
-{{< figure src="images/wp-content/uploads/2020/06/oro-alimentare-big.webp?w=490" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/oro-alimentare-big.webp" >}}
 
 
 Proviamo ad andare indietro nel tempo, molto indietro, all’epoca appunto degli antichi romani o tra le sale di principi e nobili che, in pieno Medioevo, allestivano banchetti pantagruelici con centinaia di convitati. 
@@ -29,7 +29,7 @@ Quantità enormi di cibo, allestimenti magnifici e esibizioni di canto e ballo n
 Quella che sembra avere tutte le caratteristiche di una moda recente, per giovani, ed effimera, in realtà ha origini storiche risalenti, per quel che sappiamo, almeno all’antico Egitto, dove **i faraoni si facevano preparare pani con polvere d’oro nell’impasto**. 
 
 
-{{< figure src="images/wp-content/uploads/2020/06/foglia-oro-alimentare.webp?w=850" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/foglia-oro-alimentare.webp" >}}
 
 
 A questo punto però una precisazione è d’obbligo: l’oro è, ovviamente, commestibile, stesso dicasi per l’argento. Questi due metalli sono identificati come coloranti alimentari, rispettivamente con le sigle E175 ed E174. Nella sua forma edibile, l’oro è utilizzato puro (23-24 carati), idem l’argento (999-1000 millesimi). L’importante è ingerirne piccolissime quantità. In più, né l’oro né l’argento hanno sapore o odore, quindi sono due “elementi” che hanno una funzione prettamente scenica. E in quanto tali, nella maggior parte dei casi, sono stati utilizzati in cucina nel corso dei millenni.
@@ -59,7 +59,7 @@ C’era però un altro motivo che giustificava l’utilizzo dell’oro negli ali
 #### L&#8217;oro nella cucina contemporanea {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/06/salt-bae-gold-steak-miami-police-1.webp" caption="Salt Bae e la Golden Steak" >}}
+{{< figure src="/images/wp-content/uploads/2020/06/salt-bae-gold-steak-miami-police-1.webp" caption="Salt Bae e la Golden Steak" >}}
 
 
 Dal **Rinascimento** in avanti sono poche le testimonianze che parlano dell’uso di lamine o polvere d’oro in cucina, per questo il salto che ci porta direttamente al 1981 è di quelli importanti. Siamo nell’anno in cui Gualtiero **Marchesi** propone il suo risotto oro e zafferano, una variante luxury del celebre risotto alla milanese.&nbsp;

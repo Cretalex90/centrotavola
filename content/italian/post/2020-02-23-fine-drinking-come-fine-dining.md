@@ -20,7 +20,7 @@ images: ["images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-bevera
 Su questo, o almeno anche su questo, si basa la **mixology**, l’arte di creare grandi cocktail capaci di andare un passo oltre i classici che tutti (o quasi) conosciamo. Ne ho parlato con un bartender professionista.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-3.webp" caption="Con Manfredi Samperi, bartender e proprietario de Al77" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-3.webp" caption="Con Manfredi Samperi, bartender e proprietario de Al77" >}}
 
 
 La scelta delle materie prime, la selezione degli ingredienti, è basilare nel mondo della mixology così come nel **fine dining**. 
@@ -32,7 +32,7 @@ Non stiamo parlando solamente della scelta degli ingredienti, ma anche di tutto 
 È infatti in atto un’opera, quasi una missione, di riqualifica di un prodotto che in molti attribuiscono, limitandolo, al semplice sballo del sabato sera. “_Ci sono cocktail e cocktail_”, racconta **Manfredi Samperi**, proprietario e bartender de **Al77 di <a href="https://aleepepe.com/2019/10/25/danilo-ciavattini-la-tuscia-e-servita/" target="_blank" rel="noreferrer noopener" aria-label="Viterbo (apre in una nuova scheda)">Viterbo</a>**, “_e tutto va contestualizzato in base a occasione e location_”.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-5.webp?w=684" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-5.webp" >}}
 
 
 Quella in corso è la trasmissione di un messaggio chiaro: i cocktail possono essere prodotti di alto livello e, perché no, abbinabili a piatti anche nel fine dining. “_In USA questo esiste già da tempo_” spiega Manfredi, “_In Italia invece siamo rimasti un po’ indietro, forse anche per una tradizione gastronomica troppo rigida, ma stiamo lavorando per cercare di riqualificare il cocktail e la sua percezione_”.
@@ -48,7 +48,7 @@ Se l’attenzione ai dettagli, il corretto bilanciamento degli ingredienti e il 
 Numerosi chef nascondono nelle loro ricette narrazioni di esperienze e viaggi che hanno formato la loro cucina, per i bartender la storia non è diversa. “_Ogni volta che viaggio mi porto indietro qualcosa in più, scoprendo una nuova parte di me o comunque un’esperienza più o meno formativa. Quando mi trovo a viaggiare torno a Viterbo con bottiglie o sapori nuovi, la relazione con culture diverse poi ti permette di aprire nuovi slot nella fantasia. C’è sempre un modo per crescere, per evolversi, la novità deve solo essere scoperta. La parola d’ordine è essere curiosi_”.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-10.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-10.webp?w=1024" >}}
 
 
 ### Come capire se un cocktail è di qualità {.wp-block-heading}
@@ -56,7 +56,7 @@ Numerosi chef nascondono nelle loro ricette narrazioni di esperienze e viaggi ch
 Come nel cibo anche in questo caso la vista è il “primo assaggio”. Bere una cosa è come assaggiare un piatto e &#8220;_l’analisi si divide in tre fasi, la prima è visiva: il cocktail deve essere bello, accattivante, invogliare il consumatore. Poi deve attirare a livello olfattivo, incuriosirti attraverso gli odori_. _Infine ovviamente il gusto deve essere piacevole. Ogni tanto mi permetto di giocarci su: magari creando un drink con un odore che ti ispira un certo sapore, ma che poi al palato sa di tutt’altro_&#8220;.
 
 
-{{< figure src="images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-6.webp?w=684" >}}
+{{< figure src="/images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-6.webp" >}}
 
 
 Allo stomaco poi, l&#8217;indomani, l&#8217;ardua e definitiva sentenza.

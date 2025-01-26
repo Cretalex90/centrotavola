@@ -22,7 +22,7 @@ _Chef Andrea Ribaldone ha il Piemonte nelle vene e, nonostante sia nato e cresci
 Instancabile, inarrestabile, incontentabile. In queste poche parole potremmo racchiudere la personalità, e la persona, di chef Andrea Ribaldone, un vero e proprio “nomade” (come si è definito) della cucina italiana. Chef Ribaldone, ora a capo della sua brigata in pieno Piemonte, nella terra dei tartufi, di strada ne ha letteralmente fatta prima di tornare nella sua regione d’origine.
 
 
-{{< figure src="images/wp-content/uploads/2019/08/50-ribaldone-andrea-683x1024.webp" caption="Chef Andrea Ribaldone" >}}
+{{< figure src="/images/wp-content/uploads/2019/08/50-ribaldone-andrea-683x1024.webp" caption="Chef Andrea Ribaldone" >}}
 
 
 Il suo percorso è stato come orientato da un ideale elastico che, tirato e alterato, è tornato sempre al punto di partenza: tanti viaggi, tante cucine, ma sempre il Piemonte come punto di riferimento e di ritrovo. Lo chef si forma ad Alessandria prima dell’esperienza parigina, torna nel capoluogo piemontese per poi andare a dirigere le cucine di Expo a Milano nel 2015. Apre il ristorante I Due Buoi ancora ad Alessandria prima di iniziare, nel 2016, il suo lavoro di consulenza nei sei ristoranti di Borgo Egnazia, in Puglia. L’anno seguente il ritorno sotto le Alpi nel cuore delle Langhe (Annunziata della Morra, Cuneo) dove apre Osteria Arborina. Il filo rosso che accomuna i suoi locali? Ovviamente, la stella Michelin.
@@ -39,7 +39,7 @@ Si tratta sicuramente di un ingrediente particolare. A me piace fare marinature 
 La cucina italiana è molto rispettata e invidiata, ma soprattutto è amata. La nostra cucina è di sostanza, di qualità, è buona e arriva al cuore della gente. Le persone non sono più clienti bensì individui che vogliono provare un’emozione e la cucina italiana, grazie sia alle sue materie prime che ai cuochi, riesce a far vivere queste emozioni a tutti ovunque nel mondo.
 
 
-{{< figure src="images/wp-content/uploads/2019/08/acciuga-al-verde-768x512.webp" caption="Acciuga al verde" >}}
+{{< figure src="/images/wp-content/uploads/2019/08/acciuga-al-verde-768x512.webp" caption="Acciuga al verde" >}}
 
 
 **_Che valore ha per uno chef la prima stella Michelin? Si inizia a pensare a come non perderla, o a come ottenere le altre due?  

@@ -15,7 +15,7 @@ images: ["images/wp-content/uploads/2020/12/baker-4840960_1280.webp"]
 ### Gli Ambasciatori del Gusto scendono in campo a sostegno della filiera enogastronomica e annunciano il nuovo progetto di comunicazione &#8220;Adotta un Produttore&#8221;. {.wp-block-heading}
 
 
-{{< figure src="images/wp-content/uploads/2020/12/cheese-5125021_1280-e1607091866337.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2020/12/cheese-5125021_1280-e1607091866337.webp" >}}
 
 
 Patrocinata dal Ministero degli Affari esteri e della Cooperazione Internazionale, l’iniziativa, a carattere no-profit, conferma l’impegno dell’Associazione nella difesa e promozione del Made in Italy e del “_saper fare_” italiano.  

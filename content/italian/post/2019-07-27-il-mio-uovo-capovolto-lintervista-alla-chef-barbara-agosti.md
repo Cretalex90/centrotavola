@@ -24,7 +24,7 @@ _L’uovo. Origine di tutto, nei secoli ispirazione di artisti, filosofi prima e
 
 **L’uovo**. Un prodotto così semplice, comune e dalla geometria essenziale, ma che in cucina nasconde infinite possibilità di utilizzo, di preparazione, quasi fosse un contenitore pronto solo per essere _(ri)aperto_, _(ri)scoperto_, _(ri)valorizzato_. La sorpresa delle infinite creazioni che dall’uovo possono essere generate, però, spetta solo a chi dimostra sufficiente iniziativa per ribaltare la concezione di un ingrediente che tutti abbiamo in casa, che tutti pensiamo di saper  maneggiare.
 
-<figure id="attachment_53" aria-describedby="caption-attachment-53" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-53" src="images/wp-content/uploads/2019/07/eggs-gioco-dellova.webp?w=300" alt="" width="400" height="267" /><figcaption id="caption-attachment-53" class="wp-caption-text">Il gioco dell&#8217;ova</figcaption></figure>
+<figure id="attachment_53" aria-describedby="caption-attachment-53" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-53" src="/images/wp-content/uploads/2019/07/eggs-gioco-dellova.webp?w=300" alt="" width="400" height="267" /><figcaption id="caption-attachment-53" class="wp-caption-text">Il gioco dell&#8217;ova</figcaption></figure>
 
 Questi concetti, quelli di “_origine_” e “_riscoperta_” sono alla base della cucina della **chef Barbara Agosti**, una piemontese (originaria di Novi Ligure) che a Roma si è affermata con una proposta che trae origine dall’uovo, e di questo ne riscopre e ripropone utilizzi, abbinamenti, metodi di cottura e, ovviamente, piatti. In definitiva, aver capovolto l’uovo a livello concettuale è stato il segreto della chef Agosti.
 
@@ -34,7 +34,7 @@ In questo mondo gastronomico fatto di stelle Michelin, di ingredienti ricercati,
 
 E poco importa se abbiamo azzardato questo paragone che salta dall’arte alla religione prima di arrivare alla gastronomia, ma forse la cucina moderna può non considerarsi quasi una costola dell’arte contemporanea? E, in fondo, quello del “_ben mangiare_” al giorno d’oggi non è uno dei credi profani che tutti maggiormente cerchiamo di professare?
 
-<figure id="attachment_51" aria-describedby="caption-attachment-51" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-51" src="images/wp-content/uploads/2019/07/barbara-agosti-3.webp?w=300" alt="" width="400" height="267" srcset="images/wp-content/uploads/2019/07/barbara-agosti-3.webp 960w, images/wp-content/uploads/2019/07/barbara-agosti-3-300x200.webp 300w, images/wp-content/uploads/2019/07/barbara-agosti-3-768x512.webp 768w" sizes="auto, (max-width: 400px) 100vw, 400px" /><figcaption id="caption-attachment-51" class="wp-caption-text">Chef Barbara Agosti</figcaption></figure>
+<figure id="attachment_51" aria-describedby="caption-attachment-51" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-51" src="/images/wp-content/uploads/2019/07/barbara-agosti-3.webp?w=300" alt="" width="400" height="267" srcset="images/wp-content/uploads/2019/07/barbara-agosti-3.webp 960w, images/wp-content/uploads/2019/07/barbara-agosti-3-300x200.webp 300w, images/wp-content/uploads/2019/07/barbara-agosti-3-768x512.webp 768w" sizes="auto, (max-width: 400px) 100vw, 400px" /><figcaption id="caption-attachment-51" class="wp-caption-text">Chef Barbara Agosti</figcaption></figure>
 
 #### L’intervista
 
@@ -90,23 +90,23 @@ Stiamo iniziando a pensare a quello che sarà il menù del prossimo autunno/inve
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://aleepepecom.local/strapazzi/'><img loading="lazy" decoding="async" width="150" height="150" src="images/wp-content/uploads/2019/07/strapazzi-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-56" /></a>
+    <a href='http://aleepepecom.local/strapazzi/'><img loading="lazy" decoding="async" width="150" height="150" src="/images/wp-content/uploads/2019/07/strapazzi-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-56" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-56'> Carbonara da passeggio </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://aleepepecom.local/1-carbonara/'><img loading="lazy" decoding="async" width="150" height="150" src="images/wp-content/uploads/2019/07/1-carbonara-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-48" /></a>
+    <a href='http://aleepepecom.local/1-carbonara/'><img loading="lazy" decoding="async" width="150" height="150" src="/images/wp-content/uploads/2019/07/1-carbonara-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-48" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-48'> La carbonara </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://aleepepecom.local/3-carbonara-tartufo-piola/'><img loading="lazy" decoding="async" width="150" height="150" src="images/wp-content/uploads/2019/07/3-carbonara-tartufo-piola-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-49" /></a>
+    <a href='http://aleepepecom.local/3-carbonara-tartufo-piola/'><img loading="lazy" decoding="async" width="150" height="150" src="/images/wp-content/uploads/2019/07/3-carbonara-tartufo-piola-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-49" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-49'> Carbonara e tartufo </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://aleepepecom.local/eggs-gioco-dellova/'><img loading="lazy" decoding="async" width="150" height="150" src="images/wp-content/uploads/2019/07/eggs-gioco-dellova-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-53" /></a>
+    <a href='http://aleepepecom.local/eggs-gioco-dellova/'><img loading="lazy" decoding="async" width="150" height="150" src="/images/wp-content/uploads/2019/07/eggs-gioco-dellova-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-53" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-53'> Il gioco dell&#8217;ova </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://aleepepecom.local/carbonara-burrata/'><img loading="lazy" decoding="async" width="150" height="150" src="images/wp-content/uploads/2019/07/carbonara-burrata-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-52" /></a>
+    <a href='http://aleepepecom.local/carbonara-burrata/'><img loading="lazy" decoding="async" width="150" height="150" src="/images/wp-content/uploads/2019/07/carbonara-burrata-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-52" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-52'> Carbonara e burrata </figcaption></figure>
 </div><figure id="attachment_11643" class="wp-caption alignleft">
 

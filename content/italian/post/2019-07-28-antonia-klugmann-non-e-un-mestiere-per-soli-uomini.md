@@ -22,7 +22,7 @@ images: ["images/wp-content/uploads/2019/07/schermata-2019-07-28-alle-12.55.03.w
 _Una cuoca di frontiera, una donna che si è guadagnata il rispetto di tutto il mondo della cucina, tanto da diventare una delle chef italiane più stimate da colleghi e critica. La stella Michelin, poi, l’ha resa ancor più grande_
 
 
-{{< figure src="images/wp-content/uploads/2019/07/dscf9123.webp" caption="Chef Antonia Klugmann" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/dscf9123.webp" caption="Chef Antonia Klugmann" >}}
 
 
 Questa strada, per diventare grande, Antonia Klugmann (trentina di nascita e friulana d’adozione) ha iniziato a percorrerla da molto giovane, affidandosi a tre elementi principali. Coraggio, fiducia in sè, e incoscienza: questi sono gli ingredienti della ricetta di Antonia Klugmann per diventare una delle principali rappresentanti della nostra cucina. Coraggio e incoscienza perché, da universitaria, ha deciso di mollare gli studi per abbracciare il mondo della cucina. Il tutto orchestrato da una profonda fiducia in se stessa perché, nonostante tutto, sentiva che quello sarebbe diventato il suo mondo. Un mondo che, con il ristorante “L’Argine” di Vencò (Gorizia), ha saputo arricchirsi anche della stella Michelin.
@@ -38,7 +38,7 @@ Quando ho lasciato l’università per la ristorazione sono stata un kamikaze. N
 Cucinare per me è sostanzialmente poesia. Diciamo che inizialmente pensavo che fare il cuoco significasse fare lo chef. Invece non è così per il 90% delle persone che intraprendono questo mestiere. La parte creativa in questo lavoro è fondamentale per me, e ho subito capito di dover diventare il capo per curare questo aspetto, che per me è quello più importante. Per fortuna ho raggiunto il mio scopo: dopo 5 anni che mi ero tuffata in questo mondo sono riuscita ad aprire il mio ristorante, e da quel momento ho iniziato a occuparmi dell’aspetto creativo. Fin quando sei un esecutore ovviamente la creatività non ti compete.<span class="Apple-converted-space">&nbsp;</span>
 
 
-{{< figure src="images/wp-content/uploads/2019/07/rosa-di-gorizia-cervo-polline-e-brodo-di-mirtilli.webp" caption="Rosa di gorizia cervo polline e brodo di mirtilli" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/rosa-di-gorizia-cervo-polline-e-brodo-di-mirtilli.webp" caption="Rosa di gorizia cervo polline e brodo di mirtilli" >}}
 
 
 **_In passato si è definita una donna egoista, severa, egocentrica. Cucinare però significa innanzitutto dedicarsi, e pensare, agli altri…<span class="Apple-converted-space">&nbsp;</span>_**
@@ -54,7 +54,7 @@ _**
 La varietà delle erbe che oggi noi possiamo acquistare al mercato è infinita, però un’erba selvatica, anche la più comune possibile, raccolta in campo con sapienza dalla mano del cuoco, non è acquistabile altrove. Questo discorso vale anche per le verdure dell’orto: per esempio un germoglio di un cavolo nero colto e tagliato per tutta la stagione in un certo modo, non è acquistabile. E quello, per me, è lusso, cioè qualcosa che si può ottenere solamente a livello artigianale e in precisi territori. Per me è lusso tutto ciò che non può essere acquistato e che può essere ricercato solo in un particolare luogo, commercializzato da pochi.
 
 
-{{< figure src="images/wp-content/uploads/2019/07/coda-brasata-friggitelli.webp" caption="Coda brasata e friggitelli" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/coda-brasata-friggitelli.webp" caption="Coda brasata e friggitelli" >}}
 
 
 **_Capitolo tv, lei ha lasciato Masterchef per “non dimenticarsi del perché si cucina”, cosa vuole dire esattamente?<span class="Apple-converted-space">&nbsp;</span>_**
@@ -68,16 +68,16 @@ Credo che quell’episodio sia stato un unicum, fatto una volta non verrà ripet
 **_Per concludere, riesce mai a staccare la spina dal suo lavoro?<span class="Apple-converted-space">&nbsp;</span>_**
 
 Devo dire che il senso di colpa rispetto alla mia vita privata è un po’ mitigato dal fatto che il mio compagno lavori con me. Mi ricordo che quando ero una cuoca alle prime armi, gli dicevo: “Dovessi scegliere tra te e il mio lavoro io sceglierò sempre il lavoro”. Questa è una sorta di vocazione “di famiglia”: in particolare mio papà è stato quasi un modello per me, un medico che ha dedicato tutta la sua vita al lavoro. Il lavoro per me è un modo per esprimere la parte più profonda, non esiste una divisione tra la Klugmann privata e la Klugmann cuoca, io sono quello che faccio e in questo c’è il mio piacere.
-{{< figure src="images/wp-content/uploads/2019/07/rosa-di-gorizia-cervo-polline-e-brodo-di-mirtilli.webp" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/rosa-di-gorizia-cervo-polline-e-brodo-di-mirtilli.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2019/07/coda-brasata-friggitelli.webp" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/coda-brasata-friggitelli.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2019/07/dsf3182_spinacioginepro-e-grappa.webp" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/dsf3182_spinacioginepro-e-grappa.webp" alt="" >}}
 
 
-{{< figure src="images/wp-content/uploads/2019/07/ritratto-crivellari.webp" alt="" >}}
+{{< figure src="/images/wp-content/uploads/2019/07/ritratto-crivellari.webp" alt="" >}}
  
 
 Per le foto si ringrazia l&#8217;ufficio stampa del ristorante l&#8217;Argine a Vencò. Credits: Francesco Orrini

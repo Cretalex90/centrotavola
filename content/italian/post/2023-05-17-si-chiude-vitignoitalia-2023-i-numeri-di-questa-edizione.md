@@ -13,7 +13,7 @@ categories:
 images: ["images/wp-content/uploads/2023/05/vitignoitalia.webp"]
 ---
 **_Sold out le masterclass, fiore all’occhiello della manifestazione. Grande attenzione da parte dei 25 buyer, provenienti da 15 Paesi, protagonisti di decine di incontri con le cantine presenti alla manifestazione._**
-{{< figure src="images/wp-content/uploads/2023/05/vitigno-italia166.webp?w=1024" >}}
+{{< figure src="/images/wp-content/uploads/2023/05/vitigno-italia166.webp" >}}
  
 
 Grande successo per la diciassettesima edizione di **VitignoItalia, il Salone dei Vini e dei Territori Vitivinicoli Italiani**, che anche quest’anno si è confermato tra gli appuntamenti di riferimento del mondo del vino italiano. Oltre 7.000 tra appassionati, operatori del settore e buyers internazionali hanno animato, nelle giornate di domenica 14 e lunedì 15 maggio, la magnifica location del **Maschio Angioino** per degustare le 1500 etichette di oltre 250 cantine tra le più prestigiose dello stivale.  
