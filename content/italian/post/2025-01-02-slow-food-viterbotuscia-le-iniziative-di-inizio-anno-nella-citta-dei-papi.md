@@ -1,7 +1,7 @@
 ---
 title: 'Slow Food Viterbo&Tuscia: le iniziative di inizio anno nella Città dei Papi'
 author: ciao
-type: regular
+type: featured
 date: 2025-01-02T09:36:25+00:00
 images:
   - images/wp-content/uploads/2019/07/piazza-duomo-gallery-cucina-00015-hd.webp
