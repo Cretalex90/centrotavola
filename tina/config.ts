@@ -21,7 +21,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "images",
+      mediaRoot: "images/wp-content/uploads",
       publicFolder: "static",
     },
   },
@@ -39,6 +39,52 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "string",
+            name: "author",
+            label: "Author",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "type",
+            label: "Post Type",
+            options: ["regular", "featured"],
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Draft",
+          },
+          {
+            type: "image",
+            name: "images",
+            label: "Featured Images",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "categories",
+            label: "Categories",
+            list: true,
+            ui: {
+              component: "tags",
+            },
+          },
+          {
+            type: "string",
+            name: "meta_tags",
+            label: "Meta Tags",
+            list: true,
+            ui: {
+              component: "tags",
+            },
           },
           {
             type: "rich-text",
