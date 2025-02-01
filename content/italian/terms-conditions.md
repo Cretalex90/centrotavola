@@ -1,30 +1,43 @@
 ---
-title: "Our Terms And Conditions"
+title: "Termini e Condizioni"
 draft: false
 # description
-description: "This is meta description"
+description: "Termini e condizioni d'uso di CentroTavola"
 ---
 
-#### Responsibility of Contributors
+#### Contenuti e Diritti d'Autore
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Tutti i contenuti presenti su CentroTavola (testi, immagini, video e altri materiali) sono protetti da diritti d'autore. I contenuti sono di proprietà di Alessandro Creta o dei rispettivi autori e non possono essere utilizzati senza esplicita autorizzazione. È consentita la condivisione dei contenuti attraverso i social media, purché venga sempre citata la fonte.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Le fotografie pubblicate sul sito sono di proprietà dei rispettivi autori o sono state concesse in uso. Ogni utilizzo non autorizzato sarà perseguito secondo i termini di legge.
 
-#### Gathering of Personal Information
+#### Responsabilità dei Contenuti
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Gli articoli e le interviste pubblicate su CentroTavola sono frutto di un lavoro giornalistico accurato e verificato. Tuttavia, non possiamo garantire l'assoluta precisione di tutte le informazioni riportate. Le opinioni espresse nelle interviste appartengono agli intervistati e non riflettono necessariamente il punto di vista della redazione.
 
-#### Protection of Personal- Information
+Le recensioni e le descrizioni dei ristoranti e dei prodotti sono basate sull'esperienza personale e rappresentano opinioni soggettive. Non costituiscono in alcun modo una forma di pubblicità garantita o sponsorizzazione.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Trattamento dei Dati Personali
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+La raccolta e il trattamento dei dati personali degli utenti avvengono nel rispetto del Regolamento Generale sulla Protezione dei Dati (GDPR) e della normativa italiana sulla privacy. Per maggiori informazioni sulle modalità di trattamento dei dati, si invita a consultare la nostra Privacy Policy.
 
-#### Privacy Policy Changes
+#### Contenuti di Terze Parti
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Il sito può contenere link a siti web esterni. Non siamo responsabili dei contenuti e delle pratiche sulla privacy di questi siti. L'inserimento di questi link non implica l'approvazione dei siti collegati o dei loro contenuti.
+
+#### Modifiche ai Termini e Condizioni
+
+Ci riserviamo il diritto di modificare questi termini e condizioni in qualsiasi momento. Le modifiche entreranno in vigore immediatamente dopo la loro pubblicazione sul sito. L'utilizzo continuato del sito dopo la pubblicazione delle modifiche costituirà l'accettazione delle stesse.
+
+#### Limitazioni di Responsabilità
+
+1. CentroTavola non è responsabile per eventuali danni diretti o indiretti derivanti dall'utilizzo del sito
+2. Non garantiamo che il sito sia sempre disponibile e privo di errori
+3. Le informazioni fornite non costituiscono consulenza professionale
+4. Decliniamo ogni responsabilità per le decisioni prese dagli utenti sulla base dei contenuti del sito
+
+#### Contatti
+
+Per qualsiasi domanda o chiarimento riguardo questi termini e condizioni, è possibile contattarci attraverso la [pagina dei contatti](/contact) o via email all'indirizzo info@centrotavola.it.
+
+L'utilizzo di questo sito implica l'accettazione di questi termini e condizioni.
