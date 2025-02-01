@@ -1,57 +1,64 @@
 # Start of Selection
 ############### Navigazione Italiana ################
 
+# Menu a discesa per le categorie
 [[main]]
-name = "Chi Siamo"
-url = "about/"
-weight = 2
-
-[[main]]
-name = "Contatti"
-url = "contact/"
-weight = 3
-
-# Menu a discesa
-[[main]]
-weight = 4
-name = "Pagine"
+name = "Categorie"
+weight = 1
 hasChildren = true
 
 [[main]]
-parent = "Pagine"
-name = "Autore"
-url = "author/john-doe/"
+parent = "Categorie"
+name = "In buone mani"
+url = "categories/in-buone-mani/"
 weight = 1
 
 [[main]]
-parent = "Pagine"
-name = "Categoria"
-url = "categories/photography/"
+parent = "Categorie"
+name = "Le ricette dello chef"
+url = "categories/le-ricette-dello-chef/"
 weight = 2
 
 [[main]]
-parent = "Pagine"
-name = "Tag"
-url = "tags/photo/"
+parent = "Categorie"
+name = "Ristoranti"
+url = "categories/ristoranti/"
+weight = 2
+
+[[main]]
+parent = "Categorie"
+name = "Aziende e Prodotti"
+url = "categories/aziende-e-prodotti/"
 weight = 3
 
 [[main]]
-parent = "Pagine"
-name = "Cerca"
-url = "search/"
+parent = "Categorie"
+name = "Eventi"
+url = "categories/eventi/"
 weight = 4
 
 [[main]]
-parent = "Pagine"
-name = "Pagina 404"
-url = "404/"
+parent = "Categorie"
+name = "Parola al professionista"
+url = "categories/parola-al-professionista/"
 weight = 5
 
 [[main]]
-parent = "Pagine"
-name = "Elementi"
-url = "elements/"
+parent = "Categorie"
+name = "News"
+url = "categories/news/"
 weight = 6
+
+# Sezioni con form contatti
+[[main]]
+name = "Promuovi la tua attività"
+url = "promuovi/"
+weight = 7
+
+[[main]]
+name = "Organizza il tuo tour in Tuscia"
+url = "organizza-tour/"
+weight = 8
 
 # menu footer
 [[footer]]
