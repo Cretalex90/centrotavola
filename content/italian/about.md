@@ -1,43 +1,36 @@
 ---
-title: "Hi, I Am John Doe"
-image: "images/author-full.jpg"
-email: "sojonatmail@gmail.com"
+title: "Chi Siamo"
+image: "images/centrotavola-team.jpg"
+email: "info@centrotavola.it"
 # description
-description: "This is meta description"
+description: "CentroTavola - Racconti di cucina e storie di chef"
 layout: "about"
 draft: false
 
 social:
   - icon: "fab fa-facebook"
     title: "facebook"
-    link: "https://facebook.com"
-  - icon: "fab fa-twitter"
-    title: "twitter"
-    link: "https://twitter.com"
+    link: "https://facebook.com/alessandro.creta.3"
   - icon: "fab fa-instagram"
     title: "instagram"
-    link: "https://instagram.com"
-  - icon: "fab fa-linkedin-in"
-    title: "linkedin"
-    link: "https://linkedin.com"
+    link: "https://instagram.com/cretalex"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor, et dictum
+CentroTavola nasce dalla passione per la cucina e dal desiderio di raccontare le storie che si nascondono dietro ogni piatto. Non siamo critici gastronomici, ma narratori curiosi che amano esplorare il mondo della ristorazione attraverso le voci di chi lo vive ogni giorno.
 
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio
+La nostra missione è quella di portare i lettori dietro le quinte dei ristoranti, per scoprire non solo le tecniche e i sapori, ma anche le persone e le idee che rendono unica la gastronomia italiana. Attraverso interviste, reportage e articoli, raccontiamo le eccellenze del territorio e le novità del mondo della ristorazione.
 
-{{< quote by="John Doe" >}}
-Life is a series of natural and spontaneous changes. Don’t resist them – that only create sorrow. Let reality changes be reality. Let things flow naturally way they like.
+{{< quote by="Alessandro Creta" >}}
+La cucina è un linguaggio universale che racconta storie di tradizione, innovazione e passione. Il nostro compito è quello di tradurre queste storie per i nostri lettori.
 {{</ quote >}}
 
 <hr>
 
-#### My Skills & Experiences:
+#### Il Nostro Approccio:
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cumto sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+- **Storytelling Culinario**: Ogni piatto ha una storia da raccontare, dalle sue origini alla sua evoluzione
+- **Interviste Approfondite**: Conversazioni con chef, produttori e protagonisti del mondo enogastronomico
+- **Reportage sul Territorio**: Alla scoperta delle eccellenze e delle tradizioni locali
+- **Tendenze e Innovazione**: Uno sguardo sul futuro della ristorazione italiana
 
-- In enim justo, rhoncus ut,
-- Curabitur ullamcorper ultricies
-- Donec vitae sapien utlorem
-
-Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+Il nostro obiettivo è quello di creare un ponte tra chi fa la cucina e chi la ama, raccontando storie che ispirano, informano e appassionano.

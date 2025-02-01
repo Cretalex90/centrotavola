@@ -1,11 +1,9 @@
 ---
-title: "Talk To Me Anytime :)"
+title: "Contattami"
 # description
-description: "This is meta description"
+description: "Contattami per qualsiasi cosa"
 layout: "contact"
 draft: false
 ---
 
-# Chiedici Qualsiasi Cosa <br> O Semplicemente Salutaci,
-
-Invece di compilare semplicemente un modulo, Sleeknote offre anche aiuto all'utente <br> con collegamenti che lo indirizzano a trovare informazioni aggiuntive o a eseguire azioni popolari.
+## Chiedici Qualsiasi Cosa <br> O Semplicemente Salutaci,
