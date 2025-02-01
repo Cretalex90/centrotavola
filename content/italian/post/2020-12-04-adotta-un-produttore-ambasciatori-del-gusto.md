@@ -1,6 +1,6 @@
 ---
 title: “Adotta un produttore” il nuovo progetto di Ambasciatori del Gusto
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-12-04T14:29:56+00:00
 

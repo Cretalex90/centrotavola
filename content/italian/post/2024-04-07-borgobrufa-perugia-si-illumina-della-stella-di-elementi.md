@@ -1,6 +1,6 @@
 ---
 title: Borgobrufa (Perugia) si illumina della stella di Elementi
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-04-07T07:13:52+00:00
 

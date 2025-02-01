@@ -1,6 +1,6 @@
 ---
 title: “La Tuscia a modo mio” – Al Danilo Ciavattini Ristorante nuovo menu autunnale
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-10-19T10:25:59+00:00
 

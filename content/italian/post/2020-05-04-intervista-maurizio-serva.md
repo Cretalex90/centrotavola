@@ -1,6 +1,6 @@
 ---
 title: Intervista a Maurizio Serva – La cucina al tempo del Coronavirus
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-05-04T09:59:22+00:00
 

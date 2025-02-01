@@ -1,6 +1,6 @@
 ---
 title: 'In cucina come nella vita: la mia ricetta del successo'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-27T09:25:34+00:00
 

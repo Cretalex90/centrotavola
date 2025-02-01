@@ -1,6 +1,6 @@
 ---
 title: “Zero tagli, nuovo locale e voglio aprire a Firenze” parola di Paulo Airaudo
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-01T09:41:32+00:00
 

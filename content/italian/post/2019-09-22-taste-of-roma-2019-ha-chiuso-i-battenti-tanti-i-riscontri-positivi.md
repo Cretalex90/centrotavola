@@ -1,6 +1,6 @@
 ---
 title: 'Taste of Roma 2019 ha chiuso i battenti: tanti i riscontri positivi'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-09-22T20:04:00+00:00
 

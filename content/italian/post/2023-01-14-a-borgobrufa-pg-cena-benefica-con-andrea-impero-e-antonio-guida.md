@@ -1,6 +1,6 @@
 ---
 title: A Borgobrufa (PG) cena benefica con Andrea Impero e Antonio Guida
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-01-14T07:44:14+00:00
 

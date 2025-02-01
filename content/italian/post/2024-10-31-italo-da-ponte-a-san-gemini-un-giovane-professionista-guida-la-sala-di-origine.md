@@ -1,6 +1,6 @@
 ---
 title: Italo Da Ponte, a San Gemini un giovane professionista guida la sala di Origine 
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-10-31T08:44:18+00:00
 

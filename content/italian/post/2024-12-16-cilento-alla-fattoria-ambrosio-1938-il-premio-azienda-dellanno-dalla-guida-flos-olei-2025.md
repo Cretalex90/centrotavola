@@ -1,6 +1,6 @@
 ---
 title: Cilento, alla Fattoria Ambrosio 1938 il premio “Azienda dell’Anno” dalla guida Flos Olei 2025
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-16T14:16:00+00:00
 

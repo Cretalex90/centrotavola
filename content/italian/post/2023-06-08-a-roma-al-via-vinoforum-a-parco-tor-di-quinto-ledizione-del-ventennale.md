@@ -1,6 +1,6 @@
 ---
 title: 'A Roma al via Vinòforum: a Parco Tor di Quinto l’edizione del ventennale'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-06-08T20:14:28+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Tiramisù Day: quali sono i migliori tiramisù eletti a Roma'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-03-21T16:47:19+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Da Roma ad Alicante: Alba Restaurante, una “luce” sulla costa'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-09-27T09:35:21+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Ricetta salmone marinato con barbabietola, quinoa e zucca
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-12-09T11:17:34+00:00
 

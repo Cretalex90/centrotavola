@@ -1,6 +1,6 @@
 ---
 title: Ricetta filetto di merluzzo nordico scottato con burgul e cavolo rosso
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-04-20T09:30:09+00:00
 

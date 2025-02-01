@@ -1,6 +1,6 @@
 ---
 title: A Capranica per celebrare il vino della Tuscia
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-07-17T16:05:06+00:00
 

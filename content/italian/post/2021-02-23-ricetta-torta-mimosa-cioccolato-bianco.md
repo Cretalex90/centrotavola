@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta: torta mimosa al cioccolato bianco e frutti di bosco'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-02-23T11:15:39+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Azzurro Food, l’edizione 2020 in diretta streaming
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-12-15T14:01:49+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta: Una cena raffinata. Filetto di spigola farcito'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-12T12:30:47+00:00
 

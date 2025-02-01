@@ -1,6 +1,6 @@
 ---
 title: Ricetta crostata lampone e pistacchio
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-02-09T16:14:09+00:00
 

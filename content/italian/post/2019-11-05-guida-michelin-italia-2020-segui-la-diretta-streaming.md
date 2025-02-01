@@ -1,6 +1,6 @@
 ---
 title: Guida MICHELIN Italia 2020 – Segui la diretta streaming
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-05T08:28:33+00:00
 

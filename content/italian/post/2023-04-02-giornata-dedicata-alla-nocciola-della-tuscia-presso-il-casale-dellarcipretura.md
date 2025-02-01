@@ -1,6 +1,6 @@
 ---
 title: Giornata dedicata alla nocciola della Tuscia presso il Casale dell’Arcipretura
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-04-02T18:34:07+00:00
 

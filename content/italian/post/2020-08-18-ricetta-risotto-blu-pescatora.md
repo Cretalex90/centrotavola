@@ -1,6 +1,6 @@
 ---
 title: Colore e sapore, la ricetta del risotto (blu) alla pescatora
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-08-18T11:14:09+00:00
 

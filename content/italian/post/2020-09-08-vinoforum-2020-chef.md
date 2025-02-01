@@ -1,6 +1,6 @@
 ---
 title: 'Vinòforum 2020: i grandi chef che saranno a Parco Tor di Quinto'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-09-08T13:06:01+00:00
 

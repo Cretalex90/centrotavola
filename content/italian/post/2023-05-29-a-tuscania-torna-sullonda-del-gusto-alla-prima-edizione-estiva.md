@@ -1,6 +1,6 @@
 ---
 title: A Tuscania torna Sull’Onda del Gusto, alla prima edizione estiva
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-05-29T19:13:53+00:00
 

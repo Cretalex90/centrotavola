@@ -1,6 +1,6 @@
 ---
 title: La mia pasticceria capovolta – L’intervista a Carmen Vecchione
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-30T20:02:26+00:00
 

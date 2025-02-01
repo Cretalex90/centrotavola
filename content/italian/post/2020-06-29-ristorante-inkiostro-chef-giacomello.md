@@ -1,6 +1,6 @@
 ---
 title: 'Ristorante Inkiostro, chef Giacomello: “Sorprendere sempre il cliente”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-29T11:20:22+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Tra le sfumature del Grechetto: a Civitella D’Agliano un weekend dedicato'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-07-27T18:32:25+00:00
 

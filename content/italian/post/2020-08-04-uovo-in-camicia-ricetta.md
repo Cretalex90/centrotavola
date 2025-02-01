@@ -1,6 +1,6 @@
 ---
 title: Uovo in camicia con patate al timo, asparagi scottati e mandorle salate
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-08-04T10:00:34+00:00
 

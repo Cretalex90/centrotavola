@@ -1,6 +1,6 @@
 ---
 title: 'A Roma il cibo protagonista: Tiburtino Food Fest dall’8 al 19 febbraio'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-02-06T19:30:21+00:00
 

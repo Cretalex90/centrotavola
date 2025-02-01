@@ -1,6 +1,6 @@
 ---
 title: Nuova apertura a Terni, Ristorante Sud nel centro cittadino
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-11-18T19:45:03+00:00
 

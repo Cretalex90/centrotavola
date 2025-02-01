@@ -1,6 +1,6 @@
 ---
 title: A Napoli torna Vitignoitalia dal 5 al 7 giugno
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-06-04T18:17:00+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Perché il fine drinking è come il fine dining
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-23T10:17:17+00:00
 

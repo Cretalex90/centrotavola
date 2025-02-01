@@ -1,6 +1,6 @@
 ---
 title: 'Non il solito antipasto: filetto di maiale con puntarelle all’agro'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-25T09:02:58+00:00
 

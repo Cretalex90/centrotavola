@@ -1,6 +1,6 @@
 ---
 title: 'Nico Salvatori Best Bartender under 35 ai Food&Wine Italia Awards'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-20T19:48:23+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Ripartenza con vista: la terrazza aperitivo al Cetaria dello chef Avallone'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-12T10:00:29+00:00
 

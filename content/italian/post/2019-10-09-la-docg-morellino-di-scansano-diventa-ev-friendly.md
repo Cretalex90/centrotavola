@@ -1,6 +1,6 @@
 ---
 title: La DOCG Morellino di Scansano diventa EV Friendly
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-09T17:16:14+00:00
 

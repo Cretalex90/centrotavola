@@ -1,6 +1,6 @@
 ---
 title: Con le mani in pasta – L’intervista a Andrea Tortora
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-08-01T07:15:56+00:00
 

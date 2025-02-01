@@ -1,6 +1,6 @@
 ---
 title: Alla scoperta dell’acquacotta
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-03-15T11:34:54+00:00
 

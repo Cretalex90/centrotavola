@@ -1,6 +1,6 @@
 ---
 title: Chiocciola Slow Food per Il Calice e la Stella di Canepina
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-10-29T15:20:53+00:00
 

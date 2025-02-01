@@ -1,6 +1,6 @@
 ---
 title: 'Coro: a Orvieto ospite Terry Giacomello in una cena a 4 mani con Ronald Bukri'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-03T15:04:47+00:00
 

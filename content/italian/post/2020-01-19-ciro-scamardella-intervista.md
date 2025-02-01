@@ -1,6 +1,6 @@
 ---
 title: 'Ciro Scamardella di Pipero: “Chef? Non siamo divi, ma privilegiati”- L’intervista completa'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-19T11:39:16+00:00
 excerpt: 'Le parole e la filosofia di Ciro Scamardella, chef di Pipero, (ristorante una stella Michelin), che ci racconta il suo lavoro e la sua vita privata. '

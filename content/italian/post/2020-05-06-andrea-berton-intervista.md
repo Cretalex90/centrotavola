@@ -1,6 +1,6 @@
 ---
 title: 'Andrea Berton: “Asporto e voucher: il ristorante al tempo del Coronavirus”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-05-06T08:14:42+00:00
 

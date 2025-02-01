@@ -1,6 +1,6 @@
 ---
 title: 'Cosa si mangia da Convivial: a Tuscania la novità firmata Andrea Astolfi'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-02-18T08:13:09+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Riapertura ristoranti: come cambia la Guida del Gambero Rosso'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-07-11T09:21:36+00:00
 

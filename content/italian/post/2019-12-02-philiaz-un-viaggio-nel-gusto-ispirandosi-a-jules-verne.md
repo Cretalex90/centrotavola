@@ -1,6 +1,6 @@
 ---
 title: 'Philiaz: un viaggio nel gusto ispirandosi a Jules Verne'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-02T21:17:44+00:00
 

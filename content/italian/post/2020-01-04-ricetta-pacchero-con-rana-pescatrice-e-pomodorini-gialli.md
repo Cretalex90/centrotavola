@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta: Pacchero con rana pescatrice e pomodorini gialli'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-04T11:01:13+00:00
 

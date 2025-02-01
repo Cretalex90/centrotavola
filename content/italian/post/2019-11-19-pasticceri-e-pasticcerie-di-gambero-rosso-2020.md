@@ -1,6 +1,6 @@
 ---
 title: Pasticceri e Pasticcerie di Gambero Rosso 2020
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-19T12:24:00+00:00
 

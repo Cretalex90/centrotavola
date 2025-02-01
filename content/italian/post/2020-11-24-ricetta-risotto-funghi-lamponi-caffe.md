@@ -1,6 +1,6 @@
 ---
 title: Ricetta risotto fumè, funghi lamponi e caffè
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-11-24T11:14:33+00:00
 

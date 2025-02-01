@@ -1,6 +1,6 @@
 ---
 title: Cosa e come si mangia da Essenza Ristorante alle porte di Viterbo 
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-09-06T15:44:50+00:00
 

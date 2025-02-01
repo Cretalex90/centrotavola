@@ -1,6 +1,6 @@
 ---
 title: Apre TerritOri, il nuovo ristorante di Casa Vissani
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-04-17T06:09:24+00:00
 

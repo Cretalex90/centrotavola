@@ -1,6 +1,6 @@
 ---
 title: 'Vinòforum 2022: a giugno appuntamento a Parco Tor di Quinto'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-05-24T19:35:54+00:00
 

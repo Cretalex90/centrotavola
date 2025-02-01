@@ -1,6 +1,6 @@
 ---
 title: 'Chef Guardianelli, Abocar Due Cucine: “Chiusura ristorante? A me ha fatto bene”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-22T10:01:50+00:00
 

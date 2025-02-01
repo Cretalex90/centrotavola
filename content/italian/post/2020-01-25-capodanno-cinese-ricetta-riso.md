@@ -1,6 +1,6 @@
 ---
 title: 'Capodanno cinese: la ricetta a base di riso per l’Anno del Topo'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-25T10:30:00+00:00
 excerpt: 'Festeggiamo a nostro modo il Capodanno cinese proponendo un piatto a base di uno degli ingredienti tipici della Cina: il riso'

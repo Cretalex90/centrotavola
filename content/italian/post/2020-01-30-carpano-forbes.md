@@ -1,6 +1,6 @@
 ---
 title: Carpano eletto tra le “100 eccellenze italiane 2020” da Forbes
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-30T14:31:25+00:00
 

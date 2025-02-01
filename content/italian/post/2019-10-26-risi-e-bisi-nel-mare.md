@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta: Risi e Bisi nel mare'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-26T18:43:07+00:00
 

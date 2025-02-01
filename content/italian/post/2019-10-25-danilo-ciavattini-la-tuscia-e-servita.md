@@ -1,6 +1,6 @@
 ---
 title: 'Danilo Ciavattini: la Tuscia è servita'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-25T14:47:00+00:00
 

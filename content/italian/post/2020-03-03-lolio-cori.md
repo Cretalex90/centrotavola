@@ -1,6 +1,6 @@
 ---
 title: L’Olio di Cori tra i migliori al mondo
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-03-03T11:16:36+00:00
 

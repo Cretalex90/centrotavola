@@ -1,6 +1,6 @@
 ---
 title: Cosa si mangia da Origine a Terni, nel locale supervisionato da Maurizio Serva
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-07-24T08:28:21+00:00
 

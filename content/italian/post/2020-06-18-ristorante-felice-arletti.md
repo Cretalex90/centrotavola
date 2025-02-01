@@ -1,6 +1,6 @@
 ---
 title: 'Al ristorante di Felice Arletti: la ripartenza de Il calice & la stella'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-18T12:17:47+00:00
 

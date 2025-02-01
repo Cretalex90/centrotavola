@@ -1,6 +1,6 @@
 ---
 title: 'Nuova cucina all’Olivo Country Club: Salvo Cravero firma l’ultima meta gourmet della Tuscia'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-07-26T17:26:59+00:00
 

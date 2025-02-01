@@ -1,6 +1,6 @@
 ---
 title: Natale di gusto, le iniziative di Slow Food Viterbo nella Città dei Papi
-author: ciao
+author: Alessandro Creta
 type: featured
 date: 2024-12-19T20:04:08+00:00
 

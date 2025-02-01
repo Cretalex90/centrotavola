@@ -1,6 +1,6 @@
 ---
 title: 'Nico Sacco lascia il Lab e vola a Pavia: sarà al nuovo Dem'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-04-01T12:11:33+00:00
 

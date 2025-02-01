@@ -1,6 +1,6 @@
 ---
 title: Andrea Astolfi, uno chef della Tuscia tra i migliori giovani per la redazione di Cook
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-26T07:57:46+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Gara Gastronomica “Il Rosso sul Podio” 3 e 4 agosto a Proceno
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-07-24T13:34:22+00:00
 

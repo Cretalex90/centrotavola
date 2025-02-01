@@ -1,6 +1,6 @@
 ---
 title: 'Mammé: sulle colline ternane un ristorantino tutto da scoprire'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-06-06T09:33:19+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: AlpiNN è il miglior ristorante del mondo all’interno di un museo
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-03-06T17:44:17+00:00
 

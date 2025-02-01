@@ -1,6 +1,6 @@
 ---
 title: 'La ricetta di Carlotta Delicato: la forza delle idee e della famiglia'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-03-02T07:54:57+00:00
 

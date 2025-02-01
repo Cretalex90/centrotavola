@@ -1,6 +1,6 @@
 ---
 title: 'Ristoranti d’Italia 2020 di Gambero Rosso: i Tre Forchette'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-30T15:27:41+00:00
 

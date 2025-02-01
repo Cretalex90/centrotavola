@@ -1,6 +1,6 @@
 ---
 title: Come e cosa si mangia al ristorante di Carlotta Delicato
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-06-02T15:12:36+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Andrea Fanti, il Croma Lago e il coraggio di osare
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-03-16T10:50:18+00:00
 

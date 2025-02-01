@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta – Uova Deluxe: Colori e consistenze pt. 1'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-10-13T09:41:00+00:00
 

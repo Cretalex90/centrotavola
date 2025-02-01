@@ -1,6 +1,6 @@
 ---
 title: 'Antonia Klugmann:  non è un mestiere per (soli) uomini'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-28T11:00:44+00:00
 

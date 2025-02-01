@@ -1,6 +1,6 @@
 ---
 title: 'Contaminazioni a Somma Vesuviana: viaggio in Giappone con chef Molaro'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-05-24T13:13:38+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: “Non abbiate paura dell’alta cucina”, parola di Oliver Glowig
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-08-10T10:00:00+00:00
 

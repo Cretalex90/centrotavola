@@ -1,6 +1,6 @@
 ---
 title: 'Intervista a Marta Cotarella di Intrecci: “Così formiamo il personale di sala del domani”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-02-02T10:33:23+00:00
 

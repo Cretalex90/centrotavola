@@ -1,6 +1,6 @@
 ---
 title: “Non chiamatela pizza gourmet” – L’intervista a Franco Pepe
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-13T12:09:42+00:00
 

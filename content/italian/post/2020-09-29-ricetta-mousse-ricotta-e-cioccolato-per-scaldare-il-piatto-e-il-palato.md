@@ -1,6 +1,6 @@
 ---
 title: Ricetta – Mousse ricotta e cioccolato, per scaldare il piatto e il palato
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-09-29T09:59:39+00:00
 

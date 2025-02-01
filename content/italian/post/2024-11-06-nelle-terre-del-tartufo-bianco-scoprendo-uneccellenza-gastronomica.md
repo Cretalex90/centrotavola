@@ -1,6 +1,6 @@
 ---
 title: 'Nelle terre del tartufo bianco: scoprendo un’eccellenza gastronomica'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-06T07:58:12+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Fuga tra i vigneti in Toscana
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-09-15T08:59:49+00:00
 

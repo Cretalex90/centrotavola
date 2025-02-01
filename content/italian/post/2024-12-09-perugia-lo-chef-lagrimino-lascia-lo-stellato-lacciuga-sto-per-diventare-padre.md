@@ -1,6 +1,6 @@
 ---
 title: 'Perugia, lo chef Lagrimino lascia lo stellato L’Acciuga: «Sto per diventare padre»'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-09T08:42:44+00:00
 

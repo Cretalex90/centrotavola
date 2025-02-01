@@ -1,6 +1,6 @@
 ---
 title: 'Enrico Bartolini: “Tre Stelle a Milano come Marchesi? Un onore” – L’intervista'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-02-25T20:50:27+00:00
 

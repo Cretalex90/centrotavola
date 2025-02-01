@@ -1,6 +1,6 @@
 ---
 title: Dietro le quinte di Masterchef con Verando
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-09-07T18:46:06+00:00
 

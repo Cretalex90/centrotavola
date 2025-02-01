@@ -1,6 +1,6 @@
 ---
 title: 'Assoprol: in conclusione il ciclo di incontri di formazione sull’olio evo'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-21T14:54:45+00:00
 

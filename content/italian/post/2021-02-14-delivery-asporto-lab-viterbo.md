@@ -1,6 +1,6 @@
 ---
 title: “A casa come da noi”, a Viterbo il LAB scommette su delivery e asporto
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-02-14T08:47:10+00:00
 

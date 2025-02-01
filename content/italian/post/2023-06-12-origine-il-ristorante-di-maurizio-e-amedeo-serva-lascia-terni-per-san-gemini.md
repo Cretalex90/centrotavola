@@ -1,6 +1,6 @@
 ---
 title: Origine, il ristorante di Maurizio e Amedeo Serva, lascia Terni per San Gemini
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-06-12T19:19:21+00:00
 

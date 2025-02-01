@@ -1,6 +1,6 @@
 ---
 title: Il mio uovo capovolto – L’intervista alla chef Barbara Agosti
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-27T08:25:50+00:00
 

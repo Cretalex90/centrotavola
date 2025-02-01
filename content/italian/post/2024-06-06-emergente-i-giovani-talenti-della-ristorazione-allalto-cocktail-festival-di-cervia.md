@@ -1,6 +1,6 @@
 ---
 title: “Emergente” i giovani talenti della ristorazione all’Alto Cocktail Festival di Cervia
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-06-06T09:14:34+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta- Branzino “scottato”, zucca e verdurine arrostite'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-09-02T09:49:06+00:00
 

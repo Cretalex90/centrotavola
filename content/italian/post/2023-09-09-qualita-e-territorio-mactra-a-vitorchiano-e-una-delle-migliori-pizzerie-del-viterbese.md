@@ -1,6 +1,6 @@
 ---
 title: 'Qualità e territorio: Mactra a Vitorchiano è una delle migliori pizzerie del viterbese'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-09-09T08:00:55+00:00
 

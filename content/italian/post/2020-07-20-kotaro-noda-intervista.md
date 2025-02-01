@@ -1,6 +1,6 @@
 ---
 title: Kotaro Noda. Tokyo Roma a/r, con tappa a Viterbo – L’intervista
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-07-20T10:00:51+00:00
 

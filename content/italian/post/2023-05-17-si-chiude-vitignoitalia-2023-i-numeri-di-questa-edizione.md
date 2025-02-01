@@ -1,6 +1,6 @@
 ---
 title: 'Si chiude VitignoItalia 2023: i numeri di questa edizione'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-05-17T19:01:38+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Napoli: torna Vitigno Italia all’interno del Maschio Angioino'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-05-12T17:54:17+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Slow Food Viterbo&Tuscia: le iniziative di inizio anno nella Città dei Papi'
-author: ciao
+author: Alessandro Creta
 type: featured
 date: 2025-01-02T09:36:25+00:00
 images:

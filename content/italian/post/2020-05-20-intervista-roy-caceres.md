@@ -1,6 +1,6 @@
 ---
 title: “Porto a Roma la cucina sudamericana” – Intervista a Roy Caceres
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-05-20T07:50:24+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Il Ristorante Trippini celebra 60 anni di attività con un 2024 ricco di eventi
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-01-19T20:25:26+00:00
 

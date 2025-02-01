@@ -1,6 +1,6 @@
 ---
 title: La mia filosofia in cucina
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-27T07:56:15+00:00
 draft: true

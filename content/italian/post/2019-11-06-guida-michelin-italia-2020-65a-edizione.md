@@ -1,6 +1,6 @@
 ---
 title: Guida MICHELIN Italia 2020 – 65a edizione
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-06T13:26:04+00:00
 

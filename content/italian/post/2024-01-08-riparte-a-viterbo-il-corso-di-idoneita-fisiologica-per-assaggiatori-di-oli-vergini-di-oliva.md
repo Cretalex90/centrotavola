@@ -1,6 +1,6 @@
 ---
 title: Riparte a Viterbo il Corso di idoneità fisiologica per assaggiatori di oli vergini di oliva
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-01-08T19:03:27+00:00
 

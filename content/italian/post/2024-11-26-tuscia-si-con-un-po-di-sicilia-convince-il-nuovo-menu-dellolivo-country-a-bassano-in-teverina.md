@@ -1,6 +1,6 @@
 ---
 title: 'Tuscia, sì, con un po’ di Sicilia: convince il nuovo menu dell’Olivo Country a Bassano in Teverina'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-26T10:25:17+00:00
 

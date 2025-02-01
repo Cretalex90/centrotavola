@@ -1,6 +1,6 @@
 ---
 title: 'Natale alla cannella: tre ricette di dolci da preparare per le feste'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-24T10:56:40+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Cucchiaio d’Argento: il grande ricettario compie 70 anni'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-10-13T12:41:18+00:00
 

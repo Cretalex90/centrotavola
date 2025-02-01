@@ -1,6 +1,6 @@
 ---
 title: 'Cibo Selvaggio: il passato più ancestrale diventa il futuro più sostenibile'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-05-17T19:12:12+00:00
 

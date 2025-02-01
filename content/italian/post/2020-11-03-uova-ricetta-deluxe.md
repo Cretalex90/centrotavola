@@ -1,6 +1,6 @@
 ---
 title: 'Uova deluxe: colori e consistenze pt. 2'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-11-03T11:50:09+00:00
 

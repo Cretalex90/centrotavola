@@ -1,6 +1,6 @@
 ---
 title: 'Salvo Cravero al Pepe Nero. Nuovo progetto, stessi obiettivi: “Qui con grandi ambizioni”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-02-07T17:52:42+00:00
 

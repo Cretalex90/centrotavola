@@ -1,6 +1,6 @@
 ---
 title: L’italiano Giorgio Lupi del Centràl Cocktail Bar di Torino vince il contest globale di Talisker “Wild Spirit Bartender”
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-07T11:11:59+00:00
 

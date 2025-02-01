@@ -1,6 +1,6 @@
 ---
 title: Soramànego, a Roma una valida alternativa alla ‘solita cucina’ nel quartiere Centocelle
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-07-09T17:32:53+00:00
 

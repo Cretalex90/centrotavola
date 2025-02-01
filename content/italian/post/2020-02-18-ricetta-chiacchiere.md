@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta di Carnevale: non le solite Chiacchiere'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-18T07:12:02+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Coro, a Orvieto il nuovo ristorante in una chiesa sconsacrata del 1500
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-03-25T18:14:39+00:00
 

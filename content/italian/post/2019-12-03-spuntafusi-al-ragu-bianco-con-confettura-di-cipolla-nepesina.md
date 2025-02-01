@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta: Spuntafusi al ragù bianco con confettura di cipolla nepesina'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-03T11:30:00+00:00
 

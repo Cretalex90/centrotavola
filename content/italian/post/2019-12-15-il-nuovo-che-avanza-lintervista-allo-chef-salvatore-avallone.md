@@ -1,6 +1,6 @@
 ---
 title: Il nuovo che avanza – L’intervista allo chef Salvatore Avallone
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-15T10:41:00+00:00
 

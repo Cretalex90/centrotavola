@@ -1,6 +1,6 @@
 ---
 title: A Terni un nuovo concetto di “macelleria” grazie a Pucci
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-06-07T10:19:54+00:00
 

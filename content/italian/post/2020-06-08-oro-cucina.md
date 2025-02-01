@@ -1,6 +1,6 @@
 ---
 title: 'L’oro in cucina: quando il cibo diventa uno status symbol'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-08T10:36:09+00:00
 

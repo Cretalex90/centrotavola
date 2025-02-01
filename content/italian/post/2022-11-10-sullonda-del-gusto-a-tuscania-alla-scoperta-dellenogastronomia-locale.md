@@ -1,6 +1,6 @@
 ---
 title: 'Sull’Onda del Gusto: a Tuscania alla scoperta dell’enogastronomia locale'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-11-10T17:31:51+00:00
 

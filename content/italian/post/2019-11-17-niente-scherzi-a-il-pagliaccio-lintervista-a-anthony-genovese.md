@@ -1,6 +1,6 @@
 ---
 title: Niente scherzi a Il Pagliaccio – L’intervista a Anthony Genovese
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-17T10:52:22+00:00
 

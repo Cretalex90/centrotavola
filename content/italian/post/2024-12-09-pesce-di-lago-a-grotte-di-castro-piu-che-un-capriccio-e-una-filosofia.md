@@ -1,6 +1,6 @@
 ---
 title: Pesce di lago? A Grotte di Castro più che un Capriccio, è una filosofia
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-09T08:57:26+00:00
 

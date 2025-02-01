@@ -1,6 +1,6 @@
 ---
 title: Ricetta Mimosa al piatto alla vaniglia, frutti rossi e pistacchio
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-03-05T12:02:10+00:00
 

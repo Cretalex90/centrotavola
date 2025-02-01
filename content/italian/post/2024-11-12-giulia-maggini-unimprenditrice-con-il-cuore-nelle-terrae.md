@@ -1,6 +1,6 @@
 ---
 title: Giulia Maggini, imprenditrice con il cuore nelle sue ‘terrae’
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-12T16:21:36+00:00
 

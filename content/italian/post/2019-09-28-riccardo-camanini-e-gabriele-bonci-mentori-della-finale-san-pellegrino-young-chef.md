@@ -1,6 +1,6 @@
 ---
 title: Riccardo Camanini e Gabriele Bonci mentori della finale San Pellegrino Young Chef
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-09-28T18:34:16+00:00
 

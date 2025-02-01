@@ -1,6 +1,6 @@
 ---
 title: Ristorante L’Aurora, nel verde di Todi il progetto di due ragazzi di Roma
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-25T15:25:18+00:00
 

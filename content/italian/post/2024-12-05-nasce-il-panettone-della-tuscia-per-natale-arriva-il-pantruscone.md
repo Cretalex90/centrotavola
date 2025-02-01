@@ -1,6 +1,6 @@
 ---
 title: 'Nasce il panettone della Tuscia: per Natale arriva il Pantruscone'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-05T17:18:32+00:00
 

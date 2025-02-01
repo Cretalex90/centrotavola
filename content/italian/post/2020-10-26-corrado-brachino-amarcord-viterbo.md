@@ -1,6 +1,6 @@
 ---
 title: 'Corrado Brachino di Amarcord: “Questa è la mia pizza 2.0”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-10-26T11:42:22+00:00
 

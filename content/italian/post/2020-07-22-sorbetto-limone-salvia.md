@@ -1,6 +1,6 @@
 ---
 title: Sorbetto limone e salvia. La ricetta
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-07-22T05:49:37+00:00
 

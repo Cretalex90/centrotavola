@@ -1,6 +1,6 @@
 ---
 title: Intervista a Solaika Marrocco – La cucina (e la Pasqua) al tempo del Covid
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-04-11T15:00:00+00:00
 

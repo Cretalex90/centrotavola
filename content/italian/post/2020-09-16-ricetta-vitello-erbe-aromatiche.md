@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta: medaglioni di vitello con erbe aromatiche, purea e verdure'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-09-16T09:39:25+00:00
 

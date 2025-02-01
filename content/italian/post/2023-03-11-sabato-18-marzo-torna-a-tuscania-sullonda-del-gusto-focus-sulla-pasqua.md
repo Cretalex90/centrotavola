@@ -1,6 +1,6 @@
 ---
 title: Sabato 18 marzo torna a Tuscania Sull’Onda del Gusto, focus sulla Pasqua
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-03-11T07:49:47+00:00
 

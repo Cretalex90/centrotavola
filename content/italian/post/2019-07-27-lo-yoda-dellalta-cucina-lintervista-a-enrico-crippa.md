@@ -1,6 +1,6 @@
 ---
 title: Lo Yoda dell’alta cucina – L’intervista a Enrico Crippa
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-27T19:43:21+00:00
 

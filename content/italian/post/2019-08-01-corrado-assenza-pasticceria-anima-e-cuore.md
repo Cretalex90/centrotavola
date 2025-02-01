@@ -1,6 +1,6 @@
 ---
 title: 'Corrado Assenza- Pasticceria: anima e cuore'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-08-01T15:07:44+00:00
 

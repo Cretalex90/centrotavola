@@ -1,6 +1,6 @@
 ---
 title: 'Olimpiadi della Vera Pizza Napoletana: al via il 3 luglio'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-06-29T07:16:43+00:00
 

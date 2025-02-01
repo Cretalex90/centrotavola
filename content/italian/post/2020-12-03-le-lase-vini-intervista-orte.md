@@ -1,6 +1,6 @@
 ---
 title: Le Lase, a Orte la storia al femminile di una cantina “in rosa”
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-12-03T13:48:56+00:00
 

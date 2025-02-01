@@ -1,6 +1,6 @@
 ---
 title: Chiara Pavan migliore donna chef per la guida Identità Golose 2020
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-09T19:38:38+00:00
 

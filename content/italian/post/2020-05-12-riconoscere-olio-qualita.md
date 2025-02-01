@@ -1,6 +1,6 @@
 ---
 title: “Riconoscere l’olio di qualità”, con Indra Galbo, vice curatore guida Oli del Gambero Rosso
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-05-12T09:27:13+00:00
 

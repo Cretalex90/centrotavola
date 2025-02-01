@@ -1,6 +1,6 @@
 ---
 title: Avvocato sì ma con la Stella Michelin – L’intervista a Cristina Bowerman
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-27T19:19:04+00:00
 

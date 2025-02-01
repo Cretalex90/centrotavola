@@ -1,6 +1,6 @@
 ---
 title: La nuova Origine della Terni gourmet – Parola di Maurizio Serva
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-21T15:23:54+00:00
 

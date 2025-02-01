@@ -1,6 +1,6 @@
 ---
 title: Olea Dulcis, chiusa a Lugnano la 1.a edizione dell’evento dedicato all’extravergine nella pasticceria
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-02T14:13:58+00:00
 

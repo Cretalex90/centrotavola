@@ -1,6 +1,6 @@
 ---
 title: 'Dolce di San Valentino: bavarese al cioccolato bianco e rosmarino con glassa ai frutti rossi'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-13T13:33:40+00:00
 

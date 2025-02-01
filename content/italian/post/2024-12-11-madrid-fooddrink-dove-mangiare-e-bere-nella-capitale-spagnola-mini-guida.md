@@ -1,6 +1,6 @@
 ---
 title: 'Madrid food&drink: dove mangiare e bere nella Capitale spagnola. Mini guida'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-11T10:44:43+00:00
 

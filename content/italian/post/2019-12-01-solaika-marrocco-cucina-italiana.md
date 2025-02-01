@@ -1,6 +1,6 @@
 ---
 title: 'Solaika Marrocco: è lei il futuro della cucina italiana?'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-01T09:00:43+00:00
 

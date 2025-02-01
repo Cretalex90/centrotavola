@@ -1,6 +1,6 @@
 ---
 title: Intervista a Valentino Cassanelli – La cucina al tempo del Coronavirus
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-04-29T10:51:39+00:00
 

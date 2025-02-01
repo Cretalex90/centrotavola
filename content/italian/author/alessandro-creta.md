@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
+title: "Alessandro Creta"
 image: "images/author.jpg"
-email: "johndoe@logbook.com"
+email: "alessandro@creta.it"
 social:
   - icon: "fab fa-facebook" # themify icon pack : https://themify.me/themify-icons
     link: "https://facebook.com"

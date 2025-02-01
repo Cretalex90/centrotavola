@@ -1,6 +1,6 @@
 ---
 title: Ricetta Uovo di pasqua farcito con fragole e mascarpone
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-04-02T10:36:25+00:00
 

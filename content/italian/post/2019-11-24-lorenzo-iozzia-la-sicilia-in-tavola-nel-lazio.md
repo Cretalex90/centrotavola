@@ -1,6 +1,6 @@
 ---
 title: 'Lorenzo Iozzia: la Sicilia in tavola (nel Lazio)'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-24T08:02:00+00:00
 

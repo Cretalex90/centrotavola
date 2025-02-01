@@ -1,6 +1,6 @@
 ---
 title: “Tv? Il mio posto è in cucina” – Parola di Carlo Cracco
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-18T11:07:00+00:00
 

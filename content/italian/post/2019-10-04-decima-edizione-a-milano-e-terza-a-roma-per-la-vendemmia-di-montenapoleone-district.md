@@ -1,6 +1,6 @@
 ---
 title: Decima edizione a Milano e terza a Roma per La Vendemmia di MonteNapoleone District
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-04T12:48:20+00:00
 

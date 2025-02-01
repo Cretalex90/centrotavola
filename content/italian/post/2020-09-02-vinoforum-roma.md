@@ -1,6 +1,6 @@
 ---
 title: 'Vinòforum: a Roma calici in alto dall’11 al 20 settembre'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-09-02T14:37:54+00:00
 

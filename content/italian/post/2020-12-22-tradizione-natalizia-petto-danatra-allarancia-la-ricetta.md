@@ -1,6 +1,6 @@
 ---
 title: 'Tradizione natalizia: Petto d’anatra all’arancia, la ricetta'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-12-22T17:49:15+00:00
 

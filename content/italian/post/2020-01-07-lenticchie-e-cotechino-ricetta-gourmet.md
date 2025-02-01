@@ -1,6 +1,6 @@
 ---
 title: 'Lenticchie e cotechino: la ricetta gourmet e anti spreco'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-07T11:54:37+00:00
 

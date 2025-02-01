@@ -1,6 +1,6 @@
 ---
 title: Un po’ di Tuscia in “Unica”, la ‘serie’ di panettoni artigianali in collaborazione con Roma Dinner
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-12-12T20:02:32+00:00
 

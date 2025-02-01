@@ -1,6 +1,6 @@
 ---
 title: Cena Oleocentrica a 8 mani con gli chef umbri del circuito “Evoo Ambassador”
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-02-13T09:53:32+00:00
 

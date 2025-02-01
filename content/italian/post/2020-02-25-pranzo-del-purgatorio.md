@@ -1,6 +1,6 @@
 ---
 title: 'Pranzo del Purgatorio: a Gradoli una tradizione di 500 anni fermata dal Coronavirus'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-25T08:01:32+00:00
 

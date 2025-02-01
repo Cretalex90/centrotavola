@@ -1,6 +1,6 @@
 ---
 title: 'Ricetta Insalata di rinforzo: piatto detox per il dopo feste'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2021-01-12T11:41:27+00:00
 

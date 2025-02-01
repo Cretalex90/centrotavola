@@ -1,6 +1,6 @@
 ---
 title: 'Andrea Ribaldone: il globetrotter (stellato) della cucina'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-20T14:19:15+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'S.Pellegrino Young Chef: Alessandro Bergamo, del ristorante Cracco, vince la Finale Regionale'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-10-22T20:00:49+00:00
 

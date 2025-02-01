@@ -1,6 +1,6 @@
 ---
 title: 'I Masanielli: racconto di un pranzo nella pizzeria da primato di Martucci'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-05-23T19:29:19+00:00
 

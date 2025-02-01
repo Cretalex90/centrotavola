@@ -1,6 +1,6 @@
 ---
 title: A Viterbo torna Assaggi, il salone dell’enogastronomia laziale
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-05-18T20:05:50+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Identità Golose 2020. Gran Finale con Il Tortellante e Massimo Bottura
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-04T09:06:28+00:00
 

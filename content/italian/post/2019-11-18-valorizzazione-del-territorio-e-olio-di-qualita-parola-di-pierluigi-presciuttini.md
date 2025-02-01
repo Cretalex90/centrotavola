@@ -1,6 +1,6 @@
 ---
 title: “Valorizzazione del territorio e olio di qualità” parola di Pierluigi Presciuttini
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-11-18T11:00:00+00:00
 

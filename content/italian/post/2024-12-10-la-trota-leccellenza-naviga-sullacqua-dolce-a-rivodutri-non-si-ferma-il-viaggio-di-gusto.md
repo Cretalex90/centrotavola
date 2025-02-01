@@ -1,6 +1,6 @@
 ---
 title: La Trota, l’eccellenza “naviga” sull’acqua dolce. A Rivodutri non si ferma il viaggio di gusto
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-12-10T17:36:37+00:00
 

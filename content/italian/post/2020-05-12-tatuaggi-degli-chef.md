@@ -1,6 +1,6 @@
 ---
 title: I tatuaggi degli chef, quando la giacca nasconde un tattoo
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-05-12T10:07:00+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Cocktail bar rivelazione d’Italia: tra i candidati anche il Lab di Viterbo'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2022-09-22T18:52:47+00:00
 

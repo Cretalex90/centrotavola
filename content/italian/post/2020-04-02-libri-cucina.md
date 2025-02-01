@@ -1,6 +1,6 @@
 ---
 title: 'Libri sulla cucina: le letture consigliate durante la quarantena. Parte 1'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-04-02T12:38:45+00:00
 

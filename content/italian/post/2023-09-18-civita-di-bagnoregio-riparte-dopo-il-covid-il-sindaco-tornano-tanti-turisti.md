@@ -1,6 +1,6 @@
 ---
 title: 'Civita di Bagnoregio riparte dopo il Covid, il sindaco: “Tornano tanti turisti”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2023-09-18T17:15:40+00:00
 

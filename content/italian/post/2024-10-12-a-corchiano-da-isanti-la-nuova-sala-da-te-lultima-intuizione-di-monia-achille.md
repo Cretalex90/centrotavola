@@ -1,6 +1,6 @@
 ---
 title: A Corchiano da Isanti la nuova sala da tè. L’ultima intuizione di Monia Achille
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-10-12T15:52:51+00:00
 

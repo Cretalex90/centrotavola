@@ -1,6 +1,6 @@
 ---
 title: McDonald’s e Nutella danno vita ad una nuova merenda
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-02-05T14:41:45+00:00
 

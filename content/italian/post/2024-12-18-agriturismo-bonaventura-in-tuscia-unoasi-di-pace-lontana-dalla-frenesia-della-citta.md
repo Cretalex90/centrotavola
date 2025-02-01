@@ -1,6 +1,6 @@
 ---
 title: Agriturismo Bonaventura, in Tuscia un’oasi di pace lontana dalla frenesia della città
-author: ciao
+author: Alessandro Creta
 type: featured
 date: 2024-12-18T09:02:36+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: Degli Angeli, a Magliano Sabina un ristorante storico di ottima cucina
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-21T08:43:38+00:00
 

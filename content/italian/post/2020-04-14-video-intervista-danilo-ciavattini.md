@@ -1,6 +1,6 @@
 ---
 title: Video intervista a Danilo Ciavattini ai tempi della quarantena
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-04-14T09:24:07+00:00
 

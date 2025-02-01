@@ -1,6 +1,6 @@
 ---
 title: 'Vini Zanchi: 50 anni all’insegna del bio e della tradizione'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-12T11:00:00+00:00
 

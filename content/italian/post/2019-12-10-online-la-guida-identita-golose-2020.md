@@ -1,6 +1,6 @@
 ---
 title: Online la Guida Identità Golose 2020
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-12-10T08:45:44+00:00
 

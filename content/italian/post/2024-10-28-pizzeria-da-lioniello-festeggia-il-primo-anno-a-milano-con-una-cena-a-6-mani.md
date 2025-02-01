@@ -1,6 +1,6 @@
 ---
 title: Pizzeria Da Lioniello festeggia il primo anno a Milano con una cena a 6 mani
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-10-28T08:33:33+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Paolo Trippini ristorante: è qui l’Umbria da gustare – Intervista'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-11-16T16:48:02+00:00
 

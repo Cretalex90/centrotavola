@@ -1,6 +1,6 @@
 ---
 title: Come è cambiato mangiare in un ristorante stellato dopo il lockdown
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-06-24T10:33:46+00:00
 

@@ -1,6 +1,6 @@
 ---
 title: 'Gelaterie d’Italia: la guida 2020 del Gambero Rosso'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-23T09:37:24+00:00
 excerpt: "Il Gambero Rosso presenta la guida 2020 delle migliori Gelaterie d'Italia. I Premiati "

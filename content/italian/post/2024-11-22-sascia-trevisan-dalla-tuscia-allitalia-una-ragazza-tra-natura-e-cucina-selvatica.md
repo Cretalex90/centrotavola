@@ -1,6 +1,6 @@
 ---
 title: 'Sascia Trevisan, dalla Tuscia all’Italia: una ragazza tra natura e cucina selvatica'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2024-11-22T11:57:29+00:00
 

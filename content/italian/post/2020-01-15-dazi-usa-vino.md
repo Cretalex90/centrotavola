@@ -1,6 +1,6 @@
 ---
 title: 'Dazi USA, Sandro Boscaini: “I prezzi rischiano di raddoppiare. Forte preoccupazione anche tra gli operatori del vino americani”'
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-15T11:53:03+00:00
 

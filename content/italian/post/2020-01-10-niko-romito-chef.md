@@ -1,6 +1,6 @@
 ---
 title: Niko Romito è lo “Chef dell’anno”
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2020-01-10T19:29:48+00:00
 

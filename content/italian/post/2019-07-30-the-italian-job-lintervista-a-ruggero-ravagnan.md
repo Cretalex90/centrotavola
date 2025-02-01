@@ -1,6 +1,6 @@
 ---
 title: The italian job – L’intervista a Ruggero Ravagnan
-author: ciao
+author: Alessandro Creta
 type: regular
 date: 2019-07-30T19:45:39+00:00
 
