@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "author": "gethugothemes",
   "scripts": {
-    "dev": "npx tina dev && hugo server",
+    "dev": "npx tinacms dev -c \"hugo serve\"",
     "build": "npx tinacms build && hugo --gc --minify",
     "test": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
     "dev:example": "cd exampleSite; hugo server --themesDir ../..",
