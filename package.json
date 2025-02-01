@@ -5,7 +5,7 @@
   "author": "gethugothemes",
   "scripts": {
     "dev": "npx tina dev && hugo server",
-    "build": "npx tina build && hugo --gc --minify",
+    "build": "npx tinacms build && hugo --gc --minify",
     "test": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
     "dev:example": "cd exampleSite; hugo server --themesDir ../..",
     "build:example": "cd exampleSite; hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
