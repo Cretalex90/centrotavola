@@ -69,7 +69,7 @@ email = "info@email.com"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -88,6 +88,11 @@ content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id di
 image = "images/promotion.jpg"
 button_label = "Get Started"
 button_link = "https://themefisher.com/"
+
+# top banner promotion
+[top_promotion]
+image = "images/promotion-banner.jpg"
+link = "/promuovi/"
 
 # Crisp Chat
 [crisp_chat]

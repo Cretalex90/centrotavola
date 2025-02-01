@@ -1,0 +1,23 @@
+// Custom styles
+
+.promotion-wrapper {
+  margin-top: 100px;  // Fixed pixel value to ensure clear spacing from sticky header
+  margin-bottom: 2rem;
+}
+
+.top-promotion-banner {
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0.375rem;
+  }
+
+  a {
+    display: block;
+    
+    &:hover {
+      opacity: 0.95;
+    }
+  }
+} 
