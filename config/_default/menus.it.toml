@@ -9,44 +9,38 @@ hasChildren = true
 
 [[main]]
 parent = "Categorie"
-name = "In buone mani"
-url = "categories/in-buone-mani/"
+name = "Eventi"
+url = "categories/eventi/"
 weight = 1
 
 [[main]]
 parent = "Categorie"
-name = "Le ricette dello chef"
-url = "categories/le-ricette-dello-chef/"
+name = "News"
+url = "categories/news/"
 weight = 2
 
 [[main]]
 parent = "Categorie"
 name = "Ristoranti"
 url = "categories/ristoranti/"
-weight = 2
+weight = 3
+
+[[main]]
+parent = "Categorie"
+name = "Le ricette dello chef"
+url = "categories/le-ricette-dello-chef/"
+weight = 4
+
+[[main]]
+parent = "Categorie"
+name = "In buone mani"
+url = "categories/in-buone-mani/"
+weight = 5
 
 [[main]]
 parent = "Categorie"
 name = "Aziende e Prodotti"
 url = "categories/aziende-e-prodotti/"
-weight = 3
-
-[[main]]
-parent = "Categorie"
-name = "Eventi"
-url = "categories/eventi/"
-weight = 4
-
-[[main]]
-parent = "Categorie"
-name = "Parola al professionista"
-url = "categories/parola-al-professionista/"
-weight = 5
-
-[[main]]
-parent = "Categorie"
-name = "News"
-url = "categories/news/"
 weight = 6
 
 # Sezioni con form contatti
