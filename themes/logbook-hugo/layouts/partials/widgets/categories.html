@@ -6,10 +6,9 @@
       <ul class="list-unstyled widget-list">
         {{ range $name, $items := site.Taxonomies.categories }}
           <li>
-            <a href="{{ .Page.RelPermalink }}" class="d-flex"
-              >{{ .Page.Title }}
-              <small class="ms-auto">({{ len $items }})</small></a
-            >
+            <a href="{{ .Page.RelPermalink }}" class="d-flex">
+              {{ .Page.Title }} <!-- <small class="ms-auto">({{ len $items }})</small> -->
+            </a>
           </li>
         {{ end }}
       </ul>
