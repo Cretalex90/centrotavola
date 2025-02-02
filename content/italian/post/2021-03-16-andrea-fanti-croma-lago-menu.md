@@ -7,7 +7,7 @@ date: 2021-03-16T10:50:18+00:00
 timeline_notification:
   - 1615891821
 categories:
-  - interviste bistrot
+  - Ristoranti
 images: ["/images/wp-content/uploads/2021/03/officina-visiva-ale-e-pepe-chef-andrea-fanti-croma-lago-17-web.webp"]
 ---
 ### Dopo la gavetta all’estero, che ha toccato anche Miami quando aveva appena 18 anni, Andrea Fanti è tornato in Italia, nella sua Tuscia, dove prima ha studiato (e insegnato) presso il Campus Etoile Academy Boscolo poi, sulle sponde del Lago di Vico (in provincia di Viterbo), ha aperto il ristorante Croma Lago. {.wp-block-heading}

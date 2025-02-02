@@ -9,7 +9,7 @@ firehose_sent:
 timeline_notification:
   - 1730364261
 categories:
-  - interviste bistrot
+  - Ristoranti
   - News
 tags:
   - maitre

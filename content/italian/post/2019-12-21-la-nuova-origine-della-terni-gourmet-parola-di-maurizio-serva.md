@@ -7,7 +7,7 @@ date: 2019-12-21T15:23:54+00:00
 timeline_notification:
   - 1576941839
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - chef
   - chef stellati

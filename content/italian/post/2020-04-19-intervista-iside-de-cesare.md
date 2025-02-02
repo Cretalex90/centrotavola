@@ -7,7 +7,7 @@ date: 2020-04-19T11:19:45+00:00
 timeline_notification:
   - 1587295189
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef stellati
   - intervista

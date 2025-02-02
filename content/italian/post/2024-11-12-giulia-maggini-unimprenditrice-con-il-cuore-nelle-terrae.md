@@ -9,7 +9,7 @@ firehose_sent:
 timeline_notification:
   - 1731428498
 categories:
-  - interviste bistrot
+  - Ristoranti
   - News
 tags:
   - agricoltura

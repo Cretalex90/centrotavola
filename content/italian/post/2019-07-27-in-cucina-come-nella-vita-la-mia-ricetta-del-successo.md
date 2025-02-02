@@ -8,7 +8,7 @@ images: ["/images/wp-content/uploads/2019/07/adm6311.webp"]
 timeline_notification:
   - 1564219541
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef stellati
   - cucina

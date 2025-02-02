@@ -9,7 +9,7 @@ wordads_ufa:
 timeline_notification:
   - 1685718761
 categories:
-  - interviste bistrot
+  - Ristoranti
   - News
 tags:
   - chef

@@ -8,7 +8,7 @@ images: ["/images/wp-content/uploads/2019/07/eggs-gioco-dellova.webp"]
 timeline_notification:
   - 1564215953
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - barbara agosti
   - cucina italiana

@@ -8,7 +8,7 @@ images: ["/images/wp-content/uploads/2019/07/enrico-003.webp"]
 timeline_notification:
   - 1564256605
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef
   - chef stellati

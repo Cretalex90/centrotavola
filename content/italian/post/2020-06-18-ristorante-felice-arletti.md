@@ -7,7 +7,7 @@ date: 2020-06-18T12:17:47+00:00
 timeline_notification:
   - 1592482670
 categories:
-  - interviste bistrot
+  - Ristoranti
 images: ["/images/wp-content/uploads/2020/06/officina-visiva-foto-ale-pepe-felice-arletti-enogastronomico-6.webp"]
 ---
 ## Accoglienza, territorialità e calore umano: questa la ricetta vincente di Felice Arletti per la ripartenza del suo ristorante Il calice & la stella, a Canepina (in provincia di Viterbo).  {.wp-block-heading}

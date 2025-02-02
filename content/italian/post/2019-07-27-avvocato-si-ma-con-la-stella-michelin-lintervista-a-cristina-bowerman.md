@@ -8,7 +8,7 @@ images: ["/images/wp-content/uploads/2019/07/30a3275.webp"]
 timeline_notification:
   - 1564255150
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef
   - chef stellati

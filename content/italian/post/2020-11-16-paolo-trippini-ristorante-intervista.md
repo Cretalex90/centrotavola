@@ -7,7 +7,7 @@ date: 2020-11-16T16:48:02+00:00
 timeline_notification:
   - 1605545286
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - ambasciatori del gusto
   - ristorante

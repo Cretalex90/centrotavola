@@ -7,7 +7,7 @@ date: 2019-11-18T11:00:00+00:00
 timeline_notification:
   - 1574074843
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - olio
   - slow food

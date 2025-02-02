@@ -7,7 +7,7 @@ date: 2020-06-12T10:00:29+00:00
 timeline_notification:
   - 1591956390
 categories:
-  - interviste bistrot
+  - Ristoranti
   - News
 images: ["/images/wp-content/uploads/2020/06/unnamed.webp"]
 ---

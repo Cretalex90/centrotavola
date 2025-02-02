@@ -8,8 +8,7 @@ excerpt: 'Le parole e la filosofia di Ciro Scamardella, chef di Pipero, (ristora
 timeline_notification:
   - 1579433960
 categories:
-  - Interviste stellate
-  - Senza categoria
+  - Ristoranti
 tags:
   - chef
   - chef stellati

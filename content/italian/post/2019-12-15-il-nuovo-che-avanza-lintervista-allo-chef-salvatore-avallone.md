@@ -8,7 +8,7 @@ images: ["/images/wp-content/uploads/2019/07/20180520113229_img_0872.webp"]
 timeline_notification:
   - 1576414825
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - ambasciatori del gusto
   - baronissi

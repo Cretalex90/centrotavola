@@ -7,7 +7,7 @@ date: 2020-10-26T11:42:22+00:00
 timeline_notification:
   - 1603712545
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - pizza
   - viterbo

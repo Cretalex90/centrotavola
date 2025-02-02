@@ -7,7 +7,7 @@ date: 2021-02-02T10:33:23+00:00
 timeline_notification:
   - 1612262008
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - intervista
 images: ["/images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-28.webp"]

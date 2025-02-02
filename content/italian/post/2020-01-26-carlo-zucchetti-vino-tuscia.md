@@ -8,7 +8,7 @@ excerpt: "L'intervista a Carlo Zucchetti, tra i fondatori di Slow Food e curator
 timeline_notification:
   - 1580040857
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - tuscia
   - vino

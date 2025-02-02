@@ -7,7 +7,7 @@ date: 2019-08-01T07:15:56+00:00
 timeline_notification:
   - 1564643760
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - Andrea tortora
   - chef

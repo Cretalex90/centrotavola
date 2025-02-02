@@ -7,7 +7,7 @@ date: 2019-11-17T10:52:22+00:00
 timeline_notification:
   - 1573987947
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - anthony genovese
   - chef

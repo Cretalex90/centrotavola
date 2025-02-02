@@ -7,7 +7,7 @@ date: 2019-11-24T08:02:00+00:00
 timeline_notification:
   - 1574592923
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef stellati
   - cucina

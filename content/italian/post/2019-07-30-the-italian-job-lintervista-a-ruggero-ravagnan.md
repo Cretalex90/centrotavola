@@ -7,7 +7,7 @@ date: 2019-07-30T19:45:39+00:00
 timeline_notification:
   - 1564515942
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - cucina
   - cucina italiana

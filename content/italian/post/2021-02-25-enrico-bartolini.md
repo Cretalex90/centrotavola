@@ -7,8 +7,7 @@ date: 2021-02-25T20:50:27+00:00
 timeline_notification:
   - 1583669879
 categories:
-  - Interviste stellate
-  - Senza categoria
+  - Ristoranti
 tags:
   - chef
   - chef stellati

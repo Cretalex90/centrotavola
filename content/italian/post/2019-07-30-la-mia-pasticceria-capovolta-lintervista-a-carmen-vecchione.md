@@ -8,7 +8,7 @@ timeline_notification:
   - 1564516949
 categories:
   - Carmen Vecchione
-  - interviste bistrot
+  - Ristoranti
 tags:
   - cucina
   - cucina italiana

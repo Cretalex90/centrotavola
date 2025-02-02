@@ -9,7 +9,7 @@ firehose_sent:
 timeline_notification:
   - 1732276652
 categories:
-  - interviste bistrot
+  - Ristoranti
   - News
 tags:
   - cucina

@@ -7,7 +7,7 @@ date: 2019-08-01T15:07:44+00:00
 timeline_notification:
   - 1564672067
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - chef
   - corrado assenza

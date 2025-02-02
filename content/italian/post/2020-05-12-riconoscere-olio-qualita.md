@@ -7,7 +7,7 @@ date: 2020-05-12T09:27:13+00:00
 timeline_notification:
   - 1589275636
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - olio
 images: ["/images/wp-content/uploads/2020/05/olive-oil-3803168_1280.webp"]

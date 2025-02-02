@@ -7,7 +7,7 @@ date: 2020-06-01T09:41:32+00:00
 timeline_notification:
   - 1591004497
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - ambasciatori del gusto
   - chef

@@ -7,7 +7,7 @@ date: 2020-07-11T09:21:36+00:00
 timeline_notification:
   - 1594459301
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - gambero rosso
   - guida

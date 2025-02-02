@@ -8,7 +8,7 @@ excerpt: "Valentino Cassanelli è lo chef del Lux Lucis presso l'Hotel Principe 
 timeline_notification:
   - 1580643088
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef stellati
   - intervista

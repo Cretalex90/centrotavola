@@ -7,7 +7,7 @@ date: 2020-04-14T09:24:07+00:00
 timeline_notification:
   - 1586856250
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - Danilo ciavattini
   - intervista

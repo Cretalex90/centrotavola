@@ -7,7 +7,7 @@ date: 2019-07-28T11:00:44+00:00
 timeline_notification:
   - 1564311648
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - Antonia klugmann
   - chef

@@ -9,7 +9,7 @@ images:
 timeline_notification:
   - 1564215165
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - cucina
   - cucina italiana

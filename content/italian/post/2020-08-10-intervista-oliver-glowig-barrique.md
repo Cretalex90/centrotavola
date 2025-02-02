@@ -7,7 +7,7 @@ date: 2020-08-10T10:00:00+00:00
 timeline_notification:
   - 1597054340
 categories:
-  - Interviste stellate
+  - Ristoranti
 images: ["/images/wp-content/uploads/2020/08/officina-visiva-ale-pepe-chef-michelin-stellato-oliver-glowig-1.webp"]
 ---
 ### Ci sono delle sfumature che sanno di epicità nel racconto della storia di Oliver Glowig.  {.wp-block-heading}

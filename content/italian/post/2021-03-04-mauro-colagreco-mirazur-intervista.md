@@ -8,7 +8,7 @@ excerpt: Intervista allo chef del migliore ristorante al mondo, secondo la class
 timeline_notification:
   - 1581246025
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - chef
   - chef stellati

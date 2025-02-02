@@ -7,7 +7,7 @@ date: 2019-10-20T14:19:15+00:00
 timeline_notification:
   - 1564755558
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - Andrea ribaldone
   - chef

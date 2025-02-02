@@ -7,7 +7,7 @@ date: 2020-10-19T10:25:59+00:00
 timeline_notification:
   - 1603103164
 categories:
-  - Interviste stellate
+  - Ristoranti
 tags:
   - Danilo ciavattini
   - tuscia

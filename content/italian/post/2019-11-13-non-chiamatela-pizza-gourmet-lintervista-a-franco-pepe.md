@@ -7,7 +7,7 @@ date: 2019-11-13T12:09:42+00:00
 timeline_notification:
   - 1573646985
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - franco pepe
   - intervista

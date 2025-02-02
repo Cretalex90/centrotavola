@@ -7,7 +7,7 @@ date: 2019-12-01T09:00:43+00:00
 timeline_notification:
   - 1575191094
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - chef
   - cucina

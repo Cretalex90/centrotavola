@@ -11,7 +11,7 @@ wordads_ufa:
 timeline_notification:
   - 1707328366
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - bolsena
   - chef

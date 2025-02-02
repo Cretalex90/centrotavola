@@ -7,7 +7,7 @@ date: 2020-04-11T15:00:00+00:00
 timeline_notification:
   - 1586679193
 categories:
-  - interviste bistrot
+  - Ristoranti
 tags:
   - chef
   - intervista
