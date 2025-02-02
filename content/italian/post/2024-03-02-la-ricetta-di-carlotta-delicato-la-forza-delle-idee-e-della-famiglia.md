@@ -13,6 +13,7 @@ images:
   - >-
     /images/wp-content/uploads/2024/03/00-31-food-ofv-carlotta-delicato_social-37.webp
 categories:
+  - Ristoranti
   - News
 tags:
   - carlotta delicato
