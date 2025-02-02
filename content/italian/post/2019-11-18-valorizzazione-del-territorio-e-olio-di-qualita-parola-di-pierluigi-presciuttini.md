@@ -35,7 +35,7 @@ In pieno credo slow food si punta sulla qualità del prodotto finale. La mission
 
 Questo, unito al recupero e al reimpiego di campi altrimenti abbandonati, hanno portato Pierluigi a diventare uno degli ambasciatori food del territorio viterbese.
 
-Lo scorso weekend Pierluigi ci ha aperto le porte del suo frantoio, di seguito le immagini scattate da **[Officina Visiva][1]**:
+Lo scorso weekend Pierluigi ci ha aperto le porte del suo frantoio, di seguito le immagini scattate da **[Officina Visiva](http://www.officinavisiva.it/)**:
 {{< figure src="/images/wp-content/uploads/2019/11/officina-visiva-foto-food-olio-creta-frantoio-presciuttini-9.webp" alt="" >}}
 
 
@@ -52,6 +52,3 @@ Lo scorso weekend Pierluigi ci ha aperto le porte del suo frantoio, di seguito l
 
 
 {{< figure src="/images/wp-content/uploads/2019/11/officina-visiva-foto-food-olio-creta-frantoio-presciuttini-5.webp" alt="" >}}
-
-
- [1]: http://www.officinavisiva.it/

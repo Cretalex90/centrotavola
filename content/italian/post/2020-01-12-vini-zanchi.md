@@ -16,7 +16,7 @@ images: ["/images/wp-content/uploads/2020/01/unnamed.webp"]
 {{< figure src="/images/wp-content/uploads/2020/01/unnamed-1.webp" >}}
 
 
-Sulla sostenibilità e su metodi di coltivazione biologici si basa la filosofia di&nbsp;**Zanchi**, produttore della bassa Umbria che al confine con il Lazio e alle porte di Amelia, in provincia di&nbsp;**Terni**,&nbsp;si è fatto custode degli antichi vitigni del territorio. Qui preserva in un vigneto sperimentale quelli in via di estinzione e valorizza con [vini][1] dalla spiccata identità&nbsp;le varietà autoctone più diffuse.
+Sulla sostenibilità e su metodi di coltivazione biologici si basa la filosofia di&nbsp;**Zanchi**, produttore della bassa Umbria che al confine con il Lazio e alle porte di Amelia, in provincia di&nbsp;**Terni**,&nbsp;si è fatto custode degli antichi vitigni del territorio. Qui preserva in un vigneto sperimentale quelli in via di estinzione e valorizza con [vini](https://aleepepe.com/2020/01/26/carlo-zucchetti-vino-tuscia/) dalla spiccata identità&nbsp;le varietà autoctone più diffuse.
 
 
 {{< figure src="/images/wp-content/uploads/2020/01/unnamed-copia.webp" caption="La cantina" >}}
@@ -47,7 +47,4 @@ Un onore e un privilegio avere avuto l&#8217;anteprima dell&#8217;assaggio.
 
 &nbsp;
 
-Per le foto si ringrazia [Zanchi][2]
-
- [1]: https://aleepepe.com/2020/01/26/carlo-zucchetti-vino-tuscia/
- [2]: http://www.cantinezanchi.it/
+Per le foto si ringrazia [Zanchi](http://www.cantinezanchi.it/)

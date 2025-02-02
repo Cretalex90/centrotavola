@@ -76,7 +76,7 @@ Molto positiva, senza aver voluto fare grossi proclami o inaugurazioni particola
 {{< figure src="/images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-9.webp" caption="Fish and chips" >}}
 
 
-**_Viterbo sta diventando un polo gourmet con stellati come [Danilo Ciavattini][1] e [Lorenzo Iozzia][2], a Terni vede i presupposti per creare una realtà simile?_**
+**_Viterbo sta diventando un polo gourmet con stellati come [Danilo Ciavattini](https://aleepepe.com/2019/10/25/danilo-ciavattini-la-tuscia-e-servita/) e [Lorenzo Iozzia](https://aleepepe.com/2019/11/24/lorenzo-iozzia-la-sicilia-in-tavola-nel-lazio/), a Terni vede i presupposti per creare una realtà simile?_**
 
 I presupposti ci sono dappertutto, se uno pensa che con La Trota a Rivodutri, un paese di 200 persone, si è costruito un ristorante considerato un riferimento europeo per il pesce d’acqua dolce, secondo me qualsiasi posto è adatto. In città poi è più agevole riuscire a ottenere certi risultati rispetto a un paesino. I presupposti da quel punto di vista ci sono, l’importante è non porsi quell’obiettivo: quando arriva una guida gastronomica la cosa migliore sia non pensarci e non sospettare nulla, prima di tutto perché chi sta in sala è più rilassato e, di conseguenza, anche chi sta in cucina.&nbsp;
 
@@ -87,8 +87,4 @@ I nostri figli hanno deciso spontaneamente di fare questo lavoro nonostante un p
 Ristorante Origine  
 Terni, Via Paolo Garofoli 16
 
-Crediti fotografici: [Officina Visiva][3]
-
- [1]: https://aleepepe.com/2019/10/25/danilo-ciavattini-la-tuscia-e-servita/
- [2]: https://aleepepe.com/2019/11/24/lorenzo-iozzia-la-sicilia-in-tavola-nel-lazio/
- [3]: http://www.officinavisiva.it/
+Crediti fotografici: [Officina Visiva](http://www.officinavisiva.it/)

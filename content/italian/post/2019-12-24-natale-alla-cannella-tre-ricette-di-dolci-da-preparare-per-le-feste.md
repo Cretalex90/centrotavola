@@ -182,6 +182,4 @@ _Dopodiché non ci resta che augurarvi buon appetito e buone feste!_
 
 
 
-Il collaborazione con [Dove Vuoi Srl][1]
-
- [1]: http://www.dovevuoisrl.com/
+Il collaborazione con [Dove Vuoi Srl](http://www.dovevuoisrl.com/)

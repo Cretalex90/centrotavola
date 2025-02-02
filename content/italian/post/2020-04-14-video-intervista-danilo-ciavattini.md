@@ -14,10 +14,8 @@ tags:
   - viterbo
 images: ["/images/wp-content/uploads/2020/04/progetto-senza-titolo-4.webp"]
 ---
-Per passare qualche minuto in compagnia, chiacchierata via Skype con **Danilo Ciavattini**, del&nbsp;**[Danilo Ciavattini Ristorante][1]** (Viterbo, 1 Stella Michelin e 2 Forchette del Gambero Rosso) che ci racconta come passa la quarantena uno chef lontano dalla &#8220;sua&#8221; cucina.&nbsp;
+Per passare qualche minuto in compagnia, chiacchierata via Skype con **Danilo Ciavattini**, del&nbsp;**[Danilo Ciavattini Ristorante](https://www.facebook.com/danilociavattiniristorante/)** (Viterbo, 1 Stella Michelin e 2 Forchette del Gambero Rosso) che ci racconta come passa la quarantena uno chef lontano dalla &#8220;sua&#8221; cucina.&nbsp;
 
 A fine video, il suggerimento per una ricetta da poter replicare nelle vostre cucine&#8230; [youtube https://www.youtube.com/watch?v=eYYEbSY-UyE&w=600&h=400] 
 
 Qui potete trovare una sua precedente <a href="https://aleepepe.com/2019/10/25/danilo-ciavattini-la-tuscia-e-servita/" target="_blank" rel="noreferrer noopener">intervista</a> svolta presso il suo ristorante di Viterbo.
-
- [1]: https://www.facebook.com/danilociavattiniristorante/

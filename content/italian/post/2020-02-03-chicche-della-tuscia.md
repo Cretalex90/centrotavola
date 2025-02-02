@@ -23,7 +23,7 @@ Le Chicche della <a href="https://aleepepe.com/2019/10/25/danilo-ciavattini-la-t
 {{< figure src="/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_8.webp" >}}
 
 
-[Olio][1], vino, formaggi, frutta, verdure, salumi, nocciole, lamponi: questi e molti altri i prodotti delle aziende membri di questa associazione. Tra loro ci sono produttori storici e altri ingressi più recenti. 
+[Olio](https://aleepepe.com/2019/11/18/valorizzazione-del-territorio-e-olio-di-qualita-parola-di-pierluigi-presciuttini/), vino, formaggi, frutta, verdure, salumi, nocciole, lamponi: questi e molti altri i prodotti delle aziende membri di questa associazione. Tra loro ci sono produttori storici e altri ingressi più recenti. 
 
 Ho avuto occasione di parlare di questo progetto con il presidente **Massimiliano Biaggioli, dell&#8217;azienda Lamponi dei Monti Cimini**, che ha spiegato l&#8217;importanza di un&#8217;associazione simile.
 
@@ -58,5 +58,3 @@ Nota a margine, nel suo laboratorio e nel confezionamento dei prodotti Massimili
 <a rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)" href="http://Lamponi dei Monti Cimini https://www.lamponideimonticimini.com" target="_blank">I Lamponi dei Monti Cimini</a>
 
 Foto di <a href="http://officinavisiva.it" target="_blank" rel="noreferrer noopener" aria-label="Officina Visiva (apre in una nuova scheda)">Officina Visiva</a>
-
- [1]: https://aleepepe.com/2019/11/18/valorizzazione-del-territorio-e-olio-di-qualita-parola-di-pierluigi-presciuttini/

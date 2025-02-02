@@ -29,6 +29,4 @@ Foto dalla pagina <a rel="noreferrer noopener" aria-label="Facebook ufficiale (a
 
 Leggi anche:  
 &#8211; Ricetta: un <a rel="noreferrer noopener" aria-label="antipasto (apre in una nuova scheda)" href="https://aleepepe.com/2020/02/25/antipasto-maiale-ricetta/" target="_blank">antipasto</a> particolare  
-&#8211;[Heinz Beck][1], l&#8217;intervista
-
- [1]: https://aleepepe.com/2019/12/08/im-beck/
+&#8211;[Heinz Beck](https://aleepepe.com/2019/12/08/im-beck/), l&#8217;intervista
