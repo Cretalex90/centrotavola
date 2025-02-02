@@ -87,7 +87,6 @@ sidebar = [
   "subscription",
   "categories",
   "recent-post",
-  "tags",
   "social"
 ]
 
