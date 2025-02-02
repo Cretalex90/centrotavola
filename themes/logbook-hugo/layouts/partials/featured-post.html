@@ -2,7 +2,7 @@
   <div class="container">
     <div class="swiper featured-post-slider rounded-lg overflow-hidden">
       <div class="swiper-wrapper">
-        {{ range (where site.RegularPages "Type" "featured") }}
+        {{ range first 3 (where site.RegularPages "Type" "featured") }}
           <div class="swiper-slide">
             <div class="featured-post">
               {{ with .Params.images }}
