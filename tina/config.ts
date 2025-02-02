@@ -95,6 +95,45 @@ export default defineConfig({
         ],
       },
       {
+        name: "pages",
+        label: "Pages",
+        path: "content/italian",
+        match: {
+          include: "*",
+          exclude: "post/**"
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string", 
+            name: "description",
+            label: "Description",
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Draft",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
         name: "settings",
         label: "Site Settings",
         path: "config/_default",
