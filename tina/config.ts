@@ -130,6 +130,7 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            searchable: false,
           },
         ],
       },
