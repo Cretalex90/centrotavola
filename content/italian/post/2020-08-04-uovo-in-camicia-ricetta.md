@@ -7,7 +7,7 @@ date: 2020-08-04T10:00:34+00:00
 timeline_notification:
   - 1596535391
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
   - ricette

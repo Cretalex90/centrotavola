@@ -7,7 +7,7 @@ date: 2019-12-24T10:56:40+00:00
 timeline_notification:
   - 1577185003
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - chef
   - dolci

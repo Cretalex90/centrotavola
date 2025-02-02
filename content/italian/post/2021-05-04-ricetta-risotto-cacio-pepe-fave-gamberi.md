@@ -7,7 +7,7 @@ date: 2021-05-04T11:14:31+00:00
 timeline_notification:
   - 1620126874
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
   - risotto

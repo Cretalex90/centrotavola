@@ -7,7 +7,7 @@ date: 2021-03-23T09:54:56+00:00
 timeline_notification:
   - 1616493300
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
 images: ["/images/wp-content/uploads/2021/03/ricetta-flan-di-verdure.webp"]

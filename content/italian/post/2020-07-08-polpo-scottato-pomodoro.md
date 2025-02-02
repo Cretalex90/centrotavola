@@ -7,7 +7,7 @@ date: 2020-07-08T10:00:53+00:00
 timeline_notification:
   - 1594203046
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 images: ["/images/wp-content/uploads/2020/07/ricetta-polpo-pomodoro-ale-pepe-alessandro-creta.webp"]
 ---
 Questo Covid-19 non ci ha fermati!  

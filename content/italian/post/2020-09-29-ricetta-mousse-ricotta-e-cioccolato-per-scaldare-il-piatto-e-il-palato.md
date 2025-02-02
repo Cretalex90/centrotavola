@@ -7,7 +7,7 @@ date: 2020-09-29T09:59:39+00:00
 timeline_notification:
   - 1601373583
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
 images: ["/images/wp-content/uploads/2020/09/ricetta-mousse-ricotta-cioccolato.webp"]

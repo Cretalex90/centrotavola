@@ -7,7 +7,7 @@ date: 2020-09-16T09:39:25+00:00
 timeline_notification:
   - 1600249170
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
 images: ["/images/wp-content/uploads/2020/09/ricetta-vitello-verdure-cover.webp"]

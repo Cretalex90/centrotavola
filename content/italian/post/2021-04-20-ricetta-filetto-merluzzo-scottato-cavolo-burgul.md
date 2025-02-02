@@ -7,7 +7,7 @@ date: 2021-04-20T09:30:09+00:00
 timeline_notification:
   - 1618911012
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
 images: ["/images/wp-content/uploads/2021/04/ricetta-merluzzo-avocado-cavolo.webp"]

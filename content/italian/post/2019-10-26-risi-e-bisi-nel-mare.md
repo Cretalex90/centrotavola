@@ -7,7 +7,7 @@ date: 2019-10-26T18:43:07+00:00
 timeline_notification:
   - 1572115390
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - cucina
   - cucina italiana

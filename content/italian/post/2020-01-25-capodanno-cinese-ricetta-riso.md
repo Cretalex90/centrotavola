@@ -8,7 +8,7 @@ excerpt: 'Festeggiamo a nostro modo il Capodanno cinese proponendo un piatto a b
 timeline_notification:
   - 1579949718
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
   - ricette

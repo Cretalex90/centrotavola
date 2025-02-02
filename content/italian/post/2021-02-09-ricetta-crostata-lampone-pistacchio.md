@@ -7,7 +7,7 @@ date: 2021-02-09T16:14:09+00:00
 timeline_notification:
   - 1612887252
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
 images: ["/images/wp-content/uploads/2021/02/crostata-lamponi-ricetta-cover.webp"]

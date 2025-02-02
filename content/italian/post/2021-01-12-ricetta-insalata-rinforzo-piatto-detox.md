@@ -7,7 +7,7 @@ date: 2021-01-12T11:41:27+00:00
 timeline_notification:
   - 1610451690
 categories:
-  - le ricette dello chef
+  - Ricette degli chef
 tags:
   - ricetta
 images: ["/images/wp-content/uploads/2021/01/insalata-rinforzo-ricetta-cover.webp"]
