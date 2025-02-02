@@ -11,7 +11,7 @@ custom_script = ""
 theme_copyright = false
 logo = "/images/centro tavola logo.png"
 favicon = "/images/logo3.jpg"
-logo_width = "150px"
+logo_width = "300px"
 logo_text = "LogBook"
 copyright = "Copyright by Alessandro Creta"
 
