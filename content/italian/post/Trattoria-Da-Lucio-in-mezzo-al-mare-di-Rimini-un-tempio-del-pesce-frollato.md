@@ -2,7 +2,7 @@
 title: 'Trattoria Da Lucio, in mezzo al mare di Rimini un tempio del pesce frollato'
 date: 2025-01-19T23:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/trattoria_lucio_pesce_frollato_rimini.jpg.webp
 categories:
