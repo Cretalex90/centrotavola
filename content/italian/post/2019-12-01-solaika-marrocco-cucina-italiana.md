@@ -25,7 +25,7 @@ C’è chi a 24 anni sta completando il percorso di studi per ottenere la laurea
 Solaika Marrocco, classe 1995, a Lecce coordina le cucine (e i colleghi) del Primo Restaurant, nome adatto per chi, ci ha confessato, vuole essere una numero uno.  
 Solaika è nata a Gallipoli, in pieno Salento, e a differenza di molti altri cuochi ha deciso di mantenere forte il legame con la sua terra rimanendo a lavorarci, per dimostrare che anche al Sud c’è tempo e spazio per fare qualcosa di bello e importante.
 
-Solaika, il più giovane membro dell’associazione Ambasciatori del Gusto, nel palmarés conta l’oro per il [Premio Birra Moretti Gran Cru 2017][1], conquistato con il piatto _Turcinieddi glassati alla birra, marmellata di cipolla all’arancia, critmi in tempura e infuso di luppolo_, e dal 2018 ha un posto nell’atelier_ Gran dame Veuve Cliquot_. Lo scorso novembre, inoltre, la chef è stata premiata anche dal **Gambero Rosso** con il riconoscimento di “_Cuoco emergente 2020_” (premio “Alessandro Narducci”) e quello dei “_30 migliori under 30 d’Italia”_
+Solaika, il più giovane membro dell’associazione Ambasciatori del Gusto, nel palmarés conta l’oro per il [Premio Birra Moretti Gran Cru 2017](https://www.identitagolose.it/sito/it/44/18010/dall-italia/solaika-marrocco-ha-vinto-il-premio-birra-moretti-grand-cru-2017.html), conquistato con il piatto _Turcinieddi glassati alla birra, marmellata di cipolla all’arancia, critmi in tempura e infuso di luppolo_, e dal 2018 ha un posto nell’atelier_ Gran dame Veuve Cliquot_. Lo scorso novembre, inoltre, la chef è stata premiata anche dal **Gambero Rosso** con il riconoscimento di “_Cuoco emergente 2020_” (premio “Alessandro Narducci”) e quello dei “_30 migliori under 30 d’Italia”_
 
 Ho incontrato Solaika durante l’ultima edizione &#8220;fisica&#8221; di Identità Golose a Milano e lei ha parlato, già da veterana del mestiere, della sua vita, della sua professione e delle sue aspirazioni.
 
@@ -60,5 +60,3 @@ Per me bisogna sempre rimanere sé stessi, ricordarsi da dove si viene e rimaner
 È una domanda che mi fanno spesso ma io preferisco rimanere concentrata sul mio obiettivo attuale che è quello di migliorare costantemente. Tra 10 anni spero di aver percorso la strada che mi sono fissata di intraprendere.
 
 Per le foto si ringrazia Aut Fotografia Salento.
-
- [1]: https://www.identitagolose.it/sito/it/44/18010/dall-italia/solaika-marrocco-ha-vinto-il-premio-birra-moretti-grand-cru-2017.html

@@ -20,7 +20,7 @@ images: ["/images/wp-content/uploads/2019/11/genovese-2.webp"]
 {{< figure src="/images/wp-content/uploads/2019/11/anthony-genovese.webp" caption="Anthony Genovese" >}}
 
 
-_Due stelle Michelin_, miglior ristorante di Roma nel 2017, miglior ristorante secondo la guida “_I Cento di Roma_” nel 2018, Quattro Cappelli per le Guide L’Espresso I Ristoranti d’Italia 2019, Tre Forchette per I Ristoranti d’Italia 2018; riconoscimenti confermati anche nelle guide per il 2020. Nonostante il nome, particolare a dire il vero, nel ristorante&nbsp;**[Il Pagliaccio][1]** di&nbsp;**Anthony Genovese**&nbsp;la cucina è una cosa seria.
+_Due stelle Michelin_, miglior ristorante di Roma nel 2017, miglior ristorante secondo la guida “_I Cento di Roma_” nel 2018, Quattro Cappelli per le Guide L’Espresso I Ristoranti d’Italia 2019, Tre Forchette per I Ristoranti d’Italia 2018; riconoscimenti confermati anche nelle guide per il 2020. Nonostante il nome, particolare a dire il vero, nel ristorante&nbsp;**[Il Pagliaccio](https://www.ristoranteilpagliaccio.com/)** di&nbsp;**Anthony Genovese**&nbsp;la cucina è una cosa seria.
 
 La Capitale è stata l’ultima tappa di un lungo viaggio, quello dello chef, che è partito di fatto dalla Calabria (regione d’origine dei suoi genitori), è proseguito in Francia (dove è nato e dove ha iniziato a formarsi), Asia e infine si è concretizzato in Italia, a Roma, dove con il suo locale ha iniziato a raccogliere clienti, apprezzamenti e riconoscimenti internazionali. Il richiamo del Bel Paese per Anthony è stato forte, talmente forte da convincerlo a lasciare i ristoranti stellati in cui lavorava nel Paese dei Lumi per stabilirsi nella nazione dove affondano le sue radici.
 
@@ -79,5 +79,3 @@ _Sono due competenze che vanno ad integrare la figura di questo mestiere, ma cre
 
 
 Foto: Lotus International
-
- [1]: https://www.ristoranteilpagliaccio.com/

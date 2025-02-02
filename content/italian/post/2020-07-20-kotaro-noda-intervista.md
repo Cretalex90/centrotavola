@@ -74,14 +74,14 @@ Sono onorato e felicissimo di fare parte di questa associazione. Rappresento il 
 {{< figure src="/images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-13.webp" caption="<strong>Bistrot64</strong> &#8211; Petto e paté di anatra" >}}
 
 
-**Ci parli del tuo ristorante romano, il** [**Bistrot64?**][1]  
+**Ci parli del tuo ristorante romano, il** [**Bistrot64?**](https://www.bistrot64.it/)  
 È un tipo di ristorante che rispecchia i miei gusti: deve essere prima di tutto un locale nel quale prima di tutto deve piacere a me voler andare. Di base è italiano ma con un tocco orientale. Essendo giapponese poi la vostra tradizione per me è innovazione, perché è un qualcosa che non conoscevo e che scopro ogni volta.&nbsp;Dopo la riapertura, fortunatamente, c&#8217;è stata una buona risposta di clienti, specialmente ora che stanno tornano alcuni turisti. Rispetto a prima siamo aperti sette giorni su sette per &#8220;recuperare&#8221; il tempo perso.
 
 **Come hai detto al Bistrot c&#8217;è una proposta contaminata**. **La cucina contemporanea secondo te può prescindere dalla mescolanza di più culture gastronomiche?**  
 Bisogna partire dal presupposto che anche quella che oggi consideriamo cucina tradizionale in realtà è frutto di antiche contaminazioni. Pensiamo al pomodoro che viene dall’America, alla pasta asciutta che proviene dal mondo arabo: materie che sono alla base della cucina italiana ora ma che sono state importate. Secondo me la contaminazione è costante, soprattutto perché oggi più che mai c’è mescolanza di culture a livello sociale. Il mondo ormai è globalizzato e questo influenza anche la cucina. E io sono assolutamente a favore di questo aspetto. L’importante però è che si conosca la storia della cucina di un Paese e solo dopo averla appresa attraverso lo studio posso andare a “ritoccarla” o “modificarla” secondo quelle che sono le inclinazioni di ognuno.
 
 **Da giornalista di origini viterbesi non posso non farti questa domanda. Come ricordi la tua esperienza a Viterbo e che cosa hai appreso dal lavoro all**’**Enoteca La Torre?**  
-Io ho una grande nostalgia di Viterbo e del territorio viterbese, lo ricordo con grande affetto. Sono arrivato nel 2004 e all’inizio, conoscendo poco della cucina italiana e ancor di meno della cucina del territorio, lavoravo in modo sbagliato, pur convinto di fare una cucina italiana. [Carlo Zucchetti][2] (al tempo uno dei proprietari dell’Enoteca la Torre, ndr) mi ha insegnato tanto: cosa significa cucinare bene, come usare materia prima viterbese. Con lui sono cresciuto e alla fine ho capito cosa non posso fare e cosa devo fare. Il fatto di aver ereditato la cucina di uno chef viterbese doc inoltre mi ha sicuramente messo sulla strada giusta. Ho davvero cambiato mentalità durante quel periodo, raccogliendo un bagaglio di conoscenze che ancora mi porto dietro. Posso dire con grande orgoglio di essere viterbese.
+Io ho una grande nostalgia di Viterbo e del territorio viterbese, lo ricordo con grande affetto. Sono arrivato nel 2004 e all’inizio, conoscendo poco della cucina italiana e ancor di meno della cucina del territorio, lavoravo in modo sbagliato, pur convinto di fare una cucina italiana. [Carlo Zucchetti](https://aleepepe.com/2020/01/26/carlo-zucchetti-vino-tuscia/) (al tempo uno dei proprietari dell’Enoteca la Torre, ndr) mi ha insegnato tanto: cosa significa cucinare bene, come usare materia prima viterbese. Con lui sono cresciuto e alla fine ho capito cosa non posso fare e cosa devo fare. Il fatto di aver ereditato la cucina di uno chef viterbese doc inoltre mi ha sicuramente messo sulla strada giusta. Ho davvero cambiato mentalità durante quel periodo, raccogliendo un bagaglio di conoscenze che ancora mi porto dietro. Posso dire con grande orgoglio di essere viterbese.
 
 
 {{< figure src="/images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-7.webp" caption="<strong>Bistrot64 </strong>&#8211; Spaghetti di patate" >}}
@@ -95,6 +95,3 @@ L’acquacotta sicuramente è un piatto della tradizione che mi è rimasto impre
 Foto in evidenza: cortesia dell&#8217;ufficio stampa del Bistrot64
 
 Riproduzione riservata ©
-
- [1]: https://www.bistrot64.it/
- [2]: https://aleepepe.com/2020/01/26/carlo-zucchetti-vino-tuscia/

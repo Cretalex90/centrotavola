@@ -14,7 +14,7 @@ images: ["/images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food
 ---
 ### Mangiare a casa a come al ristorante. Bere a casa come al cocktail bar.&nbsp; {.wp-block-heading}
 
-A Viterbo un progetto ambizioso quello del [LAB][1], un bistrot celato dietro la definizione di cocktail bar che sogna in grande e vuole offrire ai clienti un’esperienza gastronomica completa, che combini buon cibo (con preparazioni che si basino sulla stagionalità e ricercatezza degli ingredienti) al bere bene. E farlo in modo diverso, originale, così da poter ricreare a casa un clima per quanto possibile simile all’atmosfera che si respira nel locale.&nbsp;
+A Viterbo un progetto ambizioso quello del [LAB](https://www.instagram.com/lab_viterbo/), un bistrot celato dietro la definizione di cocktail bar che sogna in grande e vuole offrire ai clienti un’esperienza gastronomica completa, che combini buon cibo (con preparazioni che si basino sulla stagionalità e ricercatezza degli ingredienti) al bere bene. E farlo in modo diverso, originale, così da poter ricreare a casa un clima per quanto possibile simile all’atmosfera che si respira nel locale.&nbsp;
 {{< figure src="/images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food-drink-foto-49.webp" caption="Ambiente confortevole, caratteristico e originale negli arredi, che strizza l’occhio ai bistrot delle grandi città" >}}
  
 
@@ -56,9 +56,6 @@ La proposta gastronomica del LAB è ambiziosa, non banale, che in carta poggia s
 
 Due tra i principi dell’alta ristorazione li ritroviamo alla base della filosofia in cucina del LAB, dove il menu ruota e cambia quattro volte l’anno. “_Territorialità e stagionalità sono i nostri punti di forza_, _per sfruttare le primizie che ci offrono le stagioni durante tutto l’arco dei 365 giorni_” spiega il cuoco che armeggia nelle cucine del LAB e che mette a disposizione dei clienti la sua esperienza internazionale.
 
-Se dopo tutto questo leggere vi è venuta fame, o semplicemente maggiore curiosità sulle proposte del LAB, potete contattare il locale tramite la sua pagina Instagram o [Facebook][2].&nbsp;
+Se dopo tutto questo leggere vi è venuta fame, o semplicemente maggiore curiosità sulle proposte del LAB, potete contattare il locale tramite la sua pagina Instagram o [Facebook](https://www.facebook.com/LabViterbo/).&nbsp;
 
 ##### <a href="http://Officina Visiva | Servizi Fotografici per privati e aziendehttps://www.officinavisiva.it" target="_blank" rel="noreferrer noopener">Foto di Officina Visiva </a> {.wp-block-heading}
-
- [1]: https://www.instagram.com/lab_viterbo/
- [2]: https://www.facebook.com/LabViterbo/

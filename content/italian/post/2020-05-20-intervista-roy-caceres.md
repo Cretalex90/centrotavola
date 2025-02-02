@@ -39,7 +39,7 @@ Il resto della sua storia, però, ce la racconta direttamente lui.
 **_Roy, come hai trascorso il recente periodo di quarantena? Hai deciso di staccare un po’ dal mondo cucina o sei rimasto attivo, a casa, a sperimentare e cucinare?_  
 ** Il primo periodo ho cercato di cucinare molto per i miei figli. Era una cosa che non facevo spesso stando sempre al ristorante e ci siamo divertiti per le prime settimane! Una volta è capitato di aver fatto quasi 5 kg di impasto di dolci e pane, ci siamo fatti prendere la mano&#8230; Non ho sperimentato, ne ho approfittato per riposare, per godermi la famiglia, per leggere e pensare a progetti a cui già lavoravo.
 
-**_Anche se sei nel nostro Paese da tantissimo tempo, sei uno dei pochi stranieri che fa parte dell’associazione&nbsp;[Ambasciatori del Gusto][1], che da sempre valorizza e promuove la cucina italiana nel mondo. Che effetto ti fa questa “carica”?_  
+**_Anche se sei nel nostro Paese da tantissimo tempo, sei uno dei pochi stranieri che fa parte dell’associazione&nbsp;[Ambasciatori del Gusto](http://ambasciatoridelgusto.it/), che da sempre valorizza e promuove la cucina italiana nel mondo. Che effetto ti fa questa “carica”?_  
 ** Innanzitutto io mi sento molto italiano e quindi è un onore per me far parte di questa associazione che promuove la cucina italiana del mondo. La mia cucina ha un’impronta italiana di base, anche se può sembrare molto contaminata. Una&nbsp;volta feci l’azzardo di scrivere sul CV che volevo far parte della nuova cucina italiana e di creare una linea di cucina che mi rappresentasse e allo stesso tempo arricchissi il panorama gastronomico italiano. In qualche modo è andata cosi.
 
 
@@ -89,5 +89,3 @@ Vedi:
 <p class="has-text-align-center">
   <strong><a href="https://apple.co/352xcOm" target="_blank" rel="noreferrer noopener">ASCOLTA IL PODCAST</a></strong>
 </p>
-
- [1]: http://ambasciatoridelgusto.it/

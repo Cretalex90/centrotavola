@@ -29,10 +29,8 @@ Libera Terra si occupa di dare valore e dignità alle terre confiscate alla mafi
 
 **_Rosso dell’anno. Carmignano Riserva ’16 di Piaggia_**
 
-#### **_Cantina dell’anno. [Frescobaldi][1]_**  
+#### **_Cantina dell’anno. [Frescobaldi](https://www.frescobaldi.com)_**  
 Una famiglia la cui lunga storia è strettamente legata a quella di Firenze e al vino: Frescobaldi. {.wp-block-heading}
 
 **_Miglior vino dolce dell’anno. Vino Santo ‘03 della Cantina Toblino_**  
 Un vino figlio dell&#8217;attesa, sospeso tra tradizione e sostenibilità: è il Vino Santo &#8217;03 della Cantina Toblino
-
- [1]: https://www.frescobaldi.com

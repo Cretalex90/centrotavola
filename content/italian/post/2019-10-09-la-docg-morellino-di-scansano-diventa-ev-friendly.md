@@ -27,6 +27,4 @@ Ma quello del ‘**Morellino Green**’ non è soltanto un percorso sostenibile,
 
 Per tutti i possessori di veicoli elettrici che hanno voglia di trascorrere un periodo di relax immersi in questo incontaminato territorio, circondati da verdi colline non troppo distanti dal mare cristallino dell’Argentario, non ci sono dunque più limiti.
 
-Per avere maggiori informazioni e ricevere tutti i suggerimenti sui percorsi da intraprendere visitate il sito [www.morellinogreen.it][1]
-
- [1]: http://www.morellinogreen.it
+Per avere maggiori informazioni e ricevere tutti i suggerimenti sui percorsi da intraprendere visitate il sito [www.morellinogreen.it](http://www.morellinogreen.it)

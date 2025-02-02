@@ -75,6 +75,4 @@ C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi 
 
 
 
-Il collaborazione con [DoveVuoi Srl][1]
-
- [1]: http://www.dovevuoisrl.com
+Il collaborazione con [DoveVuoi Srl](http://www.dovevuoisrl.com)

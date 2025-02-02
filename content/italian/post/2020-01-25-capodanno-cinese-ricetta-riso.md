@@ -27,7 +27,7 @@ Festeggiamo a nostro modo questa ricorrenza con una ricetta a base di riso, uno 
 
 
   
-Buon anno del Topo a tutti quanti con questo [risotto][1] cacio e pepe con carciofi croccanti e zeste di limone, presentato per voi in collaborazione con **Ristorante Palazzo Ranucci e [Dove Vuoi Srl][2].**
+Buon anno del Topo a tutti quanti con questo [risotto](https://aleepepe.com/2019/10/26/risi-e-bisi-nel-mare/) cacio e pepe con carciofi croccanti e zeste di limone, presentato per voi in collaborazione con **Ristorante Palazzo Ranucci e [Dove Vuoi Srl](http://DOVE VUOI SRL - Location Matrimoni Viterbo | Wedding ... www.dovevuoisrl.com).**
 
 ###  
 Ecco la ricetta {.wp-block-heading}
@@ -88,8 +88,4 @@ Impiattare il riso e decorarlo con i carciofi fritti e la buccia di limone gratt
 {{< figure src="/images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp?w=768" >}}
 
 
-[Dai uno sguardo anche a questa ricetta!][3]
-
- [1]: https://aleepepe.com/2019/10/26/risi-e-bisi-nel-mare/
- [2]: http://DOVE VUOI SRL - Location Matrimoni Viterbo | Wedding ... www.dovevuoisrl.com
- [3]: https://aleepepe.com/2020/01/04/ricetta-pacchero-con-rana-pescatrice-e-pomodorini-gialli/
+[Dai uno sguardo anche a questa ricetta!](https://aleepepe.com/2020/01/04/ricetta-pacchero-con-rana-pescatrice-e-pomodorini-gialli/)

@@ -26,6 +26,4 @@ La 18a edizione dell&#8217;evento si svolgerà dal 13 al 15 gennaio presso l&#82
 
 Lo chef crea piatti puri e senza alterazioni, in cui le basi e l&#8217;equilibrio dei sapori sono fondamentali. Un ottimo esempio di ciò è una delle sue ricette di punta , la &#8220;Riduzione di cipolla con bottoni di Parmigiano e zafferano tostato&#8221;. Un primo piatto di pasta fresca all&#8217;uovo ripiena di crema di parmigiano servita con una riduzione di cipolla al posto del brodo. Questa ricetta è sempre nel menu, seppur conosca costantemente aggiustamenti e perfezionamenti che non alterano comunque la ricetta originale. Inoltre, la riduzione delle cipolle segna l&#8217;inizio del lavoro dello chef sull&#8217;estrazione, che si è rivelato essenziale nella sua crescita gastronomica.
 
-Cover ph: Ph. Francesco Fioramonti, dal [sito ufficiale][1]
-
- [1]: https://www.nikoromito.com/
+Cover ph: Ph. Francesco Fioramonti, dal [sito ufficiale](https://www.nikoromito.com/)

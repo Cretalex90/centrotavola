@@ -30,7 +30,7 @@ _Ingredienti per 4 persone_
 
 1 costa di sedano&nbsp;
 
-1 [Scalogno][2]&nbsp;
+1 [Scalogno](https://ricette.giallozafferano.it/ricette-con-lo-Scalogno/)&nbsp;
 
 1 cucchiaino di Curcuma in polvere (facoltativo)
 
@@ -106,8 +106,4 @@ Lavare al cicoria e lessarla in acqua bollente per 10 min. Scolarla strizzandola
 
 Servirli insieme al fagottino.
 
-In collaborazione con [Palazzo Ranucci][3]
-
- [1]: https://ricette.giallozafferano.it/ricette-con-Lenticchie-secche/
- [2]: https://ricette.giallozafferano.it/ricette-con-lo-Scalogno/
- [3]: http://www.palazzoranucci.it/
+In collaborazione con [Palazzo Ranucci](http://www.palazzoranucci.it/)

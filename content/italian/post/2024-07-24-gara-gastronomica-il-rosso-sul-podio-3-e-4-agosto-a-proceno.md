@@ -28,8 +28,6 @@ Vittoria Tassoni, presidente della giuria, sarà incaricata di scegliere il piat
 
 La gara si svolgerà **sabato 3 agosto nel Palazzo Sforza di Proceno**, mentre la premiazione avrà luogo domenica 4 agosto alle 18:30. Il vincitore riceverà una targa e un cesto ricco di prodotti tipici dell&#8217;alta Tuscia, oltre all&#8217;opportunità di riproporre il proprio piatto in uno show cooking.
 
-Se vuoi partecipare e far assaporare alla giuria il tuo piatto con &#8220;Il Rosso sul Podio&#8221;, consulta il regolamento completo sul sito del Comune di Proceno [www.comune.proceno.vt.it][1] o invia un&#8217;email a <a>viterboslowfood@gmail.com</a>. Puoi anche contattare Vittoria Tassoni al numero 329.0306936 per ulteriori dettagli.
+Se vuoi partecipare e far assaporare alla giuria il tuo piatto con &#8220;Il Rosso sul Podio&#8221;, consulta il regolamento completo sul sito del Comune di Proceno [www.comune.proceno.vt.it](http://www.comune.proceno.vt.it/) o invia un&#8217;email a <a>viterboslowfood@gmail.com</a>. Puoi anche contattare Vittoria Tassoni al numero 329.0306936 per ulteriori dettagli.
 
 Durante il festival, oltre alla gara gastronomica, ci saranno laboratori del gusto, show cooking, un mercato di produttori locali e bio, e laboratori per bambini. La sera del 3 agosto si terrà #Procenando, una degustazione itinerante accompagnata da musica dal vivo e spettacoli, offrendo un&#8217;ulteriore occasione per visitare questo incantevole borgo al confine con la Toscana e celebrare l&#8217;aglio rosso di Proceno.
-
- [1]: http://www.comune.proceno.vt.it/

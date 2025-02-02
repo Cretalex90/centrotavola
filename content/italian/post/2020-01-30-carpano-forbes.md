@@ -25,8 +25,6 @@ La storia di Carpano inizia nel **1786,** quando **Antonio Benedetto Carpano*
 
 La menzione nella guida si riferisce a tutte le sue celebri referenze:&nbsp;**Antica Formula**, il primo vermouth, ai&nbsp;**Carpano Classico**,&nbsp;**Bianco**&nbsp;e&nbsp;**Dry**, all’iconico&nbsp;**Punt e Mes**, fino all’ultimo nato&nbsp;**Carpano Botanic Bitter**, con le sue 10 erbe aromatiche infuse artigianalmente.&nbsp;
 
-So Wine So Food e [Forbes Italia][1], con i loro team di esperti, hanno selezionato le massime espressioni dell’eccellenza italiana attraverso un’attenta ricerca, scegliendo tra le eccellenze**&nbsp;**che, con le loro storie e i loro prodotti, hanno saputo distinguersi nel panorama del gusto italiano.
+So Wine So Food e [Forbes Italia](http://forbes.it Forbes Italia | Business, classifiche, leader.), con i loro team di esperti, hanno selezionato le massime espressioni dell’eccellenza italiana attraverso un’attenta ricerca, scegliendo tra le eccellenze**&nbsp;**che, con le loro storie e i loro prodotti, hanno saputo distinguersi nel panorama del gusto italiano.
 
 La prima edizione della guida è stata presentata lunedì al MAXXI di**&nbsp;**Roma, è già disponibile come allegato al numero di gennaio di Forbes e**&nbsp;**sarà presto consultabile in digitale sul sito del magazine.
-
- [1]: http://forbes.it Forbes Italia | Business, classifiche, leader.
