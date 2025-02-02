@@ -79,12 +79,25 @@ baidu = ""
 facebook = ""
 mastodon = ""
 
+[widgets]
+sidebar = [
+  "search",
+  "about-me",
+  "promotion",
+  "subscription",
+  "categories",
+  "recent-post",
+  "tags",
+  "social"
+]
+
 [contact_info]
 address = ""
 mobile = ""
 email = "cretalessandro90@gmail.com"
 
 [promotion]
+enable = false
 title = "Create Stunning Website!!"
 content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
 image = "/images/promotion.jpg"
@@ -92,6 +105,7 @@ button_label = "Get Started"
 button_link = "https://themefisher.com/"
 
 [top_promotion]
+enable = false
 image = "/images/promotion-banner.jpg"
 link = "/promuovi/"
 
@@ -99,7 +113,7 @@ link = "/promuovi/"
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
 description = "This is meta description"
 author = "Themefisher"
-image = "images/favicon.png"
+image = "/images/favicon.png"
 
 [[social]]
 title = "facebook"
@@ -116,15 +130,3 @@ enable = false
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
-
-[widgets]
-sidebar = [
-  "search",
-  "about-me",
-  "promotion",
-  "subscription",
-  "categories",
-  "recent-post",
-  "tags",
-  "social"
-]

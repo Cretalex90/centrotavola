@@ -1,11 +1,13 @@
 {{ with site.Params.top_promotion }}
-<section class="section-sm pt-4 pb-0">
-  <div class="container">
-    <div class="top-promotion-banner">
-      <a href="{{ .link | safeURL }}">
-        {{ partial "image.html" (dict "Src" .image "Alt" "promotion-banner" "Class" "w-100 rounded") }}
-      </a>
-    </div>
-  </div>
-</section>
+  {{ if .enable }}
+    <section class="section-sm pt-4 pb-0">
+      <div class="container">
+        <div class="top-promotion-banner">
+          <a href="{{ .link | safeURL }}">
+            {{ partial "image.html" (dict "Src" .image "Alt" "promotion-banner" "Class" "w-100 rounded") }}
+          </a>
+        </div>
+      </div>
+    </section>
+  {{ end }}
 {{ end }} 

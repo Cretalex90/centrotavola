@@ -158,6 +158,11 @@ export default defineConfig({
             label: "Sidebar Promotion",
             fields: [
               {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Sidebar Promotion",
+              },
+              {
                 type: "string",
                 name: "title",
                 label: "Title",
@@ -192,6 +197,11 @@ export default defineConfig({
             name: "top_promotion",
             label: "Top Banner Promotion",
             fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Top Banner",
+              },
               {
                 type: "image",
                 name: "image",
