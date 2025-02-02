@@ -10,6 +10,7 @@ timeline_notification:
   - 1732607870
 categories:
   - News
+  - In buone mani
 tags:
   - andrea astolfi
   - convivial

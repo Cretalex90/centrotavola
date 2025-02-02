@@ -11,6 +11,7 @@ timeline_notification:
 categories:
   - Ristoranti
   - News
+  - In buone mani
 tags:
   - maitre
   - origine
