@@ -104,6 +104,55 @@ export default defineConfig({
         format: "toml",
         fields: [
           {
+            type: "image",
+            name: "logo",
+            label: "Site Logo",
+          },
+          {
+            type: "image",
+            name: "favicon",
+            label: "Favicon",
+          },
+          {
+            type: "string",
+            name: "logo_width",
+            label: "Logo Width",
+            description: "Use 'px' or 'x', example: '100px'",
+          },
+          {
+            type: "string",
+            name: "logo_text",
+            label: "Logo Text Fallback",
+            description: "Shows when logo image is missing",
+          },
+          {
+            type: "string",
+            name: "copyright",
+            label: "Copyright Text",
+          },
+          {
+            type: "object",
+            name: "contact_info",
+            label: "Contact Information",
+            fields: [
+              {
+                type: "string",
+                name: "address",
+                label: "Address",
+              },
+              {
+                type: "string",
+                name: "mobile",
+                label: "Phone Number",
+              },
+              {
+                type: "string",
+                name: "email",
+                label: "Email",
+              },
+            ],
+          },
+          {
             type: "object",
             name: "promotion",
             label: "Sidebar Promotion",
@@ -152,6 +201,94 @@ export default defineConfig({
                 type: "string",
                 name: "link",
                 label: "Banner Link",
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "metadata",
+            label: "SEO Metadata",
+            fields: [
+              {
+                type: "string",
+                name: "keywords",
+                label: "Keywords",
+                list: true,
+                ui: {
+                  component: "tags",
+                },
+              },
+              {
+                type: "string",
+                name: "description",
+                label: "Default Meta Description",
+                ui: {
+                  component: "textarea",
+                },
+              },
+              {
+                type: "string",
+                name: "author",
+                label: "Default Meta Author",
+              },
+              {
+                type: "image",
+                name: "image",
+                label: "Default Social Share Image",
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "social",
+            label: "Social Media Links",
+            list: true,
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Platform Name",
+              },
+              {
+                type: "string",
+                name: "icon",
+                label: "FontAwesome Icon Class",
+                description: "Example: fab fa-facebook",
+              },
+              {
+                type: "string",
+                name: "link",
+                label: "Profile URL",
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "cookies",
+            label: "Cookie Consent",
+            fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Cookie Notice",
+              },
+              {
+                type: "number",
+                name: "expire_days",
+                label: "Expire After Days",
+              },
+              {
+                type: "string",
+                name: "content",
+                label: "Notice Text",
+                ui: {
+                  component: "textarea",
+                },
+              },
+              {
+                type: "string",
+                name: "button",
+                label: "Accept Button Text",
               },
             ],
           },
