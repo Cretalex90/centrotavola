@@ -10,6 +10,7 @@ timeline_notification:
   - 1734358563
 categories:
   - News
+  - Aziende e Prodotti
 images: ["/images/wp-content/uploads/2024/12/massimo-ambrosio_flos-solei_azienda-dellanno.webp"]
 ---
  

@@ -27,8 +27,8 @@ weight = 3
 
 [[main]]
 parent = "Categorie"
-name = "Le ricette dello chef"
-url = "categories/le-ricette-dello-chef/"
+name = "Ricette degli chef"
+url = "categories/ricette-degli-chef/"
 weight = 4
 
 [[main]]
