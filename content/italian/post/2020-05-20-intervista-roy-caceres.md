@@ -21,7 +21,7 @@ Metamorfosi: &#8220;_**Trasformazione** di un essere o di un oggetto in un altro
 Sì, perché **Roy Caceres** si è dovuto trasformare durante la sua vita, sin dall&#8217;età di 16 anni quando dalla lontana Colombia si ritrovò in Italia, passando da una capitale, Bogotà, all&#8217;altra, Roma. 
 
 
-{{< figure src="/images/wp-content/uploads/2020/05/image1.webp" caption="Roy Salomon Caceres" >}}
+![](/images/wp-content/uploads/2020/05/image1.webp)
 
 
 Inizialmente nei piani di un giovane Roy c&#8217;era la carriera da giocatore di basket, ma anche qui troviamo una trasformazione nella consapevolezza del futuro chef, conscio che difficilmente avrebbe trovato lavoro nel mondo della palla a spicchi. 
@@ -43,7 +43,7 @@ Il resto della sua storia, però, ce la racconta direttamente lui.
 ** Innanzitutto io mi sento molto italiano e quindi è un onore per me far parte di questa associazione che promuove la cucina italiana del mondo. La mia cucina ha un’impronta italiana di base, anche se può sembrare molto contaminata. Una&nbsp;volta feci l’azzardo di scrivere sul CV che volevo far parte della nuova cucina italiana e di creare una linea di cucina che mi rappresentasse e allo stesso tempo arricchissi il panorama gastronomico italiano. In qualche modo è andata cosi.
 
 
-{{< figure src="/images/wp-content/uploads/2020/05/image0.webp" >}}
+![](/images/wp-content/uploads/2020/05/image0.webp)
 
 
 **_Tu nel mondo della cucina sei partito da lavapiatti, come hai fatto a farti notare per le tue doti culinarie?_  
@@ -53,7 +53,7 @@ Il resto della sua storia, però, ce la racconta direttamente lui.
 ** Un bisogno vero e proprio non c’è stato, sicuramente perché la cucina italiana è talmente buona che non puoi non apprezzarla. Un piatto che non capivo però era il risotto: in Colombia mangiamo il riso asciutto, accompagnato da carne o verdure e vedere, in Italia, questo riso cosi cremoso mi stupì molto. Per farla breve oggi adoro il&nbsp;risotto&nbsp;tant’è che a Metamorfosi è diventato uno dei piatti che non può mancare. Abbiamo l&#8217;“_opercolato_” con funghi e nocciole e crema di formaggio di capra; e il “_riso rosso cremoso_” mantecato con Blu del Monviso, un battuto di fassona cruda sopra, erbe e pistacchi.
 
 
-{{< figure src="/images/wp-content/uploads/2020/05/image2.webp" >}}
+![](/images/wp-content/uploads/2020/05/image2.webp)
 
 
 **_C’è un aspetto della cultura gastronomica italiana che porteresti in Colombia e viceversa?_  
@@ -69,7 +69,7 @@ Sicuramente uno street food colombiano che si chiama&nbsp;_arepa_&nbsp;e che sec
 ** Stranamente c’è un profumo che mi riporta ai primi tempi in cui sono arrivato in Italia ed è quello della noce moscata. Era un profumo nuovo per me e il solo pensiero mi riporta alla besciamella e quindi alle lasagne.
 
 
-{{< figure src="/images/wp-content/uploads/2020/05/image3.webp" >}}
+![](/images/wp-content/uploads/2020/05/image3.webp)
 
 
 **_La figura dello chef, negli ultimi anni, ha goduto di grande impatto dal punto di vista mediatico e comunicativo. In questo momento quanto credi sarà importante la comunicazione, anche da parte vostra, per poter ripartire?_  

@@ -18,7 +18,7 @@ images: ["/images/wp-content/uploads/2020/01/forbes_targa-carpano-100-eccellenze
 Un importante riconoscimento che premia una tradizione plurisecolare, che dura da oltre 230 anni.
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/antica-formula.webp" >}}
+![](/images/wp-content/uploads/2020/01/antica-formula.webp)
 
 
 La storia di Carpano inizia nel **1786,** quando **Antonio Benedetto Carpano** sviluppa la ricetta del moderno vermouth nella sua piccola enoteca di Torino. Grazie alla sua conoscenza derivata dagli studi da erborista aggiunge all’antica bevanda di <a href="https://aleepepe.com/2020/01/12/vini-zanchi/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">vino</a>, assenzio e un mix unico di erbe e spezie.  Grazie a lui nasce così anche il momento dell’**aperitivo** e il vermouth ne diviene la massima espressione.

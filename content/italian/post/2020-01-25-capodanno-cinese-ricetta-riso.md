@@ -17,13 +17,13 @@ images: ["/images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp"
 ## Il Capodanno Cinese è arrivato!  {.wp-block-heading}
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/anno-del-topo.webp" >}}
+![](/images/wp-content/uploads/2020/01/anno-del-topo.webp)
 
 
 Festeggiamo a nostro modo questa ricorrenza con una ricetta a base di riso, uno degli ingredienti più tipici e iconici di questo Paese (tra i maggiori produttori e consumatori mondiali, che lo coltiva da circa 7000 anni), declinato in una piatto che esprime però italianità e stagionalità.
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/artichoke-2237845_640.webp" >}}
+![](/images/wp-content/uploads/2020/01/artichoke-2237845_640.webp)
 
 
   
@@ -63,7 +63,7 @@ Farina
 Grattuggiare la buccia di un limone stando attenti a non prendere anche la parte bianca che altrimenti sarebbe amara.
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/lemon-4642988_640.webp" >}}
+![](/images/wp-content/uploads/2020/01/lemon-4642988_640.webp)
 
 
 **PREPARAZIONE**  
@@ -85,7 +85,7 @@ Una volta pronto togliere dal fuoco e inserire un goccio di vino bianco e mantec
 Impiattare il riso e decorarlo con i carciofi fritti e la buccia di limone grattugiata. {.wp-block-heading}
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp?w=768" >}}
+![](/images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp?w=768)
 
 
 [Dai uno sguardo anche a questa ricetta!](https://aleepepe.com/2020/01/04/ricetta-pacchero-con-rana-pescatrice-e-pomodorini-gialli/)

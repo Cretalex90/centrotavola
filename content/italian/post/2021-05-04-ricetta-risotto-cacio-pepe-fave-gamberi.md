@@ -20,7 +20,7 @@ Diciamo la verità, il riso ci risolve spesso un sacco di cene: è facile da pre
 Lo chef ce lo presenta in una veste inedita: **cacio e pepe, con fave e gamberi**.
 
 
-{{< figure src="/images/wp-content/uploads/2021/05/ricetta-risotto-cacio-pepe-gamberi.webp" >}}
+![](/images/wp-content/uploads/2021/05/ricetta-risotto-cacio-pepe-gamberi.webp)
 
 
   

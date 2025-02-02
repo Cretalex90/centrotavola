@@ -16,7 +16,7 @@ images: ["/images/wp-content/uploads/2020/07/uovo-in-camicia-1.webp"]
 È nato prima l’uovo o la gallina? Mentre gli &#8220;esperti&#8221; continuano a cercare una risposta a questo grande dilemma lo chef **Danilo Colaiaquo** ci delizia con un piatto che ha proprio l’uovo come ingrediente principale!
 
 
-{{< figure src="/images/wp-content/uploads/2020/07/uovo-ingredienti-1.webp" >}}
+![](/images/wp-content/uploads/2020/07/uovo-ingredienti-1.webp)
 
 
 **Ingredienti:**  
@@ -40,7 +40,7 @@ Contemporaneamente in una pentola con acqua bollente versate l&#8217;aceto e cre
 Servire con un filo di olio extravergine di oliva, delle chips di patate o pane croccante.
 
 
-{{< figure src="/images/wp-content/uploads/2020/07/uovo-in-camicia-ricetta-1.webp" >}}
+![](/images/wp-content/uploads/2020/07/uovo-in-camicia-ricetta-1.webp)
 
 
 

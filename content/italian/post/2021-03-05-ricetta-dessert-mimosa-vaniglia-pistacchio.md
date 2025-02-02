@@ -16,7 +16,7 @@ images: ["/images/wp-content/uploads/2021/03/mimosa-piatto-cover.webp"]
 ### E se il dessert per il giorno delle donne fosse al piatto? Lo chef Colaiaquo vi propone una seconda versione (<a rel="noreferrer noopener" href="https://aleepepe.com/2021/02/23/ricetta-torta-mimosa-cioccolato-bianco/" target="_blank">qui per la prima</a>) della torta mimosa, pensata per essere impiattata singolarmente per ogni ospite. {.wp-block-heading}
 
 
-{{< figure src="/images/wp-content/uploads/2021/03/mimosa-ricetta.webp" >}}
+![](/images/wp-content/uploads/2021/03/mimosa-ricetta.webp)
 
 
 Ingredienti per 8/10 porzioni
@@ -82,7 +82,7 @@ Mettere in un pentolino l’acqua e lo zucchero, passare sul fuoco e fare sciogl
 attenzione a non farlo bollire troppo. Far raffreddare e aggiungere il limoncello, mescolare il tutto e tenere in frigo.
 
 
-{{< figure src="/images/wp-content/uploads/2021/03/mimosa-interno.webp" >}}
+![](/images/wp-content/uploads/2021/03/mimosa-interno.webp)
 
 
 **Assemblaggio**  

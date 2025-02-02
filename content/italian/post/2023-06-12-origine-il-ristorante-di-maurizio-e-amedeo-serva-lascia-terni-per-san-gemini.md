@@ -13,7 +13,7 @@ categories:
 images: ["/images/wp-content/uploads/2023/06/origine-sangemini.webp"]
 ---
 **_Li avevo conosciuti pochi giorni dopo la loro apertura, nelle battute finali del 2019, nel centro storico di Terni. Ora i ragazzi di Origine, il ristorante di Maurizio e Amedeo Serva con in cucina lo chef Luigi Ficca, lascia la città per trasferirsi nella vicina San Gemini._** **_&#8220;Sfida stimolante che arriva al momento giusto&#8221;, le parole di Amedeo Serva._** 
-{{< figure src="/images/wp-content/uploads/2023/06/352269546_1256815978539968_9002200089047203676_n-edited.webp" >}}
+![](/images/wp-content/uploads/2023/06/352269546_1256815978539968_9002200089047203676_n-edited.webp)
  
 
 Si è chiusa l&#8217;avventura prettamente ternana di **Origine**. Uno dei **migliori ristoranti** del panorama cittadino, ottimo e azzeccato _**entry level**_ (o anche qualcosa di più) per approcciarsi a una cucina attenta, ricercata e curata, lascia il centro storico per trasferirsi nella poco lontana **San Gemini**. Lo scorso 10 giugno l&#8217;ultimo servizio nell&#8217;ormai ex location tra le vie di Terni: ora per Origine si apre un **nuovo capitolo** della sua pur giovane storia. Si apre soprattutto una nuova porta, quella del **Gran Hotel San Gemini**, situato in piazza del Duomo 4, a breve nuova casa del ristorante.

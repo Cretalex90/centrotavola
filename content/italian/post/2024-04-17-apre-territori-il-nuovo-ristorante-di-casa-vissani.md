@@ -25,7 +25,7 @@ _Il 18 aprile apre “**TerritOri**”, il nuovo ristorante pop che, in una Sala
 Forte di un presente prestigioso come quello disegnato fino ad oggi dalla creatività di **Gianfranco Vissani**, ma memore anche di un lungo periodo in cui il **_Ristorante Gourmet_** affiancò il tradizionale Ristorante _Il Padrino_, oggi **_Casa Vissani_** ripropone il valore della propria storia pregressa per scrivere un nuovo capitolo al passo con i tempi e proiettato verso un futuro inclusivo e sostenibile.
 
 È di **Luca Vissani**, figlio d’arte, il progetto di abbinare nuovamente i due concetti di cucina all’interno di un&#8217;unica struttura, da sempre famosa per raffinatezza e cultura del servizio, allo scopo di offrire un articolato ventaglio di opportunità ad una più vasta fascia di ospiti.
-{{< figure src="/images/wp-content/uploads/2024/04/286163679_3176991689295666_5747323045381893756_n.webp" >}}
+![](/images/wp-content/uploads/2024/04/286163679_3176991689295666_5747323045381893756_n.webp)
  
 
 Si chiamerà **TerritOri** la nuova realtà che da ora saprà raccogliere le preziosità dei prodotti territoriali per raccontarli in una cucina più immediata e familiare, ma sempre improntata alla classe e al buongusto di questa Casa ospitale: nella intrigante _Sala Rock_, un servizio dinamico e cortese e una carta dei vini più contenuta, con una esclusiva selezione di birre umbre, accompagneranno ogni ospite in un’esperienza gustativa ricca delle suggestioni di ieri e di oggi, ma economicamente più accessibile.

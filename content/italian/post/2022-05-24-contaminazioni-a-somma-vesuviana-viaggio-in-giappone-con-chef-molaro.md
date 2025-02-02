@@ -31,17 +31,17 @@ Servizio di sala cordiale e preparato. 
 📸 In foto (oggi si parte dal dolce):
 
 •Crumble alla nocciola, namelaka al tè matcha, malto alle alici, gelato al tè matcha
-{{\< figure src="/images/wp-content/uploads/2022/05/272883807\_678260726941545\_1834819932706870390\_n.webp" >}}
+![](/images/wp-content/uploads/2022/05/272883807\_678260726941545\_1834819932706870390\_n.webp)
 
 •Zuppa giapponese con daikon, calamari, uovo marinato in salsa di soia
-{{\< figure src="/images/wp-content/uploads/2022/05/273112624\_678260943608190\_482646331511851056\_n.webp" >}}
+![](/images/wp-content/uploads/2022/05/273112624\_678260943608190\_482646331511851056\_n.webp)
 
 •Friarielli scottati con aceto di mele, acqua, polvere e crema di friarielli, quinoa
-{{\< figure src="/images/wp-content/uploads/2022/05/273148244\_678260910274860\_7947950724744113447\_n.webp" >}}
+![](/images/wp-content/uploads/2022/05/273148244\_678260910274860\_7947950724744113447\_n.webp)
 
 •Ricciola maturata in alga kombu, Sakuranbo-boshi e San Marzano
-{{\< figure src="/images/wp-content/uploads/2022/05/273155150\_678260923608192\_7425590022097520982\_n-1.webp" >}}
+![](/images/wp-content/uploads/2022/05/273155150\_678260923608192\_7425590022097520982\_n-1.webp)
 
 •Ziti cotti in brodo di pesce, zest e crema di limone, kamobushi di petto d’anatra
 
-{{\< figure src="/images/wp-content/uploads/2022/05/273040461\_678260933608191\_7811398013487950823\_n-2.webp" >}}
+![](/images/wp-content/uploads/2022/05/273040461\_678260933608191\_7811398013487950823\_n-2.webp)

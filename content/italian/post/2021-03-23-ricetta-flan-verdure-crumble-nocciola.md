@@ -17,7 +17,7 @@ images: ["/images/wp-content/uploads/2021/03/ricetta-flan-di-verdure.webp"]
 Da noi infatti con questo nome si intende uno sformato o un timballo&nbsp;generico, dolce o salato. Il Francia, invece, il flan indica con più precisione una crostata; anche in questo caso dolce o salata.
 
 
-{{< figure src="/images/wp-content/uploads/2021/03/flan-verdure.webp" >}}
+![](/images/wp-content/uploads/2021/03/flan-verdure.webp)
 
 
 
@@ -73,7 +73,7 @@ Olio extravergine di oliva q.b.
 Lavare, pulire e lessare separatamente tutte le verdure. In una ciotola unire le uova, il formaggio grattugiato e la panna. Mescolare bene tutti gli ingredienti con le fruste, regolare di sale e dividere il composto in tre ciotole differenti. Nel primo recipiente unire le carote classiche, nel secondo le carote viola e nel terzo le cime di rapa; frullare ogni impasto con il frullatore ad immersione – sciacquandolo ogni volta in modo da non mischiare i rispettivi colori – fino ad ottenere una consistenza liscia e omogenea, versare i vari composti in tre sac-à-poche diversi e riempire i vari pirottini imburrati, o i vari stampi di silicone. Cuocere a bagnomaria a 120° per 40-45 minuti.
 
 
-{{< figure src="/images/wp-content/uploads/2021/03/ricetta-flan-di-verdure.webp?w=1024" >}}
+![](/images/wp-content/uploads/2021/03/ricetta-flan-di-verdure.webp?w=1024)
 
 
 **Per il crumble**

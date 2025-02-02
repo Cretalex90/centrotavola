@@ -21,7 +21,7 @@ Un gioco di alchimie, il risultato di formule, prove, errori e continui migliora
 La pasticceria è questa, prendere o lasciare, e dietro ad ogni nostro morso ad una fetta di torta, un bignè o un pasticcino ci sono ore e ore di tentativi, azzardi e calcoli matematici da parte di chi vuole riuscire ad azzeccare dosi, combinare gusti, per realizzare il dolce perfetto. Lo sa bene&nbsp;**Andrea Tortora**, pasticcere classe 1986, che nonostante la giovane età è uno dei maestri di questa branca così difficile, ma così gustosa e irrinunciabile, della cucina. Ora le sue mani realizzano i dolci per i fortunati ospiti dell’hotel Rosa Alpina, in Alta Badia, e del&nbsp;**Restaurant St. Hubertus**, regno dello chef tristellato Norbert Niederkofler.
 
 
-{{< figure src="/images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-02-768x512.webp" caption="Pastry chef Andrea Tortora" >}}
+![](/images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-02-768x512.webp)
 
 
 “I miei maestri mi hanno indicato la direzione” afferma Andrea, “dicendomi dove guardare, ma non cosa vedere. Li ho ascoltati con rispetto e con la libertà di procedere in modo personale e creativo”. Il resto del percorso poi Andrea Tortora se l’è costruito da solo, a suon di ricette, tentativi, fallimenti e successi.
@@ -35,7 +35,7 @@ Parola a chi, a 30 anni, è stato eletto “Miglior Chef Pasticcere” dalla Gui
 La pasticceria è un elemento dell´orchestra, e a lei sono affidati due momenti molto particolari dell’esperienza in ristorante: l’accoglienza, attraverso il pane, ed il commiato, attraverso la piccola pasticceria. Fondamentale è il suo essere in piena armonia con la strada indicata dallo Chef di cucina.
 
 
-{{< figure src="/images/wp-content/uploads/2019/08/at_cioclamponic2a9danieltc3b6chterle_1.webp" caption="CiocLamponi ©DanielTöchterle" >}}
+![](/images/wp-content/uploads/2019/08/at_cioclamponic2a9danieltc3b6chterle_1.webp)
 
 
 **La pasticceria è forse l’arte più difficile della cucina, quanto studio e precisione ci vogliono per preparare un dolce di livello?&nbsp;**

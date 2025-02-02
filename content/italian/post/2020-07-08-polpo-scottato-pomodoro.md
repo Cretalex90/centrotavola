@@ -59,7 +59,7 @@ Sale, pepe ed olio extravergine
 Mettere tutti gli ingredienti del dressing in un frullatore a immersione ed emulsionare fino ad ottenere una salsa omogenea e compatta. Sistemare con sale e pepe e tenere il frigo.
 
 
-{{< figure src="/images/wp-content/uploads/2020/07/ricetta-polpo-pane-aleepepe-alessandro-creta.webp" >}}
+![](/images/wp-content/uploads/2020/07/ricetta-polpo-pane-aleepepe-alessandro-creta.webp)
 
 
   

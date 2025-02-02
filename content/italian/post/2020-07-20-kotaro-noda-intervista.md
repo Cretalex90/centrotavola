@@ -18,7 +18,7 @@ images: ["/images/wp-content/uploads/2020/07/kotaro-noda-chef.webp"]
 La sua vita ha viaggiato in parallelo, inevitabilmente, con la sua professione; una professione che dal Giappone lo ha condotto in Europa, dove la curiosità per la cucina italiana lo ha portato a lavorare al fianco dei grandi nomi della gastronomia del Bel paese.&nbsp;
 
 
-{{< figure src="/images/wp-content/uploads/2020/07/kotaro-noda.webp" caption="Kotaro Noda. Foto: ufficio stampa Bistrot64" >}}
+![](/images/wp-content/uploads/2020/07/kotaro-noda.webp)
 
 
 ### **La stella di Viterbo** {.wp-block-heading}
@@ -44,7 +44,7 @@ Bistrot64 è un locale dove l&#8217;inevitabile contaminazione giapponese si ris
 La sua storia e la sua filosofia, assieme all’amore per la cucina italiana, però ce la facciamo raccontare direttamente da lui.
 
 
-{{< figure src="/images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-1.webp" >}}
+![](/images/wp-content/uploads/2020/07/officina-visiva-ale-pepe-foto-enogastronomia-bistrot64roma-1.webp)
 
 
 ### **Kotaro Noda, l&#8217;intervista** {.wp-block-heading}

@@ -19,11 +19,11 @@ categories:
 
 Mancano pochi giorni al Natale e il pranzo più importante delle festività sarà il protagonista dei **prossimi due show cooking del 21 e 22 dicembre** presso la ex chiesa San Giacomo e Martino in via Saffi, a Viterbo, nell’ambito degli eventi realizzati da Slow Food Viterbo e Tuscia per “*Il Natale più sorprendente è arrivato in città*”, della Camera di Commercio Rieti e Viterbo.\
 Saranno tre i cuochi dell’alleanza Slow Food a condividere i loro piatti e alcune ricette per questi momenti da passare in famiglia, in compagnia di tante “buone” e “pulite” eccellenze del nostro territorio.
-{{\< figure src="/images/wp-content/uploads/2024/12/unknown.webp" >}}
+![](/images/wp-content/uploads/2024/12/unknown.webp)
 
 **Sabato 21 Dicembre**: “Pesce di Lago e di mare: un trionfo a Natale” (dalle 17.00 alle 19.00)\
 Show Cooking a quattro mani, in cui il lago e il mare si incontreranno, grazie a Gioia Ruggeri e a Vittoria Tassoni, entrambe cuoche dell’alleanza Slow Food, in due piatti gustosi per esaltare il pescato del lago di Bracciano e del mare.Interverrà l’Azienda “Monti della Moma” di Montefiascone, con i suoi vini, che saranno abbinati ai piatti dal sommelier AIS Franco Cherubini. Ospite il Frantoio Cioccolini di Vignanello con il suo olio evo. **Presenta Vittoria Tassoni**, food blogger, condotta Slow Food Viterbo e Tuscia
-{{\< figure src="/images/wp-content/uploads/2024/12/slow-food-viterbo-tuscia-alessandro-creta.webp" >}}
+![](/images/wp-content/uploads/2024/12/slow-food-viterbo-tuscia-alessandro-creta.webp)
 
 **Domenica 22 Dicembre**: “Natale con la Chiocciola” (dalle 17.30 alle 19.00)\
 **Felice Arletti**, cuoco dell’alleanza Slow Food, ci mostrerà come partendo da prodotti semplici e genuini come prodotti caseari, prelibatezze dell’orto, pane a pasta madre del “Panificio Fiorentini” di Canepina e olio evo, si possa realizzare un piatto sano e gustoso per il Natale.\

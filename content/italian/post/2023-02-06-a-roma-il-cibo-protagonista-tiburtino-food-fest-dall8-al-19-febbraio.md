@@ -15,7 +15,7 @@ categories:
 ---
 
 ***Si svolgerà dall’ 8 al 19 Febbraio all’interno dei locali aderenti del quartiere Tiburtino\&dintorni,  l’evento eno gastronomico più goloso della Capitale***.
-{{\< figure src="/images/wp-content/uploads/2023/02/322734147\_1217028132357716\_4266921258627687078\_n.webp" >}}
+![](/images/wp-content/uploads/2023/02/322734147\_1217028132357716\_4266921258627687078\_n.webp)
 
 Il menu del festival prevede all’interno di ciascun locale selezionato due proposte degustative promozionali e scontate. ll format, dopo le 7 precedenti edizioni di successo nei quartieri Talenti-Montesacro, Trieste- Bologna, Centocelle ed Appio-Tuscolano, farà tappa nel distretto Tiburtino proseguendo il suo percorso di degustazioni promozionali. Ciascun locale avrà la possibilità di aderire al format presentando 2 degustazioni promo a scelta, che ben rappresentino l’identità del locale.
 

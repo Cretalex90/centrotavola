@@ -17,7 +17,7 @@ Da venerdì 10 a domenica 19 giugno, va in scena la 19^ edizione di Vinòforum �
 
 La manifestazione, che lo scorso anno ha accolto oltre 49.000 presenze, si conferma come format che funziona e che si basa su un riuscito mix tra grandi etichette e cucina d’autore, tra divulgazione del vino e business, tra iniziative rivolte agli appassionati e appuntamenti studiati per gli operatori.\
 Questo anno 810 le cantine vitivinicole italiane ed internazionali, ma anche chef stellati, ristoranti, enoteche e realtà gastronomiche saranno immersi negli oltre 12mila metri quadri del Parco Tor di Quinto, con un solo obiettivo: promuovere la cultura enogastronomica e agroalimentare del nostro Paese. 
-{{\< figure src="/images/wp-content/uploads/2022/05/dsc0927.webp" >}}
+![](/images/wp-content/uploads/2022/05/dsc0927.webp)
 
 ‘’Sono quasi 20 anni che Vinòforum propone un approccio al vino e al cibo di alto livello, – commenta **Emiliano De Venuti**, **CEO** di **Vinòforum** – il nostro è un format vincente, che riesce a soddisfare tanto le aspettative degli addetti ai lavori, quanto la curiosità degli appassionati. Ogni edizione alziamo l’asticella proponendo al nostro pubblico un calendario di appuntamenti sempre più interessante.’’
 

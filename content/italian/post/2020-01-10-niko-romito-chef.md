@@ -17,7 +17,7 @@ images: ["/images/wp-content/uploads/2020/01/niko-romito-a-spazio-roma-ph.-franc
 Come tutti gli anni la conferenza internazionale _Madrid_ _Fusión_ è pronta a riunire nella capitale spagnola i migliori chef da tutto il mondo.
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/niko-romito-by-brambilla-serrani-photographers-per-identita-golose-2015.webp" caption="Brambilla Serrani" >}}
+![](/images/wp-content/uploads/2020/01/niko-romito-by-brambilla-serrani-photographers-per-identita-golose-2015.webp)
 
 
 La 18a edizione dell&#8217;evento si svolgerà dal 13 al 15 gennaio presso l&#8217;IFEMA-Fiera di Madrid. Tra i tanti appuntamenti uno particolarmente importante è in programma per il pomeriggio del 14 gennaio, quando **Niko Romito** riceverà il &#8220;**_Premio Chef dell&#8217;anno_**&#8220;. È uno dei riconoscimenti più prestigiosi presentati durante il _Madrid Fusión_ e, per il 2020, l&#8217;organizzazione lo ha assegnato al proprietario del ristorante Reale Casadonna a Castel di Sangro (L&#8217;Aquila). 

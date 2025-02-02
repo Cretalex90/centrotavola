@@ -20,7 +20,7 @@ Il tutto attraverso una valorizzazione “oltre confine” delle realtà artigia
 Le Chicche della <a href="https://aleepepe.com/2019/10/25/danilo-ciavattini-la-tuscia-e-servita/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">Tuscia</a> (viterbese) mette insieme aziende più o meno piccole del territorio per conoscere anche al di fuori della provincia la provincia stessa,  attraverso i prodotti della sua terra e gli artigiani che qui danno vita a realtà gastronomiche di qualità.
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_8.webp" >}}
+![](/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_8.webp)
 
 
 [Olio](https://aleepepe.com/2019/11/18/valorizzazione-del-territorio-e-olio-di-qualita-parola-di-pierluigi-presciuttini/), vino, formaggi, frutta, verdure, salumi, nocciole, lamponi: questi e molti altri i prodotti delle aziende membri di questa associazione. Tra loro ci sono produttori storici e altri ingressi più recenti. 
@@ -50,7 +50,7 @@ Lamponi coltivati, raccolti a mano e declinati in varie tipologie di prodotti, c
 Massimiliano non solo utilizza il frutto per creare i suoi prodotti, **ma anche le foglie**, materia prima per la creazione della Lamponella (prodotto di punta dell&#8217;azienda), la tisana che nasce dopo un’infusione a caldo delle foglie stesse, seguita da un doppio filtraggio prima dell’imbottigliamento e la pastorizzazione. “_È un prodotto innovativo, genuino, è buono e gestibile 12 mesi l’anno, pronta da bere tutto l’anno grazie al confezionamento in vetro”._
 
 
-{{< figure src="/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_3.webp" >}}
+![](/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_3.webp)
 
 
 Nota a margine, nel suo laboratorio e nel confezionamento dei prodotti Massimiliano non ricorre all&#8217;utilizzo di plastica, e laddove sia obbligato ad usarne limita al massimo l’utilizzo stesso. Le buste, infatti, sono in carta, mentre i vasetti hanno etichette stampate direttamente sul vetro. Scelta virtuosa e coerente con gli ideali di salvaguardia e sostenibilità ambientale.

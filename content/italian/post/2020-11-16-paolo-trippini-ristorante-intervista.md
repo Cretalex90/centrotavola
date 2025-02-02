@@ -18,7 +18,7 @@ images: ["/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-a
 ### Tartufi, funghi, selvaggina, radici ma non solo. I sapori della regione si manifestano più decisi che mai in questa parte dell’anno: nel pieno di un autunno che qui chiamano “_la primavera umbra_”. {.wp-block-heading}
 
 
-{{< figure src="/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-08-web.webp" caption="Paolo Trippini all&#8217;ingresso del suo ristorante" >}}
+![](/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-08-web.webp)
 
 
 Ci troviamo a **Civitella Del Lago** (Terni), piccolo paese di poche centinaia di anime a quasi 500 metri sul livello del mare, che affaccia sul lago di Corbara e che disperde la vista su un orizzonte in cui si stagliano, da una parte, il monte Cimino, dall&#8217;altra il monte Amiata. 
@@ -36,7 +36,7 @@ Perché il processo creativo, come spiega Paolo stesso, non si ferma mai, neppur
 ### L&#8217;incontro con lo chef è avvenuto nella sala del suo ristorante e a pochi giorni dall&#8217;ingresso nell&#8217;associazione Ambasciatori del Gusto. Proprio da qui siamo partiti nella nostra chiacchierata e nel nostro viaggio attraverso l&#8217;Umbria da gustare. {.wp-block-heading}
 
 
-{{< figure src="/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-09-web.webp" >}}
+![](/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-09-web.webp)
 
 
 **_Paolo, partiamo dal tuo ingresso nell&#8217;associazione Ambasciatori del Gusto. Cosa ti ha spinto a farne parte? Il fatto che tu sia l&#8217;unico chef umbro ti &#8220;responsabilizza&#8221;?_**
@@ -54,7 +54,7 @@ Rappresento la terza generazione di un ristorante che esiste da 60 anni e che è
 **_Da cosa è nato il cambiamento della &#8220;natura&#8221; del ristorante?_**
 
 Il cambiamento da trattoria a gourmet è stato quasi un&#8217;esigenza di marketing. A inizio anni novanta qui nella zona del lago c&#8217;erano tante trattorie, molte delle quali simili tra loro nell&#8217;offerta gastronomica e nel tipo di locale. Mio padre, per differenziare il nostro ristorante, ha optato per un cambio di passo cercando di elevare il tipo di cucina, sperimentando e iniziando a fare anche ricerca di prodotti non necessariamente locali. Tanto che iniziammo a trattare materie prime particolari, ricordo l&#8217;agnello della Nuova Zelanda, lo struzzo, il foie gras &#8230; La mia carriera è partita proprio da qui, dallo studio di ciò che era esterno alla regione per capire ciò che c&#8217;è fuori dall&#8217;Umbria. Al termine di questo percorso, però, io sono tornato a trattare prodotti del territorio e della tradizione, con tecniche non più da trattoria ma mantenendo lo stile adottato da mio padre.
-{{< figure src="/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-06-web.webp" caption="Ravioli di cinturello, castagne e melograno" >}}
+![](/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-06-web.webp)
  
 
 **_Parlando del momento attuale, c&#8217;è il rischio che in mezzo a tanta incertezza il processo creativo di uno chef possa risentirne?_**
@@ -66,7 +66,7 @@ Fortunatamente qui siamo abbastanza focalizzati, il periodo di difficoltà è st
 Abbiamo iniziato a consegnare dei kit con prodotti da rigenerare a casa e che potranno poi essere assemblati direttamente dai clienti. Tra le varie proposte ci saranno piatti che realizziamo anche qui al ristorante, per esempio baccalà con crema di broccolo romano e amarene, quaglia con frutti rossi e ricotta, tra le paste lombrichelli al tartufo poi gnocchi di patate con ricotta e menta. Ci stiamo organizzando anche per spedire e una volta a settimana lavoreremo su Roma.
 
 
-{{< figure src="/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-02-web.webp" caption="Baccalà con crema di broccolo romano e amarene" >}}
+![](/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-02-web.webp)
 
 
 **_Per chiudere, c&#8217;è un ingrediente nel tuo menu al quale tieni particolarmente e che non può mai mancare in cucina?_**
@@ -80,4 +80,4 @@ Leggi anche:
 #### <a href="https://www.officinavisiva.it/" target="_blank" rel="noreferrer noopener">Foto di Officina Visiva</a> {.wp-block-heading}
 
 
-{{< figure src="/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-14-web.webp" >}}
+![](/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-14-web.webp)

@@ -17,7 +17,7 @@ tags:
 images: ["/images/wp-content/uploads/2023/12/christmas-4697648_1280.webp"]
 ---
 Ciak si cucina, Deacomunicazione e Roma Dinner presentano **Unica**: la &#8216;serie&#8217; di panettoni virali, molto social oriented (specialmente per quanto riguarda il packaging) e soprattutto artigianali realizzata grazie alle sapienti mani del campione del mondo Eugenio Morrone , Pasticceria Andreotti e la collaborazione di Emporio delle Spezie, <a href="https://aleepepecom.wordpress.com/2023/04/02/giornata-dedicata-alla-nocciola-della-tuscia-presso-il-casale-dellarcipretura/" target="_blank" rel="noreferrer noopener"><strong>Il Casale dell&#8217;Arcipretura</strong></a> (con sede a **Carbognano**, in provincia di Viterbo) per la Nocciola Romana D.o.p e Gin Freeda.
-{{< figure src="/images/wp-content/uploads/2023/12/img-20231212-wa00571.webp" >}}
+![](/images/wp-content/uploads/2023/12/img-20231212-wa00571.webp)
  
 
 Tre le referenze di questo primo Natale all&#8217;insegna della viralità senza rinunciare all&#8217;artigianalità.

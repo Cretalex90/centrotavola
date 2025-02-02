@@ -25,7 +25,7 @@ _L’edizione dello scorso anno della Guida ha incoronato, in uno dei territori 
 A pochi chilometri da Viterbo, nel comune di Vitorchiano, sorge un ristorante di cucina di ispirazione… siciliana. Tutto frutto del lavoro di un sognatore giunto anni fa nella Tuscia, quel Lorenzo Iozzia che dalla provincia di Siracusa si trasferì in questo territorio per affermare, nel bel mezzo dell’Italia, piatti che si ispirano alla tradizione sicula. Una scommessa per un giovane chef in cerca di fortuna così lontano dalla sua terra, ma una scommessa vinta&nbsp; con il ristorante “Casa Iozzìa”. _Casa_, perché è fondamentale accogliere il cliente facendolo sentire come se fosse tra le sue mura domestiche. _Casa_, perché alla fine è un po’ come essere lì, circondati dai sapori, profumi e sensazioni in mezzo ai quali Lorenzo è cresciuto, riposti in una valigia ideale al momento della partenza e riproposti nella Tuscia viterbese. Un mix, il suo, rivelatosi vincente. E stellato.&nbsp;
 
 
-{{< figure src="/images/wp-content/uploads/2019/08/pla0043.webp" caption="Chef Lorenzo Iozzia " >}}
+![](/images/wp-content/uploads/2019/08/pla0043.webp)
 
 
 Siamo entrati nelle cucine di Chef Iozzia che, tra un Crudo di Mazara e un piatto di spaghetti ai ricci di mare, ci ha spiegato la sua idea di cucina, accoglienza e ospitalità.
@@ -43,7 +43,7 @@ La gastronomia siciliana è apprezzata ovunque quindi non direi che sia stato di
 Qui c’è una cultura molto legata al bosco, alla terra, alla cacciagione. Difficoltà particolari non ce ne sono state, chi viene qui sa che tipo di cucina lo aspetta. Ci sono molti palati che non percepiscono alcune sfumature, ma quello è normale, io quando propongo un piatto però cerco di far capire quello che voglio dire. Questa è la parte più complicata, far comprendere il messaggio che voglio dare.&nbsp;
 
 
-{{< figure src="/images/wp-content/uploads/2019/08/schermata-2019-08-01-alle-08.51.44.webp" caption="Crudo di Mazara" >}}
+![](/images/wp-content/uploads/2019/08/schermata-2019-08-01-alle-08.51.44.webp)
 
 
 **_L’alta cucina può esser compresa dalla massa?_**
@@ -65,7 +65,7 @@ Credo non ci sia nessuno che lavora per ottenere la stella Michelin, ma si perse
 **_Dopo la prima stella si inizia a lavorare per la seconda?_**
 
 Si pensa a lavorare alla seconda ma con l’obiettivo di mantenere la prima. Dobbiamo fare sempre meglio ma non per la stella in sé ma prima di tutto pensando al cliente. Bisogna andare avanti, puntando mentalmente alla seconda stella con la consapevolezza che per entrare nel parterre dei bistellati, che conta appena 39 ristoranti, bisogna ingranare quella marcia in più per raggiungere gli standard tracciati da loro.
-{{< figure src="/images/wp-content/uploads/2019/08/pla0001.webp" alt="" >}}
+![](/images/wp-content/uploads/2019/08/pla0001.webp)
  
 
 Per le foto si ringrazia Studio Mun

@@ -19,7 +19,7 @@ Rimbocchiamoci le maniche e prepariamo un bel manicaretto. 
 Quanto ci è mancato stare in cucina, poter assaporare le varie consistenze, scegliere le materie prime e cucinarle con passione? Questa ricetta ci ricorda i colori della terra, degli alberi che perdono le foglie… questo è il profumo dell’autunno che si avvicina! 
 
 
-{{< figure src="/images/wp-content/uploads/2020/09/medaglioni-vitello-ricetta-verdure.webp" >}}
+![](/images/wp-content/uploads/2020/09/medaglioni-vitello-ricetta-verdure.webp)
 
 
 ### **Ingredienti** {.wp-block-heading}

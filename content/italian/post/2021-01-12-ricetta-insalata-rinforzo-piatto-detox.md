@@ -21,7 +21,7 @@ Secondo alcune teorie, il termine &#8220;_rinforzo_&#8221; è dovuto al fatto ch
 Se avete voglia di un&#8217;insalata un po&#8217; diversa e sfiziosa, ecco la ricetta che fa al caso vostro.
 
 
-{{< figure src="/images/wp-content/uploads/2021/01/insalata-foto-ricetta.webp" >}}
+![](/images/wp-content/uploads/2021/01/insalata-foto-ricetta.webp)
 
 
 #### **_Ingredienti:_** {.wp-block-heading}
@@ -67,7 +67,7 @@ _Per le alici:_
 Pulire e sfilettare le alici togliendo la spina centrale. Lavarle in acqua fredda, asciugarle bene, infarinarle e friggerle in abbondante olio caldo.
 
 
-{{< figure src="/images/wp-content/uploads/2021/01/insalata-ricetta-gourmet.webp" >}}
+![](/images/wp-content/uploads/2021/01/insalata-ricetta-gourmet.webp)
 
 
 _Finitura:_  

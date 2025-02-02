@@ -22,11 +22,11 @@ tags:
 images: ["/images/wp-content/uploads/2024/02/pepe-nero-spaghettone.webp"]
 ---
 **_Un nuovo progetto per lo chef Salvo Cravero, molisano di origine ma ormai viterbese d’adozione, che dopo aver salutato l’Olivo Country Club a Bassano in Teverina ha deciso di trasferirsi, professionalmente parlando, sul lago di Bolsena. _**
-{{< figure src="/images/wp-content/uploads/2024/02/pepe-nero-sala.webp" caption="La sala vista lago del Pepe Nero" >}}
+![](/images/wp-content/uploads/2024/02/pepe-nero-sala.webp)
  
 
 Eccoci a **Capodimonte**. Il ristorante è il **Pepe Nero**, locale che “ingaggiando” lo chef ha deciso di abbracciare una filosofia in grado di puntare con maggior forza sul fine dining. Salvo, dopotutto, arriva qui con grandi ambizioni. Ambizioni nemmeno troppo nascoste, anzi dichiarate, con l’obiettivo di ottenere sulle rive del lago vulcanico più grande d&#8217;Europa importanti riscontri e riconoscimenti. Dalla clientela i primi, e conseguentemente dalle guide i secondi. **Il nuovo corso è partito** da pochissimo: appena un paio di mesi dall’arrivo in cucina dello chef, periodo che definire di “gestazione” è riduttivo, specialmente se parliamo di un certo tipo di cucina e della difficoltà derivanti dal voler puntare su una proposta **gourmet**. Il segnale però è stato lanciato e il rodaggio è ormai avviato. Tutto il team del Pepe Nero è pronto per questo nuovo viaggio con Salvo in cabina di comando. La barca vuole prendere il largo.
-{{< figure src="/images/wp-content/uploads/2024/02/schermata-2024-02-07-alle-18.40.16.webp" caption="Lo chef Salvo Cravero" >}}
+![](/images/wp-content/uploads/2024/02/schermata-2024-02-07-alle-18.40.16.webp)
  
 
 **_Salvo, come sono state queste prime settimane di lavoro?_**  
@@ -34,7 +34,7 @@ Molto positive, non ci aspettavamo questa risposta sin da subito. Il lavoro è s
 
 **_Cosa ti ha affascinato di questo progetto al punto da decidere di abbracciarlo?_**  
 Sicuramente il fatto di avere al mio fianco un partner, e mi riferisco alla proprietà, che fa questo di professione, con gusto e propensione per la qualità e la buona cucina. Da questo punto di vista ho trovato massima apertura, massima condivisione verso il tipo di cucina che avrei voluto proporre. Altrimenti non avrei accettato di venire qua. 
-{{< figure src="/images/wp-content/uploads/2024/02/pepe-nero-salmerino.webp" caption="Salmerino delle Alpi su gazpacho di pomodorini gialli " >}}
+![](/images/wp-content/uploads/2024/02/pepe-nero-salmerino.webp)
  
 
 **_In menu ci sono già dei piatti sui quali punterai o sei in fase di rodaggio anche per quanto riguarda la proposta?_**  
@@ -45,7 +45,7 @@ Assolutamente. A 46 anni non voglio e non posso più permettermi di “giocare�
 
 **_In pochi mesi sei passato dalle pendici del monte Cimino alle sponde del lago. Cambia il contesto e cambia con lui anche la tua cucina?_**  
 Sicuramente c’è più propensione verso il pesce, ahimè ancora poco lacustre sebbene siamo letteralmente in riva al lago. Nella zona si sta sicuramente investendo molto negli ultimi anni, ma ancora non c’è l’assoluta garanzia per quanto riguarda per esempio la disponibilità di materie prime, del pescato. Non puoi sapere quello che ti può capitare, quindi anche la programmazione è complicata. In menu c&#8217;è comunque una bella offerta vegetariana e anche spazio alla carne, in questi aspetti stiamo molto attenti a ciò che il territorio ci propone. 
-{{< figure src="/images/wp-content/uploads/2024/02/pepe-nero-spaghettone.webp" caption="Spaghetto ai ricci di mare e caffè" >}}
+![](/images/wp-content/uploads/2024/02/pepe-nero-spaghettone.webp)
  
 
 **_Tre piatti che un nuovo cliente deve assolutamente provare?_**  

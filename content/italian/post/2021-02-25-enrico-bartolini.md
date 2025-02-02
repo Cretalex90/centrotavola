@@ -20,7 +20,7 @@ _Enrico Bartolini è, numeri e riconoscimenti alla mano, il miglior chef d’Ita
 **Chef Bartolini** scandisce bene ogni parola, quasi selezionando attentamente i suoi pensieri per sottolineare al meglio quella che è la sua filosofia non solo in cucina. Parla lentamente e attentamente colui che, riconoscimenti alla mano, è lo chef più premiato d’Italia con un totale di 8 stelle Michelin tra i suoi vari ristoranti. 
 
 
-{{< figure src="/images/wp-content/uploads/2020/03/638a6538-min.webp" caption="Enrico Bartolini" >}}
+![](/images/wp-content/uploads/2020/03/638a6538-min.webp)
 
 
 Nel corso della sua carriera lo chef ha fatto incetta di “trofei” e riconoscimenti , ma la vera notizia è che lo chef toscano è riuscito a conquistarsi tutto questo successo ad appena 41 anni. Nato nel 1979 a Pescia, provincia di Pistoia, in passato si è definito il “_Pirlo dei fornelli_”. Ciò che l’accomuna al famoso ex centrocampista è la capacità di organizzare e organizzarsi in mezzo ai fornelli della cucina, il suo campo da gioco, uscendone sempre con piatti dalla grandissima qualità e ricercatezza.
@@ -30,7 +30,7 @@ Nel corso della sua carriera lo chef ha fatto incetta di “trofei” e riconosc
 Lo chef, con la calma tipica dei forti, mi ha aperto le porte della sua cucina e del suo pensiero. Una cucina così vicina all&#8217;arte che, inevitabilmente, non poteva che essere protagonista nel ristorante di un museo..
 
 
-{{< figure src="/images/wp-content/uploads/2020/03/il-benvenuto-dello-chef-min.webp" caption="Il Benvenuto dello chef" >}}
+![](/images/wp-content/uploads/2020/03/il-benvenuto-dello-chef-min.webp)
 
 
 **_Il 2019 possiamo considerarlo il tuo anno di grazia. Come l’hai vissuto?_**
@@ -50,7 +50,7 @@ Devo dire che il post Expo è stato il meglio che la città si sarebbe potuta au
 Sottolineo che più noi cuochi lavoriamo e più siamo concentrati e a disposizione degli ospiti, più le cose riescono e vengono percepite al meglio. Ai miei occhi è apparso evidente un miglioramento a livello di sala, con il consolidamento di alcuni passaggi che danno maggior confort agli ospiti e l’approfondimento culturale dell’idea che c’è nel menù. Ho sempre detto che un ristorante per piacere deve offrire una grande location e un grande servizio, perché la cucina deve essere straordinaria sempre, ma a volte soprattutto le famiglie prediligono questi due aspetti. Ultimamente ci siamo concentrati molto e questo si fa se ci sono le figure umane adatte a questo tipo di lavoro, perché è importante che il personale di cucina e di sala diventino complici e coesi. Il ristorante non deve distinguere questi due ambienti, ma riunire tutto sotto un obiettivo comune.&nbsp;&nbsp;
 
 
-{{< figure src="/images/wp-content/uploads/2020/03/170131_bartoliniinternimudec_026-min.webp" caption="Il ristorante al Mudec di Milano" >}}
+![](/images/wp-content/uploads/2020/03/170131_bartoliniinternimudec_026-min.webp)
 
 
 **_Voi chef siete ormai diventati dei personaggi con una forte eco mediatica e un forte seguito anche al di fuori del mondo della cucina. Quali sono i messaggi più importanti che Enrico Bartolini vuole trasmettere alla gente?_**
@@ -62,7 +62,7 @@ Quando ho iniziato a fare questo mestiere puntavo a far bene il cuoco in una cuc
 Il fatto che ci siano culture diverse che ospitiamo, e viceversa, lo trovo un piacevole scambio umano prima che gastronomico.&nbsp; Che l’identità dei luoghi debba essere rispettata è indubbio, ma questo non significa che un italiano non possa cucinare a New York o che un cinese non possa cucinare a Firenze. È bello che ci siano le opportunità, basta che alla base ci sia la buona qualità, una storia da raccontare che possa far funzionare il sistema gastronomia (dal piccolo produttore al piatto finito) nel miglior modo possibile, seguendo un’impronta etica che non può mai mancare. Se invece si vuol consumare il cibo solo per sfizio diventa uno spreco.
 
 
-{{< figure src="/images/wp-content/uploads/2020/03/alici-ostriche-e-cavialejpg-min.webp" caption="Alici, ostriche e caviale" >}}
+![](/images/wp-content/uploads/2020/03/alici-ostriche-e-cavialejpg-min.webp)
 
 
 **_Come descriveresti la tua proposta gastronomica all’estero? Hong Kong, Dubai e Abu Dhabi: presenti i piatti della tradizione italiana o ti fai un po’ contaminare da quella del luogo?_**
@@ -74,7 +74,7 @@ Noi italiani quando siamo fuori abbiamo un forte senso di comunità, riconoscibi
 Non uso mai il termine “vetta”, ma ammetto che essendo dei cuochi ci è stato riconosciuto di appartenere a una categoria di eccellenza. È bello potersi sentire un riferimento per qualcun altro o aver dato vita a un ambiente in cui si generano aspettative per chi viene a vivere le nostre esperienze. Dunque sento un po’ il senso di responsabilità e un po’ l’emozione di dover fare al meglio quello che ho sempre sognato di fare. Quindi è bello, assieme a tutto il team, potersi esprimere ai massimi livelli.&nbsp;
 
 
-{{< figure src="/images/wp-content/uploads/2020/03/spaghettone-trafilato-bronzo-alle28099anguilla-affumicata-e-calamaretti-spillo-alle28099allorojpg-min.webp" caption="Spaghettone trafilato al bronzo" >}}
+![](/images/wp-content/uploads/2020/03/spaghettone-trafilato-bronzo-alle28099anguilla-affumicata-e-calamaretti-spillo-alle28099allorojpg-min.webp)
 
 
 Intervista di fine 2019

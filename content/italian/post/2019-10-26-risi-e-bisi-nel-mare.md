@@ -16,7 +16,7 @@ images: ["/images/wp-content/uploads/2019/10/88b98077-0ac6-4644-927d-ec7c51975be
 C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi al mare. C’erano l’acqua cristallina, i calamari, i gamberi, gli scogli e la spuma: **era il suo posto preferito!**
 
 
-{{< figure src="/images/wp-content/uploads/2019/10/8c8b5a81-afdc-4d76-adf8-db4eb84dce6f.webp" >}}
+![](/images/wp-content/uploads/2019/10/8c8b5a81-afdc-4d76-adf8-db4eb84dce6f.webp)
 
 
 **MISE EN PLACE**
@@ -50,7 +50,7 @@ C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi 
 </ul>
 
 
-{{< figure src="/images/wp-content/uploads/2019/10/9ce3b716-9a41-4726-a69f-40c3595f3b21.webp" >}}
+![](/images/wp-content/uploads/2019/10/9ce3b716-9a41-4726-a69f-40c3595f3b21.webp)
 
 
 <ul class="wp-block-list">
@@ -70,7 +70,7 @@ C’era una volta Risi, un principe, che portò la sua principessa di nome Bisi 
 </p>
 
 
-{{< figure src="/images/wp-content/uploads/2019/10/adb26848-f69a-4b98-99ce-784b18afeeec.webp" >}}
+![](/images/wp-content/uploads/2019/10/adb26848-f69a-4b98-99ce-784b18afeeec.webp)
 
 
 
