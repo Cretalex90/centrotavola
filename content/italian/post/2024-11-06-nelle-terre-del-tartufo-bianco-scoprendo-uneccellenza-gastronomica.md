@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - Eventi
   - News
-meta_tags:
+tags:
   - cucina
   - tartufo
   - umbria

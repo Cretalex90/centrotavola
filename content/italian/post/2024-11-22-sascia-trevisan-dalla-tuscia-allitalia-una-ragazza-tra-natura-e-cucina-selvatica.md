@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - interviste bistrot
   - News
-meta_tags:
+tags:
   - cucina
   - erbe
   - foraging

@@ -8,7 +8,7 @@ timeline_notification:
   - 1611662390
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
 images: ["/images/wp-content/uploads/2021/01/spaghetti-cime-di-rapa-e-gamberi-ricetta.webp"]
 ---

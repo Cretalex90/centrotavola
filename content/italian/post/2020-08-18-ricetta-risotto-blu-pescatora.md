@@ -8,7 +8,7 @@ timeline_notification:
   - 1597749252
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
   - ricette
 images: ["/images/wp-content/uploads/2020/08/risotto-blu-mare-ricetta-.webp"]

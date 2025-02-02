@@ -10,7 +10,7 @@ timeline_notification:
   - 1732607870
 categories:
   - News
-meta_tags:
+tags:
   - andrea astolfi
   - convivial
   - cucina

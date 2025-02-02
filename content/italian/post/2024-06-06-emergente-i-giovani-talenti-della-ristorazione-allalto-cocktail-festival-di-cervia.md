@@ -10,7 +10,7 @@ timeline_notification:
   - 1717665277
 categories:
   - Eventi
-meta_tags:
+tags:
   - cervia
   - cocktail
   - drink

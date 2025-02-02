@@ -9,7 +9,7 @@ timeline_notification:
   - 1579772247
 categories:
   - News
-meta_tags:
+tags:
   - gambero rosso
   - gelaterie
   - guida

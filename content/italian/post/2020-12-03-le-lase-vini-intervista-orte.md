@@ -8,7 +8,7 @@ timeline_notification:
   - 1607003339
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - vino
 images: ["/images/wp-content/uploads/2020/11/officina-visiva-ale-e-pepe-foto-vino-editoriale-le-lase-01.webp"]
 ---

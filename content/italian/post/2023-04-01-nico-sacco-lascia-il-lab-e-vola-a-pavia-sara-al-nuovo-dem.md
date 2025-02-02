@@ -10,7 +10,7 @@ timeline_notification:
   - 1680351095
 categories:
   - News
-meta_tags:
+tags:
   - bar
   - viterbo
 images: ["/images/wp-content/uploads/2023/04/schermata-2023-04-01-alle-13.58.05.webp"]

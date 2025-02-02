@@ -8,7 +8,7 @@ timeline_notification:
   - 1599057477
 categories:
   - Eventi
-meta_tags:
+tags:
   - vino
 images: ["/images/wp-content/uploads/2020/09/vinoforum-roma.webp"]
 ---

@@ -8,7 +8,7 @@ timeline_notification:
   - 1573646985
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - franco pepe
   - intervista
   - pizza

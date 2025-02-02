@@ -8,7 +8,7 @@ timeline_notification:
   - 1575920321
 categories:
   - News
-meta_tags:
+tags:
   - chef
   - identità golose
 images: ["/images/wp-content/uploads/2019/12/schermata-2019-12-09-alle-20.40.50.webp"]

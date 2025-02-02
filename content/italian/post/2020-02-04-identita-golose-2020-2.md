@@ -8,7 +8,7 @@ timeline_notification:
   - 1580807190
 categories:
   - News
-meta_tags:
+tags:
   - identità golose
 images: ["/images/wp-content/uploads/2020/02/il-tortellante-bottura.webp"]
 ---

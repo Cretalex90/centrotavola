@@ -8,7 +8,7 @@ timeline_notification:
   - 1585831129
 categories:
   - News
-meta_tags:
+tags:
   - cucina
   - cucina italiana
 images: ["/images/wp-content/uploads/2020/04/img_0310.webp"]

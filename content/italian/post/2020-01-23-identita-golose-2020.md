@@ -9,7 +9,7 @@ timeline_notification:
   - 1579797906
 categories:
   - Eventi
-meta_tags:
+tags:
   - identità golose
 images: ["/images/wp-content/uploads/2020/01/identitacc80-golose-milano-2020.webp"]
 ---

@@ -8,7 +8,7 @@ timeline_notification:
   - 1569355612
 categories:
   - Eventi
-meta_tags:
+tags:
   - food
   - roma
 images: ["/images/wp-content/uploads/2019/09/06191bdd-9326-40cc-8d91-45a1c1497ac3.webp"]

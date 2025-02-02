@@ -12,7 +12,7 @@ timeline_notification:
   - 1704740609
 categories:
   - News
-meta_tags:
+tags:
   - assaggiatori
   - corso
   - olio

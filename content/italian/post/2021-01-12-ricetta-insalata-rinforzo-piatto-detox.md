@@ -8,7 +8,7 @@ timeline_notification:
   - 1610451690
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
 images: ["/images/wp-content/uploads/2021/01/insalata-rinforzo-ricetta-cover.webp"]
 ---

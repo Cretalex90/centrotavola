@@ -8,7 +8,7 @@ timeline_notification:
   - 1596535391
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
   - ricette
 images: ["/images/wp-content/uploads/2020/07/uovo-in-camicia-1.webp"]

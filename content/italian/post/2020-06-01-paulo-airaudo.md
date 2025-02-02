@@ -8,7 +8,7 @@ timeline_notification:
   - 1591004497
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - ambasciatori del gusto
   - chef
   - chef stellati

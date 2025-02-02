@@ -9,7 +9,7 @@ timeline_notification:
   - 1580643088
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef stellati
   - intervista
   - stella michelin

@@ -12,7 +12,7 @@ timeline_notification:
   - 1712474033
 categories:
   - News
-meta_tags:
+tags:
   - chef
   - chef stellati
   - cucina

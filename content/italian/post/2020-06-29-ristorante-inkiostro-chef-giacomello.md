@@ -8,7 +8,7 @@ timeline_notification:
   - 1593429625
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef
   - chef stellati
 images: ["/images/wp-content/uploads/2020/06/terry-giacomello.webp"]

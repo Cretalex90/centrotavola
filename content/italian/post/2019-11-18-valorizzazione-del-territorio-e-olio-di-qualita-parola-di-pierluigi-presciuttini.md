@@ -8,7 +8,7 @@ timeline_notification:
   - 1574074843
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - olio
   - slow food
   - tuscia

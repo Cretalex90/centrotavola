@@ -10,7 +10,7 @@ timeline_notification:
   - 1728748374
 categories:
   - Senza categoria
-meta_tags:
+tags:
   - corchiano
   - pasticceria
   - viterbo

@@ -79,7 +79,7 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "meta_tags",
+            name: "tags",
             label: "Meta Tags",
             list: true,
             ui: {

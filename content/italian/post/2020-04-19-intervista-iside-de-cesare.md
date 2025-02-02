@@ -8,7 +8,7 @@ timeline_notification:
   - 1587295189
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef stellati
   - intervista
   - iside de cesare

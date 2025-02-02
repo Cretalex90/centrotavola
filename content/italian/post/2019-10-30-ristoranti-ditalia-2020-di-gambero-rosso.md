@@ -8,7 +8,7 @@ timeline_notification:
   - 1572449264
 categories:
   - News
-meta_tags:
+tags:
   - Eventi
   - gambero rosso
 images: ["/images/wp-content/uploads/2019/10/b39c617d-b044-499c-a349-80f15a4aaaa5.webp"]

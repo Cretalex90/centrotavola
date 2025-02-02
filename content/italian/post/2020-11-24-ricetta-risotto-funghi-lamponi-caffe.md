@@ -8,7 +8,7 @@ timeline_notification:
   - 1606216476
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - chef
   - ricetta
   - ricette

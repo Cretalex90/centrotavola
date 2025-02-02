@@ -8,7 +8,7 @@ timeline_notification:
   - 1582617695
 categories:
   - Eventi
-meta_tags:
+tags:
   - tuscia
 images: ["/images/wp-content/uploads/2020/02/purgatorio.webp"]
 ---

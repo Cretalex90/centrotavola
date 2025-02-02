@@ -9,7 +9,7 @@ timeline_notification:
   - 1581246025
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef
   - chef stellati
 images: ["/images/wp-content/uploads/2020/02/schermata-2020-02-06-alle-13.43.59.webp"]

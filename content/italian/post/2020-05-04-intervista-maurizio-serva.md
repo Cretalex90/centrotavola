@@ -8,7 +8,7 @@ timeline_notification:
   - 1588586365
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef
   - chef stellati
   - intervista

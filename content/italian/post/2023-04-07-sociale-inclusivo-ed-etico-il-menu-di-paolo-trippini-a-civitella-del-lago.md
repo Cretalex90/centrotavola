@@ -10,7 +10,7 @@ timeline_notification:
   - 1680877828
 categories:
   - News
-meta_tags:
+tags:
   - chef
   - cucina
   - trippini

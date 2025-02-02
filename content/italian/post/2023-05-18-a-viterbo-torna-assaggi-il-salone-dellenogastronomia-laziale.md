@@ -10,7 +10,7 @@ timeline_notification:
   - 1684440353
 categories:
   - Eventi
-meta_tags:
+tags:
   - assaggi
   - viterbo
 images: ["/images/wp-content/uploads/2022/10/officina-visiva-foto-food-wine-2022_assaggi-viterbo_1.webp"]

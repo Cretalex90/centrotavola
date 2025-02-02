@@ -10,7 +10,7 @@ timeline_notification:
   - 1694246458
 categories:
   - News
-meta_tags:
+tags:
   - italia a tavola
   - pizza
   - pizzeria

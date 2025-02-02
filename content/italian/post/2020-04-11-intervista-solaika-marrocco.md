@@ -8,7 +8,7 @@ timeline_notification:
   - 1586679193
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - chef
   - intervista
   - solaika marrocco

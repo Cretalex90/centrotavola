@@ -8,7 +8,7 @@ timeline_notification:
   - 1614945733
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
   - ricette
 images: ["/images/wp-content/uploads/2021/03/mimosa-piatto-cover.webp"]

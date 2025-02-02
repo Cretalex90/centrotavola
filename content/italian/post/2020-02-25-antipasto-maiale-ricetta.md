@@ -8,7 +8,7 @@ timeline_notification:
   - 1582621381
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
   - ricette
 images: ["/images/wp-content/uploads/2020/02/piatto-antipasto-maiale.webp"]

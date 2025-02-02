@@ -8,7 +8,7 @@ timeline_notification:
   - 1577185003
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - chef
   - dolci
   - natale

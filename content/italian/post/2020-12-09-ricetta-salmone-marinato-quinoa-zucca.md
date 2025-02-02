@@ -8,7 +8,7 @@ timeline_notification:
   - 1607512657
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
   - ricette
 images: ["/images/wp-content/uploads/2020/12/salmone-marinato-cover.webp"]

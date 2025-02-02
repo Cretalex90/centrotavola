@@ -8,7 +8,7 @@ timeline_notification:
   - 1583234199
 categories:
   - News
-meta_tags:
+tags:
   - olio
 images: ["/images/wp-content/uploads/2020/03/oliveto-molino-7cento.webp"]
 ---

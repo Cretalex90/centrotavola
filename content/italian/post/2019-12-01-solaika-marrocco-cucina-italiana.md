@@ -8,7 +8,7 @@ timeline_notification:
   - 1575191094
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - chef
   - cucina
   - cucina italiana

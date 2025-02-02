@@ -9,7 +9,7 @@ timeline_notification:
   - 1580040857
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - tuscia
   - vino
 images: ["/images/wp-content/uploads/2020/01/zucchetti-vino.webp"]

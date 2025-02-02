@@ -8,7 +8,7 @@ timeline_notification:
   - 1575321467
 categories:
   - News
-meta_tags:
+tags:
   - cucina
   - cucina italiana
   - ristorante

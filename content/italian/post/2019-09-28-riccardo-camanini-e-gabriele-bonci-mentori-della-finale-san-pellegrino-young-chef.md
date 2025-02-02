@@ -8,7 +8,7 @@ timeline_notification:
   - 1569695659
 categories:
   - News
-meta_tags:
+tags:
   - chef
   - Eventi
   - food

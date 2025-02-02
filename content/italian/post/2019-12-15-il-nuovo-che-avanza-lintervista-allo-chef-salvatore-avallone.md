@@ -9,7 +9,7 @@ timeline_notification:
   - 1576414825
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - ambasciatori del gusto
   - baronissi
   - chef

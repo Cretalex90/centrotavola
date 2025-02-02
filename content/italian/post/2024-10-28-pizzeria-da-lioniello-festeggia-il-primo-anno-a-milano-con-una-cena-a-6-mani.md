@@ -10,7 +10,7 @@ timeline_notification:
   - 1730363828
 categories:
   - Eventi
-meta_tags:
+tags:
   - milano
   - pizza
   - pizzeria

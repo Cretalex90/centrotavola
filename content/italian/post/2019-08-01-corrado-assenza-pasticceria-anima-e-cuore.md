@@ -8,7 +8,7 @@ timeline_notification:
   - 1564672067
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - chef
   - corrado assenza
   - dolci

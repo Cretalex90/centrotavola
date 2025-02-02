@@ -8,7 +8,7 @@ timeline_notification:
   - 1603712545
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - pizza
   - viterbo
 images: ["/images/wp-content/uploads/2020/10/officiva-visiva-ale-pepe-foto-pizzeria-pizza-amarcord-9.webp"]

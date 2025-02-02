@@ -10,7 +10,7 @@ timeline_notification:
   - 1733419115
 categories:
   - News
-meta_tags:
+tags:
   - dolci
   - feste
   - natale

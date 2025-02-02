@@ -8,7 +8,7 @@ timeline_notification:
   - 1571774452
 categories:
   - Eventi
-meta_tags:
+tags:
   - cucina
   - cucina italiana
 images: ["/images/wp-content/uploads/2019/10/un-momento-della-premiazione-.webp"]

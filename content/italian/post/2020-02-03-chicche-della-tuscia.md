@@ -9,7 +9,7 @@ timeline_notification:
   - 1580734458
 categories:
   - Eventi
-meta_tags:
+tags:
   - tuscia
 images: ["/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_1.webp"]
 ---

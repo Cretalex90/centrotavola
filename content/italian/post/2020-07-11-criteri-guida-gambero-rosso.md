@@ -8,7 +8,7 @@ timeline_notification:
   - 1594459301
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - gambero rosso
   - guida
 images: ["/images/wp-content/uploads/2020/07/ristoranti-gambero.webp"]

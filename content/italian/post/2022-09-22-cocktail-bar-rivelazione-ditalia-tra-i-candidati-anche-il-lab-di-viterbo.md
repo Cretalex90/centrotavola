@@ -10,7 +10,7 @@ timeline_notification:
   - 1663872769
 categories:
   - News
-meta_tags:
+tags:
   - bar
   - lab
   - viterbo

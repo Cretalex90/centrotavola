@@ -8,7 +8,7 @@ timeline_notification:
   - 1589961028
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef
   - chef stellati
   - roma

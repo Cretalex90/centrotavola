@@ -8,7 +8,7 @@ timeline_notification:
   - 1580394688
 categories:
   - News
-meta_tags:
+tags:
   - beverage
   - distillati
 images: ["/images/wp-content/uploads/2020/01/forbes_targa-carpano-100-eccellenze.webp"]

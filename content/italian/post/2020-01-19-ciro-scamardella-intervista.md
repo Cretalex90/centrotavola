@@ -10,7 +10,7 @@ timeline_notification:
 categories:
   - Interviste stellate
   - Senza categoria
-meta_tags:
+tags:
   - chef
   - chef stellati
   - cucina romana

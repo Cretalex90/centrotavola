@@ -8,7 +8,7 @@ timeline_notification:
   - 1564311648
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - Antonia klugmann
   - chef
   - chef stellati

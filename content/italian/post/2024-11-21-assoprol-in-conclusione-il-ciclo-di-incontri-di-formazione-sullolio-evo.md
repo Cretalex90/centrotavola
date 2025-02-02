@@ -11,7 +11,7 @@ firehose_sent:
 categories:
   - Eventi
   - News
-meta_tags:
+tags:
   - assoprol
   - extravergine
   - olio

@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v3-beta:1658947038
 categories:
   - Eventi
-meta_tags:
+tags:
   - grechetto
   - vino
   - viterbo

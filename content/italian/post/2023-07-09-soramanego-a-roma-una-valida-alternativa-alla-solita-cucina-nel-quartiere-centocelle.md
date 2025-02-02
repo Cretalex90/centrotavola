@@ -10,7 +10,7 @@ timeline_notification:
   - 1688923975
 categories:
   - News
-meta_tags:
+tags:
   - cucina
   - roma
 images: ["/images/wp-content/uploads/2023/07/roma-soramanego-centocelle.webp"]

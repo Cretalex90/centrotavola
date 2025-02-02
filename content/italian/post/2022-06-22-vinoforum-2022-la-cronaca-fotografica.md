@@ -8,7 +8,7 @@ timeline_notification:
   - 1655925177
 categories:
   - Eventi
-meta_tags:
+tags:
   - roma
   - vino
   - vinoforum

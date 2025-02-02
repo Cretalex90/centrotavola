@@ -11,7 +11,7 @@ images:
   - /images/wp-content/uploads/2019/07/piazza-duomo-gallery-cucina-00015-hd.webp
 categories:
   - Eventi
-meta_tags:
+tags:
   - cucina
   - ricetta
   - tuscia

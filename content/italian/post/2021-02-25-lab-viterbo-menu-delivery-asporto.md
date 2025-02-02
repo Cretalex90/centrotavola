@@ -8,7 +8,7 @@ timeline_notification:
   - 1614267230
 categories:
   - News
-meta_tags:
+tags:
   - ristorante
   - viterbo
 images: ["/images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food-drink-foto-07.webp"]

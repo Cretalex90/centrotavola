@@ -8,7 +8,7 @@ timeline_notification:
   - 1595579304
 categories:
   - Eventi
-meta_tags:
+tags:
   - ristorante
   - terni
 images: ["/images/wp-content/uploads/2020/07/origine-terni-1.webp"]

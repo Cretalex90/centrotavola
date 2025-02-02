@@ -10,7 +10,7 @@ timeline_notification:
   - 1733733767
 categories:
   - News
-meta_tags:
+tags:
   - acciuga
   - perugia
   - ristorante

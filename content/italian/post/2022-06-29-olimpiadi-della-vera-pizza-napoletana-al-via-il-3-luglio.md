@@ -10,7 +10,7 @@ timeline_notification:
   - 1656487005
 categories:
   - Eventi
-meta_tags:
+tags:
   - pizza
 images: ["/images/wp-content/uploads/2022/06/pizza-napoletana-olimpiadi.webp"]
 ---

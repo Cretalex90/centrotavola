@@ -8,7 +8,7 @@ timeline_notification:
   - 1577617658
 categories:
   - Interviste stellate
-meta_tags:
+tags:
   - chef
   - chef stellati
   - cracco

@@ -10,7 +10,7 @@ timeline_notification:
   - 1717755597
 categories:
   - News
-meta_tags:
+tags:
   - carne
   - macelleria
   - terni

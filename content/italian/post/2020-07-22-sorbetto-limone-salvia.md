@@ -8,7 +8,7 @@ timeline_notification:
   - 1595396981
 categories:
   - le ricette dello chef
-meta_tags:
+tags:
   - ricetta
 images: ["/images/wp-content/uploads/2020/07/lemons-2121579_1280.webp"]
 ---

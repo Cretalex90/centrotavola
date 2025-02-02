@@ -10,7 +10,7 @@ wordads_ufa:
   - s:wpcom-ufa-v4:1711152442
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - masterchef
 images: ["/images/wp-content/uploads/2020/09/officina-visiva-ale-pepe-foto-masterchef-verando-7-web.webp"]
 ---

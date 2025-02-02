@@ -8,7 +8,7 @@ timeline_notification:
   - 1591612573
 categories:
   - News
-meta_tags:
+tags:
   - cucina
 images: ["/images/wp-content/uploads/2020/06/untitled-design.webp"]
 ---

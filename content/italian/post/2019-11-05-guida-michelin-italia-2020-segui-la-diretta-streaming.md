@@ -8,7 +8,7 @@ timeline_notification:
   - 1572942516
 categories:
   - Eventi
-meta_tags:
+tags:
   - guida michelin
   - stella michelin
 images: ["/images/wp-content/uploads/2019/11/small.webp"]

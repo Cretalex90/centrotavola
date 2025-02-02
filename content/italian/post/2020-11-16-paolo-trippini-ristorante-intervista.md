@@ -8,7 +8,7 @@ timeline_notification:
   - 1605545286
 categories:
   - interviste bistrot
-meta_tags:
+tags:
   - ambasciatori del gusto
   - ristorante
   - trippini
