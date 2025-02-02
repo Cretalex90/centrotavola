@@ -18,6 +18,7 @@ images: ["/images/wp-content/uploads/2024/12/massimo-ambrosio_flos-solei_azienda
 **Un premio del settore olivicolo che valorizza l’impegno nel custodire tradizioni millenarie, tutelare varietà autoctone e preservare il patrimonio rurale del Cilento, culla della dieta mediterranea**.
 
 La Fattoria Ambrosio 1938, azienda olivicola nel cuore del Cilento, ottiene il&nbsp;**premio “Azienda dell’Anno”**&nbsp;nella categoria&nbsp;_The Best_, una menzione attribuita a sole 20 realtà secondo la guida&nbsp;**Flos Olei 2025**&nbsp;&#8211; un atlante olivicolo che racconta le migliori 500 aziende dai cinque continenti descrivendone gli oli extravergini di punta.&nbsp;**Massimo Ambrosio**, terza generazione e titolare dell’azienda, ha ritirato il premio domenica 15 dicembre al&nbsp;**The Westin Excelsior Rome**, durante la cerimonia di presentazione della guida, che quest’anno celebra il suo&nbsp;**Silver Jubilee**, 25 anni di attività nella recensione dell’olio extravergine.
+
 ![](/images/wp-content/uploads/2024/12/fattoria-amborosio_guida-flos-olei-2025_azienda-dell-anno.webp)
  
 

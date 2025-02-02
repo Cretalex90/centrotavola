@@ -54,6 +54,7 @@ Rappresento la terza generazione di un ristorante che esiste da 60 anni e che è
 **_Da cosa è nato il cambiamento della &#8220;natura&#8221; del ristorante?_**
 
 Il cambiamento da trattoria a gourmet è stato quasi un&#8217;esigenza di marketing. A inizio anni novanta qui nella zona del lago c&#8217;erano tante trattorie, molte delle quali simili tra loro nell&#8217;offerta gastronomica e nel tipo di locale. Mio padre, per differenziare il nostro ristorante, ha optato per un cambio di passo cercando di elevare il tipo di cucina, sperimentando e iniziando a fare anche ricerca di prodotti non necessariamente locali. Tanto che iniziammo a trattare materie prime particolari, ricordo l&#8217;agnello della Nuova Zelanda, lo struzzo, il foie gras &#8230; La mia carriera è partita proprio da qui, dallo studio di ciò che era esterno alla regione per capire ciò che c&#8217;è fuori dall&#8217;Umbria. Al termine di questo percorso, però, io sono tornato a trattare prodotti del territorio e della tradizione, con tecniche non più da trattoria ma mantenendo lo stile adottato da mio padre.
+
 ![](/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-06-web.webp)
  
 

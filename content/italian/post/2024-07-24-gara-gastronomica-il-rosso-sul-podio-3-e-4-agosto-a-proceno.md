@@ -21,6 +21,7 @@ L&#8217;evento è reso possibile grazie alla collaborazione con Slow Food Viterb
 ### Il concorso e la giuria {.wp-block-heading}
 
 Vittoria Tassoni, presidente della giuria, sarà incaricata di scegliere il piatto vincitore, che potrà essere un primo, un secondo o un dolce. Tassoni, cuoca dell&#8217;Alleanza Slow Food, spiega lo spirito della competizione: &#8220;_Non è solo la voglia di mettersi in gioco, la grande passione per la cucina, per la sperimentazione e per le tradizioni, ma è anche la voglia di imparare insieme e apprendere modalità corrette e preziosi consigli dai diversi membri della giuria, senza mai dimenticare l’importanza nella scelta degli ingredienti, come in questo caso l’eccellenza dell’aglio rosso di Proceno, sino nell’esecuzione e infine nell’impiattamento_&#8220;. Tassoni sottolinea inoltre l&#8217;importanza della lotta allo spreco, criterio fondamentale nella valutazione dei piatti.
+
 ![](/images/wp-content/uploads/2024/07/whatsapp-image-2024-07-24-at-10.45.36-1.webp)
  
 

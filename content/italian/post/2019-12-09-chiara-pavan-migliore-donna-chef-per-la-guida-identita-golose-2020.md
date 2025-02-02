@@ -16,6 +16,7 @@ images: ["/images/wp-content/uploads/2019/12/schermata-2019-12-09-alle-20.40.50.
 È **Chiara Pavan** la **Miglior Donna Chef** per la **Guida Identità Golose 2020**: veronese classe 1985, alla guida del ristorante stellato **Venissa** sull’isola di Mazzorbo (Venezia), è stata premiata da **Acqua Panna e S.Pellegrino**.
 
 L’importante riconoscimento è stato assegnato durante la presentazione della tredicesima edizione della Guida che dal 2008 premia le giovani stelle del panorama gastronomico italiano e internazionale. Quest’anno sono oltre 1100 le insegne sperimentate in tutto il Mondo, per un totale di 50 paesi rappresentati in tutti i continenti. Una guida, in continuo aggiornamento, dal forte respiro internazionale.&nbsp;
+
 ![](/images/wp-content/uploads/2019/12/chiara-pavan-credits-brambilla-serrani.webp)
  
 

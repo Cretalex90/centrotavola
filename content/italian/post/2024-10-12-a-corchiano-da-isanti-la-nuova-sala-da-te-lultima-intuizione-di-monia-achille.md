@@ -19,6 +19,7 @@ images: ["/images/wp-content/uploads/2024/10/whatsapp-image-2024-10-12-at-16.10.
 _Isanti, la pluripremiata pasticceria di Corchiano (in provincia di Viterbo) arricchisce la sua proposta con una bella novità. Inaugurata e già da metà ottobre operativa una sala dedicata al mondo del tè, con selezioni e prodotti provenienti da tutto il mondo. Su prenotazione poi la possibilità di vivere l’esperienza legata al rito del tè inglese o marocchino._ _Con prodotti tipici delle due tradizioni._
 
 Per gli appassionati, o i semplici curiosi, del **mondo del tè** nella Tuscia e dintorni. Da [**Isanti panetteria pasticceria caffetteria cioccolateria**](https://www.facebook.com/IsantiPaneDolciCaffeCiccolata) un nuovo spazio dedicato a una delle bevande più consumate al mondo, con spunti educativi sulla sua cultura, storia e del suo servizio. A Corchiano l’ormai affermata e pluripremiata pasticceria/bar ha inaugurato una sala in cui poter **assaporare tè da tutto il mondo**, molti dei quali inediti e accuratamente selezionati. Disponibile, poi, su prenotazione, l’esperienza dell’**autentico servizio all’inglese o alla marocchina**, accompagnato da prodotti tipici legati a entrambi i riti per calarsi ancor più nel mondo, nelle atmosfere e sfumature, delle tradizioni legate a questa bevanda.
+
 ![](/images/wp-content/uploads/2024/10/whatsapp-image-2024-10-12-at-16.10.41.webp)
  
 

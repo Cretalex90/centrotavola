@@ -16,6 +16,7 @@ images: ["/images/wp-content/uploads/2020/08/risotto-blu-mare-ricetta-.webp"]
 ## Avete mai sentito parlare del **Natural Blue foods**?  {.wp-block-heading}
 
 Si tratta di un estratto naturale di spirulina e mela 100%, senza alcun additivo sintetico né solvente organico. Ne basta una piccola quantità per colorare. I **Natural Blue Foods** sono privi di sapore, per questo adatti a preparazioni sia dolci che salate, sono puramente di origine vegetale (adatti anche a preparazioni vegane). Infine, sono idrosolubili e liposolubili.
+
 ![](/images/wp-content/uploads/2020/08/img-20200818-wa0005__01.webp)
  
 

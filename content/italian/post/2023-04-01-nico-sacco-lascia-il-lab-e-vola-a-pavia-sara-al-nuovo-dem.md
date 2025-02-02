@@ -22,6 +22,7 @@ _**E no amici miei, Nico Sacco non lavora più al Lab. Se anche un minimo lo seg
 Da qualche settimana a questa parte ormai dall&#8217;altra parte del bancone del Lab però non c è più Nico, volato a **Pavia** per abbracciare un nuovo progetto. Un progetto, se conosco un minimo Nico, in grado di sfamare e soddisfare la sua mai doma ambizione professionale.
 
 Fa strano scrivere un pezzo del genere perché Nico l&#8217;ho imparato a conoscere negli ultimi anni, da quando Michele Schirripa gli ha affidato metaforicamente le chiavi del Lab, per renderlo da cocktail bar pettinato e patinato un locale vero, serio, capace di far parlare di sé per l&#8217;ottima qualità generale proposta. Tanto al bancone quanto in cucina. E il team viterbese **ci è riuscito**, eccome se ci è riuscito.
+
 ![](/images/wp-content/uploads/2023/04/officina-visiva-foto-drink-list-lab-viterbo-nico-sacco-02a-1781342623-e1680350514443.webp)
  
 
@@ -34,6 +35,7 @@ Ma come per la maggior parte delle storie, anche le più belle, giunge il moment
  
 
 &#8220;Il bancone principale avrà due postazioni barman &#8211; si legge nella presentazione ufficiale – da qui usciranno i grandi classici e avremo una drink list con Signature facili, freschi e giocosi. All&#8217;interno del bancone principale ci saranno 12 sgabelli. Nell&#8217;altro lato del locale adotteremo un diverso tipo di mood, ci sarà un bancone con un bartender e uno chef in contemporanea, con il nome di Taste Experience. Il menù del food e del beverage sarà quasi totalmente incentrato sullo stile giapponese, siamo come servizio che sulla scelta di prodotti. Ci saranno 8 posti al bancone. I signature del Taste Experience verrano solo serviti al bancone. I dettagli saranno o più curati e ci sarà un&#8217;esperienza più intima. In parole povere un&#8217;attenzione maniacale verso il cliente. All&#8217;interno del locale avremo 60 posti interni e 60 posti esterni. Due volte al mese, di preciso il mercoledì avremo nella Taste Experience delle Guest con Bartender del panorama nazionale ed internazionale. Questa sarà la prima apertura del Dem. E poi chissà&#8230;&#8221;
+
 ![](/images/wp-content/uploads/2023/04/unknown.webp)
  
 

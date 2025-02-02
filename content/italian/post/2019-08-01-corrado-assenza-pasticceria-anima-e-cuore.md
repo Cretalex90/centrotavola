@@ -42,6 +42,7 @@ Posso dirti quelli che io desidero che siano: genuinità, freschezza, stagionali
 **_Nel grande successo che negli ultimi anni ha riscontrato l’alta cucina italiana, quanto crede abbia influito la pasticceria?_**
 
 Dobbiamo considerare un fatto: nell’attuale mondo dell’alta cucina la pasticceria è stata confinata a un ruolo molto marginale. Fai caso a quante pietanze ha un cuoco per esprimere e declinare il suo pensiero e a quante pietanze ha un pasticcere da proporre in un menù. Massimo due con la piccola pasticceria. È uno strapotere del sale, la nostra è una cultura sapida, a scapito di quella più zuccherina.
+
 ![](http://progressonline.it/wp-content/uploads/2019/04/Assenza_Oltre-gli-asparagi.-A-cosa-serve-una-passeggiata.-Pensieri-di-primavera-1024x683.webp)
  
 

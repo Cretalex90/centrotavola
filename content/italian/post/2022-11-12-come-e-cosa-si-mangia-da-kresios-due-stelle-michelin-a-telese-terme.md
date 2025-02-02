@@ -21,9 +21,11 @@ categories:
 L’arrivo delle portate segue un ritmo tambureggiante: un continuo andirivieni tra cucina e sala lascia poco tempo alle pause morte, tenendo sempre sull’attenti durante un lungo percorso che procede spedito.
 
 Il **menu** è alla cieca: volente o nolente si fa totale affidamento allo chef (pur, per l’occasione, Iannotti non presente in cucina). A molti non piace questo sistema, a me (a certi livelli) onestamente sì. Attesa e sorpresa rendono il tutto più coinvolgente, ma a tanta curiosità corrisponde altrettanta aspettativa. Parere mio; probabilmente l’intero menu (oltre 20 portate totali), nel complesso risulta un po’ **dispersivo**.
+
 ![](/images/wp-content/uploads/2022/11/kresios-piatti-menu-cosa-si-mangia-1.webp)
 
 Pecca di un filo conduttore (perlomeno riconoscibile), di un nesso comune a legare le molte proposte. Alla fine ne esce un percorso simile a una montagna russa, un sali scendi tra piatti davvero super e altri che mancano un po’ le aspettative, un tour tra portate di cui vorresti fare il bis (e tris) e altre più sottotono. Uno dei piatti più rappresentativi (e attesi) del ristorante, la pasta allo scoglio (spaghetti cotti in una riduzione di oltre 50 varietà di pesci) arriva troppo al dente e particolarmente salato. **Pochi riferimenti** al territorio e alle materie prime locali, peccato.
+
 ![](/images/wp-content/uploads/2022/11/pasticceria-kresios-cosa-si-mangia-1.webp)
 
 <img loading="lazy" decoding="async" height="16" width="16" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t60/1/16/1f51d.webp" alt="🔝" /> Tra i miei preferiti: pancia di maiale arrosto, parmigiana di melanzana fritta e marinata, agnello con fungo shiitake e salse al topinambur e carciofo. Giocoso e **divertente** pane e pomodoro; ripieno della sua salsa concentrata essiccata al sole (foto copertina), da spalmare con le mani sulla mollica prima dell’aggiunta di origano e olio.

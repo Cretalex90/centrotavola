@@ -23,6 +23,7 @@ images: ["/images/wp-content/uploads/2024/06/mamme_alessandro_creta.png.webp"]
 _Nascosto tra le viuzze del borgo medievale di Stroncone,&nbsp;in provincia di Terni,&nbsp;si trova Mammè,&nbsp;un ristorante che rappresenta un vero e proprio gioiellino tutto da scoprire, risultato di un mix di culture e influenze di cui si fa portatore lo chef._
 
 Nato dal sogno di **Tommaso Montineri**, giovane chef locale che ha viaggiato per il mondo (**Australia**&nbsp;tra Sidney e Melbourne,&nbsp;**Sud Est Asiatico**&nbsp;e&nbsp;**Londra** le esperienze più significative) per poi ritornare alle sue radici, **Mammè** offre un&#8217;esperienza gastronomica che unisce la tradizione umbra con le esperienze oltre confine vissute dallo stesso Tommaso. Lo stile del locale è un mix di rustico e contemporaneo,&nbsp;con arredi che richiamano le case di un tempo e un&#8217;atmosfera elegante ma informale.&nbsp;Il servizio è curato e familiare,&nbsp;grazie alla presenza di Rita,&nbsp;la mamma di Tommaso,&nbsp;che accoglie i clienti con calore e il giusto grado di informalità.
+
 ![](/images/wp-content/uploads/2024/06/chef_mamme.webp.webp?w=1024)
  
 

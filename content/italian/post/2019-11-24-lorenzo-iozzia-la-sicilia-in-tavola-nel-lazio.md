@@ -65,6 +65,7 @@ Credo non ci sia nessuno che lavora per ottenere la stella Michelin, ma si perse
 **_Dopo la prima stella si inizia a lavorare per la seconda?_**
 
 Si pensa a lavorare alla seconda ma con l’obiettivo di mantenere la prima. Dobbiamo fare sempre meglio ma non per la stella in sé ma prima di tutto pensando al cliente. Bisogna andare avanti, puntando mentalmente alla seconda stella con la consapevolezza che per entrare nel parterre dei bistellati, che conta appena 39 ristoranti, bisogna ingranare quella marcia in più per raggiungere gli standard tracciati da loro.
+
 ![](/images/wp-content/uploads/2019/08/pla0001.webp)
  
 

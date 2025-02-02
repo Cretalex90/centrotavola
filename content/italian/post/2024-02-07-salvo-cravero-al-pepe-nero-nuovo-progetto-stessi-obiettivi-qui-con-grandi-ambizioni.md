@@ -26,6 +26,7 @@ images: ["/images/wp-content/uploads/2024/02/pepe-nero-spaghettone.webp"]
  
 
 Eccoci a **Capodimonte**. Il ristorante è il **Pepe Nero**, locale che “ingaggiando” lo chef ha deciso di abbracciare una filosofia in grado di puntare con maggior forza sul fine dining. Salvo, dopotutto, arriva qui con grandi ambizioni. Ambizioni nemmeno troppo nascoste, anzi dichiarate, con l’obiettivo di ottenere sulle rive del lago vulcanico più grande d&#8217;Europa importanti riscontri e riconoscimenti. Dalla clientela i primi, e conseguentemente dalle guide i secondi. **Il nuovo corso è partito** da pochissimo: appena un paio di mesi dall’arrivo in cucina dello chef, periodo che definire di “gestazione” è riduttivo, specialmente se parliamo di un certo tipo di cucina e della difficoltà derivanti dal voler puntare su una proposta **gourmet**. Il segnale però è stato lanciato e il rodaggio è ormai avviato. Tutto il team del Pepe Nero è pronto per questo nuovo viaggio con Salvo in cabina di comando. La barca vuole prendere il largo.
+
 ![](/images/wp-content/uploads/2024/02/schermata-2024-02-07-alle-18.40.16.webp)
  
 

@@ -21,6 +21,7 @@ images: ["/images/wp-content/uploads/2022/11/menu-sud-ristorante-terni.webp"]
 Impossibile quindi parlare in termini assoluti perché anche per chi ci lavora è tutta ancora una **scoperta quotidiana**, e la rotta deve essere imbeccata con decisione. Quello che è stato ieri non è quello che è oggi e non è quel che sarà domani. Per questo solitamente attendo qualche mese prima di visitare una nuova apertura, per arrivare in un locale che abbia già sviluppato una sua personalità. 
 
 Allo stesso tempo, però, è interessante scoprire e seguire il percorso di crescita di una realtà, specialmente se fatta di giovani e da giovani come quella di Sud e in un centro non facile come **Terni**.
+
 ![](/images/wp-content/uploads/2022/11/menu-sud-ristorante-terni-1-edited.webp)
  
 
@@ -31,6 +32,7 @@ La proposta di cucina oggi, come ammesso dallo chef, è più indirizzata a **inc
 Magari (mio pensiero) costruendo un percorso attorno al **pesce d’acqua dolce**, materia non semplice e magari apparentemente poco accattivante, specialmente quando ci si trova nella terra di tartufi e carni. Questo, però, si vedrà più avanti.
 
 Sud è come un **vino ancora giovane** che ha bisogno di tempo per affinare, svilupparsi e perfezionarsi. A proposito di vini interessante la cantina presente, con le etichette (nazionali e non) ben raccontate, con precisione, passione e cura, dal _maitre_ e _sommelier_ Claudio Dragotto, figlio dei proprietari.
+
 ![](/images/wp-content/uploads/2022/11/sud-ristornte-terni-menu-1.webp)
  
 

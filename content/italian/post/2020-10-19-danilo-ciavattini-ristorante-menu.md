@@ -19,6 +19,7 @@ images: ["/images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food
 Lo chef usa la tradizione come trampolino di lancio verso una proposta che sembra migliorare di anno in anno. Una proposta in continua evoluzione grazie anche alla capacità critica, e autocritica, di uno chef che non considera mai “_definitivo_” il piatto al tavolo, ma rimane sempre aperto a nuovi cambiamenti, aggiustamenti, modifiche.
 
 Il menu del <a rel="noreferrer noopener" href="https://www.danilociavattini.com/" target="_blank">Ciavattini Ristorante</a> cambia volto, colori e sapori con l&#8217;offerta autunnale che entra sia in carta che nel menu degustazione. A non mutare è il filo rosso che collega i piatti, il leitmotiv della cucina dello chef, fatta di ingredienti del territorio che replicano sul piatto il sapore della Tuscia.
+
 ![](/images/wp-content/uploads/2020/10/offiicina-visiva-ale-pepe-foto-food-stella-michelin-danilo-ciavattini-8.webp)
  
 

@@ -23,12 +23,14 @@ images: ["/images/wp-content/uploads/2024/12/coro-ristorante-orvieto-cena-bukri-
 _Lo scorso 2 dicembre il ristorante all&#8217;interno di Palazzo Petrus, a poca distanza dal Duomo cittadino, ha ospitato Terry Giacomello per una cena a 4 mani con il resident chef Ronald Bukri. &#8220;Una bella serata tra amici&#8221; hanno dichiarato i protagonisti, che hanno condiviso in passato la cucina di Inkiostro a Parma._
 
 **_Ritorno alle Origini_**. Questo il titolo della serata che lo scorso 2 dicembre ha visto protagonisti a Orvieto, al ristorante **Coro**, lo **chef resident Ronald Bukri** e **Terry Giacomello** di Nin sul Lago di Garda. Ritorno alle origini, perché la cena evento è nata quasi come una rimpatriata, oltre che da vecchi colleghi, soprattutto tra amici ormai di lunga data. Due anni per Ronald nella cucina di Inkiostro, ristorante di Parma divenuto famoso in passato grazie proprio a Giacomello, un biennio che ha rappresentato un&#8217;importante esperienza formativa per l&#8217;attuale chef di Coro. &#8220;_Quando abbiamo aperto qui_ &#8211; racconta &#8211; _avevo promesso a Terry che l&#8217;avrei invitato per una cena a 4 mani, e finalmente ci siamo riusciti_&#8220;.
+
 ![](/images/wp-content/uploads/2024/12/menu-coro-orvieto-cena-4-mani-alessandro-creta.webp)
  
 
 &#8220;_Quello che cerchiamo di fare è far divertire l&#8217;ospite, riuscire a creare un&#8217;emozione. Ringrazio Francesco e Ronald, con il quale c&#8217;è un grande rapporto anche di amicizia, per avermi invitato. È stata una bella reunion_&#8221; ha invece ammesso l&#8217;ospite della serata, chef del ristorante stellato Nin a Brenzone sul Garda. 
 
 La serata, partecipata a livello di clientela, ha visto un menu in cui i piatti, alcuni storici, di Giacomello si sono alternati con le proposte (alcune ideate appositamente per la serata) di Bukri, per un **percorso degustazione** quanto più possibile armonioso, piacevole e coerente. Per l&#8217;occasione l&#8217;abbinamento ha visto protagonisti i vini firmati **Cotarella**, eccellenza del territorio conosciuta in tutta Italia, e non solo.
+
 ![](/images/wp-content/uploads/2024/12/aa63a770-44f6-46e6-a64f-454cd81c2b7c.webp)
  
 

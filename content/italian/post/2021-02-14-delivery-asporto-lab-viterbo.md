@@ -15,6 +15,7 @@ images: ["/images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food
 ### Mangiare a casa a come al ristorante. Bere a casa come al cocktail bar.&nbsp; {.wp-block-heading}
 
 A Viterbo un progetto ambizioso quello del [LAB](https://www.instagram.com/lab_viterbo/), un bistrot celato dietro la definizione di cocktail bar che sogna in grande e vuole offrire ai clienti un’esperienza gastronomica completa, che combini buon cibo (con preparazioni che si basino sulla stagionalità e ricercatezza degli ingredienti) al bere bene. E farlo in modo diverso, originale, così da poter ricreare a casa un clima per quanto possibile simile all’atmosfera che si respira nel locale.&nbsp;
+
 ![](/images/wp-content/uploads/2021/02/officina-visiva-lab-restaurant-food-drink-foto-49.webp)
  
 

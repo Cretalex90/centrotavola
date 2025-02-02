@@ -22,6 +22,7 @@ tags:
 *Proprio quando mi stavo rassegnando per quanto riguarda il cibo ad Alicante, ecco che come un’oasi nel deserto compare un’insegna, una luce nel buio: Alba Restaurante.*
 
 Non esagero, dopo giorni in cui ho mandato giù (metaforicamente e letteralmente) più delusioni che piatti che mi hanno colpito (l’offerta gastronomica era davvero povera), dopo una camminata di una 15ina di minuti dal centro arrivo a un ristorante che mi aveva consigliato direttamente dall’Italia una persona fidata. Un locale al quale probabilmente non sarei mai giunto senza questa dritta, perché leggermente dislocato rispetto a dove fossi di base e in cui ero “circondato” da indirizzi per lo più turistici.
+
 ![](/images/wp-content/uploads/2024/09/img\_9266.webp)
 
 **Alba Restaurante** è stato aperto circa 3 anni fa da **Alba Esteve Ruiz** (assieme al compagno e maitre Michel), chef originaria della zona alicantina con alle spalle un’importante esperienza a Roma nelle cucine di Marzapane. Esperienza, col senno di poi, direi quasi salvifica considerata l’ottima, originale, proposta. Ottima offerta, a mio parere, perché non legata strettamente alla gastronomia di qui ma figlia di un mix che nasce sull’asse Città Eterna-Costa Valenciana.
@@ -48,6 +49,7 @@ Qua la concezione è completamente diversa, qui è raro lo schema antipasto, pri
 ***Qui ti porti dietro l’esperienza di Roma. Per esempio c’è un piatto che proponi da 11 anni ormai: gambero, burrata e chips di pistacchio…***
 
 Sì, dal 2013. Dall’esperienza a Roma, durata 13 anni, mi porto tanto, alla fine io mi sento 50% spagnola e 50% italiana, se non proprio romana. Allo stesso modo, però, anche quando ero a Roma mantenevo le mie radici spagnole, la mia identità, ho sempre cercato di trovare il giusto mix tra le due cucine, le due culture. Sono parte di me, non le posso togliere e le esprimo tramite i miei piatti.
+
 ![](/images/wp-content/uploads/2024/09/5ece3a9d-e992-49d2-bcea-6b6a42453685-1467045626-e1727429676186.webp)
 
 ***E anche in virtù di ciò, della natura della tua cucina un po’ inedita per qui, come ricordi il primo periodo di apertura?***

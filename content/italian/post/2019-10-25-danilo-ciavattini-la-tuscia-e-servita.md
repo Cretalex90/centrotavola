@@ -62,6 +62,7 @@ Quando ho aperto il Danilo Ciavattini Ristorante avevo l’obiettivo di cucinare
 **_Uno chef per ideare i suoi piatti parte da ciò che pensa possa piacere alla gente oppure dai propri gusti personali?_**
 
 A me piace lavorare con quello a cui sono affezionato, quindi lavoro in base al mio gusto e cerco di presentare il piatto il più fedelmente possibile alla mia idea di cucina.
+
 ![](/images/wp-content/uploads/2019/08/dbs2227.webp)
 
 

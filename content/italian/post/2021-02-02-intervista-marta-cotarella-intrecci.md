@@ -75,6 +75,7 @@ Negli ultimi tempi si è mosso qualcosa, alla sala sta venendo riconosciuto il v
 
 **_Per chiudere, quali credi siano le tre qualità principali di un ottimo cameriere?_**  
 Per noi di Intrecci le tre caratteristiche essenziali della sala sono la classe, intesa come eleganza nell’accoglienza, il carattere, cioè anche la capacità di esprimere il proprio io pur sempre al servizio del cliente e il calore, tipico del nostro Paese, la capacità di accogliere che solo noi italiani abbiamo.
+
 ![](/images/wp-content/uploads/2021/01/officina-visiva-ale-pepe-foto-giornalismo-intrecci-11.webp)
 
 

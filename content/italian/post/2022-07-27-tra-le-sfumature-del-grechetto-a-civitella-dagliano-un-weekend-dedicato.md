@@ -25,6 +25,7 @@ Due giorni per esperti, addetti ai lavori o semplici appassionati di **vino** al
 Non solo una due giorni aperta al pubblico. Produttori, giornalisti e blogger si sono infatti ritrovati in occasione dell’evento organizzato nel borgo che affaccia sulla **Valle dei Calanchi**, in un weekend in cui tra le vie del paese sono state messe in mostra tutte le sfumature e le particolarità di un vitigno a bacca bianca forse ancor poco conosciuto alla platea del grande pubblico. È emerso come il **Grechetto** sia un vino capace, se ben trattato, anche di risultare adatto all’invecchiamento. 
 
 Durante l’evento si è tenuta una degustazione di **7 Grechetto d’annata** (tra i quali spiccava il Poggio della Costa di Sergio Mottura, 2010) tenuta nel suggestivo cassero dell’antica torre che sovrasta la piazza principale, allestita con stand gastronomici e i primi banchi d’assaggio per gli appassionati giunti a Civitella.
+
 ![](/images/wp-content/uploads/2022/07/civitella-agliano-grechetto.webp)
  
 

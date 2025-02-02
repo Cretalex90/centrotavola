@@ -33,6 +33,7 @@ Enrico non lo si vede in tv e si concede poco al grande pubblico, eppure è uno 
 Un riconoscimento che fa seguito al Grand Prix de l’Art de la Cuisine (il “premio Nobel” della cucina) assegnato nel marzo 2017 dall’Académie Internationale de la Gastronomie, con sede a Parigi.<span class="Apple-converted-space">&nbsp;</span>
 
 Nell’ultima edizione di “Identità Golose” Enrico Crippa ci ha parlato del suo mondo, della sua cucina e della cucina italiana in generale. Una cucina che come mai prima d’ora riscuote credito e apprezzamenti a livello mondiale. A tu per tu con lo Yoda degli chef di casa nostra, ecco cosa ci ha detto&#8230;
+
 ![](/images/wp-content/uploads/2019/07/piazza-duomo-gallery-cucina-00001-hd.webp)
  
 
@@ -47,6 +48,7 @@ Bisogna sempre andare verso il meglio, io ritengo che adesso siamo maturati molt
 **_Le 3 stelle Michelin sono un punto di arrivo o di nuova partenza?_**
 
 Lavoro ogni giorno come se non le avessi mai conquistate o come se ce ne fosse una quarta da raggiungere. È importante questo, non bisogna mai sedersi sugli allori o considerarsi arrivati. È una consacrazione del lavoro e dello sforzo che fai quotidianamente, ma non devi mai abbandonare la routine e il sapere che deriva dall’esperienza. È uno stimolo continuo.
+
 ![](/images/wp-content/uploads/2019/07/piazza-duomo-003.webp)
  
 

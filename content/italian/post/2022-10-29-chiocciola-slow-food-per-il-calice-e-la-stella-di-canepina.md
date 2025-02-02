@@ -14,6 +14,7 @@ categories:
 ---
 
 Credo che negli ultimi giorni in zona non si sia parlato abbastanza dell’ultimo risultato raggiunto da Felice Arletti, capace con il suo **Il Calice e la Stella** (a Canepina, Vt) di conquistare la **Chiocciola Slow Food** dopo 10 anni di segnalazioni nella guida del cibo buono pulito e giusto.
+
 ![](/images/wp-content/uploads/2022/10/canepina-slow-food-osteria-calice-stella-edited.webp)
 
 Che cos’è la Chiocciola Slow Food? È un riconoscimento per i locali che si distinguono impegnandosi con dedizione a proporre una cucina **tipica, territoriale e accessibile**, coerente con una filosofia legata al rispetto della sostenibilità ambientale, a partire dal cibo. Cibo buono, pulito e giusto, per l’appunto. Un bel premio per Felice, la sua squadra, e un’altra bella bandierina fissata in **Tuscia**.

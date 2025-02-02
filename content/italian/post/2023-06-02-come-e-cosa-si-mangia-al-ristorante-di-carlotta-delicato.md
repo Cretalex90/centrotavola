@@ -30,6 +30,7 @@ Questo mio pensiero è stato confermato dall’ultima visita al **ristorante Del
  
 
 A Carlotta piacciono le sfide e più sono complicate più si mette in testa di portarle al termine. Il suo ristorante con annesso successo è la cartina di tornasole della sua mentalità. Un locale piccolo in un posto piccolo e tranquillo, un contesto discreto per una meta che non si raggiunge poi così facilmente. Non si arriva certo per caso qua, le grandi rotte turistiche sono altrove, ma questo è esemplificativo della sfida raccolta (e fin qui riscossa) da **Carlotta** in cucina e suo marito **Gabriele** in sala. Il ristorante, infatti, è a totale conduzione famigliare. E la famiglia è giovane, molto giovane: 29 anni lei, 34 lui, con un bimbo di due anni che li aspetta a casa. E tutto è stato costruito in modo sartoriale per poter conciliare **famiglia e lavoro**: numero di coperti ridotto (massimo 24 commensali), abolite le lunghe preparazioni per poter attuare una cucina dal vivo, immediata, agilmente e facilmente disponibile.
+
 ![](/images/wp-content/uploads/2023/05/officina-visiva-creta-alessandro-cookist-carlotta-delicato_contigliano_rieti_33.webp)
  
 
@@ -38,6 +39,7 @@ Allora parliamone, della cucina. Rubo una considerazione fatta da una commensale
  
 
 È però una cucina **genuina**, che rispecchia il territorio ma non si fissa sul chilometro zero. Una cucina coerente con ciò che Carlotta racconta e trasmette, tanto a parole quanto con gli occhi. Che cosa si mangia? Innanzitutto (almeno per ora) non c&#8217;è un menu degustazione: &#8220;Voglio lasciare liberi i clienti di scegliere i piatti secondo i loro gusti, non costringerli a mangiare ciò che dico io&#8221;, confessa la chef. Non è escluso in futuro, però, un piccolo percorso proposto dalla cucina.
+
 ![](/images/wp-content/uploads/2023/05/officina-visiva-creta-alessandro-cookist-carlotta-delicato_contigliano_rieti_25.webp)
  
 

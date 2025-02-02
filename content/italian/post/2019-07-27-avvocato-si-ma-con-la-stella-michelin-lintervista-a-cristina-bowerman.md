@@ -22,6 +22,7 @@ tags:
 _Da Cerignola a San Francisco, and return. E’ la storia di Cristina Bowerman, una delle prime donne chef italiane ad aver conseguito la stella Michelin._<span class="Apple-converted-space">&nbsp;</span>
 
 Una storia quantomeno strana la sua, che non vede Cristina armeggiare ai fornelli sin dalla giovane età come molti altri colleghi. Lei infatti studia giurisprudenza, consegue la laurea e sogna un futuro da avvocato. Per realizzare il suo progetto si trasferisce negli Usa ma qui, invece di proseguire un percorso che sembrava già tracciato, viene folgorata dal mondo della cucina. Un colpo di fulmine, che spinge Cristina a abbandonare arringhe e un futuro in aula per una nuova strada, quella che la porterà anni più tardi a ottenere la stella Michelin. E a farlo in Italia, dove a Roma ha aperto il Glass Hostaria ed il Romeo – Chef & Baker.
+
 ![](/images/wp-content/uploads/2019/07/bowerman-cristina_1.webp)
  
 
@@ -34,6 +35,7 @@ E’ maggiore la volontà di far parte di un progetto che si sviluppa giornalmen
 **_Lei è originaria della Puglia e si è formata a San Francisco, come si combinano in cucina questi suoi due aspetti apparentemente così distanti e diversi?_**
 
 In realtà non si combinano, ma si abbracciano. L’America ti insegna la capacità di comprendere che esistono molti altri mondi oltre al tuo, altrettanto belli e interessanti, profondi e buoni. L’Italia è un po’ più restìa all’apertura, è più legata alla tradizione, abbraccia più una mentalità che sostiene “Noi siamo i migliori…la nostra cucina è la migliore…”. La combinazione di queste due realtà però spesso sa creare un bel binomio.
+
 ![](/images/wp-content/uploads/2019/07/1381752661.webp)
  
 
@@ -52,6 +54,7 @@ Secondo me il problema è a monte, c’è poca capacità critica da parte dello 
 **_E’ più semplice oggi per un giovane decidere di iniziare a cucinare considerando i molti modelli che si trova di fronte? 20-30 anni fa era una scelta più difficile e magari meno “influenzata” dall’esterno?_**
 
 Parlare di facilità no, magari un giovane oggi ha più competizione ma anche più mezzi rispetto a qualche decennio fa. Mentre 30 anni fa si sarebbe intrapresa questa carriera con più difficoltà ma con meno competitors, oggi si hanno più competitori ma molti più mezzi. Ci sono scuole, stage, corsi, libri, internet, programmi: direi che siamo pari. Poi è un dato di fatto che, essendo circondati da tutti questi role models, oggi la professione venga maggiormente trainata e un giovane può risultare maggiormente influenzato nella sua scelta lavorativa. Però ripeto, sta alla capacità critica di ognuno capire che c’è una bella differenza tra quello che si vede in tv e quello che in realtà è.
+
 ![](/images/wp-content/uploads/2019/07/1381752602.webp)
  
 
@@ -66,6 +69,7 @@ E’ la stessa soluzione di continuità, non c’è una distinzione. La cucina d
 **_Tutti grandi artisti sono stati caratterizzati da un velo di stravaganza. Anche un grande chef, così come un artista, deve essere a suo modo stravagante?_**
 
 Dall’esterno è importante capire però che quello che noi realizziamo non è 99 percento stravaganza e 1% lavoro, ma esattamente il contrario. La stravaganza è un’espressione della propria diversità o, meglio, del modo diverso di ognuno di noi di pensare. E’ una forma se vogliamo della personalità, quindi se per stravaganza intendiamo la capacità intuitiva di essere diversi allora ti rispondo di sì.
+
 ![](/images/wp-content/uploads/2019/07/rg_orig_029_021740andreafedericiphoto.webp)
 
 

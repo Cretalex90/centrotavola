@@ -21,10 +21,12 @@ _A Terni, la macelleria Pucci non è solo un luogo dove acquistare carne, ma un 
 Situata a Terni, **Pucci** offre un&#8217;esperienza unica, combinando macelleria, gastronomia, cucina con brace e BBQ, e un piccolo bar per aperitivi o dopocena. 
 
 La storia di Pucci inizia nel secondo dopoguerra, quando i fratelli Ugo, Angelo e Filippo Pucci aprirono la loro **macelleria**. Oggi, sotto la guida di **Andrea Pucci**, figlio di Ugo, l’attività è diventata un punto di riferimento non solo per i ternani ma anche per clienti provenienti da fuori, come per esempio Roma e Napoli. Gran parte delle carni lavorate provengono da allevamenti locali, con una selezione che predilige i prodotti umbri.
+
 ![](/images/wp-content/uploads/2024/06/pucci_taglieri_alessandro_creta_terni.webp)
  
 
 Pucci è più di una semplice macelleria: è un **tempio laico per gli amanti della carne di qualità**. Qui la carne non è solo venduta, è quasi venerata. Il locale offre un’ampia varietà di prodotti, tutti rigorosamente lavorati in loco o dal norcino o dallo staff altamente qualificato distribuito tra l&#8217;ampio bancone e le cucine. Dalle bistecche agli insaccati, con una menzione speciale per la porchetta, vera istituzione del posto. Il banco accoglie i clienti con una vasta gamma di carni fresche, mentre un frigorifero per la frollatura e prosciutti appesi creano l’atmosfera perfetta.
+
 ![](/images/wp-content/uploads/2024/06/pucci_sala_alessandro_creta_terni.webp)
  
 

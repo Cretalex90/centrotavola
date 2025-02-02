@@ -68,6 +68,7 @@ Credo che quell’episodio sia stato un unicum, fatto una volta non verrà ripet
 **_Per concludere, riesce mai a staccare la spina dal suo lavoro?<span class="Apple-converted-space">&nbsp;</span>_**
 
 Devo dire che il senso di colpa rispetto alla mia vita privata è un po’ mitigato dal fatto che il mio compagno lavori con me. Mi ricordo che quando ero una cuoca alle prime armi, gli dicevo: “Dovessi scegliere tra te e il mio lavoro io sceglierò sempre il lavoro”. Questa è una sorta di vocazione “di famiglia”: in particolare mio papà è stato quasi un modello per me, un medico che ha dedicato tutta la sua vita al lavoro. Il lavoro per me è un modo per esprimere la parte più profonda, non esiste una divisione tra la Klugmann privata e la Klugmann cuoca, io sono quello che faccio e in questo c’è il mio piacere.
+
 ![](/images/wp-content/uploads/2019/07/rosa-di-gorizia-cervo-polline-e-brodo-di-mirtilli.webp)
 
 

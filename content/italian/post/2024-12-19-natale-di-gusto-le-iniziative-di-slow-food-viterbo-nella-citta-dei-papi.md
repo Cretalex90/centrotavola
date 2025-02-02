@@ -19,6 +19,7 @@ categories:
 
 Mancano pochi giorni al Natale e il pranzo più importante delle festività sarà il protagonista dei **prossimi due show cooking del 21 e 22 dicembre** presso la ex chiesa San Giacomo e Martino in via Saffi, a Viterbo, nell’ambito degli eventi realizzati da Slow Food Viterbo e Tuscia per “*Il Natale più sorprendente è arrivato in città*”, della Camera di Commercio Rieti e Viterbo.\
 Saranno tre i cuochi dell’alleanza Slow Food a condividere i loro piatti e alcune ricette per questi momenti da passare in famiglia, in compagnia di tante “buone” e “pulite” eccellenze del nostro territorio.
+
 ![](/images/wp-content/uploads/2024/12/unknown.webp)
 
 **Sabato 21 Dicembre**: “Pesce di Lago e di mare: un trionfo a Natale” (dalle 17.00 alle 19.00)\

@@ -22,6 +22,7 @@ _Andrea Pechini è il pizzaiolo e proprietario del locale. Trentaduenne già con
  
 
 La testardaggine, in senso buono, e la consapevolezza dei propri mezzi di&nbsp;**Andrea&nbsp;Pechini**&nbsp;le si colgono&nbsp;anche (se non soprattutto) considerando il momento in cui ha aperto&nbsp;**Mactra**, la sua pizzeria in un piccolo borgo della provincia di Viterbo come&nbsp;**Vitorchiano**. Le serrande si sono alzate nel&nbsp;**gennaio 2021**, quando ancora si brancolava nel buio e si navigava a vista data&nbsp;l’emergenza&nbsp;Covid.
+
 ![](/images/wp-content/uploads/2023/09/79-officina-visiva-foto-pizza-italia-a-tavola-alessandro-creta-mactra-andrea-pechini_17.webp)
  
 
@@ -34,6 +35,7 @@ La partenza un po’ a singhiozzo date le circostanze legate&nbsp;all’emergenz
 ## Cosa si mangia da&nbsp;Mactra. Tra le pizze, un gran maritozzo salato {.wp-block-heading}
 
 Se solitamente i fuochi&nbsp;d’artificio&nbsp;sono riservati alla fine di un evento, da&nbsp;Mactra&nbsp;**si inizia subito con il botto**:&nbsp;**maritozzo salato**&nbsp;con lingua di manzo, cipolla di&nbsp;Tropea&nbsp;e salsa verde che è una vera esplosione di gusto, sapori ed odori.&nbsp;L’impasto&nbsp;è qualcosa di incredibile, le consistenze degli ingredienti giocano tra di loro e si trovano al palato.&nbsp;**Tanta roba davvero**: da alzarsi e andare a stringere la mano ad Andrea. Con un inizio del genere le aspettative non possono che alzarsi.&nbsp;Si prosegue poi con una&nbsp;**montanarina&nbsp;con mortadella e&nbsp;burrata**, gustosa e anche un po’ furba negli accostamenti, per poi cominciare con le pizze vere e proprie.
+
 ![](/images/wp-content/uploads/2023/09/79-officina-visiva-foto-pizza-italia-a-tavola-alessandro-creta-mactra-andrea-pechini_41.webp)
  
 

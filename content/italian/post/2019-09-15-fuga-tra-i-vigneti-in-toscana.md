@@ -13,6 +13,7 @@ images: ["/images/wp-content/uploads/2019/09/carpineto-tenuta-montepulciano-arco
 Vacanze al mare e caldo torrido alle spalle, la felicità si sposta in collina tra scorci più intimi, vallate incastonate tra i boschi, borghi rinascimentali, uliveti. Soprattutto vigneti a perdita d&#8217;occhio. Qui la natura si impone tra i grandi capolavori e tesori dell&#8217;umanità. Bellezza sontuosa ed armonia compongono un paesaggio che viene voglia di accarezzare.&nbsp;
 
 Anche la tavola cambia il suo gusto, le fragranze sono quelle dell&#8217;uva e del mosto, i sapori si fanno più intensi e nel calice, dopo tante bollicine e bianchi ghiacciati, si torna a desiderare un buon rosso, rotondo e profondo, magari da abbinare ai formaggi stagionati anche solo per una merenda o un pic nic sull&#8217;erba.
+
 ![](/images/wp-content/uploads/2019/09/carpineto-tenuta-montepulciano-i-vigneti.webp)
  
 
@@ -25,6 +26,7 @@ Si comincia da Montepulciano arroccata sulla cima di un colle, a sud della Tosca
 &nbsp;Un&nbsp;**_wine retreat_**&nbsp;di 184 ettari con un lago, boschi, uliveti e vigneti a perdita d&#8217;occhio. Qui è stata appena completata la nuova cantina nei colori della terra, distanziata dall&#8217;antico complesso settecentesco. All&#8217;interno un piccolo museo di antichi strumenti agricoli, una splendida sala degustazione dove fare tasting guidati (al momento per gruppi e su prenotazione) spaziando tra le varie annate e un wine shop dove acquistare vini direttamente in azienda. Tutto intorno un&#8217;ampia area verde che tra erba e fiori digrada su un piccolo lago naturale circondato da prati; sulla collina un uliveto monumentale di 12 ettari, all&#8217;origine di un olio di grande finezza.&nbsp;
 
 E&#8217; in questa tenuta che&nbsp;_Carpineto&nbsp;_produce il&nbsp;_Vino Nobile di Montepulciano Riserva Docg_: unica azienda toscana a produrlo nella sola versione Riserva, per tre anni di seguito unico Nobile nella Top 100 al mondo di Wine Spectator.&nbsp;
+
 ![](/images/wp-content/uploads/2019/09/carpineto-grandi-vini-di-toscana.webp)
  
 
@@ -85,6 +87,7 @@ _Vino Nobile di Montepulciano Riserva Carpineto 2015_
 **IL RESTO DEL TOUR ENOICO&nbsp;**
 
 Il giorno dopo vi aspetta la Val d&#8217;Orcia, un tripudio di natura assai ben preservata e che duetta con borghi, pievi, torri in un saliscendi di calanchi e colline fino ad arrivare a Montalcino, talmente famosa per un vino mito quale è il Brunello da far dimenticare talvolta la bellezza di un borgo rimasto pressoché intatto nel tessuto urbano, per quanto fin troppo densamente punteggiato di enoteche, wine bar e ristorantini che hanno fatto del Brunello il proprio nume tutelare.&nbsp;La&nbsp;**Tenuta di Montalcino**&nbsp;della&nbsp;_Carpineto_&nbsp;è&nbsp;a 500 mt sul livello del mare, uno degli insediamenti più alti della denominazione e più panoramici, con la vista che spazia sul centro storico del borgo e inquadra l&#8217;intero perimetro della cinta muraria. La leggera esposizione verso nord, in posizione panoramica e ventilata, dona ai vini un microclima unico che conferisce a questo Brunello intensi e complessi profumi, una bella freschezza, eleganza, e grande longevità. I casolari antichi in pietra ospitano la cantina d&#8217;affinamento.
+
 ![](/images/wp-content/uploads/2019/09/un-pic-nic-da-nobile.webp)
  
 

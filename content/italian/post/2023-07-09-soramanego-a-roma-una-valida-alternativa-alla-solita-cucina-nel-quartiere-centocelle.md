@@ -28,6 +28,7 @@ La **cucina è a vista**, altro trend particolarmente in voga tra le nuove apert
  
 
 E il resto? In entrata una **panzanella** che sembra un _rocher_: una gustosa pepita di pane nero, all’interno un pomodorino e crema di basilico alla base. Oltre al già citato antipasto con uovo, funghi e asparagi nota di merito per gli **agnolotti** ‘home made’ ripieni di **faraona**, chips della sua pelle, pomodorini canditi adagiati sul gustoso fondo dell’animale, ben tirato. Come secondo arriva un **coniglio arrotolato**, peperoni e ricotta, prima del **dolce**: **panna cotta** (dalla consistenza assolutamente non budinosa, ma gradevole e molto leggera) alla ciliegia e basilico. Referenze sarde come detto anche per quanto riguarda la piccola pasticceria: la **coccola finale** è la già citata pardulas con zafferano di San Gavino Monreale, materia prima tipica della zona d’origine dello chef e in fase di sperimentazione nella cucina del locale.
+
 ![](/images/wp-content/uploads/2023/07/pardulas-soramanego-roma.webp)
  
 
