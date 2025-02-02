@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - chef
   - chef stellati
-images: ["images/wp-content/uploads/2020/07/kotaro-noda-chef.webp"]
+images: ["/images/wp-content/uploads/2020/07/kotaro-noda-chef.webp"]
 ---
 ## Si corre il rischio di smarrirsi nel racconto della storia di Notaro Koda.  {.wp-block-heading}
 

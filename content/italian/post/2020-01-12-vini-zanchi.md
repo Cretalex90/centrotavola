@@ -10,7 +10,7 @@ categories:
   - Eventi
 meta_tags:
   - vino
-images: ["images/wp-content/uploads/2020/01/unnamed.webp"]
+images: ["/images/wp-content/uploads/2020/01/unnamed.webp"]
 ---
 
 {{< figure src="/images/wp-content/uploads/2020/01/unnamed-1.webp" >}}

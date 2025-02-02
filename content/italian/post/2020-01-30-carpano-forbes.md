@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - beverage
   - distillati
-images: ["images/wp-content/uploads/2020/01/forbes_targa-carpano-100-eccellenze.webp"]
+images: ["/images/wp-content/uploads/2020/01/forbes_targa-carpano-100-eccellenze.webp"]
 ---
 **Carpano**, il creatore del Vermouth, è stato elettro tra le **“100 eccellenze italiane 2020”**, la guida stilata dalla rivista specializzata **So <a href="https://aleepepe.com/2020/01/26/carlo-zucchetti-vino-tuscia/" target="_blank" rel="noreferrer noopener" aria-label=" (apre in una nuova scheda)">Wine</a> So Food** e da **Forbes Italia**, che permette di scoprire e comprendere l’unicità del Made in Italy. 
 

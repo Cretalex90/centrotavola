@@ -14,7 +14,7 @@ meta_tags:
   - dolci
   - intervista
   - pasticceria
-images: ["images/wp-content/uploads/2019/08/dsc7687.webp"]
+images: ["/images/wp-content/uploads/2019/08/dsc7687.webp"]
 ---
 _Miscele, esperimenti, abbinamenti e non solo. Corrado Assenza ci spiega la sua visione della pasticceria e di come questa sia integrata, oggi, all’interno del più ampio mondo della cucina._
 

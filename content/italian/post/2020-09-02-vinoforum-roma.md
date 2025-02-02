@@ -10,7 +10,7 @@ categories:
   - Eventi
 meta_tags:
   - vino
-images: ["images/wp-content/uploads/2020/09/vinoforum-roma.webp"]
+images: ["/images/wp-content/uploads/2020/09/vinoforum-roma.webp"]
 ---
 ### **Vinòforum** è primo tra i grandi eventi del comparto enogastronomico a riaprire i battenti in questo difficile 2020.  {.wp-block-heading}
 

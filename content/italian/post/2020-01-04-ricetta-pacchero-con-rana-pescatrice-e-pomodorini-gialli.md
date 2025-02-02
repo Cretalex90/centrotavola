@@ -8,7 +8,7 @@ timeline_notification:
   - 1578135805
 categories:
   - Senza categoria
-images: ["images/wp-content/uploads/2020/01/ga191030_dovevuoi_070.webp"]
+images: ["/images/wp-content/uploads/2020/01/ga191030_dovevuoi_070.webp"]
 ---
 Per chiudere in bellezza le festività natalizie cosa c’è di meglio di un bel piatto di pasta? Il Pacchero con la rana pescatrice è un primo di mare con un ingrediente dal gusto deciso che il nostro chef Gabriele Zampaletta prepara per noi per deliziare vista, olfatto e naturalmente palato.
 

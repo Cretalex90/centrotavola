@@ -15,7 +15,7 @@ meta_tags:
   - cucina
   - trippini
   - umbria
-images: ["images/wp-content/uploads/2023/04/ritratto_paolo-trippini.webp"]
+images: ["/images/wp-content/uploads/2023/04/ritratto_paolo-trippini.webp"]
 ---
 **_Dopo qualche anno torno a parlare di Paolo Trippini. L&#8217;avevamo conosciuto un paio di stagioni fa (<a href="https://wordpress.com/post/aleepepecom.wordpress.com/1803" target="_blank" rel="noreferrer noopener">qui la sua intervista</a>), quando venne eletto Ambasciatore del Gusto, primo chef umbro a ricoprire questa carica. Stavolta alla scoperta del suo menu che combatte lo spopolamento e supporta l&#8217;economia del piccolo borgo di Civitella del Lago (TR)._**
 

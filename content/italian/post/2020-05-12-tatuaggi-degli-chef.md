@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - chef
   - chef stellati
-images: ["images/wp-content/uploads/2020/04/melissa-dolci-2.webp"]
+images: ["/images/wp-content/uploads/2020/04/melissa-dolci-2.webp"]
 ---
 ## È interessante quando due mondi apparentemente distanti hanno punti in comune, più punti in comune di quanto non pensassimo.  {.wp-block-heading}
 

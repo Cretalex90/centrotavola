@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - chef
   - ricette
-images: ["images/wp-content/uploads/2019/11/img-20191128-wa0010.webp"]
+images: ["/images/wp-content/uploads/2019/11/img-20191128-wa0010.webp"]
 ---
 La mia Nepi è una città ricca di storia dal punto di vista gastronomico, basti pensare che un tempo i nepesini erano chiamati cipollari, perché venivano prodotte un gran numero di cipolle che venivano poi consegnate fino ai mercati della Roma antica.
 

@@ -16,7 +16,7 @@ meta_tags:
   - cucina
   - intervista
   - viterbo
-images: ["images/wp-content/uploads/2022/07/salvo-cravero-ristorante-cosa-si-mangia.webp"]
+images: ["/images/wp-content/uploads/2022/07/salvo-cravero-ristorante-cosa-si-mangia.webp"]
 ---
 **_Salvo Cravero da pochi mesi è alla guida della cucina dell&#8217;omonimo ristorante, nuova meta gourmet della Tuscia situata nell&#8217;accattivante location dell&#8217;Olivo Country Club, all&#8217;ombra dell&#8217;antico borgo di Bassano in Teverina._** 
 

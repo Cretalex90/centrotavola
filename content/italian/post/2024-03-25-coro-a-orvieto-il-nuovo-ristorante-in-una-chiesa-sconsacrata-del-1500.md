@@ -19,7 +19,7 @@ meta_tags:
   - menu
   - orvieto
   - ristorante
-images: ["images/wp-content/uploads/2024/03/coro-ristorante-orvieto-alessandro-creta.webp"]
+images: ["/images/wp-content/uploads/2024/03/coro-ristorante-orvieto-alessandro-creta.webp"]
 ---
 _**Una delle&nbsp;più&nbsp;recenti, e interessanti,&nbsp;novità&nbsp;in Umbria è rappresentata da un ristorante davvero sui generis.**_ **_Nella cittadina umbra a due passi dal famoso Duomo._**
 

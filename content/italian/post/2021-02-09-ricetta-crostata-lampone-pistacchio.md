@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 meta_tags:
   - ricetta
-images: ["images/wp-content/uploads/2021/02/crostata-lamponi-ricetta-cover.webp"]
+images: ["/images/wp-content/uploads/2021/02/crostata-lamponi-ricetta-cover.webp"]
 ---
 ### Sia da proporre come dolce di San Valentino che dessert valido per tutte le occasioni, questa mini crostata al lampone e pistacchio rappresenta il modo giusto per chiudere qualsiasi pasto. {.wp-block-heading}
 

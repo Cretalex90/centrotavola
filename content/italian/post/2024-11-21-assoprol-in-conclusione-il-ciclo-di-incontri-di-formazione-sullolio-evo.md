@@ -18,7 +18,7 @@ meta_tags:
   - terni
   - ternu
   - umbria
-images: ["images/wp-content/uploads/2024/11/assoprol-umbria-olio-evo-alessandro-creta.webp"]
+images: ["/images/wp-content/uploads/2024/11/assoprol-umbria-olio-evo-alessandro-creta.webp"]
 ---
 _Nella serata del 20 novembre si è tenuto a Terni, presso l&#8217;Istituto omnicomprensivo Casagrande, un nuovo appuntamento dedicato alla conoscenza, avvicinamento e approfondimento del mondo dell&#8217;olio extravergine di oliva._ _L&#8217;ultimo incontro prossimamente a Todi._
 

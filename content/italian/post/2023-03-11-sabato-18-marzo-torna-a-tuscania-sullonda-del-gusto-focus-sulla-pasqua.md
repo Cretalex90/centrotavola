@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - Eventi
   - News
-images: ["images/wp-content/uploads/2023/03/0.webp"]
+images: ["/images/wp-content/uploads/2023/03/0.webp"]
 ---
 **_Sabato 18 marzo CasaNave alle Mura a Tuscania riapre le sue porte al gusto e lo fa con “Ricette e segreti per una Pasqua sfiziosa e creativa”, la seconda edizione del progetto Sull’Onda del Gusto, dedicata stavolta alle delizie pasquali e alle tradizioni del nostro territorio.  
 _**  

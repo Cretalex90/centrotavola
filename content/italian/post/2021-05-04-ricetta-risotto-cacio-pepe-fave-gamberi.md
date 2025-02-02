@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ricetta
   - risotto
-images: ["images/wp-content/uploads/2021/05/ricetta-risotto-cacio-e-pepe.webp"]
+images: ["/images/wp-content/uploads/2021/05/ricetta-risotto-cacio-e-pepe.webp"]
 ---
 ### Allacciate il grembiule e scaldate le pentole: in arrivo una ricetta dal sapore primaverile proposta dallo chef Colaiaquo: stiamo parlando di riso, ma in una versione piuttosto originale e gustosa. {.wp-block-heading}
 

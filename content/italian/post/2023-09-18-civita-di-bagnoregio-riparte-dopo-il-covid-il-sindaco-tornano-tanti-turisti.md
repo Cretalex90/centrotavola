@@ -17,7 +17,7 @@ meta_tags:
   - civita
   - civita bagnoregio
   - turismo
-images: ["images/wp-content/uploads/2020/03/officina-visiva-ale-pepe-foto-civita-bagnoregio-alba-1.webp"]
+images: ["/images/wp-content/uploads/2020/03/officina-visiva-ale-pepe-foto-civita-bagnoregio-alba-1.webp"]
 ---
 _Chiamato anche **“La Città che Muore”**, per via dell’erosione atmosferica che tiene continuamente sotto scacco il colle tufaceo sul quale nasce, il borgo di **Civita di Bagnoregio** è una delle mete più visitate del Lazio, ma non solamente._ 
 {{< figure src="/images/wp-content/uploads/2020/03/officina-visiva-ale-e-pepe-civita-di-bagnoregio-8.webp" caption="Civita di Bagnoregio" >}}

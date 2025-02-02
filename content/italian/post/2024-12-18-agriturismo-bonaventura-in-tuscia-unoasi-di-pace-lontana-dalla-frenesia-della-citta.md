@@ -17,7 +17,7 @@ meta_tags:
   - montefiascone
   - tuscia
   - viterbo
-images: ["images/wp-content/uploads/2024/12/agriturismo-bonaventura-montefiascone-tuscia-notazio.webp"]
+images: ["/images/wp-content/uploads/2024/12/agriturismo-bonaventura-montefiascone-tuscia-notazio.webp"]
 ---
   
 _Il proprietario, Fabio Notazio, è un giovane e brillante imprenditore della Tuscia, con molti progetti per il futuro e determinato a Montefiascone a far crescere la sua attività. L&#8217;abbiamo incontrato._

@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 meta_tags:
   - ricetta
-images: ["images/wp-content/uploads/2021/01/insalata-rinforzo-ricetta-cover.webp"]
+images: ["/images/wp-content/uploads/2021/01/insalata-rinforzo-ricetta-cover.webp"]
 ---
 ### Dopo le abbuffate delle feste vi sentiti appesantiti?&nbsp; {.wp-block-heading}
 

@@ -8,7 +8,7 @@ timeline_notification:
   - 1594203046
 categories:
   - le ricette dello chef
-images: ["images/wp-content/uploads/2020/07/ricetta-polpo-pomodoro-ale-pepe-alessandro-creta.webp"]
+images: ["/images/wp-content/uploads/2020/07/ricetta-polpo-pomodoro-ale-pepe-alessandro-creta.webp"]
 ---
 Questo Covid-19 non ci ha fermati!  
 L’odore del mare e il calore del sole ci ricordano che è arrivata l’estate. E allora lo chef **Danilo Colaiaquo** ci delizia con una ricetta per inaugurare al meglio, in tavola, questa stagione.

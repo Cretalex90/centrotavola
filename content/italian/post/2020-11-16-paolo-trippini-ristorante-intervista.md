@@ -13,7 +13,7 @@ meta_tags:
   - ristorante
   - trippini
   - umbria
-images: ["images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-04-web.webp"]
+images: ["/images/wp-content/uploads/2020/11/officina-visiva-ale-pepe-trippini-ambasciatore-del-gusto-04-web.webp"]
 ---
 ### Tartufi, funghi, selvaggina, radici ma non solo. I sapori della regione si manifestano più decisi che mai in questa parte dell’anno: nel pieno di un autunno che qui chiamano “_la primavera umbra_”. {.wp-block-heading}
 

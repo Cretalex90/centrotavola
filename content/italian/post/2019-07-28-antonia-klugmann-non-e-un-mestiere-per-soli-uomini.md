@@ -17,7 +17,7 @@ meta_tags:
   - guida michelin
   - intervista
   - stella michelin
-images: ["images/wp-content/uploads/2019/07/schermata-2019-07-28-alle-12.55.03.webp"]
+images: ["/images/wp-content/uploads/2019/07/schermata-2019-07-28-alle-12.55.03.webp"]
 ---
 _Una cuoca di frontiera, una donna che si è guadagnata il rispetto di tutto il mondo della cucina, tanto da diventare una delle chef italiane più stimate da colleghi e critica. La stella Michelin, poi, l’ha resa ancor più grande_
 

@@ -14,7 +14,7 @@ meta_tags:
   - iside de cesare
   - stella michelin
   - viterbo
-images: ["images/wp-content/uploads/2020/04/iside-de-cesare-intervista.webp"]
+images: ["/images/wp-content/uploads/2020/04/iside-de-cesare-intervista.webp"]
 ---
 In questa chiacchierata **Iside De Cesare** (<a href="http://La Parolina – Ristorante una stella Michelin https://www.laparolina.it" target="_blank" rel="noreferrer noopener">Ristorante La Parolina </a>&#8211; Trevinano (VT) , 1 Stella Michelin, 2 Forchette Gambero Rosso) ci spiega la sua visione riguardo la ripresa della ristorazione post Coronavirus, parlandoci anche di come si porta avanti un locale a &#8220;conduzione famigliare&#8221; col marito Romano.
 

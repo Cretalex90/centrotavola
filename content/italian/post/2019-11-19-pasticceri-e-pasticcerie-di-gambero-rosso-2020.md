@@ -12,7 +12,7 @@ meta_tags:
   - corrado assenza
   - dolci
   - pasticceria
-images: ["images/wp-content/uploads/2019/11/coppasticcerie2020.webp"]
+images: ["/images/wp-content/uploads/2019/11/coppasticcerie2020.webp"]
 ---
  
 

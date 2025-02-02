@@ -18,7 +18,7 @@ meta_tags:
   - ristorante
   - stroncone
   - terni
-images: ["images/wp-content/uploads/2024/06/mamme_alessandro_creta.png.webp"]
+images: ["/images/wp-content/uploads/2024/06/mamme_alessandro_creta.png.webp"]
 ---
 _Nascosto tra le viuzze del borgo medievale di Stroncone,&nbsp;in provincia di Terni,&nbsp;si trova Mammè,&nbsp;un ristorante che rappresenta un vero e proprio gioiellino tutto da scoprire, risultato di un mix di culture e influenze di cui si fa portatore lo chef._
 

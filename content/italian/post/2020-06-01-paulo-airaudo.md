@@ -12,7 +12,7 @@ meta_tags:
   - ambasciatori del gusto
   - chef
   - chef stellati
-images: ["images/wp-content/uploads/2020/05/airaudo-chef.webp"]
+images: ["/images/wp-content/uploads/2020/05/airaudo-chef.webp"]
 ---
 **La videochiamata con Paulo Airaudo si apre con lo chef che mi accoglie, metaforicamente parlando, nel suo locale &#8220;_work in progress_&#8221; che verrà inaugurato il 26 giugno. Siamo a San Sebastian (Spagna-Paesi Baschi), a due passi dal mare, precisamente in Bahia de la Concha. **
 

@@ -14,7 +14,7 @@ meta_tags:
   - grechetto
   - vino
   - viterbo
-images: ["images/wp-content/uploads/2022/07/terre-grechetto-civitella.webp"]
+images: ["/images/wp-content/uploads/2022/07/terre-grechetto-civitella.webp"]
 ---
 **_Si è svolta dal 22 al 24 luglio a Civitella D’Agliano, antico borgo di origine etrusca in provincia di Viterbo, la XIX edizione della manifestazione enoica Nelle Terre del Grechetto. _**
 {{< figure src="/images/wp-content/uploads/2022/07/muffo-mottura-vino.webp" >}}

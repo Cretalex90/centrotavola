@@ -9,7 +9,7 @@ timeline_notification:
 categories:
   - interviste bistrot
   - News
-images: ["images/wp-content/uploads/2020/06/unnamed.webp"]
+images: ["/images/wp-content/uploads/2020/06/unnamed.webp"]
 ---
 ## &#8220;Il post lockdown? _È stato un po&#8217; come aver aperto il ristorante una seconda volta&#8221;._  {.wp-block-heading}
 

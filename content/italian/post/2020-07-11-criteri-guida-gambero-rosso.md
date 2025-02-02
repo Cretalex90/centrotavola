@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - gambero rosso
   - guida
-images: ["images/wp-content/uploads/2020/07/ristoranti-gambero.webp"]
+images: ["/images/wp-content/uploads/2020/07/ristoranti-gambero.webp"]
 ---
 ## &#8220;_Le guide siano veicolo di rinascita del settore enogastronomico, al servizio del ristoratore e del cliente_&#8220;, parola di Laura Mantovano, direttrice delle guide del <a href="https://www.gamberorosso.it/" target="_blank" rel="noreferrer noopener">Gambero Rosso</a>. {.wp-block-heading}
 

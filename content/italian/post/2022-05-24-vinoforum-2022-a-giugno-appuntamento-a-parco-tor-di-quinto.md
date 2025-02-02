@@ -8,7 +8,7 @@ timeline_notification:
   - 1653328476
 categories:
   - Senza categoria
-images: ["images/wp-content/uploads/2022/05/dsc0509.webp"]
+images: ["/images/wp-content/uploads/2022/05/dsc0509.webp"]
 ---
 **L’evento enogastronomico più&nbsp;importante del Centro-Sud Italia, riaccende i riflettori sulle grandi&nbsp;degustazioni con protagonisti vini italiani ed internazionali.**
 

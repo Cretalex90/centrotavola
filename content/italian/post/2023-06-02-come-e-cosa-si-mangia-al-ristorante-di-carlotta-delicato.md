@@ -15,7 +15,7 @@ meta_tags:
   - chef
   - cucina
   - cucina italiana
-images: ["images/wp-content/uploads/2023/05/officina-visiva-creta-alessandro-cookist-carlotta-delicato_contigliano_rieti_43.webp"]
+images: ["/images/wp-content/uploads/2023/05/officina-visiva-creta-alessandro-cookist-carlotta-delicato_contigliano_rieti_43.webp"]
 ---
 _**Periodicamente nel mondo del food esce una precisa domanda: “quale sarà la meta gastronomica di quest’anno o del prossimo futuro?”, e in tanti provano a indicare precise città o province più o meno grandi come nuove destinazioni da segnare sulla cartina della ristorazione italiana del domani.**_ 
 {{< figure src="/images/wp-content/uploads/2023/05/officina-visiva-creta-alessandro-cookist-carlotta-delicato_contigliano_rieti_5.webp" >}}

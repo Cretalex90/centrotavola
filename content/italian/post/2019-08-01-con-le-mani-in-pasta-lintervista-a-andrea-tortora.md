@@ -13,7 +13,7 @@ meta_tags:
   - chef
   - intervista
   - pasticceria
-images: ["images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-01-800x445.webp"]
+images: ["/images/wp-content/uploads/2019/08/andreatortorac2a9danieltc3b6chterle-01-800x445.webp"]
 ---
 _Il pasticcere, che lavora nella cucina di un maestro chef come Norbert Niederkofler, ci apre le porte del suo (dolce) mondo_.
 

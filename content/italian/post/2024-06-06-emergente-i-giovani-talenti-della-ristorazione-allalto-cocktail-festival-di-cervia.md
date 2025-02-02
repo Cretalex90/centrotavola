@@ -16,7 +16,7 @@ meta_tags:
   - drink
   - emergente
   - festival
-images: ["images/wp-content/uploads/2024/06/locandina-alto-cocktail-festival-cervia.webp"]
+images: ["/images/wp-content/uploads/2024/06/locandina-alto-cocktail-festival-cervia.webp"]
 ---
 _Domenica 16 Giugno all’interno del fitto programma di appuntamenti della 3° edizione di Alto Cocktail Festival, un serata dedicata ai talenti provenienti dal format “Emergente” ideato da Luigi Cremona e dedicato ai giovani professionisti dell’accoglienza in sala e della ristorazione a 360 gradi._
 

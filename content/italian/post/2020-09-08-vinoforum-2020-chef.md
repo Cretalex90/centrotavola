@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - roma
   - vino
-images: ["images/wp-content/uploads/2020/09/vinoforum-chef.webp"]
+images: ["/images/wp-content/uploads/2020/09/vinoforum-chef.webp"]
 ---
 ## Prosegue il countdown verso l&#8217;edizione 2020 di Vinòforum.  {.wp-block-heading}
 

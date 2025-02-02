@@ -13,7 +13,7 @@ meta_tags:
   - slow food
   - tuscia
   - viterbo
-images: ["images/wp-content/uploads/2019/11/officina-visiva-foto-food-olio-creta-frantoio-presciuttini-4.webp"]
+images: ["/images/wp-content/uploads/2019/11/officina-visiva-foto-food-olio-creta-frantoio-presciuttini-4.webp"]
 ---
 Ampi gesti con le braccia a accompagnare le parole, entusiasmo contagioso e una passione, quella per l’olio, che Pierluigi Presciuttini trasmette quando ci racconta il suo prodotto. A Montefiascone, in provincia di **Viterbo**, a pochi chilometri da uno dei laghi più grandi del centro Italia il **Frantoio Presciuttini** valorizza, trasforma e converte le olive che Pierluigi ha recuperato dai campi abbandonati del territorio della Tuscia.
 

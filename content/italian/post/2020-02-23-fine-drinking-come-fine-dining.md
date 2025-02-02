@@ -13,7 +13,7 @@ meta_tags:
   - intervista
   - mixology
   - viterbo
-images: ["images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-10.webp"]
+images: ["/images/wp-content/uploads/2020/02/officina-visiva-ale-pepe-foto-beverage-al-77-manfredi-samperi-10.webp"]
 ---
 ## Ricerca, curiosità, sperimentazione, tentativi, esperienze. E una bella dose di fantasia a orchestrare il tutto.  {.wp-block-heading}
 

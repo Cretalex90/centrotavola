@@ -12,7 +12,7 @@ meta_tags:
   - ricetta
   - ricette
   - tuscia
-images: ["images/wp-content/uploads/2020/03/snapseed.webp"]
+images: ["/images/wp-content/uploads/2020/03/snapseed.webp"]
 ---
 ## “Acquacotta, che il pane spreca e la trippa abbotta”.&nbsp; {.wp-block-heading}
 

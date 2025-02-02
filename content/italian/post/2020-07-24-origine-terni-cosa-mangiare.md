@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ristorante
   - terni
-images: ["images/wp-content/uploads/2020/07/origine-terni-1.webp"]
+images: ["/images/wp-content/uploads/2020/07/origine-terni-1.webp"]
 ---
 **Origine a Terni è il nuovo&nbsp;_progetto_&nbsp;supervisionato da Maurizio Serva, chef del ristorante due stelle Michelin &#8220;La Trota&#8221; a Rivodutri. Staff giovane e cucina snella, cosa si mangia nel locale &#8220;gourmet&#8221; ternano.** [Con lui avevamo parlato][1] poche settimane dopo la sua apertura lo scorso dicembre e durante il [periodo del lockdown][2].
 

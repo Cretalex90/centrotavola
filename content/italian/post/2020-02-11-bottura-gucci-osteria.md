@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - chef
   - chef stellati
-images: ["images/wp-content/uploads/2020/02/schermata-2020-02-11-alle-18.35.17.webp"]
+images: ["/images/wp-content/uploads/2020/02/schermata-2020-02-11-alle-18.35.17.webp"]
 ---
  
 

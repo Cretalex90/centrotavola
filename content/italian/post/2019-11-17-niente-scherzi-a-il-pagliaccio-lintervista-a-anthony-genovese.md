@@ -14,7 +14,7 @@ meta_tags:
   - chef stellati
   - intervista
   - roma
-images: ["images/wp-content/uploads/2019/11/genovese-2.webp"]
+images: ["/images/wp-content/uploads/2019/11/genovese-2.webp"]
 ---
 
 {{< figure src="/images/wp-content/uploads/2019/11/anthony-genovese.webp" caption="Anthony Genovese" >}}

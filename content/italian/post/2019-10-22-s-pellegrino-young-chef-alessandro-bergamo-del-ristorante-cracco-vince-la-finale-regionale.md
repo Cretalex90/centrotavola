@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - cucina
   - cucina italiana
-images: ["images/wp-content/uploads/2019/10/un-momento-della-premiazione-.webp"]
+images: ["/images/wp-content/uploads/2019/10/un-momento-della-premiazione-.webp"]
 ---
 <p class="has-text-align-left">
   <strong>Alessandro</strong> <strong>Bergamo</strong>, classe 1989, originario di Mariano Comense, s<strong>ous chef del ristorante Cracco a Milano</strong>, è il vincitore della <strong><em>Finale Regionale Italia e Sud Est Europa di S.Pellegrino Young Chef,</em></strong> il progetto di scouting internazionale giunto alla quarta edizione che promuove l’ingresso dei giovani talenti nella comunità gastronomica globale. È stata una giornata di intensa competizione quella che si è svolta lunedì 21 ottobre negli spazi de La Scuola de la Cucina Italiana dove si sono sfidati 10 giovani cuochi selezionati in Italia, Croazia, Romania e Slovenia. Al termine della gara, è stato il signature dish di Alessandro Bergamo a convincere la giuria internazionale composta da sette top chef .

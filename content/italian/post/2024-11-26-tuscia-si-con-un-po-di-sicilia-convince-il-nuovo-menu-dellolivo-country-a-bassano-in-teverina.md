@@ -18,7 +18,7 @@ meta_tags:
   - ristorante
   - tuscia
   - viterbo
-images: ["images/wp-content/uploads/2024/11/olivo-country-tortelli-menu-bassano-alessandro-creta.webp"]
+images: ["/images/wp-content/uploads/2024/11/olivo-country-tortelli-menu-bassano-alessandro-creta.webp"]
 ---
 _  
 Nel cuore della Tuscia viterbese, un territorio ricco di storia e paesaggi suggestivi, si trova l&#8217;Olivo Country Club, a pochi chilometri da Viterbo e a breve distanza dalla valle del Tevere._ _Da circa un anno la cucina è affidata allo chef di origini sorianesi Gianmarco Pallotta._

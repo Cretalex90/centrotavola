@@ -8,7 +8,7 @@ timeline_notification:
   - 1580913708
 categories:
   - News
-images: ["images/wp-content/uploads/2020/02/nutella-day-5-febbraio-2020-850x478-1.webp"]
+images: ["/images/wp-content/uploads/2020/02/nutella-day-5-febbraio-2020-850x478-1.webp"]
 ---
 ### _Arriva il pane e Nutella 2.0. Uno dei prodotti italiani più consumati al mondo si conferma all’interno della famosa catena americana di fast food._ {.wp-block-heading}
 

@@ -10,7 +10,7 @@ timeline_notification:
   - 1673682257
 categories:
   - News
-images: ["images/wp-content/uploads/2023/01/borgobrufa-perugia.webp"]
+images: ["/images/wp-content/uploads/2023/01/borgobrufa-perugia.webp"]
 ---
 Il ristorante **Elementi Fine Dining** prosegue il suo primo ciclo di cene gourmet: domenica 22 gennaio accoglierà lo chef bistellato Antonio Guida per “_**Profondità**_”, una serata di **beneficenza** condotta a quattro mani con il resident chef Andrea Impero. La serata sarà dedicata al sostegno delle attività dell’Istituto Serafico di Assisi, Ente Ecclesiastico senza scopo di lucro impegnato in attività riabilitative e psicoeducative, e assistenza socio-sanitaria per bambini e giovani con gravi disabilità fisiche, psichiche e sensoriali.
 {{< figure src="/images/wp-content/uploads/2023/01/chef-andrea-impero.webp" caption="Chef Andrea Impero" >}}

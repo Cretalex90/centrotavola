@@ -21,7 +21,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "images/wp-content/uploads",
+      mediaRoot: "images",
       publicFolder: "static",
     },
   },

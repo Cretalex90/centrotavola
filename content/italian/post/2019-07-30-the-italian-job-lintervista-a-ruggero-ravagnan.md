@@ -13,7 +13,7 @@ meta_tags:
   - cucina italiana
   - grigoris
   - pizza
-images: ["images/wp-content/uploads/2019/07/dj9a8943.webp"]
+images: ["/images/wp-content/uploads/2019/07/dj9a8943.webp"]
 ---
 _Se esiste un prodotto capace di esprimere italianità, convivialità e gusto questo è sicuramente la pizza. Ruggero Ravagnan di “Grigoris” (Mestre) ci spiega il segreto che si cela dietro farina, impasti e forni a legna_
 

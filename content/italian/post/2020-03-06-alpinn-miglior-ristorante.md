@@ -10,7 +10,7 @@ categories:
   - News
 meta_tags:
   - ristorante
-images: ["images/wp-content/uploads/2020/03/alpinn-plan-de-corones.webp"]
+images: ["/images/wp-content/uploads/2020/03/alpinn-plan-de-corones.webp"]
 ---
 ## AlpiNN, all&#8217;interno del Lumen Museum of Mountain Photography di Brunico, è stato eletto come miglior ristorante del mondo in un museo. {.wp-block-heading}
 

@@ -10,7 +10,7 @@ timeline_notification:
   - 1668800705
 categories:
   - News
-images: ["images/wp-content/uploads/2022/11/menu-sud-ristorante-terni.webp"]
+images: ["/images/wp-content/uploads/2022/11/menu-sud-ristorante-terni.webp"]
 ---
 **_Zitti zitti che forse pure a Terni inizia a muoversi qualcosa._**..
 

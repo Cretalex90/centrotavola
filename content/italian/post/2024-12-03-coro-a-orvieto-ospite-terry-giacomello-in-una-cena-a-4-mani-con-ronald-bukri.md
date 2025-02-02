@@ -18,7 +18,7 @@ meta_tags:
   - cucina
   - orvieto
   - ristorante
-images: ["images/wp-content/uploads/2024/12/coro-ristorante-orvieto-cena-bukri-giacomello-alessandro-creta.webp"]
+images: ["/images/wp-content/uploads/2024/12/coro-ristorante-orvieto-cena-bukri-giacomello-alessandro-creta.webp"]
 ---
 _Lo scorso 2 dicembre il ristorante all&#8217;interno di Palazzo Petrus, a poca distanza dal Duomo cittadino, ha ospitato Terry Giacomello per una cena a 4 mani con il resident chef Ronald Bukri. &#8220;Una bella serata tra amici&#8221; hanno dichiarato i protagonisti, che hanno condiviso in passato la cucina di Inkiostro a Parma._
 

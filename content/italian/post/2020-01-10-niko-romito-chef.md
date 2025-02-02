@@ -12,7 +12,7 @@ meta_tags:
   - chef
   - chef stellati
   - niko romito
-images: ["images/wp-content/uploads/2020/01/niko-romito-a-spazio-roma-ph.-francesco-fioramonti-1.webp"]
+images: ["/images/wp-content/uploads/2020/01/niko-romito-a-spazio-roma-ph.-francesco-fioramonti-1.webp"]
 ---
 Come tutti gli anni la conferenza internazionale _Madrid_ _Fusión_ è pronta a riunire nella capitale spagnola i migliori chef da tutto il mondo.
 

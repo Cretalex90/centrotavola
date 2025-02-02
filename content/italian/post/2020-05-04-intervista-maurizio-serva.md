@@ -12,7 +12,7 @@ meta_tags:
   - chef
   - chef stellati
   - intervista
-images: ["images/wp-content/uploads/2020/05/maurizio-serva-video-intervista.webp"]
+images: ["/images/wp-content/uploads/2020/05/maurizio-serva-video-intervista.webp"]
 ---
 ## Maurizio Serva è lo chef, assieme al fratello Sandro, del ristorante 2 stelle Michelin La Trota (a Rivodutri, in provincia di Rieti). {.wp-block-heading}
 

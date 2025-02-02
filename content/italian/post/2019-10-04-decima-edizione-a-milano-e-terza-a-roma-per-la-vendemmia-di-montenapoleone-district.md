@@ -13,7 +13,7 @@ meta_tags:
   - News
   - roma
   - vino
-images: ["images/wp-content/uploads/2019/10/unnamed-1.webp"]
+images: ["/images/wp-content/uploads/2019/10/unnamed-1.webp"]
 ---
 **Decimo anniversario dell’evento più atteso dell’autunno milanese e terzo per la sua versione capitolina. Due appuntamenti che hanno l’obiettivo di unire i grandi marchi del lusso internazionale e le più prestigiose cantine, grazie alla collaborazione con il Comitato Grandi Cru d’Italia, con la partecipazione dei ristoranti più esclusivi e degli hotel 5 stelle lusso delle due città.**
 

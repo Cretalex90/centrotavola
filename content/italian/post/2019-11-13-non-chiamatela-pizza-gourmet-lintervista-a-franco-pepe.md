@@ -12,7 +12,7 @@ meta_tags:
   - franco pepe
   - intervista
   - pizza
-images: ["images/wp-content/uploads/2019/11/pepe2-copia-1.webp"]
+images: ["/images/wp-content/uploads/2019/11/pepe2-copia-1.webp"]
 ---
 _È una storia di sacrificio e di passione, di forza di volontà e determinazione. La storia di Franco Pepe travalica l’essenza di pizzaiolo migliore del mondo._
 

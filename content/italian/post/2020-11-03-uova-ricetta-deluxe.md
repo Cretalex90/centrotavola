@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ricetta
   - ricette
-images: ["images/wp-content/uploads/2020/11/carbonara-uova-cover.webp"]
+images: ["/images/wp-content/uploads/2020/11/carbonara-uova-cover.webp"]
 ---
 ## Vi ricordate la storia che lega le uova al cappello degli chef raccontata l&#8217;ultima volta? Non è la sola riguardante l&#8217;iconico copricapo. {.wp-block-heading}
 

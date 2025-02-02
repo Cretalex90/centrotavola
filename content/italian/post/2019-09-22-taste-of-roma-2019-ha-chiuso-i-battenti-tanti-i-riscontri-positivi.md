@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - food
   - roma
-images: ["images/wp-content/uploads/2019/09/06191bdd-9326-40cc-8d91-45a1c1497ac3.webp"]
+images: ["/images/wp-content/uploads/2019/09/06191bdd-9326-40cc-8d91-45a1c1497ac3.webp"]
 ---
 **Ha chiuso i battenti, domenica 22 settembre, Taste of Roma, l’evento organizzato da BEIT Events che ogni anno unisce il buon cibo all’amore per la condivisione.** In linea con le edizioni precedenti le presenze registrate nei 4 giorni della manifestazione, nonostante una domenica di pioggia. Ma sono soprattutto i riscontri del pubblico e degli chef che confermano quanto sia nel cuore di tutti questo evento.
 

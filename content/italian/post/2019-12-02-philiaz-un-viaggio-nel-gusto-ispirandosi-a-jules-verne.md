@@ -13,7 +13,7 @@ meta_tags:
   - cucina italiana
   - ristorante
   - ristoranti
-images: ["images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a2975-hdr.webp"]
+images: ["/images/wp-content/uploads/2019/12/lq-pheliaz-ts_b6a2975-hdr.webp"]
 ---
 Attingendo al celebre romanzo di Jules Verne – Il Giro del Mondo in 80 giorni – nasce a **Caldaro** un ristorante il cui tema dominate è “_il viaggio_”. Il **Philiaz**, nome di fantasia creato per ricordare il protagonista del romanzo Phileas Fogg, è un nuovo concept restaurant che permette di “viaggiare” attraverso il mondo assaggiando piatti che si ispirano ai molti posti visitati dal protagonista del romanzo, come Suez, Bombay, Hong Kong, San Francisco, New York, Londra…
 

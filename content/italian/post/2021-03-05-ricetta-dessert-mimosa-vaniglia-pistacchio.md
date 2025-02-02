@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ricetta
   - ricette
-images: ["images/wp-content/uploads/2021/03/mimosa-piatto-cover.webp"]
+images: ["/images/wp-content/uploads/2021/03/mimosa-piatto-cover.webp"]
 ---
 ### E se il dessert per il giorno delle donne fosse al piatto? Lo chef Colaiaquo vi propone una seconda versione (<a rel="noreferrer noopener" href="https://aleepepe.com/2021/02/23/ricetta-torta-mimosa-cioccolato-bianco/" target="_blank">qui per la prima</a>) della torta mimosa, pensata per essere impiattata singolarmente per ogni ospite. {.wp-block-heading}
 

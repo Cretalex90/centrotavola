@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - Eventi
   - gambero rosso
-images: ["images/wp-content/uploads/2019/10/b39c617d-b044-499c-a349-80f15a4aaaa5.webp"]
+images: ["/images/wp-content/uploads/2019/10/b39c617d-b044-499c-a349-80f15a4aaaa5.webp"]
 ---
 Ristoranti d’Italia del Gambero Rosso compie trent’anni. Trent’anni durante i quali il mondo dell’enogastronomia è cambiato radicalmente.&nbsp; Bastano pochi numeri a rendere l’idea:&nbsp;**Ristoranti d’Italia 1991: 966 locali recensiti, 10 Tre Forchette**.&nbsp;**Ristoranti d’Italia 2020: 2685 locali recensiti, 35 Tre Forchette**
 

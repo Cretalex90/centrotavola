@@ -15,7 +15,7 @@ meta_tags:
   - alicante
   - ristorante
   - spagna
-images: ["images/wp-content/uploads/2024/09/alba-restaurante-alicante.webp"]
+images: ["/images/wp-content/uploads/2024/09/alba-restaurante-alicante.webp"]
 ---
   
 _Proprio quando mi stavo rassegnando per quanto riguarda il cibo ad Alicante, ecco che come un’oasi nel deserto compare un’insegna, una luce nel buio: Alba Restaurante._

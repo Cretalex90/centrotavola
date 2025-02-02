@@ -14,7 +14,7 @@ meta_tags:
   - drink
   - liquori
   - mixology
-images: ["images/wp-content/uploads/2019/12/giorgio-lupi3.webp"]
+images: ["/images/wp-content/uploads/2019/12/giorgio-lupi3.webp"]
 ---
 **Talisker Whisky** ha proclamato **Giorgio Lupi**, bar manager del **Central Cocktail Bar di Torino**, **vincitore della gara “Wild Spirit Bartender”**, una competizione che ha visto sfidarsi mixologist provenienti da tutto il mondo. Dal Bahrain alla Nuova Zelanda, passando per l’India, decine di bartender hanno inviato le proprie candidature-video su Instagram per aggiudicarsi **la gestione del Wilderness Bar, location esclusiva in mezzo all’oceano** creata in occasione della partenza della **Talisker Whisky Atlantic Challenge 2019. **
 

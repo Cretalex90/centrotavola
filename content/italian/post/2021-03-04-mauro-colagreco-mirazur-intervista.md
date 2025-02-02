@@ -12,7 +12,7 @@ categories:
 meta_tags:
   - chef
   - chef stellati
-images: ["images/wp-content/uploads/2020/02/schermata-2020-02-06-alle-13.43.59.webp"]
+images: ["/images/wp-content/uploads/2020/02/schermata-2020-02-06-alle-13.43.59.webp"]
 ---
 Quando si parla di&nbsp;**Mauro Colagreco**&nbsp;si rischia di sfociare nel banale. Come quando, scrivendo di calcio, si decide di conversare di Messi o Ronaldo, o come quando nel basket si affronta l’argomento LeBron James: chef tristellato di origini italiane (i suoi nonni erano di un paesino abruzzese della provincia di Chieti, di cui ha la cittadinanza onoraria) ma di nazionalità argentina, ha raccolto in Francia (Mentone, a due passi dal confine italiano) i risultati della sua lunga ma fruttuosa semina. Una semina partita da Buenos Aires e compiuta nel Paese dei Lumi.
 

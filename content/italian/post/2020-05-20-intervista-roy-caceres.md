@@ -12,7 +12,7 @@ meta_tags:
   - chef
   - chef stellati
   - roma
-images: ["images/wp-content/uploads/2020/05/74918011_10220561885580201_267097066881155072_n.webp"]
+images: ["/images/wp-content/uploads/2020/05/74918011_10220561885580201_267097066881155072_n.webp"]
 ---
 ### Leggendo la storia, di vita e di carriera, dello chef Roy Caceres si capisce come non ci potesse essere miglior nome di &#8220;**_Metamorfosi_**&#8221; per il suo ristorante romano, insignito nel 2012 della Stella Michelin.  {.wp-block-heading}
 

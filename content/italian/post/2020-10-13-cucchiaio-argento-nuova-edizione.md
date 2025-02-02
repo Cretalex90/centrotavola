@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ricetta
   - ricette
-images: ["images/wp-content/uploads/2020/10/unnamed.webp"]
+images: ["/images/wp-content/uploads/2020/10/unnamed.webp"]
 ---
 ## **È stato presentato stamattina tramite una conferenza stampa &#8220;digitale&#8221; il ricettario Il Cucchiaio d&#8217;Argento.**  {.wp-block-heading}
 

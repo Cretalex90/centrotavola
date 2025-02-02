@@ -10,7 +10,7 @@ timeline_notification:
   - 1676707992
 categories:
   - Senza categoria
-images: ["images/wp-content/uploads/2023/02/convivial-tuscania-menu-1099534438-e1676707483201.webp"]
+images: ["/images/wp-content/uploads/2023/02/convivial-tuscania-menu-1099534438-e1676707483201.webp"]
 ---
 **_La finale dell’edizione di Sanremo che ho seguito di più me la sono persa, ma per un valido motivo._**
 

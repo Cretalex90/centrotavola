@@ -11,7 +11,7 @@ categories:
   - Eventi
 meta_tags:
   - tuscia
-images: ["images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_1.webp"]
+images: ["/images/wp-content/uploads/2020/01/officina-visiva-ale-pepe-foto-still-life-reportage-food-lamponi-dei-cimini_1.webp"]
 ---
 ## _&#8220;Le Chicche della Tuscia&#8221;_**. Un nome che sotto di sé raccoglie dodici aziende di eccellenza del viterbese che, quasi cinque anni fa, hanno deciso di unirsi con lo scopo di crescere professionalmente e dare risalto al territorio sotto il profilo enogastronomico e turistico. ** {.wp-block-heading}
 

@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ricetta
   - ricette
-images: ["images/wp-content/uploads/2020/08/risotto-blu-mare-ricetta-.webp"]
+images: ["/images/wp-content/uploads/2020/08/risotto-blu-mare-ricetta-.webp"]
 ---
 ## Avete mai sentito parlare del **Natural Blue foods**?  {.wp-block-heading}
 

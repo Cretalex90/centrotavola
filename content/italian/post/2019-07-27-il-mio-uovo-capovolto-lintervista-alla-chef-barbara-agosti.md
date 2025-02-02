@@ -4,7 +4,7 @@ author: Alessandro Creta
 type: regular
 date: 2019-07-27T08:25:50+00:00
 
-images: ["images/wp-content/uploads/2019/07/eggs-gioco-dellova.webp"]
+images: ["/images/wp-content/uploads/2019/07/eggs-gioco-dellova.webp"]
 timeline_notification:
   - 1564215953
 categories:

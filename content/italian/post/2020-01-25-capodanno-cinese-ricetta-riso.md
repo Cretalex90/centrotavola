@@ -12,7 +12,7 @@ categories:
 meta_tags:
   - ricetta
   - ricette
-images: ["images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp"]
+images: ["/images/wp-content/uploads/2020/01/risotto-riso-carciofi-ricetta.webp"]
 ---
 ## Il Capodanno Cinese è arrivato!  {.wp-block-heading}
 

@@ -15,7 +15,7 @@ meta_tags:
   - cucina
   - cucina italiana
   - viterbo
-images: ["images/wp-content/uploads/2024/11/pepenero-capodimonte-alessandro-creta-sala.webp"]
+images: ["/images/wp-content/uploads/2024/11/pepenero-capodimonte-alessandro-creta-sala.webp"]
 ---
 _Recente la riapertura del ristorante in riva al lago di Bolsena. A Capodimonte la ripartenza: in cucina sempre lo chef Salvo Cravero, le novità principali tra il menu e il team di sala._ 
 

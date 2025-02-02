@@ -10,7 +10,7 @@ categories:
   - News
 meta_tags:
   - Eventi
-images: ["images/wp-content/uploads/2020/12/azzurro-food-piatto.webp"]
+images: ["/images/wp-content/uploads/2020/12/azzurro-food-piatto.webp"]
 ---
 ## Al via un nuovo format con 3 dirette sul web. Protagonisti cooking show con Sonia Peronaci, Natale Giunta e Angelo Pumilia. Presenta Vanessa Galipoli. {.wp-block-heading}
 

@@ -16,7 +16,7 @@ meta_tags:
   - ristorante
   - ristoranti
   - terni
-images: ["images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-5.webp"]
+images: ["/images/wp-content/uploads/2019/12/officina-visiva-food-reportage-origine-terni-ale-pepe-5.webp"]
 ---
 La nostra chiacchierata con Maurizio Serva, non ancora nelle vesti di chef (letteralmente parlando), inizia ben prima dell’intervista vera e propria. Ci apre lui stesso il ristorante Origine, il nuovo locale nel centro di Terni, ci offre un caffè, e comincia a parlare di questo nuovo progetto che, ci tiene a specificare, non deve essere accostato direttamente al suo nome.
 

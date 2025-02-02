@@ -18,7 +18,7 @@ meta_tags:
   - cucina
   - cucina italiana
   - vissani
-images: ["images/wp-content/uploads/2024/04/vissani_piatto.jpg.webp"]
+images: ["/images/wp-content/uploads/2024/04/vissani_piatto.jpg.webp"]
 ---
 _Il 18 aprile apre “**TerritOri**”, il nuovo ristorante pop che, in una Sala della stessa struttura, si affianca al celebre **Ristorante Vissani**. Maggiormente inclusiva, questa realtà ripercorre il suo storico passato, proponendo una cucina che valorizza le tradizioni territoriali italiane con una formula più accessibile e familiare._
 

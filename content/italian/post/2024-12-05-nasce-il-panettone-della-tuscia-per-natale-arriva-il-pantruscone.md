@@ -18,7 +18,7 @@ meta_tags:
   - pantruscone
   - tuscia
   - viterbo
-images: ["images/wp-content/uploads/2024/12/pantruscone-feste-natale-panettone-gourmet-tuscia.webp"]
+images: ["/images/wp-content/uploads/2024/12/pantruscone-feste-natale-panettone-gourmet-tuscia.webp"]
 ---
 _Il Pantruscone è un panettone artigianale che nasce dalla ricerca e dall’utilizzo di prodotti naturali, ambasciatori della Tuscia, capaci di rievocarne le profonde radici storiche._
 

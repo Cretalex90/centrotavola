@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 meta_tags:
   - ricetta
-images: ["images/wp-content/uploads/2020/07/lemons-2121579_1280.webp"]
+images: ["/images/wp-content/uploads/2020/07/lemons-2121579_1280.webp"]
 ---
 ### L’estate è arrivata e non c’è niente di più bello che rinfrescarsi assaporando un sorbetto fresco e  
 rigenerante con limone e salvia!  

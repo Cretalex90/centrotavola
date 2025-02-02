@@ -8,7 +8,7 @@ timeline_notification:
   - 1568537992
 categories:
   - News
-images: ["images/wp-content/uploads/2019/09/carpineto-tenuta-montepulciano-arcobaleno.webp"]
+images: ["/images/wp-content/uploads/2019/09/carpineto-tenuta-montepulciano-arcobaleno.webp"]
 ---
 Vacanze al mare e caldo torrido alle spalle, la felicità si sposta in collina tra scorci più intimi, vallate incastonate tra i boschi, borghi rinascimentali, uliveti. Soprattutto vigneti a perdita d&#8217;occhio. Qui la natura si impone tra i grandi capolavori e tesori dell&#8217;umanità. Bellezza sontuosa ed armonia compongono un paesaggio che viene voglia di accarezzare.&nbsp;
 

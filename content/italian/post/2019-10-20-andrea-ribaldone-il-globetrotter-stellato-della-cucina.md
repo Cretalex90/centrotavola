@@ -15,7 +15,7 @@ meta_tags:
   - cucina
   - cucina italiana
   - guida michelin
-images: ["images/wp-content/uploads/2019/08/001_due_buoi_ribaldone_ritratto_hr_y4a4899-800x445.webp"]
+images: ["/images/wp-content/uploads/2019/08/001_due_buoi_ribaldone_ritratto_hr_y4a4899-800x445.webp"]
 ---
 _Chef Andrea Ribaldone ha il Piemonte nelle vene e, nonostante sia nato e cresciuto a Milano, in poco tempo ha capito che è nella terra dei suoi genitori che avrebbe potuto esaltare la propria idea di cucina. I fornelli sono sempre stati nel suo destino, ma tutto ebbe inizio da una birra…_
 

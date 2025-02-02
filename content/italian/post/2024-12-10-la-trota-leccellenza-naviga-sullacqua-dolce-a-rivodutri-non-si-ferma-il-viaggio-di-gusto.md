@@ -16,7 +16,7 @@ meta_tags:
   - rieti
   - ristorante
   - stellato
-images: ["images/wp-content/uploads/2024/12/la-trota-pranzo-rivodutri-andiamo-posticino-alessandro-creta.webp"]
+images: ["/images/wp-content/uploads/2024/12/la-trota-pranzo-rivodutri-andiamo-posticino-alessandro-creta.webp"]
 ---
 _Dal 1963, il ristorante La Trota di Rivodutri (Rieti) rappresenta un punto di riferimento per chi desidera esplorare l&#8217;alta cucina a base di pesce d’acqua dolce._ _Un indirizzo insignito della Stella Michelin._
 

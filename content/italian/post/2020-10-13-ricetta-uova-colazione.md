@@ -11,7 +11,7 @@ categories:
 meta_tags:
   - ricetta
   - ricette
-images: ["images/wp-content/uploads/2020/10/uovo-strapazzato.webp"]
+images: ["/images/wp-content/uploads/2020/10/uovo-strapazzato.webp"]
 ---
 ## Il cappello dello chef è uno status symbol in cucina.  {.wp-block-heading}
 

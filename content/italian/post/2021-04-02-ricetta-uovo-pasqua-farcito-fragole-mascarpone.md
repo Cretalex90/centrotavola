@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 meta_tags:
   - ricetta
-images: ["images/wp-content/uploads/2021/03/ricetta-uovo-di-pasqua-farcito-fragole.webp"]
+images: ["/images/wp-content/uploads/2021/03/ricetta-uovo-di-pasqua-farcito-fragole.webp"]
 ---
 ### Quante uova di cioccolato e quante colombe vi stanno avanzando (o sono avanzate) durante questo periodo pasquale? {.wp-block-heading}
 

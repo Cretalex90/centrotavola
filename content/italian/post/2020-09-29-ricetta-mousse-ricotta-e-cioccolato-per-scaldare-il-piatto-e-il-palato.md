@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 meta_tags:
   - ricetta
-images: ["images/wp-content/uploads/2020/09/ricetta-mousse-ricotta-cioccolato.webp"]
+images: ["/images/wp-content/uploads/2020/09/ricetta-mousse-ricotta-cioccolato.webp"]
 ---
 ### Se guardiamo fuori la finestra non possiamo far altro che ammirare la natura che cambia colore con l&#8217;arrivo della nuova stagione. {.wp-block-heading}
 

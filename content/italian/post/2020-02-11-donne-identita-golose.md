@@ -13,7 +13,7 @@ meta_tags:
   - chef stellati
   - identità golose
   - milano
-images: ["images/wp-content/uploads/2020/02/52f87731-ad19-4424-8277-b6c28b5bec16.webp"]
+images: ["/images/wp-content/uploads/2020/02/52f87731-ad19-4424-8277-b6c28b5bec16.webp"]
 ---
 ## **Quella del 2020** sarà <a href="https://aleepepe.com/2020/02/04/identita-golose-2020-2/" target="_blank" rel="noreferrer noopener" aria-label="l'edizione (apre in una nuova scheda)">l&#8217;edizione</a> che, più di ogni altra fino ad ora, darà voce alle donne. {.wp-block-heading}<figure class="wp-block-table">
 

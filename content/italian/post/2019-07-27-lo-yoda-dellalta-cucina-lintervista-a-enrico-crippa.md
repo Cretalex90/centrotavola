@@ -4,7 +4,7 @@ author: Alessandro Creta
 type: regular
 date: 2019-07-27T19:43:21+00:00
 
-images: ["images/wp-content/uploads/2019/07/enrico-003.webp"]
+images: ["/images/wp-content/uploads/2019/07/enrico-003.webp"]
 timeline_notification:
   - 1564256605
 categories:

@@ -17,7 +17,7 @@ meta_tags:
   - ristorante
   - sala
   - terni
-images: ["images/wp-content/uploads/2024/10/photo-2024-07-18-20-32-47.webp"]
+images: ["/images/wp-content/uploads/2024/10/photo-2024-07-18-20-32-47.webp"]
 ---
   
 _Sorriso sornione, parlantina affabile e un approccio al cliente professionale e informale, in linea sia con quanto la professione richiede sia con la sua giovane età. Siamo a Sangemini (TR), all’interno di Origine (ristorante ospitato nel Grand Hotel) e tra i tavoli Italo Da Ponte, giovane maitre 30enne nonché sommelier e all’occorrenza barman, si muove con sicurezza, preparazione e sorriso._

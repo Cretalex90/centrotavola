@@ -16,7 +16,7 @@ meta_tags:
   - intervista
   - Lorenzo iozzia
   - viterbo
-images: ["images/wp-content/uploads/2019/08/4111959_10_lorenzo_iozzia.webp"]
+images: ["/images/wp-content/uploads/2019/08/4111959_10_lorenzo_iozzia.webp"]
 ---
  
 

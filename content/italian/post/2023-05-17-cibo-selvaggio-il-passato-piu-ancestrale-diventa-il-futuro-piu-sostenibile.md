@@ -13,7 +13,7 @@ categories:
 meta_tags:
   - chef
   - umbria
-images: ["images/wp-content/uploads/2023/05/petto-danatra-selvatica-di-lucio-pompili.webp"]
+images: ["/images/wp-content/uploads/2023/05/petto-danatra-selvatica-di-lucio-pompili.webp"]
 ---
 **_È questo il messaggio trasmesso dagli chef presenti a Cibo Selvaggio, l’evento dedicato alla cucina di caccia d’autore. Quattro show cooking degli chef Lucio Pompili, Giulio Gigli, Paolo Trippini e Giorgione per quattro visioni differenti di cucina di caccia ed un’unica parola chiave che invece le lega profondamente: Rispetto. Per l’animale, per l’ambiente e per la cultura gastronomica più identitaria di un territorio._** 
 {{< figure src="/images/wp-content/uploads/2023/05/giulio-gigli-e-paolo-trippini.webp" caption="Giulio Gigli e Paolo Trippini" >}}

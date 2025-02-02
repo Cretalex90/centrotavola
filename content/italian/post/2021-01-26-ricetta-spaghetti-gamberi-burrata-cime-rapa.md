@@ -10,7 +10,7 @@ categories:
   - le ricette dello chef
 meta_tags:
   - ricetta
-images: ["images/wp-content/uploads/2021/01/spaghetti-cime-di-rapa-e-gamberi-ricetta.webp"]
+images: ["/images/wp-content/uploads/2021/01/spaghetti-cime-di-rapa-e-gamberi-ricetta.webp"]
 ---
 ### Gamberi, cime di rapa e burrata è una variante, appetitosa ed originale, di uno dei più grandi e intramontabili classici della cucina pugliese: le orecchiette con le cime di rapa. {.wp-block-heading}
 

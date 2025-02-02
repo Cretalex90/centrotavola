@@ -15,7 +15,7 @@ meta_tags:
   - chef
   - cucina
   - viterbo
-images: ["images/wp-content/uploads/2022/09/viterbo-essenza-ristorante-menu-1.webp"]
+images: ["/images/wp-content/uploads/2022/09/viterbo-essenza-ristorante-menu-1.webp"]
 ---
 **_Doveva aprire nell&#8217;estate del 2020, poi per le vicissitudini dovute al Covid ha ritardato di un anno sulla tabella di marcia iniziale. Cosa e come si mangia da Essenza Ristorante, alle porte di Viterbo._**
 
