@@ -94,6 +94,69 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "settings",
+        label: "Site Settings",
+        path: "config/_default",
+        match: {
+          include: "params",
+        },
+        format: "toml",
+        fields: [
+          {
+            type: "object",
+            name: "promotion",
+            label: "Sidebar Promotion",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "content",
+                label: "Content",
+                ui: {
+                  component: "textarea",
+                },
+              },
+              {
+                type: "image",
+                name: "image",
+                label: "Image",
+              },
+              {
+                type: "string",
+                name: "button_label",
+                label: "Button Label",
+              },
+              {
+                type: "string",
+                name: "button_link",
+                label: "Button Link",
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "top_promotion",
+            label: "Top Banner Promotion",
+            fields: [
+              {
+                type: "image",
+                name: "image",
+                label: "Banner Image",
+              },
+              {
+                type: "string",
+                name: "link",
+                label: "Banner Link",
+              },
+            ],
+          },
+        ],
+      },
     ],
   },
   search: {

@@ -85,13 +85,13 @@ currency = "$"
 [promotion]
 title = "Create Stunning Website!!"
 content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
-image = "images/promotion.jpg"
+image = "/images/promotion.jpg"
 button_label = "Get Started"
 button_link = "https://themefisher.com/"
 
 # top banner promotion
 [top_promotion]
-image = "images/promotion-banner.jpg"
+image = "/images/promotion-banner.jpg"
 link = "/promuovi/"
 
 # Crisp Chat
