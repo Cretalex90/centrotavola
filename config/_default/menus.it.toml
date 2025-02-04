@@ -1,49 +1,44 @@
-# Start of Selection
-############### Navigazione Italiana ################
-
-# Menu a discesa per le categorie
 [[main]]
 name = "Categorie"
 weight = 1
 hasChildren = true
 
 [[main]]
-parent = "Categorie"
 name = "Eventi"
 url = "categories/eventi/"
 weight = 1
+parent = "Categorie"
 
 [[main]]
-parent = "Categorie"
 name = "News"
 url = "categories/news/"
 weight = 2
+parent = "Categorie"
 
 [[main]]
-parent = "Categorie"
 name = "Ristoranti"
 url = "categories/ristoranti/"
 weight = 3
+parent = "Categorie"
 
 [[main]]
-parent = "Categorie"
 name = "Ricette degli chef"
 url = "categories/ricette-degli-chef/"
 weight = 4
+parent = "Categorie"
 
 [[main]]
-parent = "Categorie"
 name = "In buone mani"
 url = "categories/in-buone-mani/"
 weight = 5
+parent = "Categorie"
 
 [[main]]
-parent = "Categorie"
-name = "Aziende e Prodotti"
+name = "Aziende e prodotti"
 url = "categories/aziende-e-prodotti/"
 weight = 6
+parent = "Categorie"
 
-# Sezioni con form contatti
 [[main]]
 name = "Promuovi la tua attività"
 url = "promuovi/"
@@ -54,7 +49,6 @@ name = "Organizza il tuo tour in Tuscia"
 url = "organizza-tour/"
 weight = 8
 
-# menu footer
 [[footer]]
 name = "Chi Siamo"
 url = "about/"
@@ -74,4 +68,3 @@ weight = 3
 name = "Termini e Condizioni"
 url = "terms-conditions/"
 weight = 4
-# End of Selection
