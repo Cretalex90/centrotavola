@@ -416,6 +416,86 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "menu",
+        label: "Navigation Menus",
+        path: "config/_default",
+        match: {
+          include: "menus.it",
+        },
+        format: "toml",
+        fields: [
+          {
+            type: "object",
+            name: "main",
+            label: "Main Menu",
+            list: true,
+            ui: {
+              itemProps: (item) => ({
+                label: item?.name || "Menu Item",
+              }),
+            },
+            fields: [
+              {
+                type: "string",
+                name: "name",
+                label: "Name",
+                required: true,
+              },
+              {
+                type: "string",
+                name: "url",
+                label: "URL",
+              },
+              {
+                type: "number",
+                name: "weight",
+                label: "Order Weight",
+              },
+              {
+                type: "boolean",
+                name: "hasChildren",
+                label: "Has Submenu",
+              },
+              {
+                type: "string",
+                name: "parent",
+                label: "Parent Menu",
+                description: "For submenu items, enter the parent menu name",
+              }
+            ],
+          },
+          {
+            type: "object",
+            name: "footer",
+            label: "Footer Menu",
+            list: true,
+            ui: {
+              itemProps: (item) => ({
+                label: item?.name || "Footer Item",
+              }),
+            },
+            fields: [
+              {
+                type: "string",
+                name: "name",
+                label: "Name",
+                required: true,
+              },
+              {
+                type: "string",
+                name: "url",
+                label: "URL",
+              },
+              {
+                type: "number",
+                name: "weight",
+                label: "Order Weight",
+              }
+            ],
+          }
+        ],
+      },
     ],
   },
   search: {
