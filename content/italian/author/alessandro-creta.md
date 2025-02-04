@@ -1,6 +1,6 @@
 ---
 title: "Alessandro Creta"
-image: "images/alessandro-creta.png"
+image: "/images/alessandro-creta.png"
 email: "alessandro@creta.it"
 social:
   - icon: "fab fa-facebook" # themify icon pack : https://themify.me/themify-icons

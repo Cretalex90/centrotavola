@@ -344,6 +344,78 @@ export default defineConfig({
           },
         ],
       },
+      {
+        label: "Authors",
+        name: "author",
+        path: "content/italian/author",
+        format: "md",
+        fields: [
+          {
+            type: "string",
+            label: "Title",
+            name: "title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "image",
+            label: "Profile Image",
+            name: "image",
+            description: "Upload author profile photo",
+          },
+          {
+            type: "string",
+            label: "Email",
+            name: "email",
+          },
+          {
+            type: "object",
+            label: "Social Links",
+            name: "social",
+            list: true,
+            ui: {
+              itemProps: (item) => ({
+                label: item?.icon ? `${item.icon.replace('fab fa-', '')}` : "New social link",
+              }),
+            },
+            fields: [
+              {
+                type: "string",
+                label: "Icon Class",
+                name: "icon",
+                description: "Themify/FontAwesome icon class (e.g. fab fa-facebook)",
+                ui: {
+                  component: "select",
+                  options: [
+                    { value: "fab fa-facebook", label: "Facebook" },
+                    { value: "fab fa-instagram", label: "Instagram" },
+                    { value: "fab fa-twitter", label: "Twitter" },
+                    { value: "fab fa-linkedin", label: "LinkedIn" },
+                  ],
+                },
+              },
+              {
+                type: "string",
+                label: "Profile URL",
+                name: "link",
+              },
+            ],
+          },
+          {
+            type: "rich-text",
+            label: "Biography",
+            name: "body",
+            isBody: true,
+            templates: [
+              {
+                name: "Paragraph",
+                label: "Paragraph",
+                fields: [{ type: "rich-text", name: "children", label: "Content" }],
+              },
+            ],
+          },
+        ],
+      },
     ],
   },
   search: {
