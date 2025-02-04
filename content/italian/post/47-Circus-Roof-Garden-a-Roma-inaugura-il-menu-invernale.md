@@ -3,6 +3,8 @@ title: 47 Circus Roof Garden a Roma inaugura il menu invernale
 date: 2025-02-03T23:00:00.000Z
 images:
   - /images/circus-roof-garden-roma.jpg
+categories:
+  - Ristoranti
 tags:
   - ' rooftop'
   - roma
@@ -20,7 +22,7 @@ Qual è l'anima di un ristorante posizionato su una terrazza panoramica? Il **47
 
 ![](</images/10.guancia di bovino_47 Circus Roof Garden.png> "Guancia di bovino")
 
-A guidare la cucina c'è il **resident chef Maurizio Lustrati**, romano di nascita ma con un'esperienza internazionale. Sommelier dal 2001 e appassionato di pasticceria, Lustrati ha creato un** menu invernale** che celebra la stagionalità e le eccellenze del territorio.
+A guidare la cucina c'è il **resident chef Maurizio Lustrati**, romano di nascita ma con un'esperienza internazionale. Sommelier dal 2001 e appassionato di pasticceria, Lustrati ha creato un\*\* menu invernale\*\* che celebra la stagionalità e le eccellenze del territorio.
 
 ***Tra le proposte della nuova carta:***
 
