@@ -1,6 +1,6 @@
 ---
-title: "Organizza il tuo tour in Tuscia"
-layout: "contact"
+title: Organizza il tuo tour in Tuscia
+layout: contact
 draft: false
 ---
 
@@ -11,25 +11,28 @@ Stai pianificando un weekend alla scoperta delle eccellenze enogastronomiche del
 ## Cosa Offriamo:
 
 ### 🍷 Esperienze Enogastronomiche
-- Tour personalizzati delle migliori cantine
-- Degustazioni guidate di vini locali
-- Visite a produttori artigianali
+
+* Tour personalizzati delle migliori cantine
+* Degustazioni guidate di vini locali
+* Visite a produttori artigianali
 
 ### 👨‍🍳 Cultura Culinaria
-- Cooking class con chef locali
-- Scoperta dei prodotti tipici
-- Tour dei mercati tradizionali
+
+* Pranzi nei migliori ristoranti della zona
+* Scoperta dei prodotti tipici
 
 ### 🏰 Territorio e Tradizioni
-- Itinerari personalizzati
-- Visite guidate nei borghi storici
-- Esperienze autentiche con produttori locali
 
----
+* Itinerari personalizzati
+* Visite guidate nei borghi storici
+* Esperienze autentiche con produttori locali
+
+***
 
 **Come Funziona:**
+
 1. Contattaci via email
 2. Raccontaci le tue preferenze e il periodo del tuo soggiorno
 3. Ti proporremo un itinerario su misura
 
-Non esitare a contattarci per organizzare il tuo tour personalizzato nella Tuscia. Saremo felici di aiutarti a scoprire i tesori gastronomici del nostro territorio! 
+Non esitare a contattarci per organizzare il tuo tour personalizzato nella Tuscia. Saremo felici di aiutarti a scoprire i tesori gastronomici del nostro territorio!
