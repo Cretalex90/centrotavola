@@ -4,6 +4,8 @@ date: 2025-02-05T23:00:00.000Z
 type: regular
 images:
   - /images/412166068_324775073779256_795447958394768975_n.jpg
+categories:
+  - In buone mani
 tags:
   - umbria
   - foligno
