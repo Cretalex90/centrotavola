@@ -16,4 +16,4 @@ contentDir = "content/italian"
 weight = 1
 # footer content
 [it.params]
-footer_content = "CentroTavola è un progetto editoriale dedicato al racconto del mondo della ristorazione attraverso le voci dei suoi protagonisti. Un viaggio tra cucine, storie e sapori dell'enogastronomia italiana."
+footer_content = "CentroTavola è un progetto editoriale indipendente dedicato al mondo dell'enogastronomia, presentato attraverso approfondimenti e le voci dei suoi protagonisti."
