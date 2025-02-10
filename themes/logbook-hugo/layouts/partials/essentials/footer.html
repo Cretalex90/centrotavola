@@ -19,7 +19,7 @@
         <h6 class="mb-4 fw-semibold">{{i18n "social"}}</h6>
         <ul class="list-unstyled footer-list">
           {{ range site.Params.social }}
-          <li><a class="text-capitalize" target="_blank" href="{{ .link | safeURL }}">{{ .title }}</a></li>
+          <li><a target="_blank" href="{{ .link | safeURL }}">{{ .title }}</a></li>
           {{ end }}
         </ul>
       </div>
