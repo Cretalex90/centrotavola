@@ -1,7 +1,7 @@
 ---
 title: Alessandro Creta
 image: /images/alessandro-creta-giornalista-food.JPG
-email: alessandro@creta.it
+email: cretalessandro90@gmail.com
 social:
   - icon: fab fa-facebook
     link: 'https://www.facebook.com/alessandro.creta.3'
