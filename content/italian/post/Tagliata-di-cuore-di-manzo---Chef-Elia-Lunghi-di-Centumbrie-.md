@@ -2,7 +2,7 @@
 title: 'Tagliata di cuore di manzo - Chef Elia Lunghi di Centumbrie '
 date: 2025-02-10T23:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/CUORE1_EvoBistrot.jpg
 categories:
