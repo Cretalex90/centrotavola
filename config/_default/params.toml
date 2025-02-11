@@ -9,9 +9,9 @@ contact_form_action = "#"
 google_tag_manager = ""
 custom_script = ""
 theme_copyright = false
-logo = "/images/centrotavola-alessandro-creta.png"
+logo = "/images/centrotavola-logo-nuovo.png"
 favicon = "/images/CentroTavola.png"
-logo_width = "500px"
+logo_width = "600px"
 logo_text = "LogBook"
 copyright = "Copyright by Alessandro Creta"
 
