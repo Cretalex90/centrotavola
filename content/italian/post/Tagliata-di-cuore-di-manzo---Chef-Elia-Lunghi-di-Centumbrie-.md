@@ -4,7 +4,7 @@ date: 2025-02-10T23:00:00.000Z
 type: regular
 draft: false
 images:
-  - /images/CUORE1_EvoBistrot.jpg
+  - /images/cuore-manzo-evo-bistrot.jpg
 categories:
   - Ricette degli chef
 tags:
