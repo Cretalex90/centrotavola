@@ -1,6 +1,35 @@
 (function () {
   ("use strict");
 
+  // Navbar scroll behavior
+  let lastScrollY = window.scrollY;
+  const header = document.querySelector('header');
+  const mobileMenu = document.querySelector('#navigation');
+
+  window.addEventListener('scroll', () => {
+    const currentScrollY = window.scrollY;
+    
+    // Don't hide navbar if mobile menu is open
+    if (mobileMenu.classList.contains('show')) return;
+
+    if (currentScrollY > 200) { // Only activate after 200px scroll
+      header.classList.add('nav-scrolled');
+      
+      if (currentScrollY > lastScrollY) {
+        // Scrolling down
+        header.classList.add('nav-hidden');
+      } else {
+        // Scrolling up
+        header.classList.remove('nav-hidden');
+      }
+    } else {
+      // At top of page
+      header.classList.remove('nav-scrolled', 'nav-hidden');
+    }
+    
+    lastScrollY = currentScrollY;
+  });
+
   // header search panel
   const navbar_collapse = document.querySelector(".navbar-collapse");
   const navbar_toggler = document.querySelector(".navbar-toggler");
