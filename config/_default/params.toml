@@ -11,8 +11,8 @@ custom_script = ""
 theme_copyright = false
 logo = "/images/centrotavola-logo-nuovo.png"
 favicon = "/images/CentroTavola.png"
-logo_width = "600px"
-logo_text = "LogBook"
+logo_width = "400px"
+logo_text = "Centro Tavola"
 copyright = "Copyright by Alessandro Creta"
 
 [preloader]
