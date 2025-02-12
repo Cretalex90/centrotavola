@@ -17,9 +17,9 @@ tags:
   - cocktail
 ---
 
-Negli ultimi anni, la ristorazione ha vissuto un** cambiamento significativ**o, dettato da una maggiore sensibilità verso il consumo di alcolici. Un nuovo trend che apre altrettanto nuove opportunità.
+Negli ultimi anni, la ristorazione ha vissuto un cambiamento significativo, dettato da una maggiore sensibilità verso il consumo di alcolici. Un nuovo trend che apre altrettanto nuove opportunità.
 
-Da un lato, le recenti e più severe normative sulla guida in stato di ebbrezza hanno ridotto il consumo di vino e cocktail durante i pasti. Dall’altro, un numero crescente di persone **sceglie consapevolmente di ridurre o eliminare l’alcol **dalla propria dieta per motivi di salute o stile di vita.  Questi fattori hanno comportato una sfida per noi ristoratori, non solo in termini di scontrino medio, ma anche nella capacità di offrire esperienze altrettanto appaganti senza il supporto tradizionale degli abbinamenti alcolici.
+Da un lato, le recenti e più severe normative sulla guida in stato di ebbrezza hanno ridotto il consumo di vino e cocktail durante i pasti. Dall’altro, un numero crescente di persone sceglie consapevolmente di r**idurre o eliminare l’alcol **dalla propria dieta per motivi di salute o stile di vita. Questi fattori hanno comportato una sfida per noi ristoratori, non solo in termini di scontrino medio, ma anche nella capacità di offrire esperienze altrettanto appaganti senza il supporto tradizionale degli abbinamenti alcolici.
 
 ![](/images/mojito-2164653_1280.jpg)
 
