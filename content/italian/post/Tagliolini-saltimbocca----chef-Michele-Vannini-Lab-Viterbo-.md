@@ -22,19 +22,19 @@ Per le polpette
 
 100g vitello
 
-30g prosciutto crudo 
+30g prosciutto crudo
 
 30g pane
 
-10g parmigiano reggiano 
+10g parmigiano reggiano
 
 10g pecorino romano
 
-20g uovo 
+20g uovo
 
 N2 foglie di salvia
 
-100g vino bianco 
+100g vino bianco
 
 Qb sale
 
@@ -42,9 +42,9 @@ Qb pepe
 
 Qb maizena
 
-Procedimento 
+Procedimento
 
-Tritare il vitello e aggiungere tutti gli ingredienti ad eccezione della maizena e del vino per fare un impasto da cui ricavare delle polpette più piccole possibili. Passare le polpette nella maizena e scottarle in padella con un goccio di olio e una noce di burro, sfumare con il vino, aggiungere altra salvia, bagnare con del brodo e cucinare a fiamma bassa per 15/20 min. Avendo cura che rimangano in umido. Raffreddare e mettere da parte.\
+Tritare il vitello e aggiungere tutti gli ingredienti ad eccezione della maizena e del vino per fare un impasto da cui ricavare delle polpette più piccole possibili. Passare le polpette nella maizena e scottarle in padella con un goccio di olio e una noce di burro, sfumare con il vino, aggiungere altra salvia, bagnare con del brodo e cucinare a fiamma bassa per 15/20 min. Avendo cura che rimangano in umido. Raffreddare e mettere da parte.\\
 
 Brodo di vitello e salvia
 
@@ -72,7 +72,7 @@ Per i tagliolini:
 
 120g di tagliolini
 
-30g di prosciutto tagliato a julienne 
+30g di prosciutto tagliato a julienne
 
 5g di salvia tagliata a julienne
 
@@ -84,12 +84,14 @@ Qb brodo ai saltimbocca
 
 20g burro
 
-30g parmigiano reggiano grattugiato 
+30g parmigiano reggiano grattugiato
 
 Qb pepe
 
 Qb olio evo
 
-Procedimento 
+Procedimento
 
 In una padella mettere un filo d’olio e scottare velocemente il prosciutto, aggiungere le polpettine con il loro sughetto e bagnare con il brodo; nel frattempo cuocere per circa 30 secondi i tagliolini in acqua bollente ed aggiungerli alla padella dove andremo a finire la cottura bagnando di continuo con il brodo fino a cottura. Mantecare con burro e parmigiano. Impiattare e mettere qualche fogliolina di salvia fritta in cima.
+
+Foto di Marco Aquilani | Officina Visiva
