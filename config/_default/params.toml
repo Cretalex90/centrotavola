@@ -104,8 +104,8 @@ button_label = "Get Started"
 button_link = "https://themefisher.com/"
 
 [top_promotion]
-enable = false
-image = "/images/promotion-banner.jpg"
+enable = true
+image = "/images/Marco Aquilani  Fotografo Food and Beverage.png"
 link = "/promuovi/"
 
 [metadata]
