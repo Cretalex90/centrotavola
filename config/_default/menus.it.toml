@@ -7,37 +7,37 @@ hasChildren = true
 name = "Eventi"
 url = "categories/eventi/"
 weight = 1
-parent = "Categorie"
+parent = "Cosa bolle in pentola"
 
 [[main]]
 name = "News"
 url = "categories/news/"
 weight = 2
-parent = "Categorie"
+parent = "Cosa bolle in pentola"
 
 [[main]]
 name = "Ristoranti"
 url = "categories/ristoranti/"
 weight = 3
-parent = "Categorie"
+parent = "Cosa bolle in pentola"
 
 [[main]]
 name = "Ricette degli chef"
 url = "categories/ricette-degli-chef/"
 weight = 4
-parent = "Categorie"
+parent = "Cosa bolle in pentola"
 
 [[main]]
 name = "In buone mani"
 url = "categories/in-buone-mani/"
 weight = 5
-parent = "Categorie"
+parent = "Cosa bolle in pentola"
 
 [[main]]
 name = "Aziende e prodotti"
 url = "categories/aziende-e-prodotti/"
 weight = 6
-parent = "Categorie"
+parent = "Cosa bolle in pentola"
 
 [[main]]
 name = "Promuovi la tua attività"
