@@ -106,7 +106,7 @@ button_link = "https://themefisher.com/"
 [top_promotion]
 enable = true
 image = "/images/Marco Aquilani  Fotografo Food and Beverage 2.png"
-link = "/promuovi/"
+link = "https://www.officinavisiva.it"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
