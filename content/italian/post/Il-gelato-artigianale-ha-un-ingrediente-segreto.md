@@ -20,6 +20,8 @@ C'è qualcosa di magico nel modo in cui, generazione dopo generazione, abbiamo p
 
 All'interno di ogni coppetta di gelato artigianale si combatte infatti una vera e propria battaglia molecolare: l'acqua e i grassi, sgomitano per cercare di separarsi. Le molecole d'acqua, congelandosi, vorrebbero formare grandi cristalli, cosa che il gelatiere esperto contrasta con maestria e tecnica. Ma c'è di più, molto di più. Ed ecco la rivelazione che cambierà per sempre il vostro modo di guardare al gelato artigianale: l'ingrediente segreto è letteralmente intorno a noi. **Invisibile, incolore, insapore** - è esattamente quello che state pensando: **l'aria**, pura e semplice aria che, attraverso un processo di agitazione e raffreddamento controllato, rimane intrappolata sotto forma di microscopiche bolle all'interno della struttura, trasformando il gelato in quella soffice squisitezza che tutti amiamo.
 
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
+
 Pensate: senza questo magico ingrediente, ci troveremmo davanti a dei semplici ghiaccioli. Proprio come noi non potremmo vivere senza respirare, il gelato non potrebbe esistere senza quelle piccolissime bolle d'aria che lo rendono golosamente morbido.
 
 La buona notizia? Questa magia può prendere vita anche nella vostra cucina. Certo, dovrete armarvi di pazienza certosina, precisione matematica, dei vostri ingredienti preferiti e di una gelatiera. E anche voi potrete creare il vostro gelato perfetto Il mondo del gelato artigianale italiano è un affascinante equilibrio tra **estro creativo e rigore scientifico**, dove la passione del gelatiere incontra le leggi della fisica e della chimica.
