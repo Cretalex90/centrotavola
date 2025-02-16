@@ -31,6 +31,8 @@ Ma niente paura, un alternativa c'è! In questo contesto, gli **abbinamenti no-a
 
 Come maître di sala, il mio ruolo è trasformare ogni pasto in un’esperienza. Per noi professionisti della sala, questo **rappresenta una sfida**, ma anche un’opportunità di innovazione. Gli abbinamenti no-alcol non sono solo una risposta a questa esigenza, ma una nuova forma d’arte da esplorare. Ho sempre pensato ad avere due scelte già da qualche tempo per fornire un servizio a 360° sia a chi poteva bere alcolici, sia a chi ne era impossibilitato per scelta o condizione fisica (astemi, donne incinte, persone con restrizioni alimentari) così da far godere ad entrambi l' esperienza della cena senza vincoli. Tanti altri colleghi nel mio mondo, negli ultimi anni, avevano questo "servizio" ma, non essendo così diffusa come ricerca, potevate trovarli solo su ristoranti di un certo tipo come stellati o comunque di fascia medio alta. Un peccato che non sia così comune, allargando il discorso anche alle altre strutture, nel 2025. Bisogna attivarsi, non abbiamo più scuse, oltre al fatto che con un pò più di ricerca possiamo dare un servizio e, sicuramente, rialzare lo scontrino medio!
 
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
+
 **Un abbinamento ben pensato valorizza il cibo e arricchisce l’esperienza del cliente.**
 
 Ecco alcuni esempi di pairing che ho avuto il piacere di servire agli ospiti e che voglio condividere con voi:
