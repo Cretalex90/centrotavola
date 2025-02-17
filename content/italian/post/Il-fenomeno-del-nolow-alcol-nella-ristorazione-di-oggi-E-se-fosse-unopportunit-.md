@@ -35,11 +35,11 @@ Come maître di sala, il mio ruolo è trasformare ogni pasto in un’esperienza.
 
 **Un abbinamento ben pensato valorizza il cibo e arricchisce l’esperienza del cliente.**
 
-Ecco alcuni esempi di pairing che ho avuto il piacere di servire agli ospiti e che voglio condividere con voi:
+Ecco alcuni esempi di pairing semplici e per tutti che ho avuto il piacere di servire agli ospiti e che voglio condividere con voi:
 
-*1. Kombucha alla mela verde e dragoncello con degustazione di salumi*
+*1. La Kombucha al tè verde con agrumi, zenzero e miele di acacia con degustazione di salumi*
 
-L’acidità e la leggera effervescenza della kombucha puliscono il palato dalla componente grassa dei salumi. La mela verde aggiunge un contrasto fresco e fruttato, che funziona bene con salumi stagionati come prosciutto crudo, speck o bresaola. Il dragoncello, con il suo carattere erbaceo e speziato, può esaltare salumi speziati come il salame finocchiona o il capocollo.
+L' ideale è scegliere una kombucha con buona acidità, struttura e un profilo aromatico equilibrato tra frutta, spezie ed erbe. Il tè verde porta freschezza e leggerezza, aiutando a pulire il palato tra un salume e l’altro. Gli agrumi (limone, arancia) aggiungono acidità e contrastano la grassezza. Lo zenzero dona un leggero calore speziato che si sposa bene con i salumi aromatizzati. Il miele di acacia smorza l'acidità con un tocco delicato di dolcezza.
 
 *2. Sidro di mele con formaggi e carni bianche*
 
