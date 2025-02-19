@@ -97,8 +97,8 @@ email = "centrotavolamail@gmail.com"
 
 [promotion]
 enable = true
-title = "Create Stunning Website!!"
-content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+title = ""
+content = ""
 image = "/images/Marco Aquilani Fotografo Food and Beverage.png"
 button_label = "Contatta"
 button_link = "https://www.officinavisiva.it"
