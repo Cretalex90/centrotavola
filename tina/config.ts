@@ -203,32 +203,14 @@ export default defineConfig({
                 label: "Enable Sidebar Promotion",
               },
               {
-                type: "string",
-                name: "title",
-                label: "Title",
-              },
-              {
-                type: "string",
-                name: "content",
-                label: "Content",
-                ui: {
-                  component: "textarea",
-                },
-              },
-              {
                 type: "image",
                 name: "image",
                 label: "Image",
               },
               {
                 type: "string",
-                name: "button_label",
-                label: "Button Label",
-              },
-              {
-                type: "string",
-                name: "button_link",
-                label: "Button Link",
+                name: "link",
+                label: "Link URL",
               },
             ],
           },
