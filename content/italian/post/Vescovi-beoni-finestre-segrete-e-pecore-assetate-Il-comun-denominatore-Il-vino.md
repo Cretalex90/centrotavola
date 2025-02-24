@@ -22,7 +22,7 @@ Oggi vi porto in viaggio tra **Lazio, Toscana e Marche**, alla scoperta di tre s
 
 ### Est! Est!! Est!!! Il vino che lasciò senza parole un vescovo
 
-Correva l’anno 1111 ed il vescovo tedesco Johannes Defuk** **era in viaggio verso Roma; dove avrebbe assistito all’incoronazione di Enrico V come imperatore. Non un viaggio banale, meglio ancora se lungo il tragitto, di tanto in tanto, si potesse bussare in qualche osteria per assaggiare i vini locali. Per questo motivo affidò al suo fido coppiere Martino un compito ben preciso: partite qualche giorno prima, avvantaggiarsi nel tragitto, per assaggiare il vino nelle taverne lungo il cammino e segnalargli quelle con il nettare più prelibato. Il sistema era semplice ed efficace: se il vino meritava, Martino scriveva sulla porta della locanda “***Est***” (che in latino significa “C’è”). Se il vino era eccezionale, avrebbe **aggiunto un altro Est**. Accadde così l’inaspettato: arrivato a Montefiascone, Martino trovò un vino così straordinario che decise di non badare alla moderazione e lasciò un “Est! Est!! Est!!!” con ben tre punti esclamativi, quasi urlando sulla porta della taverna.
+Correva l’anno 1111 ed il vescovo tedesco Johannes Defuk\*\* \*\*era in viaggio verso Roma; dove avrebbe assistito all’incoronazione di Enrico V come imperatore. Non un viaggio banale, meglio ancora se lungo il tragitto, di tanto in tanto, si potesse bussare in qualche osteria per assaggiare i vini locali. Per questo motivo affidò al suo fido coppiere Martino un compito ben preciso: partite qualche giorno prima, avvantaggiarsi nel tragitto, per assaggiare il vino nelle taverne lungo il cammino e segnalargli quelle con il nettare più prelibato. Il sistema era semplice ed efficace: se il vino meritava, Martino scriveva sulla porta della locanda “***Est***” (che in latino significa “C’è”). Se il vino era eccezionale, avrebbe **aggiunto un altro Est**. Accadde così l’inaspettato: arrivato a Montefiascone, Martino trovò un vino così straordinario che decise di non badare alla moderazione e lasciò un “Est! Est!! Est!!!” con ben tre punti esclamativi, quasi urlando sulla porta della taverna.
 
 ![](/images/est-est-montefiascone.jpg)
 
@@ -32,9 +32,11 @@ Quando il vescovo Defuk lesse il messaggio, non poté fare a meno di fermarsi. M
 
 Qualche secolo più tardi, a **Firenze**, qualcuno trovò un modo ancora più ingegnoso per godersi un calice senza troppe interruzioni…Le Buchette del Vino: la prima delivery del vino nel Rinascimento. Se oggi possiamo farci arrivare una bottiglia di vino a casa con un’app, nel Rinascimento a Firenze c’era un sistema ancora più affascinante: le buchette del vino.
 
-![](/images/buchette-vino-firenze-storia.jpg)
+![](/images/buchette-vino-firenze-storia.jpg "Dalla pagina Facebook - Buchette del Vino ")
 
 Immagina di passeggiare tra i vicoli fiorentini e notare delle **piccole finestrelle in pietra**, incastonate nei palazzi storici. Si tratta di vere e proprie “finestre da asporto” per il vino, usate per secoli dalle nobili famiglie produttrici per vendere direttamente ai cittadini senza intermediari. Quasi più semplice di un’app: bussavi alla buchetta, consegnavi il denaro e, poco dopo, ti veniva passato un bel calice o una fiaschetta di vino, senza bisogno di entrare in una taverna ma soprattutto senza dover aprire un negozio e quindi evitando di pagare le tasse. Un servizio rapido, efficiente e molto più igienico rispetto a tanti banconi affollati! Queste buchette hanno resistito nel tempo, sopravvivendo a guerre, pestilenze e perfino alla pandemia di Covid-19, quando sono state riutilizzate da alcuni locali per servire vino e caffè mantenendo il distanziamento sociale.
+
+![](/images/buchette-vino-firenze.jpg)
 
 Insomma, la voglia di gustare un buon calice in tutta comodità non è certo una novità. Ma se a Firenze erano i nobili a gestire il business del vino, in un’altra parte d’Italia pare che gli intenditori fossero… **le pecore**?!
 
