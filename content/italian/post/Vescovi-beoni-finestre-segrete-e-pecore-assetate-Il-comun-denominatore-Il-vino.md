@@ -54,6 +54,6 @@ Un’altra ipotesi è che il Pecorino fosse il vino preferito dai pastori, che l
 
 Alcuni studiosi ipotizzano che il nome derivi dalla parola latina “pecus”, che significa “gregge”. In questo caso, il vino non avrebbe niente a che fare con le papille gustative delle pecore, ma con il contesto rurale in cui veniva coltivato.
 
-Tre storie, un solo protagonista: il **vino** nel tempo e nello spazio.
+Tre storie, un solo protagonista: il **vino** nel tempo e nello spazio. Morale? Il vino è sempre un buon motivo per raccontare, sorridere e brindare e… *Cin cin*!
 
-Morale? Il vino è sempre un buon motivo per raccontare, sorridere e brindare e… *Cin cin*!
+*(foto finestre del vino dalla pagina Facebook - Buchette del Vino)*
