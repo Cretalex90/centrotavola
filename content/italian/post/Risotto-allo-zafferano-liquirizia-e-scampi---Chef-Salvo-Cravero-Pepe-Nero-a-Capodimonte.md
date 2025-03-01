@@ -4,7 +4,7 @@ title: >-
   Capodimonte
 date: 2025-02-28T23:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/risotto-zafferano-scampi-chef-ricetta.jpg
 categories:
