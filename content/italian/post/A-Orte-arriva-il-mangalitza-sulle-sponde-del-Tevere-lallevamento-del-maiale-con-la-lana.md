@@ -24,11 +24,13 @@ La prima volta che ho sentito parlare di maiali mangalitza è stato poco prima d
 
 ![](/images/mangalitza-carne-orte-allevamento-centro-tavola.jpg)
 
-Non conoscevo i maiali mangalitza ma fui colpito dal gusto, dal sapore di quei prodotti così buoni, caratterizzati da un grasso squisito, dolce, capace letteralmente di sciogliersi in bocca (eh sì, il grasso di questo suino si scioglie a 37 gradi, praticamente la nostra temperatura corporea). Insomma, una **carne eccezionale, **un tripudio al palato specialmente per chi per troppo tempo è stato abituato a merci industriali.
+Non conoscevo i maiali mangalitza ma fui colpito dal gusto, dal sapore di quei prodotti così buoni, caratterizzati da un grasso squisito, dolce, capace letteralmente di sciogliersi in bocca (eh sì, il grasso di questo suino si scioglie a 37 gradi, praticamente la nostra temperatura corporea). Insomma, una \*\*carne eccezionale, \*\*un tripudio al palato specialmente per chi per troppo tempo è stato abituato a merci industriali.
 
 ## Che cos’è il mangalitza?
 
 Il **mangalitza** (o mangalica) è un suino che nasce nel diciannovesimo secolo in Serbia da incroci di **animali autoctoni**, la sua caratteristica principale è quella della rusticità dovuta all'allevamento all'aperto e all'**alimentazione naturale** integrata da ghiande e risorse alimentari spontanee.Le modalità di allevamento porta ad un tasso di riproduzione molto basso e per questo il costo del Kg/carne ottenuto è più elevato rispetto, per esempio, a quello dei suini tradizionali. La combinazione fra la tipologia genetica, l'allevamento all'aperto e l'alimentazione naturale fa in modo che la carne prodotta sia di colore **rossastro**, molto screziata con grasso bianco crema e può sciogliersi a 37°c, è ricca di acidi grassi polinsaturi **Omega 3 e 6** (oltre il 54%), di **antiossidanti naturali** ed una bassissima percentuale di colesterolo.I livelli di omega 3 sono 2/3 volte superiori a quelli di molte varietà di pesce con un rapporto n6/n3 molto elevato. (*Studi università di Debrecen, Ungheria*)
+
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
 
 ## I mangalitza arrivano a Orte
 
