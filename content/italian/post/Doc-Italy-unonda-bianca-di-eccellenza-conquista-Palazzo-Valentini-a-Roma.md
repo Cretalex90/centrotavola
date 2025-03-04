@@ -33,8 +33,6 @@ La serata ha visto la partecipazione di numerosi ospiti illustri, presentati dal
 
 Per il decimo anno consecutivo, Roma è tornata a essere il fulcro delle eccellenze italiane grazie a Doc Italy. Un evento che non è solo una celebrazione del talento e della passione per il buon cibo, ma anche un’occasione di incontro e confronto tra le menti più brillanti del settore. Un successo che si rinnova di anno in anno, rendendo onore all’Italia e alle sue straordinarie tradizioni gastronomiche.
 
-Anche** un po' di Tuscia all'evento romano: premiata Lolla Gelato**
-
-****![](/images/lolla-gelato-viterbo.jpg)
-
+**Lorenza Bernini di Lolla Gelato premiata a Roma**\
+![](/images/lolla-gelato-viterbo.jpg)\
 C'è stata anche un po' di Tuscia all'evento di Palazzo Valentini. Lorenza Bernini, maestra gelatiera e titolare di Lolla Gelato (locale viterbese riconosciuto con i due Coni della guida Gambero Rosso), è stata insignita del titolo di “Ambasciatrice Doc Italy del Gusto per la Tuscia viterbese”, un premio che celebra il suo impegno e la sua passione per il mondo del gelato artigianale. Mondo che racconta anche attraverso le pagine di CentroTavola, con approfondimenti dedicati al settore di cui è diventata importante ambasciatrice territoriale.
