@@ -16,7 +16,7 @@ tags:
   - ricetta
 ---
 
-Il **risotto alla milanese trova nuova vita** grazie alla varietà di riso Gloria, capace di valorizzare la cremosi della mantecatura. Il burro affumicato aggiunge una nota calda e avvolgente, esaltata dalla sapidità complessa del Parmigiano 24 mesi. La polvere di liquirizia introduce un tocco inaspettato, leggermente dolce e amaricante, che bilancia la dolcezza degli scampi marinati al gin, il cui profumo aromatico si fonde con la freschezza dell'origano. Un piatto in cui ogni elemento dialoga con gli altri in un gioco di contrasti tra affumicato e fresco, dolce e sapido, cremoso e delicatamente agrumato.
+Il **risotto alla milanese trova nuova vita** grazie alla varietà di riso Gloria, capace di valorizzare la cremosità della mantecatura. Il burro affumicato aggiunge una nota calda e avvolgente, esaltata dalla sapidità complessa del Parmigiano 24 mesi. La polvere di liquirizia introduce un tocco inaspettato, leggermente dolce e amaricante, che bilancia la dolcezza degli scampi marinati al gin, il cui profumo aromatico si fonde con la freschezza dell'origano. Un piatto in cui ogni elemento dialoga con gli altri in un gioco di contrasti tra affumicato e fresco, dolce e sapido, cremoso e delicatamente agrumato.
 
 **Ingredienti per 2 persone**
 
