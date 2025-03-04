@@ -4,7 +4,8 @@ title: >-
   con la lana
 author: Alessandro Creta
 date: 2025-03-02T23:00:00.000Z
-draft: true
+type: featured
+draft: false
 images:
   - /images/mangalitza-orte-allevamento-fiore-centro-tavola.jpg
 categories:
