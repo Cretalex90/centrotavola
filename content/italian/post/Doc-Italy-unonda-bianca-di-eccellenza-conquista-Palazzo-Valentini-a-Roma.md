@@ -25,6 +25,8 @@ Tra le personalità più attese, lo Chef Igles Corelli, riconfermato nella sua e
 
 Un momento particolarmente toccante è stato dedicato alla commemorazione di due grandi Maestri recentemente scomparsi: Umberto Fornito per Napoli e Maurizio Capodicasa per Roma. Il loro contributo al mondo della pizza è stato omaggiato con una straordinaria caricatura realizzata dal Maestro Lamberto Paris, un ricordo che rimarrà impresso nei cuori di tutti i presenti.
 
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
+
 La serata ha visto la partecipazione di numerosi ospiti illustri, presentati dal volto di Doc Italy, Anthony Peth. Tra questi, il Consigliere Fabrizio Santori, da oltre 12 anni al fianco dell’evento, il Senatore Bartolomeo Amidei, l’Ambasciatore di Bulgaria Todor Stoyanov, Mons. Luigi Casolini Di Sersale, il Dott. Modesto Magri, il Dott. Daniel Della Seta, la Maestra Panificatrice Sara Papa, il Conte Garozzo Quirini e molti altri protagonisti del panorama istituzionale e gastronomico italiano.
 
 **Roma, ancora una volta Capitale del gusto**
