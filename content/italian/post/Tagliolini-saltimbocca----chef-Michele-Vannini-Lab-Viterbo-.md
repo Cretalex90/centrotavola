@@ -16,7 +16,7 @@ tags:
   - lab
 ---
 
-Un **grande classico **rivisto in un primo piatto. Questi tagliolini saltano letteralmente in bocca per farci rivivere i profumi e i sapori di un pranzo in famiglia.
+Un  **grande classico** rivisto in un primo piatto. Questi tagliolini saltano letteralmente in bocca per farci rivivere i profumi e i sapori di un pranzo in famiglia.
 
 **Per le polpette**
 
