@@ -1,7 +1,7 @@
 ---
 title: Convince sempre di più a Vitorchiano la pizza contemporanea di Mactra
 author: Alessandro Creta
-date: 2025-03-03T23:00:00.000Z
+date: 2025-03-04T23:00:00.000Z
 type: regular
 draft: false
 images:
