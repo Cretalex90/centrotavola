@@ -23,7 +23,7 @@ La **pasticceria d’alta ristorazione** sta vivendo un momento d’oro, afferma
 
 Per valorizzare questi talenti emergenti, torna **EmergentePastry**, il concorso dedicato ai migliori pasticcieri under 30 della ristorazione, ideato come parte del circuito “Emergente”, che da anni premia i più promettenti professionisti della cucina, della pizza, della sala e del ricevimento. Il format prevede tre tappe: la Selezione Centro-Sud, la Selezione Nord e infine la Finale, in cui si sfideranno i migliori quattro classificati di ogni selezione.
 
-![](</images/emergente pastry centro sud.png>)
+![](</images/Screenshot 2025-03-06 alle 11.19.30.png>)
 
 La Selezione Centro-Sud si terrà il **19 marzo 2025** presso la scuola **Dolce & Salato di Maddaloni**, in Campania, punto di riferimento per la formazione gastronomica. Qui, i candidati si confronteranno di fronte a una giuria di Maestri Pasticcieri, Pastry Chef e giornalisti di settore, mettendo alla prova le proprie abilità attraverso la preparazione di quattro diverse creazioni: **due dessert principali**, uno di pasticceria moderna e uno che preveda anche una cottura al forno, e **due finger food**, uno dolce e uno salato. Alcuni ingredienti saranno forniti dagli sponsor della competizione, aggiungendo una sfida ulteriore alla creatività dei partecipanti.
 
