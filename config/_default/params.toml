@@ -96,8 +96,8 @@ mobile = ""
 email = "centrotavolamail@gmail.com"
 
 [promotion]
-enable = false
-image = ""
+enable = true
+image = "/images/Marco Aquilani Fotografo Food and Beverage.png"
 link = "https://www.officinavisiva.it"
 
 [top_promotion]
