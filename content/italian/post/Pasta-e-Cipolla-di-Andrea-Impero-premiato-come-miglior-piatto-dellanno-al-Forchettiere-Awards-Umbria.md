@@ -25,4 +25,6 @@ La seconda edizione del Forchettiere Awards Umbria ha celebrato l'eccellenza gas
 
 Pasta e Cipolla viene servito come ultimo piatto del percorso degustazione **Visione** e, per le sue note dolci spiccate, caramellate, di nocciola, rappresenta l’introduzione alla fase dolce del menu. “È un piatto a cui sono particolarmente legato - conclude lo chef - e che vuole omaggiare il lavoro degli agricoltori di **Cannara**”.
 
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
+
 Questo riconoscimento conferma la capacità dello chef originario della Ciociaria di reinterpretare la tradizione con innovazione e raffinatezza, esaltando la semplicità degli ingredienti in una creazione dal gusto straordinario. Il premio è stato assegnato al termine di un mese di votazioni che ha coinvolto oltre 40 preferenze online e un panel tecnico di 20 esperti del settore. La cerimonia di premiazione, tenutasi presso l'hotel Sina Brufani di Perugia, ha visto "Pasta e Cipolla" distinguersi per il suo equilibrio di sapori e la capacità di **valorizzare la cucina umbra con un tocco moderno**. Il piatto premiato rappresenta un'ode alla semplicità, trasformata in un'esperienza gourmet che ha conquistato pubblico e critica.
