@@ -8,7 +8,7 @@ draft: false
 images:
   - /images/partenope-ricetta-andrea-impero.jpg
 categories:
-  - Le ricette degli chef
+  - Ricette degli chef
 tags:
   - partenope
   - borgobrufa
