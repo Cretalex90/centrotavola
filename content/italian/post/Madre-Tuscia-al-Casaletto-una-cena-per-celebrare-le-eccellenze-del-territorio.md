@@ -2,7 +2,7 @@
 title: 'Madre Tuscia: al Casaletto una cena per celebrare le eccellenze del territorio'
 date: 2025-03-13T23:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/casaletto-madre-tuscia-viterbo.jpg
 categories:
