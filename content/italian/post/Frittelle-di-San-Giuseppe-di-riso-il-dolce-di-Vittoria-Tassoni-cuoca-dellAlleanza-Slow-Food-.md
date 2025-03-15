@@ -1,6 +1,6 @@
 ---
 title: >-
-  Frittelle di San Giuseppe di riso, il dolce di Vittoria Tassoni, cuoca
+  Frittelle di riso: il dolce per San Giuseppe di Vittoria Tassoni, cuoca
   dell'Alleanza Slow Food 
 date: 2025-03-14T23:00:00.000Z
 type: regular
@@ -17,35 +17,25 @@ tags:
   - ricetta
 ---
 
-Le frittele di riso sono un dolce che si fa per San Giuseppe, tipico della Tuscia. Le versioni sono tantissime, ma se segui la mia ricetta di sicuro non te ne pentirai, e il giorno dopo sono ancora morbide e gustose. Molto importante per preparare le frittelle di riso è la scelta del riso, deve essere un riso, il più idoneo è il Carnaroli oppure Vialone nano ,Baldo e Roma. Se hai poco tempo puoi cuocere il riso il giorno prima, e prepararle il giorno dopo. Questa ricetta la trovate anche nel mio libro “Il Mirandò vivere e mangiare nel Borgo Vecchio”, Davide Ghaleb Editore
+Le **frittele di riso** sono un dolce tipico della **Tuscia** che si fa per il 19 marzo, in occasione della festa di San Giuseppe. "Le versioni sono tantissime, ma se segui la mia ricetta di sicuro non te ne pentirai, e il giorno dopo sono ancora morbide e gustose. Molto importante per preparare le frittelle è la scelta del riso: il più idoneo è il Carnaroli oppure Vialone nano ,Baldo e Roma. Se hai poco tempo puoi cuocere il riso il giorno prima per poi preparare le frittelle l'indomani. Questa ricetta la trovate anche nel mio libro “Il Mirandò vivere e mangiare nel Borgo Vecchio”, Davide Ghaleb Editore".
 
-Come preparare le frittelle di riso di San Giuseppe
+Come preparare le frittelle di riso di San Giuseppe secondo la ricetta di **Vittoria Tassoni**, cuoca dell'Alleanza Slow Food.
 
-### Ingredienti 
+### Ingredienti
 
-1 kg di riso Carnaroli 
-
-400 gr circa di farina
-
-500 gr di uvetta
-
-400 gr di ricotta
-
-100 g di zucchero 
-
-½ bustina di lievito
-
-6 uova
-
-1 limone grattugiato
-
-cannella q.b.
-
-1 lt latte + acqua 
-
+1 kg di riso Carnaroli\
+400 gr circa di farina\
+500 gr di uvetta\
+400 gr di ricotta\
+100 g di zucchero\
+½ bustina di lievito\
+6 uova\
+1 limone grattugiato\
+cannella q.b.\
+1 lt latte + acqua\
 sale
 
-### Preparazione 
+### Preparazione
 
 1. Porta a ebollizione latte e acqua con un pizzico di sale. Aggiungi la buccia di limone per aromatizzare.
 2. Versa il riso e cuocilo fino a quando avrà assorbito tutto il liquido e risulterà morbido.
@@ -54,9 +44,6 @@ sale
 5. Aggiungi lo zucchero, la cannella, la farina e il lievito, quindi mescola bene fino a ottenere un impasto omogeneo.
 6. Scalda abbondante olio in una padella, mantenendo la temperatura intorno ai 170°/ 175° C.
 7. Preleva l’impasto a cucchiaiate e friggi le frittelle fino a doratura, girandole per una cottura uniforme.
-8. Scola su carta assorbente e passa le frittelle ancora calde nello zucchero.\
-
+8. Scola su carta assorbente e passa le frittelle ancora calde nello zucchero.\\
 
 Consiglio: Per un risultato ancora più aromatico, puoi aggiungere un goccio di liquore all’impasto o un pizzico di vaniglia.
-
-
