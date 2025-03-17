@@ -4,7 +4,7 @@ title: >-
   dell'Alleanza Slow Food 
 date: 2025-03-14T23:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/frittelle-san-giuseppe-riso-ricetta.jpg
 categories:
