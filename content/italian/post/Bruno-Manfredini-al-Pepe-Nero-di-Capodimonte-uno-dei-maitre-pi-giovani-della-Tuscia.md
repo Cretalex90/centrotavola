@@ -5,7 +5,7 @@ title: >-
 author: Alessandro Creta
 date: 2025-03-12T23:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/bruno-manfredini-pepenero.jpg
 categories:
@@ -20,13 +20,13 @@ tags:
   - maitre
 ---
 
-C’è chi a 20 anni ancora non sa cosa fare della sua vita professionale. C’è chi a 20 anni ancora cerca di orientarsi tra le varie scelte che gli si propongono davanti, con il dubbio davanti a un bivio (nelle migliore delle ipotesi) su quale strada intraprendere. C’è, insomma, chi a 20 anni ancora non ha idea di ciò che “vuole fare da grande”. Tutto legittimo, tutto normale, tutto comprensibile. Il dubbio di scegliere chi essere, o chi diventare, appena si termina la fase teenager della propria vita, è un qualcosa che andrebbe sicuramente normalizzato in una società che che ormai ci richiede di esser pronti subito a tutto. Alle vicissitudini della vita così come del lavoro.
+C’è chi a 20 anni ancora non sa cosa fare della sua vita professionale. C’è chi a 20 anni ancora cerca di orientarsi tra le varie scelte che gli si propongono davanti, con il dubbio davanti a un bivio (nelle migliore delle ipotesi) su quale strada intraprendere. C’è, insomma, chi a 20 anni ancora non ha idea di ciò che “vuole fare da grande”. Tutto **legittimo**, tutto normale, tutto comprensibile. Il dubbio di scegliere chi essere, o chi **diventare**, appena si termina la fase teenager della propria vita, è un qualcosa che andrebbe sicuramente normalizzato in una società che che ormai ci richiede di esser pronti subito a tutto. Alle vicissitudini della vita così come del lavoro.
 
-E poi c’è chi, a 20 anni, è talmente sicuro delle sue passioni, del suo orientamento professionale, delle sue abilità da essere già a un punto piuttosto avanzato, data soprattutto la giovane età, della propria carriera. Al punto da essere, se non il più giovane maitre in assoluto del territorio, sicuramente uno di quelli dall’età più verde. Oggi infatti conosciamo Bruno Manfredini, ragazzo classe 2004 (tra l’altro, fine 2004) a cui sono state affidate le chiavi della sala del ristorante PepeNero a Capodimonte, sulle rive del lago di Bolsena. Un indirizzo la cui cucina è firmata da Salvo Cravero, chef più che consolidato nella Tuscia e che ha portato la propria filosofia di cucina, rinnovata secondo le esigenze della clientela di oggi, sulle sponde del lago di origine vulcanica più grande d’Europa. E che ha scelto, assieme al proprietario del locale Daniele, proprio Bruno come volto di sala del ristorante.
+E poi c’è chi, a **20 anni**, è talmente sicuro delle sue passioni, del suo orientamento professionale, delle sue abilità da essere già in una fase piuttosto avanzata, data soprattutto la giovane età, della propria carriera. Al punto da essere, se non il più giovane maitre in assoluto del territorio (ma teniamo il beneficio del dubbio, perlomeno in ristoranti di un certo livello), sicuramente uno di quelli **dall’età più verde**. Oggi infatti conosciamo **Bruno Manfredini**, ragazzo classe **2004** (tra l’altro, fine 2004) a cui sono state affidate le chiavi della sala del ristorante **PepeNero** a Capodimonte, sulle rive del lago di Bolsena. Un indirizzo la cui cucina è firmata da Salvo Cravero, chef più che consolidato nella Tuscia e che ha portato la propria filosofia di cucina, rinnovata secondo le esigenze della clientela di oggi, sulle sponde del lago di origine vulcanica più grande d’Europa. E che ha scelto, assieme al proprietario del locale Daniele, proprio **Bruno** come volto di sala del ristorante.
 
 ![](/images/Bruno-Manfredini-maitre-PepeNero.jpg)
 
-Il primo ruolo di grande responsabilità per un ragazzo appena ventenne che, a suo modo, è già chiamato a essere pronto alla carica di cui è stato investito. Pronto, forse il termine giusto, non solo a portare in alto il concetto di accoglienza al PepeNero, ma anche a sbagliare, fisiologico data l’età, che significa anche necessariamente crescere, formarsi, sviluppare le proprie capacità relazionali, empatiche e professionali. Con alle spalle un “tutor” come Salvo, e con una bella esperienza da Convivial, bel ristorante giovane e di giovani a Tuscania, però il processo di formazione non può che essere in buone mani. E le spalle di Bruno, servizio dopo servizio, sono pronte a crescere sempre di più. Intanto, però, Bruno è già sommelier di terzo livello, trasmette e comunica al meglio la sua passione per il vino, e al meglio cerca di veicolare ai clienti la cucina di Salvo.
+Il primo ruolo di grande responsabilità per un ragazzo appena ventenne che, a suo modo, è già chiamato a **essere pronto alla carica** di cui è stato investito. Pronto, forse il termine giusto, non solo a portare in alto il concetto di accoglienza al PepeNero, ma anche a **sbagliare**, fisiologico data l’età, che significa anche necessariamente crescere, formarsi, sviluppare le proprie capacità relazionali, empatiche e professionali. Con alle spalle un “tutor” come Salvo, e con una bella esperienza da Convivial, bel ristorante giovane e di giovani a Tuscania, però il processo di formazione non può che essere in buone mani. E le spalle di Bruno, servizio dopo servizio, sono pronte a crescere sempre di più. Intanto, però, Bruno è già **sommelier** di terzo livello, trasmette e comunica al meglio la sua passione per il vino, e al meglio cerca di veicolare e presentare ai clienti la cucina di Salvo.
 
 L’ho incontrato direttamente nella sua sala, Bruno, e mi sono fatto raccontare qualcosa in più di lui.
 
@@ -46,7 +46,7 @@ Nei primi due anni si faceva un po’ di tutto, ma al terzo anno ho scelto la sa
 
 **Ti sei formato anche al di fuori della scuola?**
 
-Sì, subito dopo il diploma ho iniziato il corso da sommelier con l'AIS e ho completato tutti e tre i livelli. Ho fatto l’ultimo esame proprio la settimana scorsa e sono ufficialmente sommelier! Qui al ristorante mi hanno soprannominato "Brunello" proprio per la mia passione per il vino. Per quanto riguarda l’extravergine non ho ancora fatto studi specifici, ma mi piacerebbe. Mi appassiona perché ogni anno partecipo alla raccolta delle olive di famiglia. Fortunatamente, lo chef con cui lavoro è molto preparato sull’argomento e mi trasmette molte conoscenze.
+Sì, subito dopo il diploma ho iniziato il corso da sommelier con l'AIS e ho completato tutti e tre i livelli. Ho fatto l’ultimo esame proprio la settimana scorsa e sono ufficialmente sommelier! Qui al ristorante mi hanno soprannominato "*Brunello*" proprio per la mia passione per il vino. Per quanto riguarda l’extravergine non ho ancora fatto studi specifici, ma mi piacerebbe. Mi appassiona perché ogni anno partecipo alla raccolta delle olive di famiglia. Fortunatamente, lo chef con cui lavoro è molto preparato sull’argomento e mi trasmette molte conoscenze.
 
 **Quali esperienze lavorative hai avuto prima di diventare responsabile di sala qui al Pepe Nero?**
 
