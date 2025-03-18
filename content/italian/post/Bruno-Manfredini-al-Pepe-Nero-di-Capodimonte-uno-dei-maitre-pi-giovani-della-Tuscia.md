@@ -3,7 +3,7 @@ title: >-
   Bruno Manfredini, al Pepe Nero di Capodimonte uno dei maitre più giovani della
   Tuscia
 author: Alessandro Creta
-date: 2025-03-12T23:00:00.000Z
+date: 2025-03-17T23:00:00.000Z
 type: featured
 draft: false
 images:
