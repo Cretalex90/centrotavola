@@ -3,9 +3,9 @@ title: >-
   Il gelato è tutto uguale? Non proprio. Come riconoscere un buon gelato
   artigianale 
 author: Lorenza Bernini
-date: 2025-03-09T23:00:00.000Z
+date: 2025-03-17T23:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/Arrestato al ristorante boss della Camorra-5.jpg
 categories:
@@ -29,7 +29,7 @@ Il **libro degli ingredienti** è obbligatorio e può essere un'arma segreta, la
 
 \- Colori troppo vivaci che rivelano la presenza di coloranti
 
-\- Montagne di gelato che usano "trucchetti" per sfidare la fisica e la temperatura
+\- Montagne di gelato che usano mono e digliceridi degli acidi grassi, carbossimetilcellulosa e altri ingredienti aggiunti per sfidare la fisica e la temperatura e limare errori di bilanciamento della ricetta. 
 
 \- Nomi di merendine industriali, segno di una visione del gelato più commerciale che gastronomica.
 
