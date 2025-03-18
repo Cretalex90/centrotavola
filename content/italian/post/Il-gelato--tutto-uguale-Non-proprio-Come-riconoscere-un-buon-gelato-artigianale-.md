@@ -19,6 +19,8 @@ tags:
 
 Diciamolo subito: il **gelato non è tutto uguale**, e la differenza si sente eccome. Cerchiamo di districarci tra i prodotti industriali e quelli realmente artigianali. Il nostro rapporto con il gelato inizia quasi sempre con la gelateria sotto casa, quella che frequentiamo fin da piccoli e che forma il nostro gusto. È un'educazione al sapore che avviene senza che ce ne accorgiamo e che può guidarci verso l'eccellenza o, più spesso, verso una qualità mediocre ben mascherata. Perché, ammettiamolo, se sappiamo riconoscere al volo una pasta scotta o una pizza mal riuscita, **sul gelato siamo spesso meno preparati**.
 
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
+
 Questo avviene perché in casa abbiamo riferimenti chiari sulla migliore pasta al sugo, le polpette più buone o la ciambella più gustosa, ma ci manca, quasi sempre, qualcuno che prepari il **gelato**. Il termine "*artigianale*" ormai si trova ovunque. Una parola che ha perso significato e che compare su insegne di ogni tipo, senza che ci siano regole precise che ne tutelino l'uso. La verità è che dietro questo aggettivo si nascondono spesso\*\* prodotti già pronti\*\*, basi a cui aggiungere acqua o latte e qualche aroma. Il risultato? Un gelato generico che ha poco a che vedere con un vero prodotto fatto a mano. I bravi gelatieri si riconoscono perché **creano il loro gelato da zero**, rifiutando basi pronte, grassi idrogenati e coloranti. Ingredienti che garantiscono velocità di lavorazione, volume, durata e bell'aspetto, ma che compromettono la digeribilità e quella **pulizia di gusto** che è il vero segno della qualità.
 
 ![](/images/gelato-artigianale-come-riconoscere.jpg)
