@@ -102,8 +102,8 @@ link = "https://www.officinavisiva.it"
 
 [top_promotion]
 enable = true
-image = "/images/origine-def-logo.jpeg"
-link = "https://ristoranteorigine.it"
+image = "/images/Azienda-agricola-fiore-orte.jpeg"
+link = "https://www.instagram.com/aziendazooagricolafiore/"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
