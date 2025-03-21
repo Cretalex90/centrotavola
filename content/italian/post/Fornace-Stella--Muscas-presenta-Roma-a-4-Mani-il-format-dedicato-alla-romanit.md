@@ -2,7 +2,7 @@
 title: >-
   Fornace Stella & Muscas presenta 'Roma a 4 Mani': il format dedicato alla
   romanità
-date: 2025-03-20T23:00:00.000Z
+date: 2025-03-19T23:00:00.000Z
 type: regular
 draft: false
 images:
