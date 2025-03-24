@@ -5,11 +5,18 @@ timeline_notification:
   - 1733734648
 title: 'Pesce di lago? A Grotte di Castro più che un Capriccio, è una filosofia'
 author: Alessandro Creta
-date: 2024-12-09T08:57:26.000Z
+date: 2025-03-23T23:00:00.000Z
 type: regular
 images:
   - >-
     /images/wp-content/uploads/2024/12/bolsena-lago-capriccio-dove-mangiare-guida-sbroscia-alessandro-creta.webp
+categories:
+  - Ristoranti
+tags:
+  - viterbo
+  - tuscia
+  - capriccio ristorante
+  - bolsena
 ---
 
 *Si chiama, per l’appunto, Il Capriccio il ristorante sulle sponde del lago di Bolsena (nel comune di Grotte di Castro) che punta tanto su una cucina a base di pesce di lago e d’acqua dolce in generale. Una sfida non semplice ma un obiettivo ambizioso, coerente con il contesto in cui ci troviamo.*
@@ -40,14 +47,3 @@ Deliziose le **polentine con il luccio mantecato**, sempre tra gli antipasti. La
 Che dire, un ristorante che prova a **raccontare a suo modo il territorio**, in questo caso rappresentato dal lago, ma che anche dalla terra sa raccogliere quello che c’è di buono. Anche attraverso eventi a tema con **produttori della zona** come, per esempio, quelli di extravergine. Il prossimo 13 dicembre, infatti, è in programma una serata di degustazione di olio nuovo di 4 aziende locali in abbinamento a una piccola proposta di cibo. Il tutto a 20 euro.
 
 Il ristorante si trova in località Borghetto, snc, a Grotte di Castro.
-
-Leggi anche:
-
-<ul class="wp-block-list">
-  <li>
-    <a href="https://aleepepecom.wordpress.com/2024/12/05/nasce-il-panettone-della-tuscia-per-natale-arriva-il-pantruscone/" target="_blank" rel="noreferrer noopener">Pantruscone, per Natale ecco il panettone della Tuscia</a>
-  </li>
-  <li>
-    <a href="https://aleepepecom.wordpress.com/2024/11/26/andrea-astolfi-uno-chef-della-tuscia-tra-i-migliori-giovani-per-la-redazione-di-cook/" target="_blank" rel="noreferrer noopener">Uno chef della Tuscia tra i migliori giovani a livello nazionale</a>
-  </li>
-</ul>
