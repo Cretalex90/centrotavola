@@ -2,7 +2,7 @@
 title: Elementi Fine Dining riapre il 6 aprile con importanti novità
 date: 2025-03-24T23:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/elementi-riapertura-piatti-borgobrufa.jpg
 categories:
