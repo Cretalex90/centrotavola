@@ -27,7 +27,7 @@ Dopo un primo periodo come Beer Firm, i fratelli Di Stefano decidono di investir
 
 Nel 2023, i fondatori decidono di tornare alle proprie radici, trasferendo l’intera attività ad **Amelia**, la cittadina che ha ispirato il nome del birrificio. Con spazi più ampi a disposizione, non solo la produzione viene potenziata, ma nel corso del tempo inizia a prendere forma anche **Casa Amerino**, un pub che offre la possibilità di degustare le birre artigianali direttamente nel luogo in cui nascono.
 
-### Una proposta food in sintonia con le birre di Amerino
+### Una scelta food che sposa la proposta di birre artigianali
 
 Casa Amerino propone un menù variegato che sposa la tradizione della **cucina da pub** con la qualità delle materie prime e il rispetto della stagionalità. Tra le proposte i classici taglieri misti di salumi e formaggi, smash burger, club sandwich, focacce miste e sfiziosità fritte, tutti piatti pensati per **accompagnare** alla perfezione ogni birra disponibile alla spina. Il locale dispone di un impianto a sei vie, attraverso il quale a rotazione vengono servite le **sedici birre** prodotte dal birrificio. Tra queste spiccano la **Mario Rossi**, una bionda classica dal tenore alcolico di 5,2%, la **Northup**, una saison belga dal 7% di alcol, e la **Masika**, una double IPA americana che raggiunge l’8%. Non mancano le birre acide alla frutta e l’ultima nata, la **Shhhh**, un’American Lager realizzata in collaborazione con Fermentis, multinazionale leader nel settore dei lieviti. Ogni birra nasce da una continua ricerca e sperimentazione, con l’obiettivo di ottenere il giusto equilibrio tra gusto e originalità, soddisfacendo sia i palati più esperti che i neofiti della birra artigianale.
 
