@@ -3,16 +3,15 @@ firehose_sent:
   - 1731428497
 timeline_notification:
   - 1731428498
-title: 'Giulia Maggini, imprenditrice con il cuore nelle sue ‘terrae’'
-author: Alessandro Creta
-date: 2024-11-12T16:21:36.000Z
+title: 'Giulia Maggini, imprenditrice con il cuore nelle sue ‘Terrae’'
+author: ''
+date: 2025-03-28T23:00:00.000Z
 type: regular
 images:
   - >-
     /images/wp-content/uploads/2024/11/whatsapp-image-2024-08-19-at-15.40.01.webp
 categories:
   - Aziende e Prodotti
-  - News
 tags:
   - agricoltura
   - fiori
