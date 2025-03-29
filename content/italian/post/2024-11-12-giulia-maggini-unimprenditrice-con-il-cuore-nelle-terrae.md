@@ -8,8 +8,7 @@ author: ''
 date: 2025-03-28T23:00:00.000Z
 type: regular
 images:
-  - >-
-    /images/wp-content/uploads/2024/11/whatsapp-image-2024-08-19-at-15.40.01.webp
+  - /images/giulia-maggini-fiori-eduli-viterbo.jpg
 categories:
   - Aziende e Prodotti
 tags:
