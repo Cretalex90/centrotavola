@@ -2,9 +2,9 @@
 title: >-
   Il Vizio: un’esperienza culinaria giapponese raffinata con una vista
   panoramica su Roma
-date: 2025-03-27T23:00:00.000Z
+date: 2025-03-30T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/il vizio roma terrazza.jpg
 categories:
