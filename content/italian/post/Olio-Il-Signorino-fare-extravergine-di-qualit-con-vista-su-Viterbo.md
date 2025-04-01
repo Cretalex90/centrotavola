@@ -1,9 +1,9 @@
 ---
 title: 'Olio Il Signorino: fare extravergine di qualità con vista su Viterbo'
 author: Alessandro Creta
-date: 2025-03-30T22:00:00.000Z
+date: 2025-03-31T22:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/olio-signorino-viterbo-giorgio-grani-alessandro-creta.jpg
 categories:
@@ -38,6 +38,8 @@ Giorgio Grani sperimenta continuamente, tanto che quest’anno ha prodotto, sebb
 ### Olio Il Signorino: qualità biologica e filiera controllata  
 
 L’azienda è certificata **biologica** da oltre 20 anni, e la gestione agronomica è studiata nei minimi dettagli: le stazioni meteo disposte lungo i 30 ettari di terreno permettono di intervenire solo quando necessario, riducendo al minimo i trattamenti e rispettando l’ambiente. L’irrigazione è ben controllata, seppur il problema principale resti il cambiamento climatico, con sbalzi termici improvvisi che possono compromettere la fioritura e la resa finale dell’olio. Un altro aspetto su cui Giorgio ha lavorato molto è l’economia **circolare**: grazie ai cavalli del suo centro ippico, infatti, riesce a concimare gli oliveti con letame naturale, abbattendo i costi e migliorando la fertilità del suolo. Un metodo che coniuga ottimizzazione aziendale, dimostrando come oggi un’agricoltura biologica e sostenibile, con le giuste accortezze, sia possibile.
+
+![](</images/Marco Aquilani  Fotografo Food and Beverage 2.png>)
 
 ### Raccolta e frangitura: il segreto della qualità  
 
