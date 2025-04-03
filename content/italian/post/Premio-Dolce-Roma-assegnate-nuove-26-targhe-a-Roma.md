@@ -1,6 +1,6 @@
 ---
 title: 'Premio Dolce Roma: assegnate nuove 26 targhe a Roma'
-date: 2025-04-01T22:00:00.000Z
+date: 2025-04-02T22:00:00.000Z
 type: regular
 draft: false
 images:
