@@ -5,7 +5,7 @@ firehose_sent:
   - 1732178620
 title: 'Degli Angeli, a Magliano Sabina un ristorante storico di ottima cucina'
 author: Alessandro Creta
-date: 2024-11-21T08:43:38.000Z
+date: 2025-04-03T22:00:00.000Z
 type: regular
 images:
   - >-
@@ -21,7 +21,7 @@ tags:
   - tuscia
 ---
 
-*Nel borgo reatino al confine con l’Umbria, a poca distanza dal casello autostradale, un indirizzo che è diventato un punto di riferimento per il buon mangiare e buon bere della zona. Degli Angeli, il ristorante della famiglia Marciani.*
+Nel borgo reatino al confine con l’Umbria, a poca distanza dal casello autostradale, un indirizzo che è diventato un punto di riferimento per il buon mangiare e buon bere della zona. **Degli Angeli**, il ristorante della famiglia Marciani.
 
 In un piccolo borgo di Magliano Sabina (Rieti), situato al confine tra Lazio e Umbria, il **Ristorante Degli Angeli** si distingue per la sua capacità di unire due mondi gastronomici: quello dell’osteria contemporanea, dove la genuinità e l’informalità sono pilastri fondamentali, e quello del fine dining, che celebra l’attenzione al dettaglio e la cura nella presentazione. Un connubio che regala un’esperienza genuina, avvolta in un’atmosfera calda e accogliente, capace di far sentire ogni cliente come un ospite abituale, quasi come un amico.
 
@@ -29,7 +29,7 @@ In un piccolo borgo di Magliano Sabina (Rieti), situato al confine tra Lazio e U
 
 Situato a pochi minuti di auto dal casello autostradale di Magliano Sabina, il ristorante è un punto di riferimento per chi cerca autenticità culinaria e un’ospitalità sincera. Non a caso, il Degli Angeli è da oltre quarant’anni presente nelle principali guide gastronomiche, grazie all’impegno costante della famiglia **Marciani**, che lo gestisce con passione e dedizione da oltre un secolo.
 
-### **Una storia lunga oltre 100 anni** {.wp-block-heading}
+### **Una storia lunga oltre 100 anni**
 
 Il legame tra il ristorante **Degli Angeli e la famiglia Marciani** affonda le radici nella storia. Tutto iniziò più di un secolo fa, quando i **bisnonni** di Laura e Mauro Marciani, gli attuali proprietari, aprirono un piccolo emporio in una zona di transito per i commercianti. L’emporio si evolse con il passare degli anni (e delle richieste di chi passava da queste parti), trasformandosi in un’osteria che offriva vino, carni e insaccati di produzione propria. Negli anni ’50 del Novecento, la naturale evoluzione portò alla **nascita del ristorante**, che continuò a crescere e a innovarsi, diventando una tappa obbligata per chi attraversava questa parte d’Italia.
 
@@ -37,7 +37,7 @@ Il legame tra il ristorante **Degli Angeli e la famiglia Marciani** affonda le r
 
 Oggi il ristorante offre anche otto camere per il pernottamento e un piccolo negozio alimentare con una bottega di carni e prodotti locali, mantenendo così vivo il **legame** con le sue origini. La gestione è affidata a **Laura**, padrona della cucina, e **Mauro**, che si occupa della sala e della selezione di vini e **oli extravergine di oliva**, con un’offerta che spazia dalle eccellenze locali a quelle nazionali.
 
-### Degli Angeli e la cucina autentica di Laura Marciani {.wp-block-heading}
+### Degli Angeli e la cucina autentica di Laura Marciani
 
 Laura Marciani, più che una chef, è una **cuoca autentica**, quasi una “mamma” per tutti i suoi ospiti. La sua cucina è un omaggio alla tradizione contadina e casalinga, con piatti ricchi di sapore, genuini e abbondanti, preparati con passione e **ingredienti di qualità**, molti dei quali provenienti dall’orto e dal mattatoio di famiglia. La **giusta attenzione al dettaglio**, come un indirizzo del genere richiede, senza eccessive forzature.
 
