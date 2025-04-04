@@ -8,8 +8,7 @@ author: Alessandro Creta
 date: 2025-04-03T22:00:00.000Z
 type: regular
 images:
-  - >-
-    /images/wp-content/uploads/2024/11/degli-angeli-marciani-magliano-sabina-alessandro-creta.webp
+  - /images/00_48_FOOD_OFFICINA_VISIVA_LAURA_MARCIANI_ARTICOLO_20_1.jpg.webp
 categories:
   - Ristoranti
   - News
