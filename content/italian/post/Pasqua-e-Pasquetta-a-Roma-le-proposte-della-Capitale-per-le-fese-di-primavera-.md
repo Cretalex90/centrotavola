@@ -17,7 +17,7 @@ tags:
   - roma
 ---
 
-Per chi ha voglia di trascorrere **Pasqua** e **Pasquetta** 2025 a **Roma** tra buona cucina, atmosfera rilassata e proposte gastronomiche originali, la Capitale non delude. Dai rooftop panoramici agli angoli più autentici dei quartieri storici, passando per ristoranti immersi nel verde o progetti gastronomici innovativi, sei indirizzi romani offrono esperienze culinarie diverse ma accomunate dalla voglia di celebrare la festa con gusto e creatività. C’è chi punta sulla tradizione rivisitata, come Controluce a Trastevere o Casa Malgarini alla Giustiniana, chi preferisce il comfort food in chiave fine dining come UMA Roma, e chi invece scommette sul pescato fresco del giorno come Nuanall’Appio Latino. Non mancano le proposte più scenografiche e sostenibili, come quella del 47 Circus Roof Garden, e le celebrazioni all’aria aperta firmate Parco Appio, tra brace, musica e spirito di comunità. 
+Per chi ha voglia di trascorrere **Pasqua** e **Pasquetta** 2025 a **Roma** tra buona cucina, atmosfera rilassata e proposte gastronomiche originali, la Capitale non delude. Dai rooftop panoramici agli angoli più autentici dei quartieri storici, passando per ristoranti immersi nel verde o progetti gastronomici innovativi, sei indirizzi romani offrono esperienze culinarie diverse ma accomunate dalla voglia di celebrare la festa con gusto e creatività. C’è chi punta sulla tradizione rivisitata, come Controluce a Trastevere o Casa Malgarini alla Giustiniana, chi preferisce il comfort food in chiave fine dining come UMA Roma, e chi invece scommette sul pescato fresco del giorno come Nuanall’Appio Latino. Non mancano le proposte più scenografiche e sostenibili, come quella del 47 Circus Roof Garden, e le celebrazioni all’aria aperta firmate Parco Appio, tra brace, musica e spirito di comunità.
 
 ![](</images/2.47 Circus Roof Garden.jpg>)
 
@@ -40,7 +40,7 @@ Di seguito il menu:
 Casatiello e torta al formaggio serviti con l’olio evo 47\
 Cuore di carciofo ripieno di tartufo\
 Risotto agli asparagi con limone fermentato\
-Uova 65° su crema di spinaci con crostini di pane e fonduta di parmigiano\
+Agnello Cacio e Ova, oppure Uova 65° su crema di spinaci con crostini di pane e fonduta di parmigiano\
 Pre-dessert\
 Pastiera 47
 
