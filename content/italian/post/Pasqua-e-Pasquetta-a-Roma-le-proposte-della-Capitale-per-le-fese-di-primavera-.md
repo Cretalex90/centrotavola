@@ -1,6 +1,6 @@
 ---
 title: >-
-  Pasqua e Pasquetta a Roma: le proposte della Capitale per le fese di
+  Pasqua e Pasquetta a Roma: le proposte della Capitale per le feste di
   primavera 
 date: 2025-04-06T22:00:00.000Z
 type: regular
