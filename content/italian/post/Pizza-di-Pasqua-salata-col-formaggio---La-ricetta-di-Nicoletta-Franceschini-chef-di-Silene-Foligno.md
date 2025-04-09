@@ -1,7 +1,7 @@
 ---
 title: >-
   Pizza di Pasqua salata col formaggio - La ricetta di Nicoletta Franceschini,
-  chef di Silene Foligno
+  chef di Silene (Foligno)
 date: 2025-04-08T22:00:00.000Z
 type: regular
 draft: true
@@ -16,9 +16,9 @@ tags:
   - ricetta
 ---
 
-La pizza al formaggio, o “pizza di Pasqua”, umbra è un pane di festa, preparato come gli altri pani pasquali per celebrare la rinascita e il ritorno della primavera. La tradizione “pagana” si è poi fusa con quella religiosa, e le celebrazioni della primavera si sono sovrapposte a quelle per la resurrezione di Cristo.Chiamata anche Torta di Pasqua, si accompagna a salumi, in particolar modo al capocollo, tipico insaccato ottenuto dalle carni ricavate dalla parte superiore del collo del maiale. La pizza al formaggio con il capocollo fa parte della tradizionale colazione pasquale, consumata dopo “che si sciolgono le campane”, insieme alla coratella e alla frittata.
+La **pizza al formaggio**, o “**pizza di Pasqua**”, umbra è un pane di festa, preparato come gli altri pani pasquali per celebrare la rinascita e il ritorno della primavera. La tradizione “pagana” si è poi fusa con quella religiosa, e le celebrazioni della primavera si sono sovrapposte a quelle per la resurrezione di Cristo.Chiamata anche Torta di Pasqua, si accompagna a **salumi**, in particolar modo al capocollo, tipico insaccato ottenuto dalle carni ricavate dalla parte superiore del collo del maiale. La pizza al formaggio con il capocollo fa parte della tradizionale colazione pasquale, consumata dopo “che si sciolgono le campane”, insieme alla coratella e alla frittata.
 
-"La nostra è una versione moderna, alleggerita nella quantità e nella tipologia di lievito utilizzato - dice la chef presentando la sua pizza salata - in quella della tradizione vengono utilizzati circa 20 gr di lievito di birra, nella nostra utilizziamo lievito madre, ma di certo non lesiniamo nella quantità e nella qualità dei formaggi utilizzati".
+"La nostra è una versione moderna, alleggerita nella quantità e nella tipologia di lievito utilizzato - dice la **chef Nicoletta Franceschini** presentando la sua pizza salata - in quella della tradizione vengono utilizzati circa 20 gr di lievito di birra, nella nostra utilizziamo lievito madre, ma di certo non lesiniamo nella quantità e nella qualità dei formaggi utilizzati".
 
 ### INGREDIENTI: (per una torta da 1kg circa)
 
