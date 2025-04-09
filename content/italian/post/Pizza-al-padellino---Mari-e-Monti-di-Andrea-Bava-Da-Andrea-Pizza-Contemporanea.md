@@ -2,7 +2,7 @@
 title: >-
   Pizza al padellino - Mari e Monti di Andrea Bava, Da Andrea Pizza
   Contemporanea
-date: 2025-04-07T22:00:00.000Z
+date: 2025-04-08T22:00:00.000Z
 type: regular
 images:
   - /images/andrea-pizza-contemporanea-ricetta-padellino.jpg
@@ -15,9 +15,11 @@ tags:
   - pizza
 ---
 
+"La “Mari e Monti” nasce dalla voglia di dare una mia interpretazione a una delle combinazioni più iconiche della tradizione italiana: l’unione tra mare e montagna." Ecco la pizza al padellino di Andrea Bava, giovane pizzaiolo umbro che a Perugia gestisce una delle pizzerie contemporanee più interessanti di tutta la Regione: Da Andrea. Di seguito ingredienti e procedimento completo.
+
 ### Dosi e procedimento impasto:
 
-940 g di farina tipo 1 
+940 g di farina tipo 1
 
 20 g di farina di farro
 
