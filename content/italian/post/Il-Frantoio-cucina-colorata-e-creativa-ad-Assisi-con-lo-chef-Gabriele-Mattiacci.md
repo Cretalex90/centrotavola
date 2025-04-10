@@ -3,9 +3,9 @@ title: >-
   Il Frantoio, cucina colorata e creativa ad Assisi con lo chef Gabriele
   Mattiacci
 author: Alessandro Creta
-date: 2025-04-08T22:00:00.000Z
+date: 2025-04-09T22:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/Arrestato al ristorante boss della Camorra-4 copia 4.jpg
 categories:
