@@ -2,9 +2,9 @@
 title: >-
   Pizza di Pasqua salata col formaggio - La ricetta di Nicoletta Franceschini,
   chef di Silene (Foligno)
-date: 2025-04-08T22:00:00.000Z
+date: 2025-04-10T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/pizza-pasqua-formaggio-umbria-ricetta.jpg
 categories:
