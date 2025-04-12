@@ -3,9 +3,9 @@ title: >-
   "Il cliente ha sempre ragione?" Realtà e limiti di un vecchio adagio nella
   ristorazione
 author: Italo Da Ponte
-date: 2025-04-08T22:00:00.000Z
+date: 2025-04-11T22:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/italo-da-ponte-cliente-sempre-ragione.jpg
 categories:
