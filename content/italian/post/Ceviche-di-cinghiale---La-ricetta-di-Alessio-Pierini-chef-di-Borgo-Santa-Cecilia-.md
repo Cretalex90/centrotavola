@@ -2,9 +2,9 @@
 title: >-
   Ceviche di cinghiale - La ricetta di Alessio Pierini, chef di Borgo Santa
   Cecilia 
-date: 2025-04-09T22:00:00.000Z
+date: 2025-04-13T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/ceviche-cinghiale-ricetta-borgo-santa-cecilia.jpg
 categories:
@@ -16,9 +16,9 @@ tags:
   - ricetta
 ---
 
-Alessio Pierini, originario di Gubbio, è un talentuoso chef formato alla Scuola di Cucina Italiana Alma. Dopo diverse esperienze lavorative in Italia, nel 2019 decide di tornare nella sua città natale, dove incontra Giuseppe e il progetto del Borgo. Qui trova l’opportunità di lavorare a stretto contatto con la materia prima, senza intermediari, esplorando la sostenibilità e la creatività nella cucina. La sua proposta culinaria è un omaggio all’Umbria, mescolando ricordi familiari e tradizione con contaminazioni asiatiche e mediorientali. La sua cucina è fatta di piatti veri, dove gli ingredienti sono protagonisti assoluti.
+Alessio Pierini, originario di Gubbio, è un talentuoso chef formato alla Scuola di Cucina Italiana Alma. Dopo diverse esperienze lavorative in Italia, nel 2019 decide di tornare nella sua città natale, dove incontra Giuseppe e il progetto del **Borgo**. Qui trova l’opportunità di lavorare a stretto contatto con la materia prima, senza intermediari, esplorando la sostenibilità e la creatività nella cucina. La sua proposta culinaria è un **omaggio all’Umbria**, mescolando ricordi familiari e tradizione con contaminazioni asiatiche e mediorientali. La sua cucina è fatta di piatti veri, dove gli ingredienti sono protagonisti assoluti.
 
-Questo piatto rappresenta la mia visione di come lavorare la carne di caggiagione e selvaggina in maniera contemporanea. La curiosità di accostare una marinatura tipica del pesce crudo sudamericano alla carne di cinghiale di caccia di selezione mi ha portato a concepire un piatto molto primaverile, fresco e delicato. Ho mantenuto in tutto le basi della tipica ceviche, dove la cipolla e il leche de tigre la fanno da padrona, ed il territorio entra con il sambuco, in fiore intorno alla tenuta dove si trova il ristorante da aprile a giugno, e chiaramente il cinghiale, la cui caccia di selezione ci permette di avere una carne sana, sostenibile e profumata. La granita di “scarto”, con foglie di sedano e prezzemolo che tutti hanno in cucina, aggiunge una nota erbacea e amaricante al piatto, una fresca ventata di primavera selvatica.
+"Questo piatto rappresenta la mia visione di come **lavorare la carne di caggiagione e selvaggina in maniera contemporanea** - afferma lo chef - La curiosità di accostare una marinatura tipica del pesce crudo sudamericano alla carne di cinghiale di caccia di selezione mi ha portato a concepire un piatto molto **primaverile, fresco e delicato**. Ho mantenuto in tutto le basi della tipica ceviche, dove la cipolla e il leche de tigre la fanno da padrona, ed il territorio entra con il sambuco, in fiore intorno alla tenuta dove si trova il ristorante da aprile a giugno, e chiaramente il cinghiale, la cui caccia di selezione ci permette di avere una carne sana, sostenibile e profumata. La granita di “scarto”, con foglie di sedano e prezzemolo che tutti hanno in cucina, aggiunge una nota erbacea e amaricante al piatto, una fresca ventata di primavera selvatica".
 
 ### Per 4 persone
 
@@ -38,7 +38,7 @@ Olio evo
 
 ### Procedimento
 
-Spremere i limoni ed eliminare gli eventuali semi. Aggiungere l’aglio, lo zenzero grattugiato e un filo d’olio. Frullare fino ad ottenere un'emulsione. Marinare s/v o in un contenitore a tenuta ermetica il cinghiale con il leche de tigre per almeno 3 ore. Scolare e asciugare bene con carta assorbente. 
+Spremere i limoni ed eliminare gli eventuali semi. Aggiungere l’aglio, lo zenzero grattugiato e un filo d’olio. Frullare fino ad ottenere un'emulsione. Marinare s/v o in un contenitore a tenuta ermetica il cinghiale con il leche de tigre per almeno 3 ore. Scolare e asciugare bene con carta assorbente.
 
 Per il succo di bergamotto e sambuco
 
@@ -78,7 +78,7 @@ ginger beer
 
 Mettere in un bicchiere del pacojet o in un bicchiere del minipimer foglie di sedano e prezzemolo in parti uguali, aggiungere i semi di cetriolo e poi acqua frizzante in parti uguali al ginger beer fino a coprire le foglie. Frullare il tutto e aggiungere il succo di zenzero ottenuto grattugiando quest'ultimo con una microplane e spremendone il succo con un colino. Abbattere e pacossare al momento per ottenere una grana molto fine. In alternativa congelare il tutto in abbattitore mescolando ogni 15/20 minuti con una frusta di acciaio per ottenere la texture tipica di una granita.
 
-Per il piatto
+### Per il piatto
 
 Cinghiale marinato
 
