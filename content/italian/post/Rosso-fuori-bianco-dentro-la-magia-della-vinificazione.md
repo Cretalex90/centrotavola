@@ -5,7 +5,7 @@ date: 2025-04-14T22:00:00.000Z
 type: regular
 draft: false
 images:
-  - /images/vinificazione-bianco-rosso-vino.jpg
+  - /images/vino-rossi-rosso-bianco-vinificazione-in-bianco.jpg
 categories:
   - News
 tags:
@@ -29,7 +29,7 @@ Un caso famoso e raffinato di questa pratica arriva direttamente dalla **Champag
 
 ### E i rosati? Questione di tempo (e stile)
 
-Il discorso si fa ancora più affascinante se parliamo di **vini rosati**. Anche qui, il punto chiave è il tempo di macerazione delle bucce. In questo caso, le uve rosse vengono lasciate a contatto con il mosto solo per poche ore (da 2 a 24, in media), giusto il tempo di cedere una delicata **tonalità rosa** e qualche aroma fruttato. Una questione di attimi e sensibilità: bastano poche ore di differenza per determinare sfumature completamente diverse nel bicchiere e non solo! Un esempio affascinante tutto italiano sono i cosiddetti “vini di una notte”, rosati delicatissimi ottenuti con una macerazione molto breve (spesso inferiore alle 12 ore) e una pressatura soffice. Si chiamano così proprio perché il contatto tra mosto e bucce dura solo “una notte”: un tempo minimo ma sufficiente per conferire al vino il suo colore tenue e i profumi caratteristici. Il risultato è un vino **elegante, leggero, **dalla tonalità rosa cipria e dal profilo aromatico fresco e floreale. Diffusi soprattutto in regioni come la Puglia, il Lago di Garda o la Provenza francese, sono perfetti per l’aperitivo o per accompagnare piatti leggeri.
+Il discorso si fa ancora più affascinante se parliamo di **vini rosati**. Anche qui, il punto chiave è il tempo di macerazione delle bucce. In questo caso, le uve rosse vengono lasciate a contatto con il mosto solo per poche ore (da 2 a 24, in media), giusto il tempo di cedere una delicata **tonalità rosa** e qualche aroma fruttato. Una questione di attimi e sensibilità: bastano poche ore di differenza per determinare sfumature completamente diverse nel bicchiere e non solo! Un esempio affascinante tutto italiano sono i cosiddetti “vini di una notte”, rosati delicatissimi ottenuti con una macerazione molto breve (spesso inferiore alle 12 ore) e una pressatura soffice. Si chiamano così proprio perché il contatto tra mosto e bucce dura solo “una notte”: un tempo minimo ma sufficiente per conferire al vino il suo colore tenue e i profumi caratteristici. Il risultato è un vino \*\*elegante, leggero, \*\*dalla tonalità rosa cipria e dal profilo aromatico fresco e floreale. Diffusi soprattutto in regioni come la Puglia, il Lago di Garda o la Provenza francese, sono perfetti per l’aperitivo o per accompagnare piatti leggeri.
 
 ### Una nuova prospettiva sul bicchiere
 
