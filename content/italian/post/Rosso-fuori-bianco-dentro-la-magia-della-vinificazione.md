@@ -25,7 +25,7 @@ Il segreto sta tutto nella **buccia dell’uva**. A differenza di quanto si poss
 
 Un caso famoso e raffinato di questa pratica arriva direttamente dalla **Champagne**. I *Blanc de Noirs*, letteralmente “***bianco da neri***”, sono Champagne ottenuti da uve rosse – Pinot Noir e Pinot Meunier – vinificate in bianco. Il risultato è un vino spumante chiaro, ma con corpo, struttura e profondità maggiori rispetto ai classici Blanc de Blancs – “bianco da bianchi” (da uve bianche come lo Chardonnay). Questa pratica è certamente utilizzata anche in Italia, talvolta in modo meno visibile o celebrato. Alcuni spumanti metodo classico italiani, ad esempio, utilizzano Pinot Noir vinificato in bianco, anche se non sempre lo dichiarano in etichetta. In Alto Adige e in Trentino si trovano anche esempi interessanti di vini fermi bianchi da uve rosse, spesso prodotti in piccole quantità.
 
-![](/images/champagne-6817667_1280.jpg)
+![](/images/vinificazione-in-bianco-rosso-vino.jpeg)
 
 ### E i rosati? Questione di tempo (e stile)
 
