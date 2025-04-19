@@ -2,7 +2,7 @@
 title: >-
   Borgo La Chiaracia rafforza la sua brigata: opportunità di lavoro in cucina
   nel cuore dell’Umbria
-date: 2025-04-17T22:00:00.000Z
+date: 2025-04-18T22:00:00.000Z
 type: regular
 draft: false
 images:
@@ -44,4 +44,4 @@ Contesto lavorativo giovane, dinamico e stimolante\
 Opportunità di crescita economica e professionale\
 La struttura si trova in un’area ben servita, in grado di offrire tutti i comfort necessari alla vita quotidiana.
 
-I candidati interessati possono inviare il proprio curriculum vitae all’indirizzo email career\@borgolachiaracia.it. Un’occasione concreta per entrare a far parte di una delle realtà più interessanti del panorama enogastronomico e ricettivo umbro.
+I candidati interessati possono inviare il proprio curriculum vitae all’indirizzo email [career@borgolachiaracia.it](mailto:career@borgolachiaracia.it). Un’occasione concreta per entrare a far parte di una delle realtà più interessanti del panorama enogastronomico e ricettivo umbro.
