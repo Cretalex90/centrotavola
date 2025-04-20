@@ -2,9 +2,9 @@
 title: >-
   Pizza di Pasqua al formaggio: la "torta col cacio" che lievita tra Umbria e
   Marche
-date: 2025-04-18T22:00:00.000Z
+date: 2025-04-19T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/pizza-di-pasqua-formaggio-umbria-storia.jpg
 categories:
@@ -20,7 +20,7 @@ La **pizza di Pasqua al formaggio**, conosciuta anche come torta al formaggio, c
 
 ### Un’origine tra le mura di un convento
 
-Le sue prime tracce risalgono al **Medioevo** e la leggenda vuole che a inventarla siano state le** monache del monastero di Santa Maria Maddalena di Serra de' Conti**, in provincia di Ancona. Era nata come una semplice torta salata, ma nel tempo si è arricchita di ingredienti, trasformandosi in un soffice e profumato lievitato, simbolo della rinascita e della festa. All’inizio era chiamata "crescia di Pasqua", proprio per il suo modo di crescere durante la lievitazione. Il termine, poi, è stato sostituito o affiancato da nomi diversi a seconda della zona: torta di Pasqua, pizza al formaggio, ciaccia, o pizza pasquale. Ogni nome porta con sé la sfumatura di una diversa tradizione locale. Oggi non esiste una versione o una ricetta ufficiale della pizza di Pasqua: è un rito profondamente **domestico e familiare**. Ogni casa custodisce gelosamente la propria variante, i propri segreti, con dosi e ingredienti che si tramandano più a voce che per iscritto. Ampia libertà di scelta sul formaggio utilizzato: c’è chi preferisce usare il **pecorino**, chi aggiunge il **parmigiano**, chi insaporisce l’impasto con pepe nero, chi lo rende più delicato evitando lo strutto o sostituendo il **groviera** con **l’emmenthal**. Forse è proprio questa libertà creativa il segreto del suo successo: la pizza è riuscita quando sa di casa, quando il suo profumo riporta alla colazione di Pasqua con la famiglia, con le uova sode e i salumi sulla tavola, dopo i lunghi giorni di digiuno della quaresima.
+Le sue prime tracce risalgono al **Medioevo** e la leggenda vuole che a inventarla siano state le\*\* monache del monastero di Santa Maria Maddalena di Serra de' Conti\*\*, in provincia di Ancona. Era nata come una semplice torta salata, ma nel tempo si è arricchita di ingredienti, trasformandosi in un soffice e profumato lievitato, simbolo della rinascita e della festa. All’inizio era chiamata "crescia di Pasqua", proprio per il suo modo di crescere durante la lievitazione. Il termine, poi, è stato sostituito o affiancato da nomi diversi a seconda della zona: torta di Pasqua, pizza al formaggio, ciaccia, o pizza pasquale. Ogni nome porta con sé la sfumatura di una diversa tradizione locale. Oggi non esiste una versione o una ricetta ufficiale della pizza di Pasqua: è un rito profondamente **domestico e familiare**. Ogni casa custodisce gelosamente la propria variante, i propri segreti, con dosi e ingredienti che si tramandano più a voce che per iscritto. Ampia libertà di scelta sul formaggio utilizzato: c’è chi preferisce usare il **pecorino**, chi aggiunge il **parmigiano**, chi insaporisce l’impasto con pepe nero, chi lo rende più delicato evitando lo strutto o sostituendo il **groviera** con **l’emmenthal**. Forse è proprio questa libertà creativa il segreto del suo successo: la pizza è riuscita quando sa di casa, quando il suo profumo riporta alla colazione di Pasqua con la famiglia, con le uova sode e i salumi sulla tavola, dopo i lunghi giorni di digiuno della quaresima.
 
 ### Un rito che parte dal Giovedì Santo
 
