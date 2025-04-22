@@ -1,7 +1,10 @@
 ---
-title: A Borgo la Chiaracia la cucina affonda le Radici nel territorio
+title: >-
+  Tra Umbria e Tuscia: a Borgo la Chiaracia la cucina affonda le Radici nel
+  territorio
 author: Alessandro Creta
 date: 2025-04-20T22:00:00.000Z
+type: regular
 draft: true
 images:
   - /images/radici-ristorante-daniele-auricchio-menu-alessandro-creta.jpg
@@ -22,6 +25,8 @@ Immerso nel verde sempre accogliente dell’**Umbria**, a pochi passi dal confin
 
 Borgo La Chiaracia è un resort a **cinque stelle** nato dalla ristrutturazione di antiche cascine, una delle quali fu rifugio di briganti. Oggi, con 26 camere, una spa con piscina interna ed esterna e due ristoranti, rappresenta un perfetto connubio tra rustico e contemporaneo. La struttura è immersa in 14 ettari di verde, offrendo un'oasi di pace lontano dal caos cittadino. Le camere spaziose e confortevoli, dalle quali è facilmente raggiungibile sia la spa sia la hall, adiacente al bar (Etrusco, guidato dal barmanager Alessio Ciucci) e i due ristoranti: **Radici e La Pagoda** (quest'ultimo, con una proposta più easy e adatta a tutte le esigenze).
 
+![](/images/borgo-la-chiaracia-ricerca-personale-cucina-chef.png)
+
 ### Radici: l’essenza del territorio nel piatto
 
 Il ristorante gourmet Radici, guidato dallo chef napoletano **Daniele Auricchio**, classe 1990, propone una cucina che affonda le radici nel territorio umbro-laziale, addirittura con un menu degustazione interamente basato su prodotti e materie prime di aziende non distanti più di 20 chilometri dal Borgo.
@@ -32,6 +37,6 @@ Auricchio, con esperienze in ristoranti stellati tra Milano, Barcellona, Ischia 
 
 ![](/images/ristorante-radici-agnello-prugne-alessandro-creta-daniele-auricchio.png)
 
-### Un’esperienza riconosciuta
+### Un’esperienza "menzionata" dalla Michelin
 
 Radici ha ottenuto riconoscimenti importanti, tra cui le due Forchette del Gambero Rosso e l'inserimento con menzione nella Guida Michelin, che ne sottolinea la qualità e l'attenzione al territorio. Il ristorante è apprezzato per la sua cucina creativa e per l'ambiente elegante, con la possibilità di pranzare o cenare anche all'aperto, godendo della vista sulle colline circostanti che, sullo sfondo di una bella cena, disegnano il panorama circostante.
