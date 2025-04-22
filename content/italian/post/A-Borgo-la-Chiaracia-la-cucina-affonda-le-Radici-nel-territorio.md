@@ -23,7 +23,7 @@ Immerso nel verde sempre accogliente dell’**Umbria**, a pochi passi dal confin
 
 ### Un resort tra tradizione e modernità
 
-Borgo La Chiaracia è un resort a **cinque stelle** nato dalla ristrutturazione di antiche cascine, una delle quali fu rifugio di briganti. Oggi, con 26 camere, una spa con piscina interna ed esterna, altrettanti bar e due ristoranti, rappresenta un perfetto connubio tra rustico e contemporaneo. La struttura è immersa in 14 ettari di verde, offrendo un'oasi di pace lontano dal caos cittadino. Le camere spaziose e confortevoli, dalle quali è facilmente raggiungibile sia la spa sia la hall, adiacente al bar principale (Etrusco, guidato dal barmanager viterbese Alessio Ciucci) e i due ristoranti: **Radici e La Pagoda** (quest'ultimo, con una proposta più easy e adatta a tutte le esigenze).
+Borgo La Chiaracia è un resort a **cinque stelle** nato dalla ristrutturazione di antiche cascine, una delle quali fu rifugio di briganti. Oggi, con 26 camere, una spa con piscina interna ed esterna, altrettanti bar e due ristoranti, rappresenta un perfetto connubio tra rustico e contemporaneo. La struttura è immersa in 14 ettari di verde, offrendo un'oasi di pace lontano dal caos cittadino. Le camere spaziose e confortevoli, dalle quali è facilmente raggiungibile sia la spa sia la hall, adiacente al bar principale (Etrusco, guidato dal barmanager viterbese Alessio Ciucci) e i due ristoranti: **Radici e La Pagoda** (quest'ultimo, con una proposta più easy e adatta a tutte le esigenze, comunque seguito dallo stesso team di cucina del gourmet).
 
 ![](/images/borgo-la-chiaracia-ricerca-personale-cucina-chef.png)
 
