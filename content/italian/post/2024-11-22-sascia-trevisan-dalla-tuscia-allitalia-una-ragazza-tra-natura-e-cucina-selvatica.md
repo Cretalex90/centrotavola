@@ -6,12 +6,11 @@ timeline_notification:
 title: >-
   Sascia Trevisan, dalla Tuscia all’Italia: una ragazza tra natura e cucina
   selvatica
-author: Alessandro Creta
-date: 2024-11-22T11:57:29.000Z
+author: ''
+date: 2025-04-24T22:00:00.000Z
 type: regular
 images:
-  - >-
-    /images/wp-content/uploads/2024/11/sascia-trevisan-erbe-foragin-tuscia-alessandro-creta.webp
+  - /images/sascia-trevisan-tuscia-foraging.jpg
 categories:
   - News
 tags:
@@ -43,8 +42,3 @@ Sascia, tuttavia, non ha intenzione di adagiarsi su queste soddisfazioni, ma **r
 Il **secondo**, nella Serenissima, sarà incentrato, invece, sulle erbe lagunari enon e sulla loro capacità di adattamento ad ambienti ostili e sarà curato da Sascia insieme all’ “Edipo Re”, con la quale collabora ormai da anni e con cui è sulla stessa lunghezza d’onda. I tre professionisti (Sybille Righetti, Enrico Vianello e Silvia Jop) che gestiscono e che hanno rimesso in mare questa barca, in passato dimora di Pier Paolo Pasolini per ben 25 anni, solcano, infatti, le acque veneziane, ospitando artisti e chef differenti e proponendo percorsi ad hoc, che uniscono, proprio come la giovane forager, l’interessante connubio tra food e territorio.
 
 *di Giorgia Caliccia*
-
-***Leggi anche:***
-
-– <a href="https://aleepepecom.wordpress.com/2024/11/12/giulia-maggini-unimprenditrice-con-il-cuore-nelle-terrae/" target="_blank" rel="noreferrer noopener">Giulia Maggini, imprenditrice con il cuore delle sue “terrae”</a>\
-– <a href="https://aleepepecom.wordpress.com/2024/11/16/il-pepe-nero-cambia-veste-e-anima-restyling-nellaspetto-e-nel-menu/" target="_blank" rel="noreferrer noopener">Capodimonte, il nuovo corso del Pepe Nero</a>
