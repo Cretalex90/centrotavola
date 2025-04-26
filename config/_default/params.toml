@@ -102,8 +102,8 @@ link = "https://www.officinavisiva.it"
 
 [top_promotion]
 enable = true
-image = "/images/AzZooagricolaFiore.png"
-link = "https://www.instagram.com/aziendazooagricolafiore/"
+image = "/images/Località Borghetto, spiaggia di Grotte di Castro (VT).jpg"
+link = "https://ristoranteilcapriccio.it"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
