@@ -2,7 +2,7 @@
 title: >-
   Viterbo (e dintorni), la mini guida su dove mangiare nella città del primo
   Conclave della storia 
-author: ALESSANDRO CRETA
+author: Alessandro Creta
 date: 2025-05-02T22:00:00.000Z
 type: featured
 draft: false
