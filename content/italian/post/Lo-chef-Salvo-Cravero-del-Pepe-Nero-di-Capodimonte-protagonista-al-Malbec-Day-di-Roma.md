@@ -4,7 +4,7 @@ title: >-
   Day di Roma
 date: 2025-05-05T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/salvo-cravero-chef.jpg
 categories:
