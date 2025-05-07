@@ -4,7 +4,7 @@ title: >-
   siciliana
 date: 2025-05-06T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/Arrestato al ristorante boss della Camorra.png
 categories:
