@@ -3,7 +3,7 @@ title: 'La Villa: quando una scuderia rinascimentale diventa un''apprezzata pizz
 author: Alessandro Creta
 date: 2025-05-15T22:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/la_villa_bagnaia_pizzeria_alessandro_creta.jpg.webp
 categories:
@@ -17,7 +17,7 @@ tags:
 
 Trovandomi spesso a confrontarmi con colleghi ed appassionati di food del viterbese sui "migliori" locali della zona, parlando di pizzerie c'è un nome che in tanti nel corso del tempo mi hanno fatto e ripetuto. **La Villa**, localino di Bagnaia che ha conquistato i palati di non pochi clienti. Localino che entra nel novero di quelle 3/4 pizzerie più apprezzate della zona, quelle insomma che si spartiscono i favori (e le nomination) di tanti clienti e pizza lovers. 
 
-Nel cuore di **Bagnaia**, a poche decine di metri dall'ingresso di Villa Lante, c’è un luogo dove storia, sapori e passione si incontrano ogni sera davanti a un forno a legna e un fuoco acceso. **La Villa**, per l'appunto, oggi una delle pizzerie più apprezzate in provincia. È un progetto nato dalla visione e dalla tenacia di due fratelli che hanno trasformato quella che fu un'antica scuderia in un punto di riferimento per gli amanti della buona pizza. Non è un caso che il nome richiami la celebre **Villa Lante**, gioiello del Rinascimento italiano con i suoi giardini all’italiana e le fontane scenografiche. Proprio accanto a questo patrimonio artistico e paesaggistico, un tempo dimora dei **Farnese**, sorge oggi un locale che mescola atmosfera storica e spirito contemporaneo, dove ogni dettaglio è pensato per valorizzare l’identità del territorio.
+Nel cuore di **Bagnaia**, a poche decine di metri dall'ingresso di Villa Lante, c’è un luogo dove storia, sapori e passione si incontrano ogni sera davanti a un forno a legna e un fuoco acceso. **La Villa**, per l'appunto, oggi una delle pizzerie più apprezzate in provincia. È un progetto nato dalla visione e dalla tenacia di due fratelli (Stefano e Luca Buzzi) che hanno trasformato quella che fu un'antica scuderia in un punto di riferimento per gli amanti della buona pizza. Non è un caso che il nome richiami la celebre **Villa Lante**, gioiello del Rinascimento italiano con i suoi giardini all’italiana e le fontane scenografiche. Proprio accanto a questo patrimonio artistico e paesaggistico, un tempo dimora dei **Farnese**, sorge oggi un locale che mescola atmosfera storica e spirito contemporaneo, dove ogni dettaglio è pensato per valorizzare l’identità del territorio.
 
 ![](/images/villa_lante_bagnaia_pizza_alessandro_creta_viterbo.png.webp)
 
