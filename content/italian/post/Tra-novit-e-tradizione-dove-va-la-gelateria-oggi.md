@@ -3,7 +3,7 @@ title: 'Tra novità e tradizione: dove va la gelateria oggi?'
 author: Lorenza Bernini
 date: 2025-05-20T22:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/gelateria-lolla-gelato-viterbo.png
 categories:
