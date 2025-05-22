@@ -2,7 +2,7 @@
 title: >-
   Umbria POP: la serata dedicata alla cucina del territorio secondo due dei più
   giovani talenti umbri
-date: 2025-05-22T22:00:00.000Z
+date: 2025-05-21T22:00:00.000Z
 type: regular
 draft: false
 images:
