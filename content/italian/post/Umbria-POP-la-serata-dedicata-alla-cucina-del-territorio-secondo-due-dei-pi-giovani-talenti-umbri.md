@@ -7,6 +7,12 @@ type: regular
 draft: false
 images:
   - /images/umbria-chef-giovani-cascini-lunghi.jpg
+categories:
+  - News
+tags:
+  - cena 4 mani
+  - centumbrie
+  - evo bistrot
 ---
 
 Giovedì 29 maggio ad **Agello** (PG) due giovani chef umbri propongono un menu tra radici e visione contemporanea.
