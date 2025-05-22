@@ -4,12 +4,12 @@ title: >-
   giovani talenti umbri
 date: 2025-05-21T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/umbria-chef-giovani-cascini-lunghi.jpg
 ---
 
-Giovedì 29 maggio ad Agello due giovani chef umbri propongono un menu tra radici e visione contemporanea. 
+Giovedì 29 maggio ad Agello due giovani chef umbri propongono un menu tra radici e visione contemporanea.
 
 Un dialogo tra due cuochi della nuova generazione, uniti da un legame profondo con la loro terra e da una cucina personale, capace di guardare avanti senza perdere contatto con le radici. È lo spirito di Umbria Pop, la cena a quattro mani in programma giovedì 29 maggio alle 20.00 presso il Centumbrie Evo Bistrot di Agello (PG), con protagonisti Elia Lunghi, resident chef del bistrot, e Nicola Cascini, chef de La Locanda del Cardinale di Assisi. Nati rispettivamente nel 1993 (Lunghi) e nel 1998 (Cascini), i due cuochi porteranno in tavola un percorso a più voci, costruito sull’alternanza di piatti firmati, pensati come tappe di un racconto condiviso tra stagionalità, tecnica e ricordi. L’obiettivo è restituire un’immagine dell’Umbria autentica e contemporanea al tempo stesso, popolare nell’approccio e alta nell’esecuzione.
 
@@ -17,4 +17,4 @@ Nel menu: lingua con crema di fagioli neri e aglio nero, carciofo alla brace con
 
 “Credo in una cucina essenziale, sincera, dove ogni ingrediente ha un senso” aggiunge Nicola Cascini. “Umbria Pop è un’opportunità per uscire dalla comfort zone, dialogare, contaminarsi. Insieme ad Elia abbiamo cercato un equilibrio tra due percorsi diversi ma complementari”. Il costo della serata è di 55 euro a persona, wine pairing incluso. Posti limitati, prenotazione obbligatoria.
 
-Link di prenotazione: [https://centumbrie.superbexperience.com/reserve/experience/681e2b6227066f0b0265f5ee](https://centumbrie.superbexperience.com/reserve/experience/681e2b6227066f0b0265f5ee) 
+Link di prenotazione: [https://centumbrie.superbexperience.com/reserve/experience/681e2b6227066f0b0265f5ee](https://centumbrie.superbexperience.com/reserve/experience/681e2b6227066f0b0265f5ee)
