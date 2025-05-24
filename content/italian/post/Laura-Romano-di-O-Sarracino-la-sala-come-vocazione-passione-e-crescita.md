@@ -29,3 +29,8 @@ Il suo momento preferito? Quando un cliente riconosce ciò che c’è dietro il 
 Ma oggi, Laura, cosa direbbe alla sé stessa di 16 anni?. La risposta è sincera e semplice: «Divertiti. All’inizio ero spaventata, avevo paura di sbagliare. Ma sbagliare va bene, è la miglior palestra che c’è. Bisogna mettersi in gioco, ascoltare e imparare. Poi tutto va in discesa».
 
 In un mondo dove la sala è spesso considerata un “contorno”, Laura Romano dimostra che può essere il cuore pulsante dell’esperienza gastronomica. Con i suoi 23 anni, è la prova che si può essere giovani e allo stesso tempo fondamentali, che si può crescere con grazia e professionalità, e che — davvero — si può fare la differenza. Giorno dopo giorno, un servizio alla volta.
+
+#### La sua intervista nel podcast di CentroTavola: 
+
+* [Apple Podcast](https://shorturl.at/yd0BX)
+* [Spreaker](https://shorturl.at/ASwmb)
