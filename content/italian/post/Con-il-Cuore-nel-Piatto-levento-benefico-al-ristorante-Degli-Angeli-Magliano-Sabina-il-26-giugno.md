@@ -2,9 +2,9 @@
 title: >-
   "Con il Cuore nel Piatto": l'evento benefico al ristorante Degli Angeli
   (Magliano Sabina) il 26 giugno
-date: 2025-05-23T22:00:00.000Z
+date: 2025-05-24T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/con-cuore-nel-piatto-magliano.jpg
 categories:
