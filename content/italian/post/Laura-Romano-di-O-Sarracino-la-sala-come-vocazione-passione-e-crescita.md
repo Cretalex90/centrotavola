@@ -30,5 +30,5 @@ In un mondo dove la sala è spesso considerata un “contorno”, Laura Romano d
 
 #### La sua intervista nel podcast di CentroTavola:
 
-* [Apple Podcast](https://shorturl.at/yd0BX)
+* [Apple Podcast](https://podcasts.apple.com/us/podcast/in-buone-mani-con-laura-romano-entriamo-in-sala-da/id1509298726?i=1000709477212)
 * [Spreaker](https://shorturl.at/ASwmb)
