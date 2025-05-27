@@ -1,8 +1,8 @@
 ---
 title: 'Laura Romano di O'' Sarracino: la sala come vocazione, passione e crescita'
-date: 2025-05-25T22:00:00.000Z
+date: 2025-05-26T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/laura-romano-o-sarracino-viterbo.jpg
 categories:
