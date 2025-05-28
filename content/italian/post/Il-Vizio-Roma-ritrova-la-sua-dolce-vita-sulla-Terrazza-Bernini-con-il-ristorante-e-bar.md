@@ -1,10 +1,8 @@
 ---
-title: >-
-  Il Vizio: Roma ritrova la sua dolce vita sulla Terrazza Bernini con il
-  ristorante e bar
-date: 2025-05-26T22:00:00.000Z
+title: 'Il Vizio: la dolce vita a Roma sul rooftop Bernini con il ristorante e bar'
+date: 2025-05-27T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/vizio-ristorante-roma-terrazza-barberini.png
 categories:
@@ -24,7 +22,7 @@ Da mattina fino al dopocena, la Terrazza Bernini si propone come **spazio polifu
 
 ![](/images/tortelli-vizio-roma-ristorante.png)
 
-Protagonista dell’offerta gastronomica è Il Vizio, il ristorante guidato dallo chef giapponese Nagano Tetsuo, interprete di una cucina che unisce l’alta scuola del sushi a proposte etniche contemporanee con forti influenze orientali. Due anime culinarie che convivono in perfetto equilibrio, tra tecnica, creatività e autenticità. Adiacente, il bar con una drink list, firmata dalla** barlady Valeria Tummolo**, che spazia dai grandi classici rivisitati a creazioni inedite ispirate ai profumi d’Oriente, in linea con la proposta food del ristorante adiacente.
+Protagonista dell’offerta gastronomica è Il Vizio, il ristorante guidato dallo chef giapponese Nagano Tetsuo, interprete di una cucina che unisce l’alta scuola del sushi a proposte etniche contemporanee con forti influenze orientali. Due anime culinarie che convivono in perfetto equilibrio, tra tecnica, creatività e autenticità. Adiacente, il bar con una drink list, firmata dalla\*\* barlady Valeria Tummolo\*\*, che spazia dai grandi classici rivisitati a creazioni inedite ispirate ai profumi d’Oriente, in linea con la proposta food del ristorante adiacente.
 
 ![](/images/vizioroma.nov.2024_18.jpg)
 
