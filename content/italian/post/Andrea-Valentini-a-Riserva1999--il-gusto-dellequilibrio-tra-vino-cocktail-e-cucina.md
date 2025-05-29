@@ -2,9 +2,9 @@
 title: >-
   Andrea Valentini: a Riserva1999  il gusto dell’equilibrio tra vino, cocktail e
   cucina
-date: 2025-05-23T22:00:00.000Z
+date: 2025-05-28T22:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/andrea-valentini-riserva1999.jpg
 categories:
@@ -15,13 +15,13 @@ tags:
   - riserva1999
 ---
 
-Dietro il bancone di **Riserva 1999**, uno dei locali più ferventi del panorama enogastronomico di **Viterbo**, c’è un ragazzo che ha fatto di cocktail e mixology un linguaggio gastronomico: **Andrea Valentini**, classe 1991, sardo di origine ma ormai viterbese d’adozione. Bartender, formatore e sommelier di terzo livello, Andrea ha costruito la sua carriera con rigore e creatività, studio e formazione, portando il food pairing con la mixology ad alti livelli.
+Dietro il bancone di **Riserva 1999**, uno dei locali più ferventi del panorama enogastronomico di **Viterbo**, c’è un ragazzo che ha fatto di cocktail e mixology un linguaggio gastronomico: **Andrea Valentini**, classe 1991, sardo di origine ma ormai viterbese d’adozione. Bartender, formatore e sommelier di terzo livello, Andrea ha costruito la sua carriera con rigore e creatività, studio e formazione, riuscendo a far combinare al meglio il food pairing con la mixology.
 
-Con alle spalle oltre dieci anni tra cocktail bar, ristoranti e accademie di formazione, Valentini ha fatto della mixology gastronomica la sua firma, unendo la precisione del sommelier all’estro del bartender. Un percorso iniziato quasi per caso, quando, giovanissimo, si ritrovò a lavorare nel locale cagliaritano Maledetta Abitudine: “*Era un posto dove si lavorava e si faceva festa. Lì ho capito che volevo farlo per mestiere. Ho lasciato gli studi di biologia e mi sono tuffato in questo mondo*”.
+Con alle spalle oltre dieci anni tra cocktail bar, ristoranti e accademie di formazione, Andrea ha fatto della mixology gastronomica la sua firma, unendo la precisione del sommelier all’estro del bartender. Un percorso iniziato quasi per caso, quando, giovanissimo, si ritrovò a lavorare nel locale viterbese **Maledetta Abitudine**: “*Avevo iniziato un po' per gioco*, *poi con il passare del tempo ho capito che volevo farlo per mestiere... per quanto ancora fossi molto lontano dai canoni di mixology e bartending. Uscito da lì, poi, ho voluto perseguire questa strada, ormai addentrato nel mondo della notte decisi di lasciare gli studi di biologia e mi sono tuffato in questo settore*”.
 
 ![](/images/andrea-valentini-bartender.png)
 
-Dopo una lunga **gavetta**, esperienze in locali come il Libarium Nostrum a Cagliari e il Sale Nero di Viterbo, Valentini ha affinato una visione chiara:** il drink deve dialogare col piatto**. “*La gente oggi vuole bere qualcosa che completi il piatto, non solo un aperitivo*”.
+Dopo una lunga **gavetta**, esperienze in locali come il Libarium Nostrum a Cagliari, il Bar Centrale e il Sale Nero di Viterbo, Valentini ha affinato una visione chiara: **il drink deve dialogare col piatto**. “*La gente oggi vuole bere qualcosa che completi il piatto, non solo un aperitivo*”.
 
 Ed è proprio questa visione che ha favorito una più stretta collaborazione tra O' Sarracino (locale "padre" nonché adiacente  di Riserva 1999) a lanciare, a partire da giugno, un menù “***pizza & cocktail pairing***”, dove l’estro del pizzaiolo Mario Di Dato incontra i drink creati da Andrea. “*È un gioco a quattro mani. Abbiamo pensato pizze classiche e creative, bianche e rosse, anche a base di pesce. I drink? Saranno un omaggio all’estate e all’atmosfera mediterranea*”.
 
