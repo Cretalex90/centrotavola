@@ -3,7 +3,7 @@ title: >-
   Andrea Valentini: a Riserva1999  il gusto dell’equilibrio tra vino, cocktail e
   cucina
 date: 2025-05-28T22:00:00.000Z
-type: regular
+type: featured
 draft: false
 images:
   - /images/andrea-valentini-riserva1999.jpg
