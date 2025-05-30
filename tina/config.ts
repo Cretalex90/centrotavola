@@ -50,6 +50,18 @@ export default defineConfig({
             name: "date",
             label: "Date",
             required: true,
+            ui: {
+              dateFormat: 'YYYY-MM-DD',
+              parse: (value) => {
+                if (!value) return value;
+                // Use local date to avoid UTC conversion
+                const date = new Date(value);
+                const year = date.getFullYear();
+                const month = String(date.getMonth() + 1).padStart(2, '0');
+                const day = String(date.getDate()).padStart(2, '0');
+                return `${year}-${month}-${day}`;
+              },
+            }
           },
           {
             type: "string",
@@ -366,14 +378,14 @@ export default defineConfig({
                 label: "Icon Class",
                 name: "icon",
                 description: "Themify/FontAwesome icon class (e.g. fab fa-facebook)",
+                options: [
+                  { value: "fab fa-facebook", label: "Facebook" },
+                  { value: "fab fa-instagram", label: "Instagram" },
+                  { value: "fab fa-twitter", label: "Twitter" },
+                  { value: "fab fa-linkedin", label: "LinkedIn" },
+                ],
                 ui: {
                   component: "select",
-                  options: [
-                    { value: "fab fa-facebook", label: "Facebook" },
-                    { value: "fab fa-instagram", label: "Instagram" },
-                    { value: "fab fa-twitter", label: "Twitter" },
-                    { value: "fab fa-linkedin", label: "LinkedIn" },
-                  ],
                 },
               },
               {
