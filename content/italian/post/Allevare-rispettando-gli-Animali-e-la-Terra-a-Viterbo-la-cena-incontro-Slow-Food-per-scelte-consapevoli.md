@@ -17,7 +17,7 @@ tags:
 
 “*Allevare rispettando gli animali e la terra si può*”: questo è il messaggio al centro della nuova campagna **Slow Food,** nata per promuovere gli allevamenti etici e **sensibilizzare** il pubblico verso un consumo più consapevole. Protagonisti di questa iniziativa sono uomini e donne impegnati a preservare la fertilità del suolo, la biodiversità e il benessere animale, portando sulle nostre tavole carne, latte e formaggi di qualità.
 
-Giovedì 5 giugno, presso il ristorante “**TREDICIGRADI**” in Piazza Don Mario Gargiuli 11, nel cuore di **Viterbo**, si terrà una cena-incontro curata da Ezio Gnisci, cuoco dell’Alleanza Slow Food. La serata sarà l’occasione per scoprire da vicino alcune realtà virtuose della Tuscia: Mauro Stefanoni dell’Azienda Agricola Fratelli Stefanoni, Virginia Marsan di Azienda San Bartolomeo, Giovanni Pesci de La Cascina delle Pantane e i produttori dell’Azienda Vinicola La Torraccia.
+Giovedì 5 giugno, presso il ristorante “**TREDICIGRADI**” in Piazza Don Mario Gargiuli 11, nel cuore di **Viterbo**, si terrà una cena-incontro curata da Ezio Gnisci, cuoco dell’Alleanza Slow Food. La serata sarà l’occasione per scoprire da vicino alcuni produttori di realtà virtuose della Tuscia: Mauro Stefanoni dell’Azienda Agricola Fratelli Stefanoni, Virginia Marsan di Azienda San Bartolomeo, Giovanni Pesci de La Cascina delle Pantane e i produttori dell’Azienda Vinicola La Torraccia.
 
 ![](/images/unnamed-1.jpg)
 
