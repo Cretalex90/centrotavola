@@ -4,16 +4,16 @@ title: >-
   Contigliano
 date: 2025-06-01T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/carlotta-delicato-bottoni-coniglio-ricetta.png
 ---
 
-La ricetta di Carlotta Delicato, chef del ristorante Delicato nel borgo reatino di Contigliano. I bottoni ripieni di coniglio vengono serviti con un’ avvolgente spuma al mascarpone, lime e burro noisette.
+La ricetta di **Carlotta Delicato**, chef del ristorante Delicato nel borgo reatino di Contigliano. I bottoni ripieni di coniglio vengono serviti con un’ avvolgente spuma al mascarpone, lime e burro noisette.
 
-Porzioni: 4 persone 
+**Porzioni**: 4 persone 
 
-Ingredienti: 
+**Ingredienti**: 
 
 ### Per il ripieno: 
 
