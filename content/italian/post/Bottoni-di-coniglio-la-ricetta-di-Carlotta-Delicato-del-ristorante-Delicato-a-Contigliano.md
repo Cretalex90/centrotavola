@@ -7,6 +7,13 @@ type: regular
 draft: false
 images:
   - /images/carlotta-delicato-bottoni-coniglio-ricetta.png
+categories:
+  - Ricette degli chef
+tags:
+  - bottoni di coniglio
+  - ricetta
+  - ristorante delicato
+  - Carlotta Delicato
 ---
 
 La ricetta di **Carlotta Delicato**, chef del ristorante Delicato nel borgo reatino di Contigliano. I bottoni ripieni di coniglio vengono serviti con un’ avvolgente spuma al mascarpone, lime e burro noisette.
