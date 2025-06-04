@@ -2,7 +2,7 @@
 title: 'Croissant: la ricetta di Nazareno Proietti di Factory Tody per rifarlo a casa'
 date: 2025-06-04T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/factory-todi-croissant-ricetta.png
 categories:
@@ -16,7 +16,7 @@ tags:
   - 'factory '
 ---
 
-Factory a Todi è una pasticceria alla francese poco fuori le mura storiche cittadine. Il paesino in provincia di Perugia, ospita uno dei locali più interessanti e originali nel suo genere, con il pasticcere Nazareno Proietti a sfornare ogni giorno eccezionali mignon e sfogliati. Qui la ricetta del suo croissant, da poter replicare anche a casa.
+**Factory** a Todi è una pasticceria alla francese poco fuori le mura storiche cittadine. Il paesino in provincia di Perugia, ospita uno dei locali più interessanti e originali nel suo genere, con il pasticcere **Nazareno Proietti** a sfornare ogni giorno eccezionali mignon e sfogliati. Qui la ricetta del suo **croissant**, da poter replicare anche a casa.
 
 ### Impasto Croissant:
 
@@ -26,11 +26,11 @@ Factory a Todi è una pasticceria alla francese poco fuori le mura storiche citt
 
 250 gr acqua
 
-100 gr zucchero 
+100 gr zucchero
 
 30 gr lievito di birra fresco
 
-100 gr burro 
+100 gr burro
 
 15 gr sale
 
