@@ -102,8 +102,8 @@ link = "https://www.facebook.com/conilcuorenelpiatto"
 
 [top_promotion]
 enable = true
-image = "/images/Località Borghetto, spiaggia di Grotte di Castro (VT).jpg"
-link = "https://ristoranteilcapriccio.it"
+image = "/images/trattoria-pizzeria-da-claudio.jpg"
+link = "https://www.facebook.com/TrattoriaPizzeriadaClaudio/?locale=it_IT"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
