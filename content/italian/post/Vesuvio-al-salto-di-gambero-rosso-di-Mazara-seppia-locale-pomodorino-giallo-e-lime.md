@@ -4,7 +4,7 @@ title: >-
   e lime
 date: 2025-06-07T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/28 pastai ricetta vesuvio al salto.jpg
 categories:
@@ -15,7 +15,7 @@ tags:
   - ricetta
 ---
 
-Pasta Vesuvio 28 Pastai al salto di gambero rosso Mazzara seppia locale pomodorino giallo menta e lime, la ricetta dello chef Domenico Savio Pezzella di Lido Sohara al Sahara Luxury Club, a Lido di Licola (NA).
+Pasta Vesuvio 28 Pastai al salto di gambero rosso Mazzara seppia locale pomodorino giallo menta e lime, la ricetta dello **chef Domenico Savio Pezzella** di Lido Sohara al **Sohara Luxury Club**, a Lido di Licola (NA).
 
 ### Ingredienti (per due persone):
 
