@@ -1,7 +1,5 @@
 ---
-title: >-
-  Maurizio Rocchi: “Alma Civita, l'eredità di una famiglia nella Città che
-  Muore"
+title: 'Maurizio Rocchi: “Alma Civita, l''eredità famigliare nella Città che Muore"'
 author: Alessandro Creta
 date: 2025-06-09T00:00:00.000Z
 type: featured
