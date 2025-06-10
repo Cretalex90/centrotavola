@@ -15,11 +15,11 @@ tags:
   - Civita di bagnoregio
 ---
 
-Un luogo unico, una storia di famiglia e una passione incrollabile: così si può riassumere l’esperienza di Maurizio Rocchi, chef e proprietario di **Alma Civita**, ristorante nel cuore della suggestiva **Civita di Bagnoregio**. Un progetto che nasce da una tradizione profonda e si alimenta ogni giorno di sacrifici e amore per il territorio. Lui e la sua famiglia, ambasciatori non solo del territorio, ma portavoce dei valori e dei ricordi di un'eredità che lega un cognome alla Città che muore da praticamente 500 anni.
+Un luogo unico, una storia di famiglia e una passione incrollabile: così si può riassumere l’esperienza di Maurizio Rocchi. **Alma Civita** non è solo un ristorante nel cuore della suggestiva **Civita di Bagnoregio** ma un progetto che nasce da una tradizione profonda e si alimenta ogni giorno di sacrifici e amore per il territorio. Lui e la sua famiglia, ambasciatori non solo del territorio, ma portavoce dei valori e dei ricordi di un'eredità che lega un cognome alla Città che muore da praticamente 500 anni.
 
 ### Una ristorazione eroica
 
-«Fare ristorazione qui è bellissimo, ma davvero complicato. Un amico ristoratore di Modena una volta mi disse: “*Non capisco come riusciate a portare avanti un’attività qui. È come iniziare la giornata già stanchi*”. Ha ragione. Ogni giorno è una sfida logistica: tra consegne difficili, salite impervie e spazi ridottissimi, è un'**incognita continua**». Maurizio spiega come ogni giorno sia costretto a portare personalmente la spesa fresca con il motorino o con il piccolo trattore comunale: «Siamo in un edificio storico, non possiamo fare grandi scorte. **Tutto deve essere fresco, ogni giorno**. Anche in inverno, quando gela e non passa nessun mezzo. Ma si trova sempre una soluzione: dove manca il materiale, nasce **l’ingegno**».
+«Fare ristorazione qui è bellissimo, ma davvero complicato. Un amico ristoratore di Modena una volta mi disse: “*Non capisco come riusciate a portare avanti un’attività qui. È come iniziare la giornata già stanchi*”. Ha ragione. Ogni giorno è una sfida logistica: tra consegne difficili, salite impervie e spazi ridottissimi, è un'**incognita continua**». Maurizio spiega come ogni giorno la sua famiglia sia costretta a portare la spesa fresca con il motorino o con il piccolo trattore comunale: «Siamo in un edificio storico, non possiamo fare grandi scorte. **Tutto deve essere fresco, ogni giorno**. Anche in inverno, quando gela e non passa nessun mezzo. Ma si trova sempre una soluzione: dove manca il materiale, nasce **l’ingegno**».
 
 ![](/images/alma-civita-ristorazione-bagnoregio.jpg)
 
@@ -29,7 +29,7 @@ L’esperienza di Alma Civita nasce da una storia familiare che ha radici profon
 
 ![](/images/alma-civita-sala-sotterranea.jpg)
 
-Nel 2011, poi, dopo anni nella bruschetteria Maurizio e sua sorella Alessandra decidono di aprire un nuovo ristorante: **Alma Civita**. Il nome è l’unione dei loro – Alessandra e Maurizio – ma anche un riferimento all’“anima” del luogo. «Volevamo raccontare Civita con **autenticità**, offrire un’esperienza intima e profonda. Non siamo sulla piazza, non siamo direttamente visibili, quindi chi viene qui ci sceglie davvero. E per me accoglierli è una soddisfazione, e perseguo ogni giorno, di servizio in servizio, di restituire nel piatto la filosofia che mi guida nel portare avanti questo locale».
+Nel 2011, poi, dopo anni nella bruschetteria la famiglia Rocchi decide di aprire un nuovo ristorante: **Alma Civita**. Il nome è l’unione dei nomi dei due fratelli, Alessandra e Maurizio, ma anche un riferimento all’“anima” del luogo. «Volevamo raccontare Civita con **autenticità**, offrire un’esperienza intima e profonda. Non siamo sulla piazza, non siamo direttamente visibili, quindi chi viene qui ci sceglie davvero. E per me accoglierli è una soddisfazione, e perseguo ogni giorno, di servizio in servizio, di restituire nel piatto la filosofia che mi guida nel portare avanti questo locale».
 
 ### Una cucina che racconta il territorio
 
