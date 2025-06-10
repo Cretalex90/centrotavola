@@ -1,9 +1,9 @@
 ---
-title: 'Maurizio Rocchi: “Alma Civita, l''eredità famigliare nella Città che Muore"'
+title: 'Maurizio Rocchi: “Alma Civita, un''eredità famigliare nella Città che Muore"'
 author: Alessandro Creta
-date: 2025-06-09T00:00:00.000Z
+date: 2025-06-10T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/alma-civita-uovo-fritto.jpg
 categories:
