@@ -2,7 +2,7 @@
 title: >-
   La Fraschetta degli Antichi Sapori: localino scavato nella roccia tra storia,
   gusto e tradizione a Bomarzo
-date: 2025-05-21T22:00:00.000Z
+date: 2025-06-14T00:00:00.000Z
 type: regular
 draft: true
 images:
@@ -30,7 +30,7 @@ La cucina si basa su materie prime locali, con una forte predilezione per prodot
 
 ![](/images/fraschetta_antichi_sapori_bomarzo_fettuccine.jpg.webp)
 
-L'ambiente interno è caratterizzato da salette scavate nella roccia, con pareti in peperino a vista, arredi rustici e luci calde.La cantinetta, anch'essa ricavata nella pietra, ospita una selezione di vini territoriali e nazionali, con un'attenzione particolare a etichette biologiche e naturali. L'atmosfera è quella di una locanda d'altri tempi, pensata per accogliere l'ospite in modo familiare e rilassato. 
+L'ambiente interno è caratterizzato da salette scavate nella roccia, con pareti in peperino a vista, arredi rustici e luci calde.La cantinetta, anch'essa ricavata nella pietra, ospita una selezione di vini territoriali e nazionali, con un'attenzione particolare a etichette biologiche e naturali. L'atmosfera è quella di una locanda d'altri tempi, pensata per accogliere l'ospite in modo familiare e rilassato.
 
 ![](/images/fraschetta_antichi_sapori_bomarzo_tagliere.jpg.webp)
 
