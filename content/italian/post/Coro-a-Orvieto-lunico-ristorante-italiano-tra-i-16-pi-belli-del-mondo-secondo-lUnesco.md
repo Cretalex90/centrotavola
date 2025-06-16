@@ -2,7 +2,7 @@
 title: 'Coro: a Orvieto l''unico ristorante italiano tra i 16 più belli del mondo'
 date: 2025-06-16T00:00:00.000Z
 type: featured
-draft: false
+draft: true
 images:
   - /images/Coro-orvieto-finalista.jpg
 categories:
