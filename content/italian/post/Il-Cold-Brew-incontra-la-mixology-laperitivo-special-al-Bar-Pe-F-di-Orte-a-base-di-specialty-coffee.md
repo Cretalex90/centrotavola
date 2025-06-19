@@ -19,7 +19,7 @@ tags:
 
 Venerdì **27 giugno**, la **Torrefazione Bar Pe-Fè di Orte** ospiterà un’esperienza sensoriale originale: un **aperitivo** interamente dedicato al cold brew, il metodo di **estrazione a freddo** che sta ridefinendo il modo di gustare il caffè. Protagonista assoluto della serata sarà lo **specialty coffee Etiopia Guji**, noto per le sue caratteristiche organolettiche raffinate. A valorizzarlo, una selezione di cocktail originali, freschi e aromatici, firmati da **Alessio Ciucci**, barman 36enne dell’Etrusco Bar (tra i migliori della Tuscia secondo la guida Blue Blazer), all’interno del **Borgo La Chiaracia Resort & Spa** di Castel Giorgio (Tr). L'evento è promosso da *CentroTavola - Food\&People*.
 
-![](</images/cold brew drink.png>)
+![](/images/coldbrew.png)
 
 ### Aperitivo con cold brew: gusto, conoscenza e sperimentazione
 
