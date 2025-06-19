@@ -25,7 +25,7 @@ Venerdì **27 giugno**, la **Torrefazione Bar Pe-Fè di Orte** ospiterà un’es
 
 Dietro al bancone ci sarà dunque una figura di riferimento nella mixology della Tuscia, barman dell’Etrusco Bar dal 2019 e responsabile dal 2022. Per l’occasione proporrà cocktail pensati in collaborazione con Caffè Pe-Fè per esaltare l’aromaticità dell’Etiopia Guji, un caffè che in quanto **specialty** ha superato gli 80 punti SCAA e caratterizzato dall’assenza di difetti primari. Un prodotto, insomma, d’eccellenza.
 
-![](/images/alessio-ciucci-etrusco-bar.jpeg)
+![](/images/ciucci-alessio-bar-etrusco-chiaracia.jpg)
 
 Accanto alla drink list esclusiva, saranno disponibili anche cocktail già presenti nella carta del bar, sempre a base di cold brew. L’evento sarà anche un’occasione per approfondire la cultura del caffè di qualità. Federico Peciarolo, titolare di Caffè Pe-Fè, guiderà i partecipanti in un **angolo dedicato all’assaggio del cold brew** in purezza, illustrandone principi, caratteristiche e potenzialità. Un momento pensato per diffondere conoscenza e consapevolezza intorno a un metodo di estrazione che sta conquistando sempre più spazio, anche grazie all’impegno di torrefazioni attente come Pe-Fè.
 
