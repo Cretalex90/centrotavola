@@ -1,6 +1,6 @@
 ---
 title: >-
-  Caprarola, torna alla vineria Vignola l'appuntamento che abbina Champagne e
+  Caprarola, torna alla Vineria Vignola l'appuntamento che abbina Champagne e
   mortadella
 date: 2025-06-19T00:00:00.000Z
 type: regular
