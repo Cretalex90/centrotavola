@@ -17,13 +17,13 @@ tags:
   - caffè pefè
 ---
 
-Venerdì **27 giugno**, la **Torrefazione Bar Pe-Fè di Orte** ospiterà un’esperienza sensoriale originale: un **aperitivo** interamente dedicato al cold brew, il metodo di **estrazione a freddo** che sta ridefinendo il modo di gustare il caffè. Protagonista assoluto della serata sarà lo **specialty coffee Etiopia Guji**, noto per le sue caratteristiche organolettiche raffinate. A valorizzarlo, una selezione di cocktail originali, freschi e aromatici, firmati da **Alessio Ciucci**, barman 36enne dell’Etrusco Bar (tra i migliori della Tuscia secondo la guida Blue Blazer), all’interno del **Borgo La Chiaracia Resort & Spa** di Castel Giorgio (Tr). L'evento è promosso da *CentroTavola - Food\&People*.
+Venerdì **27 giugno**[Torrefazione Bar Pe-Fè di Orte](https://www.caffepefe.it) ospiterà un’esperienza sensoriale originale: un **aperitivo** interamente dedicato al cold brew, il metodo di **estrazione a freddo** che sta ridefinendo il modo di gustare il caffè. Protagonista assoluto della serata sarà lo **specialty coffee Etiopia Guji**, noto per le sue caratteristiche organolettiche raffinate. A valorizzarlo, una selezione di cocktail originali, freschi e aromatici, firmati da **Alessio Ciucci**, barman 36enne dell’Etrusco Bar (tra i migliori della Tuscia secondo la guida Blue Blazer), all’interno del **Borgo La Chiaracia Resort & Spa** di Castel Giorgio (Tr). L'evento è promosso da *CentroTavola - Food\&People*.
 
 ![](/images/coldbrew.png)
 
 ### Aperitivo con cold brew: gusto, conoscenza e sperimentazione
 
-Dietro al bancone ci sarà dunque una figura di riferimento nella mixology della Tuscia, barman dell’Etrusco Bar dal 2019 e responsabile dal 2022. Per l’occasione proporrà cocktail pensati in collaborazione con Caffè Pe-Fè per esaltare l’aromaticità dell’Etiopia Guji, un caffè che in quanto **specialty** ha superato gli 80 punti SCAA e caratterizzato dall’assenza di difetti primari. Un prodotto, insomma, d’eccellenza.
+Dietro al bancone ci sarà dunque una figura di riferimento nella mixology della Tuscia, barman dell’Etrusco Bar dal 2019 e responsabile dal 2022. Per l’occasione proporrà cocktail pensati in collaborazione con Caffè Pe-Fè per esaltare l’aromaticità [dell’Etiopia Guji](https://www.caffepefe.it/prod/specialty-coffee-ethiopia-guji/), un caffè che in quanto **specialty** ha superato gli 80 punti SCAA e caratterizzato dall’assenza di difetti primari. Un prodotto, insomma, d’eccellenza.
 
 ![](/images/ciucci-alessio-bar-etrusco-chiaracia.jpg)
 
