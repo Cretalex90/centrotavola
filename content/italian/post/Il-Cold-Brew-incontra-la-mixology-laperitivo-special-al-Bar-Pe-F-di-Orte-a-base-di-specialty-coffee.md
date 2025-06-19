@@ -29,7 +29,7 @@ Dietro al bancone ci sarà dunque una figura di riferimento nella mixology della
 
 Accanto alla drink list esclusiva, saranno disponibili anche cocktail già presenti nella carta del bar, sempre a base di cold brew. L’evento sarà anche un’occasione per approfondire la cultura del caffè di qualità. Federico Peciarolo, titolare di Caffè Pe-Fè, guiderà i partecipanti in un **angolo dedicato all’assaggio del cold brew** in purezza, illustrandone principi, caratteristiche e potenzialità. Un momento pensato per diffondere conoscenza e consapevolezza intorno a un metodo di estrazione che sta conquistando sempre più spazio, anche grazie all’impegno di torrefazioni attente come Pe-Fè.
 
-![](</images/drink list.png>)
+![](/images/Cocktail.jpg)
 
 ### Cos’è il cold brew
 
