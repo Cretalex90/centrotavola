@@ -4,7 +4,7 @@ title: >-
   calice
 date: 2025-06-20T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/tralci vulcanici 1.png
 categories:
@@ -15,7 +15,7 @@ tags:
   - vino
 ---
 
-Il prossimo 29 giugno 2025, dalle 17:00 alle 22:00, l’Area Archeologica del Tuscolo si trasformerà in un crocevia di sapori, storie e relazioni grazie a Tralci Vulcanici – Naturalmente Vino, un evento che segna il debutto collettivo di 15 vignaioli naturali del Vulcano Laziale.
+Il prossimo **29 giugno**, dalle 17:00 alle 22:00, l’Area Archeologica del Tuscolo si trasformerà in un crocevia di sapori, storie e relazioni grazie a ***Tralci Vulcanici – Naturalmente Vino***, un evento che segna il debutto collettivo di 15 vignaioli naturali del Vulcano Laziale.
 
 ### Una comunità che si riconosce, un territorio che si racconta
 
