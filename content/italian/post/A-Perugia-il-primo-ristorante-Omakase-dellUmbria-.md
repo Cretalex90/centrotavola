@@ -2,7 +2,7 @@
 title: 'A Perugia il primo ristorante Omakase dell''Umbria '
 date: 2025-06-23T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/Omakase-Perugia-Vizio-Sushi.jpg
 categories:
