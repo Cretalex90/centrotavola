@@ -33,4 +33,4 @@ Infine, Francesco ci tiene a sottolineare un altro punto di forza: **lo staff gi
 #### Ascolta il podcast con Francesco Selvi:
 
 * [Apple Podcast](https://podcasts.apple.com/it/podcast/ale-pepe-only-food-fun/id1509298726?i=1000714395344)
-* Spreaker
+* [Spreaker](https://www.spreaker.com/episode/alla-scoperta-della-trattoria-pizzeria-da-claudio-a-porano-tra-orvieto-e-civita-di-bagnoregio--66731073)
