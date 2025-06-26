@@ -2,9 +2,9 @@
 title: >-
   “Da Claudio”: un angolo di autenticità formato famiglia tra Orvieto e Civita
   di Bagnoregio
-date: 2025-06-24T00:00:00.000Z
+date: 2025-06-26T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/da-claudio-porano-selvi.jpg
 categories:
@@ -30,7 +30,7 @@ La clientela è un mix ben riuscito di turisti e locali. E se i primi apprezzano
 
 Infine, Francesco ci tiene a sottolineare un altro punto di forza: **lo staff giovane**. Ragazzi, anche alle prime esperienze, ma con voglia di imparare, di crescere e di costruire ricordi. “*Non è solo un lavoretto estivo: qui imparano il valore dell’accoglienza vera*”. Da Claudio è più di una trattoria: è una pausa autentica tra le colline umbre e laziali, dove il tempo si ferma e l’ospitalità diventa esperienza. Come dice Francesco: “Un piatto di pasta lo trovi ovunque. Un’esperienza di riconnessione, invece, in pochi posti. Noi siamo uno di quelli.”
 
-#### Ascolta il podcast con Francesco Selvi: "Da Claudio, affari di famiglia"
+#### Ascolta il podcast con Francesco Selvi: "Da Claudio, la ristorazione è un affare di famiglia"
 
 * [Apple Podcast](https://podcasts.apple.com/it/podcast/ale-pepe-only-food-fun/id1509298726?i=1000714395344)
 * [Spreaker](https://www.spreaker.com/episode/alla-scoperta-della-trattoria-pizzeria-da-claudio-a-porano-tra-orvieto-e-civita-di-bagnoregio--66731073)
