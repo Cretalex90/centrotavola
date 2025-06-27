@@ -53,3 +53,5 @@ I clienti prima di mangiare possono effettuare una **visita guidata in grotta**,
 ### Contatto, un ristorante che va oltre la cucina
 
 Contatto è un ristorante di cui sentiremo parlare. Forse anche in **ambito accademico**. Non solo per la cucina, ottima, ma anche (se non sopratutto) per un lavoro in grotte tufacee in cui in tanti si sarebbero limitati a tenere il vino, mentre qui si fanno conserve, si "affina" formaggio, riso, cioccolato, caffè, si testa come l'ambiente della grotta influisca sul cibo, determinandone sapori, odori e consistenze. Si **coltiva**, addirittura, in totale assenza di luce. Insomma la cucina è solo il culmine di uno studio assurdo su conservazioni... qualcosa da approfondire in campo agronomico e che magari potrà anche essere oggetto di studio scientifico. Bravi.
+
+##### [Foto di Marco Aquilani | Officina Visiva](https://www.officinavisiva.it)
