@@ -1,9 +1,9 @@
 ---
 title: 'Il ristorante che pesca dalla grotta: a Frascati il Contatto è ipogeo'
 author: Alessandro Creta
-date: 2025-06-23T00:00:00.000Z
+date: 2025-06-27T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - >-
     /images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_13.jpg
@@ -16,21 +16,21 @@ tags:
   - frascati
 ---
 
-Che scoperta nel centro storico di **Frascati**. Nella nota località dei Castelli Romani, famosa per lo più per la produzione di vino, un locale che definire ristorante risulterebbe quasi riduttivo. In tanti al giorno d’oggi usano, e spesso anche abusano, del termine **laboratorio**, luogo dedicato a sperimentare nuove preparazioni, tecniche di conservazione o cucina, in cui dedicarsi a prove e sviluppi. In questo caso, però, un laboratorio c’è a tutti gli effetti. E dimenticate il laboratorio “classico” fatto di celle frigorifere, strumentazioni di ultima generazione, aggeggi strani che sembrano usciti dal futuro. Qui non c’è niente di tutto ciò. Anzi.
+Che scoperta nel centro storico di **Frascati**. Nella nota località dei Castelli Romani, famosa per lo più per la produzione di vino, un locale che definire ristorante risulterebbe quasi riduttivo. In tanti al giorno d’oggi usano, e spesso anche abusano, del termine ***laboratorio***: luogo dedicato a sperimentare nuove preparazioni, tecniche di conservazione o cucina, in cui dedicarsi a prove e sviluppi. In questo caso, però, un laboratorio c’è a tutti gli effetti. E dimenticate il laboratorio “classico” fatto di celle frigorifere, strumentazioni di ultima generazione, aggeggi strani che sembrano arrivati dal futuro. Qui non c’è niente di tutto ciò. Anzi, l'ancestralità regna sovrana.
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_6.jpg)
 
-Contestualizziamo: siamo al ristorante **Contatto**, apertura di 3 anni fa che in breve tempo è riuscito a convincere clienti e critica, sino ad arrivare oggi alla **segnalazione in guida Michelin**. Ma ciò che sorprende di più, a parte una cucina sicuramente ben pensata e realizzata, è ciò che si trova letteralmente **sotto al ristorante**. Nell’immaginario collettivo il laboratorio è un luogo che si trova sotterrato, nascosto, quasi inaccessibile. Beh quasi, perché Contatto può godere di una vera e propria **grotta** scavata nel tufo in cui dedicarsi alla sperimentazione su alimenti come vegetali, cioccolato, riso, aceto, sino a uno spazio dedicato alla coltivazione… in completa **assenza di luce**.
+Contestualizziamo: siamo in una via popolata di fraschette in cui spicca il ristorante **Contatto**, apertura di 3 anni fa che in breve tempo è riuscita a convincere clienti e critica, sino ad arrivare oggi alla **segnalazione in guida Michelin**. Ma ciò che sorprende di più, a parte una cucina sicuramente ben pensata e realizzata, è ciò che si trova letteralmente **sotto al ristorante**. Nell’immaginario collettivo il laboratorio è un luogo che si trova sotterrato, nascosto, quasi inaccessibile. Beh quasi, perché Contatto può godere di una vera e propria **grotta** scavata nel tufo in cui dedicarsi alla sperimentazione su alimenti come vegetali, cioccolato, riso, aceto, sino a uno spazio dedicato alla coltivazione… in completa **assenza di luce**.
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_17.jpg)
 
 ### Dalla grotta al piatto, così funziona Contatto a Frascati
 
-Una rete di cunicoli che per decine e decine di metri serpeggiano al di sotto del ristorante. Una profondità massima che arriva a **15 metri** in cui lo **chef** **Luca Ludovici** e la compagna nonché assistente di sala **Lorena Cavana** sperimentano come l’ambiente tufaceo sotterraneo, con la sua **umidità e il suo microclima peculiare**, influisca sul cibo, **modelli sapori e consistenze, **sfumi gli aromi. Il tutto secondo cinque princìpi cardine, fattori chiave che caratterizzano questo spazio ipogeo: **buio, temperatura costante, umidità, tempo e muffe**. 
+Una rete di cunicoli che per decine e decine di metri serpeggiano al di sotto del ristorante. Una profondità massima che arriva a **15 metri** in cui lo **chef** **Luca Ludovici** e la compagna nonché assistente di sala **Lorena Cavana** sperimentano come l’ambiente tufaceo sotterraneo, con la sua **umidità e il suo microclima peculiare**, influisca sul cibo, modelli sapori e consistenze, sfumi gli aromi. Il tutto secondo cinque princìpi cardine, fattori chiave che caratterizzano questo spazio ipogeo: **buio, temperatura costante, umidità, tempo e muffe**.
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_7.jpg)
 
-Condizioni che permettono agli ingredienti di reagire in modo peculiare e che vengono studiate con attenzione per comprendere **come interagisaono con ogni materia prima**. La grotta è divisa in due “stagioni” artificiali: una parte a 14°C con un’umidità tra l’80% e il 90%, l’altra, più fredda, a 12°C con umidità ancora più elevata. In questo microcosmo si conservano antichi saperi e si testano nuove idee. Il tutto senza macchinari particolari, ma solo sfruttando il **microclima** sotterraneo e tutto ciò che ad esso è collegato. **Cunicoli, alte pareti di tufo, buio, umidità e muffe. È tutto qui**.
+Condizioni che permettono agli ingredienti di reagire in modo peculiare e che vengono studiate con attenzione per comprendere **come interagiscano con ogni materia prima**. La grotta è divisa in due “stagioni”: una parte a 14°C con un’umidità tra l’80% e il 90%, l’altra, più fredda, a 12°C con umidità ancora più elevata. In questo microcosmo si conservano antichi saperi e si testano nuove idee. Il tutto senza macchinari particolari, ma solo sfruttando il **microclima** sotterraneo e tutto ciò che ad esso è collegato. **Cunicoli, alte pareti di tufo, buio, umidità e muffe. È tutto qui**.
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_21.jpg)
 
@@ -38,7 +38,7 @@ Sembra semplice, detta così, ma il lavoro è da monitorare costantemente, la sp
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_9.jpg)
 
-La sperimentazione è continua. Non solo ingredienti locali, ma anche prodotti inviati da produttori curiosi e coinvolti: caffè crudo, riso, frutta, ortaggi. Le **conserve** vengono realizzate internamente, secondo il principio della stagionalità: si raccoglie in abbondanza e si mette via per il futuro. I metodi di conservazione sono molteplici: sotto olio, sale, aceto, alcol — non solo per conservare, ma anche per aprire a nuove preparazioni. Per esempio, le visciole sotto spirito, oggi protagoniste di un nuovo dessert in fase di studio. Gli scaffali della grotta ospitano una varietà di barattoli: **giardiniere, topinambur, capperi e cucucci** (il frutto del cappero), **finocchi di mare** raccolti sugli scogli, e persino **funghi**. Ogni elemento è utilizzato nel menu, spesso in più versioni. Un ecosistema fatto di pietra, silenzio, buio e cura, in cui ogni ingrediente cambia pelle e acquisisce nuova vita.
+La sperimentazione è continua. Non solo ingredienti locali, ma anche prodotti inviati da produttori curiosi e coinvolti: caffè crudo, riso, frutta, ortaggi. Le **conserve** vengono realizzate internamente secondo stagione: si raccoglie in abbondanza e si mette via per il futuro. I metodi di conservazione sono molteplici: sotto olio, sale, aceto, alcol — non solo per conservare, ma anche per aprire a nuove preparazioni. Per esempio, le visciole sotto spirito, oggi protagoniste di un nuovo dessert in fase di studio. Gli scaffali della grotta ospitano una varietà di barattoli: **giardiniere, topinambur, capperi e cucucci** (il frutto del cappero), **finocchi di mare** raccolti sugli scogli, e persino **funghi**. Ogni elemento è utilizzato nel menu, spesso in più versioni. Un ecosistema fatto di pietra, silenzio, buio e cura, in cui ogni ingrediente cambia pelle e acquisisce nuova vita.
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_30.jpg)
 
