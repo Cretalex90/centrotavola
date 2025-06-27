@@ -26,7 +26,7 @@ Contestualizziamo: siamo in una via popolata di fraschette in cui spicca il rist
 
 ### Dalla grotta al piatto, così funziona Contatto a Frascati
 
-Una rete di cunicoli che per decine e decine di metri serpeggiano al di sotto del ristorante. Una profondità massima che arriva a **15 metri** in cui lo **chef** **Luca Ludovici** e la compagna nonché assistente di sala **Lorena Cavana** sperimentano come l’ambiente tufaceo sotterraneo, con la sua **umidità e il suo microclima peculiare**, influisca sul cibo, modelli sapori e consistenze, sfumi gli aromi. Il tutto secondo cinque princìpi cardine, fattori chiave che caratterizzano questo spazio ipogeo: **buio, temperatura costante, umidità, tempo e muffe**.
+Una rete di cunicoli che per decine e decine di metri serpeggiano al di sotto del ristorante. Una profondità massima che arriva a **15 metri** in cui lo **chef** **Luca Ludovici** e la compagna nonché maitre **Lorena Cavana** sperimentano come l’ambiente tufaceo sotterraneo, con la sua **umidità e il suo microclima peculiare**, influisca sul cibo, modelli sapori e consistenze, sfumi gli aromi. Il tutto secondo cinque princìpi cardine, fattori chiave che caratterizzano questo spazio ipogeo: **buio, temperatura costante, umidità, tempo e muffe**.
 
 ![](/images/02-56-FOOD-OFFICINA-VISIVA-ALESSANDRO-CRETA-ARTICOLO-CON----TATTO_7.jpg)
 
