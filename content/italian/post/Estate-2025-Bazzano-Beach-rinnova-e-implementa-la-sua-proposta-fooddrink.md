@@ -2,7 +2,7 @@
 title: 'Estate 2025: Bazzano Beach rinnova e implementa la sua proposta food&drink'
 date: 2025-07-02T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/sperlonga-bazzano-menu.jpg
 categories:
