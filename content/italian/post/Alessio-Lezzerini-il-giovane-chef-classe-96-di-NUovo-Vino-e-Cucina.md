@@ -1,5 +1,5 @@
 ---
-title: 'Alessio Lezzerini: un giovane chef classe ''96 da N''Uovo Vino e Cucina a Sutri'
+title: 'Simone Lezzerini: un giovane chef classe ''96 da N''Uovo Vino e Cucina a Sutri'
 date: 2025-07-07T00:00:00.000Z
 type: featured
 draft: false
@@ -14,25 +14,25 @@ tags:
   - tuscia
 ---
 
-Quasi un moderno Ulisse, **Alessio Lazzerini**, nel suo lungo girovagare prima di approdare in quella che è oggi diventata la sua Itaca. Perlomeno adottiva. Romano classe 1996, lo chef che oggi accoglie gli ospiti da **N'Uovo Vino e Cucina**, ristorante presso l'Antico Borgo di Sutri, arriva da tante tappe che lo hanno segnato durante la sua tuttavia giovane carriera. Segnato, lui personalmente così come la sua cucina, oggi un bel mix di contemporaneità con un occhio comunque rivolto verso una tradizione contadina, quasi campagnola, che ha caratterizzato la sua infanzia in casa.
+Quasi un moderno Ulisse, **Simone Lezzerini**, nel suo lungo girovagare prima di approdare in quella che è oggi diventata la sua Itaca. Perlomeno adottiva. Romano classe 1996, lo chef che oggi accoglie gli ospiti da **N'Uovo Vino e Cucina**, ristorante presso l'Antico Borgo di Sutri, arriva da tante tappe che lo hanno segnato durante la sua tuttavia giovane carriera. Segnato, lui personalmente così come la sua cucina, oggi un bel mix di contemporaneità con un occhio comunque rivolto verso una tradizione contadina, quasi campagnola, che ha caratterizzato la sua infanzia in casa.
 
 **Roma**, in cui è cresciuto tra la città e le campagne limitrofe dove aveva casa la sua famiglia, poi **Spoleto** a studiare all'alberghiero, quindi il ritorno nella **Capitale** dove ha iniziato a confrontarsi con grandi cucine. L'avventura in solitaria, breve ed intensa, sul lago di **Bracciano**. Quindi l'arrivo nel 2023, a 26 anni, a **Sutri** presso la struttura di charme immersa nelle campagne della Tuscia, in cui in poco più di due anni si è contraddistinto con la sua filosofia di cucina. In breve tempo è arrivata la segnalazione dell'indirizzo in Guida Michelin.
 
- Ma conosciamo meglio la storia, e il peregrinare, di Alessio Lezzerini. Ulisse moderno che oggi nella sua nuova casa ha raggiunto la sua personale quadratura del cerchio. Lavorativa e personale.
+Ma conosciamo meglio la storia, e il peregrinare, di Simone Lezzerini. Ulisse moderno che oggi nella sua nuova casa ha raggiunto la sua personale quadratura del cerchio. Lavorativa e personale.
 
 ![](/images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_34.jpg)
 
 Se Sutri sia la tappa finale o solo un passaggio lo scopriremo solo col tempo...
 
-### Chi è Alessio Lezzerini
+### Chi è Simone Lezzerini
 
-A **Sutri**, tra la bellezza frutto di retaggi etruschi e la quiete tipica della Tuscia di campagna, lo chef **Alessio Lezzerini** (tra i più giovani membri dell'associazione Ambasciatori del Gusto) ha trovato il proprio equilibrio. Romano di nascita e figlio d’arte, il giovane chef classe 1996 ha percorso un cammino fatto di passione, sacrificio e continua formazione, che lo ha portato oggi a guidare la cucina di **N’uovo Vino e Cucina** con una visione personale, matura, in continua evoluzione.
+A **Sutri**, tra la bellezza frutto di retaggi etruschi e la quiete tipica della Tuscia di campagna, lo chef **Simone Lezzerini** (tra i più giovani membri dell'associazione Ambasciatori del Gusto) ha trovato il proprio equilibrio. Romano di nascita e figlio d’arte, il giovane chef classe 1996 ha percorso un cammino fatto di passione, sacrificio e continua formazione, che lo ha portato oggi a guidare la cucina di **N’uovo Vino e Cucina** con una visione personale, matura, in continua evoluzione.
 
 ![](/images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_17.jpg)
 
 La sua storia parte dai fornelli di casa, dove il padre – cuoco tradizionale – gli trasmette le prime nozioni di cucina. Da lì il passaggio alla scuola alberghiera di Spoleto, poi il ritorno a Roma e il proseguimento degli studi in una scuola privata. Ma è fuori dall’aula che avviene la vera formazione: prima alla Zanzara in via Crescenzio con Salvatore Testagrossa, poi in un crescendo di esperienze che lo portano a confrontarsi con alcune delle figure più influenti della ristorazione italiana. Il legame con Testagrossa è forte e duraturo: insieme lavorano in più contesti, e con lui Lezzerini apprende la gestione di grandi volumi senza mai perdere di vista la qualità. Dopo un’esperienza breve nel ristorante aperto dal padre a Monte Mario, si mette alla prova bussando alla porta di **Domenico Stile**, con il solo desiderio di imparare in una delle principali cucine fine dining di Roma: **Enoteca La Torre** (oggi due stelle Michelin). La sua determinazione viene premiata: da semplice stagista passa in pochi mesi a seguire l’apertura di un nuovo ristorante in Toscana, dove resta per due anni e mezzo prima di tornare sulle sponde del Tevere.
 
-Il periodo romano successivo è intenso, ma è a margine delle varie fasi di lockdown dovuto al Covid che arriva una svolta importante. Lavorando per una famiglia di pescatori, Lezzerini scopre il mondo del pesce povero, della stagionalità, delle aste ittiche e dei prodotti dimenticati. Questa esperienza, più di tutte, segna il suo approccio attuale alla materia prima. Nel 2022, insieme alla compagna, apre un piccolo ristorante nel centro storico di Bracciano. Alessio si toglie le prime soddisfazioni, ma l’arrivo del primo figlio lo costringe a fare una **scelta di cuore**: lasciare la gestione e dedicarsi alla famiglia. È un momento di svolta. Segue un periodo formativo presso **Davide Puleio**, che definisce "decisivo" per la sua visione tecnica del gusto. Tuttavia, i ritmi insostenibili lo spingono a rivedere le priorità.
+Il periodo romano successivo è intenso, ma è a margine delle varie fasi di lockdown dovuto al Covid che arriva una svolta importante. Lavorando per una famiglia di pescatori, Lezzerini scopre il mondo del pesce povero, della stagionalità, delle aste ittiche e dei prodotti dimenticati. Questa esperienza, più di tutte, segna il suo approccio attuale alla materia prima. Nel 2022, insieme alla compagna, apre un piccolo ristorante nel centro storico di Bracciano. Simone si toglie le prime soddisfazioni, ma l’arrivo del primo figlio lo costringe a fare una **scelta di cuore**: lasciare la gestione e dedicarsi alla famiglia. È un momento di svolta. Segue un periodo formativo presso **Davide Puleio**, che definisce "decisivo" per la sua visione tecnica del gusto. Tuttavia, i ritmi insostenibili lo spingono a rivedere le priorità.
 
 ![](/images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_23.jpg)
 
@@ -42,7 +42,7 @@ Il periodo romano successivo è intenso, ma è a margine delle varie fasi di loc
 
 ![](/images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_4.jpg)
 
-“*Non cerco riconoscimenti, ma **crescita**. Tutto quello che ho fatto finora è servito a imparare, non a collezionare nomi da mettere sul curriculum*”, afferma Alessio. Il suo obiettivo è dare senso a ogni sacrificio, soprattutto quelli che questo mestiere impone alla sfera privata. E ci riesce con passione, concretezza e una visione chiara: portare in tavola emozioni autentiche, che restano nel ricordo di chi le assaggia.
+“*Non cerco riconoscimenti, ma **crescita**. Tutto quello che ho fatto finora è servito a imparare, non a collezionare nomi da mettere sul curriculum*”, afferma Simone. Il suo obiettivo è dare senso a ogni sacrificio, soprattutto quelli che questo mestiere impone alla sfera privata. E ci riesce con passione, concretezza e una visione chiara: portare in tavola emozioni autentiche, che restano nel ricordo di chi le assaggia.
 
 A N’uovo, oggi, ha trovato non solo un palcoscenico per la sua cucina, ma anche un luogo dove crescere come uomo, padre e chef. Il riconoscimento più importante, per ora, è la segnalazione del ristorante nella Guida Michelin. Con la prospettiva, magari, di poter in futuro riuscire a raggiungere qualcosa di più. I presupposti ci sono tutti, e se sarà vera gloria non dovremmo attendere l'ardua sentenza dei posteri.
 
