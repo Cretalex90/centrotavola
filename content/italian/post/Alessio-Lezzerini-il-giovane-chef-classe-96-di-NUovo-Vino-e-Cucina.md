@@ -1,8 +1,8 @@
 ---
 title: 'Alessio Lezzerini: un giovane chef classe ''96 da N''Uovo Vino e Cucina a Sutri'
-date: 2025-06-30T00:00:00.000Z
+date: 2025-07-07T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_33.jpg
 categories:
@@ -14,9 +14,11 @@ tags:
   - tuscia
 ---
 
-Quasi un moderno Ulisse, **Alessio Lazzerini**, nel suo lungo girovagare prima di approdare in quella che è oggi diventata la sua Itaca adottiva. Romano classe 1996, lo chef che oggi accoglie i suoi ospiti da **N'Uovo Vino e Cucina**, ristorante presso l'Antico Borgo di Sutri, arriva da tante tappe che lo hanno segnato durante la sua tuttavia giovane carriera. Segnato, lui personalmente così come la sua cucina, oggi un bel mix di contemporaneità con un occhio sempre rivolto verso una tradizione contadina, quasi campagnola, che ha caratterizzato la sua infanzia in casa.
+Quasi un moderno Ulisse, **Alessio Lazzerini**, nel suo lungo girovagare prima di approdare in quella che è oggi diventata la sua Itaca. Perlomeno adottiva. Romano classe 1996, lo chef che oggi accoglie gli ospiti da **N'Uovo Vino e Cucina**, ristorante presso l'Antico Borgo di Sutri, arriva da tante tappe che lo hanno segnato durante la sua tuttavia giovane carriera. Segnato, lui personalmente così come la sua cucina, oggi un bel mix di contemporaneità con un occhio comunque rivolto verso una tradizione contadina, quasi campagnola, che ha caratterizzato la sua infanzia in casa.
 
-**Roma**, in cui è cresciuto tra la città e le campagne limitrofe dove aveva casa la sua famiglia, poi **Spoleto** a studiare all'alberghiero, quindi il ritorno nella **Capitale** dove ha iniziato a confrontarsi con grandi cucine. L'avventura in solitaria, breve ed intensa, sul lago di **Bracciano**. Quindi l'arrivo nel 2023, a 26 anni, a **Sutri** presso la struttura di charme immersa nelle campagne della Tuscia, in cui in poco più di due anni si è contraddistinto con la sua filosofia di cucina. In breve tempo è arrivata la segnalazione dell'indirizzo in Guida Michelin. Ma conosciamo meglio la storia, e il peregrinare, di Alessio Lezzerini. Ulisse moderno che oggi nella sua Itaca adottiva ha raggiunto la sua personale quadratura del cerchio. Lavorativa e personale. 
+**Roma**, in cui è cresciuto tra la città e le campagne limitrofe dove aveva casa la sua famiglia, poi **Spoleto** a studiare all'alberghiero, quindi il ritorno nella **Capitale** dove ha iniziato a confrontarsi con grandi cucine. L'avventura in solitaria, breve ed intensa, sul lago di **Bracciano**. Quindi l'arrivo nel 2023, a 26 anni, a **Sutri** presso la struttura di charme immersa nelle campagne della Tuscia, in cui in poco più di due anni si è contraddistinto con la sua filosofia di cucina. In breve tempo è arrivata la segnalazione dell'indirizzo in Guida Michelin.
+
+ Ma conosciamo meglio la storia, e il peregrinare, di Alessio Lezzerini. Ulisse moderno che oggi nella sua nuova casa ha raggiunto la sua personale quadratura del cerchio. Lavorativa e personale.
 
 ![](/images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_34.jpg)
 
@@ -24,7 +26,7 @@ Se Sutri sia la tappa finale o solo un passaggio lo scopriremo solo col tempo...
 
 ### Chi è Alessio Lezzerini
 
-A **Sutri**, tra la bellezza frutto di retaggi etruschi e la quiete tipica della Tuscia di campagna, lo chef **Alessio Lezzerini** ha trovato il suo equilibrio. Romano di nascita e figlio d’arte, il giovane chef classe 1996 ha percorso un cammino fatto di passione, sacrificio e continua formazione, che lo ha portato oggi a guidare la cucina di **N’uovo Vino e Cucina** con una visione personale, matura, in continua evoluzione.
+A **Sutri**, tra la bellezza frutto di retaggi etruschi e la quiete tipica della Tuscia di campagna, lo chef **Alessio Lezzerini** (tra i più giovani membri dell'associazione Ambasciatori del Gusto) ha trovato il proprio equilibrio. Romano di nascita e figlio d’arte, il giovane chef classe 1996 ha percorso un cammino fatto di passione, sacrificio e continua formazione, che lo ha portato oggi a guidare la cucina di **N’uovo Vino e Cucina** con una visione personale, matura, in continua evoluzione.
 
 ![](/images/officina-visiva-alessandro-creta-chef-lezzerini-n'uovo_17.jpg)
 
