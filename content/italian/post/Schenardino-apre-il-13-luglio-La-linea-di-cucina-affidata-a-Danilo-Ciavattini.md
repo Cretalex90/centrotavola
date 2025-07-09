@@ -27,4 +27,8 @@ Non mancherà l’attenzione per il vino e, più in generale, per la promozione 
 
 Sin dal momento della notizia della chiusura del suo ex ristorante nel centro storico di Viterbo, tanti tra gli appassionati gourmet della Tuscia, ma non solamente, si sono chiesti quando sarebbe tornato in corsa Danilo Ciavattini, innescando inconsciamente una sorta di countdown con un grosso punto interrogativo circa il ritorno in pista dello chef originario di Soriano nel Cimino. E forse anche lui stesso, figlio della Tuscia, **ambasciatore del territorio** e delle sue specialità agroalimentari, in questi due anni e mezzo ha atteso tanto questo momento. Il momento del ritorno, Il momento in cui sarebbe tornato in gioco nella città in cui era riuscito a togliersi belle soddisfazioni. E dove, perché no, potrà togliersene altre in futuro.
 
+![](/images/ciavattini-viterbo.jpg)
+
 Ebbene, quel countdown è finalmente finito. Quell’interrogativo circa il ritorno del **cuciniere viterbese** ora lascia spazio alla certezza: domenica 13 luglio aprirà i battenti il nuovo locale di cui sarà responsabile della linea di cucina, coadiuvato da una squadra affiatata e desiderosa di fare bene. “*Vorremmo creare un luogo vivo, che accompagni le persone durante tutta la giornata, anche grazie agli spazi esterni. L’obiettivo condiviso è quello di promuovere il territorio, con una proposta che abbia identità e visione*” la promessa legata al nuovo progetto in partenza nel centro storico.
+
+*Foto di Danilo Ciavattini: credits Mauro Baffo*
