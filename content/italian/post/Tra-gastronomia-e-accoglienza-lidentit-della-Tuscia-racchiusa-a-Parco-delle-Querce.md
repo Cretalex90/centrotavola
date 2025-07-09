@@ -42,4 +42,6 @@ La **produzione agricola interna** segue i principi dell’agricoltura biologica
 
 **Parco delle Querce** si rivolge a una clientela eterogenea: i residenti del territorio in cerca di cucina autentica ed esperienze legate alla memoria, e gli abitanti delle aree urbane – in particolare Roma e Lazio – attratti dalla possibilità di una fuga dalla routine in un luogo che rigenera corpo e mente, tra natura, gusto e semplicità curata.
 
-Un agriturismo 2.0 che racconta la Tuscia in chiave sensoriale e contemporanea, coniugando cultura rurale, design sobrio, benessere e creatività gastronomica.
+![](</images/azienda agricola parco querce.jpg>)
+
+Un agriturismo contemporaneo che racconta la Tuscia in chiave sensoriale e moderna, coniugando cultura rurale, design sobrio, benessere e creatività gastronomica. Il tutto, nel verde più accogliente della provincia di Viterbo.
