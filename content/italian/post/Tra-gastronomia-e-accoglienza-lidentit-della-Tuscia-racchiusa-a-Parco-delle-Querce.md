@@ -4,7 +4,7 @@ title: >-
   Querce
 date: 2025-07-09T00:00:00.000Z
 type: featured
-draft: false
+draft: true
 images:
   - /images/parco querce valentano.jpg
 categories:
