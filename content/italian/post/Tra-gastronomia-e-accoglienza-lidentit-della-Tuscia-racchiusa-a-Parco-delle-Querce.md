@@ -36,9 +36,9 @@ Accanto ai piatti gourmet, il ristorante propone oltre\*\* 30 tipi di pizza alla
 
 ### L’azienda agricola bio di Parco delle Querce
 
-La **produzione agricola interna** segue i principi dell’agricoltura biologica e alimenta direttamente la cucina e il laboratorio artigianale, da cui nascono miele, confetture, nettari, biscotti rustici e tisane, frutto di una filiera corta e sostenibile. Due progetti speciali raccontano l’identità profonda del luogo: ***Lievituscia***, linea di grandi lievitati ispirati al patrimonio etrusco, e ***Ghiandology***®, un percorso spirituale e gastronomico dedicato alla **quercia** come simbolo e ingrediente, che si traduce in birre, amari, kombucha e tisane uniche nel loro genere. A partire dal 18 luglio prende vita il nuovo format di Aperitivo Contadino, un momento conviviale nel giardino dell’agriturismo, in una bolla panoramica immersa nel verde, accompagnato da cocktail artigianali, stuzzichini locali e musica dal vivo a cadenza settimanale.
-
 ![](/images/quercus.jpg)
+
+La **produzione agricola interna** segue i principi dell’agricoltura biologica e alimenta direttamente la cucina e il laboratorio artigianale, da cui nascono miele, confetture, nettari, biscotti rustici e tisane, frutto di una filiera corta e sostenibile. Due progetti speciali raccontano l’identità profonda del luogo: ***Lievituscia***, linea di grandi lievitati ispirati al patrimonio etrusco, e ***Ghiandology***®, un percorso spirituale e gastronomico dedicato alla **quercia** come simbolo e ingrediente, che si traduce in birre, amari, kombucha e tisane uniche nel loro genere. A partire dal 18 luglio prende vita il nuovo format di Aperitivo Contadino, un momento conviviale nel giardino dell’agriturismo, in una bolla panoramica immersa nel verde, accompagnato da cocktail artigianali, stuzzichini locali e musica dal vivo a cadenza settimanale.
 
 **Parco delle Querce** si rivolge a una clientela eterogenea: i residenti del territorio in cerca di cucina autentica ed esperienze legate alla memoria, e gli abitanti delle aree urbane – in particolare Roma e Lazio – attratti dalla possibilità di una fuga dalla routine in un luogo che rigenera corpo e mente, tra natura, gusto e semplicità curata.
 
