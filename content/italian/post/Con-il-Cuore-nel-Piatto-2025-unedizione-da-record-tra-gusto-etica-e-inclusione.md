@@ -6,7 +6,7 @@ date: 2025-07-09T00:00:00.000Z
 type: regular
 draft: false
 images:
-  - /images/cuore piatto magliano angeli.jpg
+  - /images/cuore piatto magliano rieti.jpg
 categories:
   - News
 tags:
