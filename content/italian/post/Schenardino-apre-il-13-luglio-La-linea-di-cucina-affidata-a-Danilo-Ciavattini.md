@@ -15,7 +15,7 @@ tags:
   - viterbo
 ---
 
-Un'importante novità animerà il centro storico di **Viterbo**. A Piazza delle Erbe, infatti, a giorni verrà inaugurato un nuovo indirizzo per tutti gli amanti del buon mangiare e buon bere locale, uno spazio che si dividerà tra cucina, pizza, vino e rivendita di prodotti del territorio. Si chiama **Schernardino - Cucina Pizza\&Vino**, di proprietà dell’imprenditrice Eleonora Bonucci, e la sua linea di cucina è seguita da un grande nome della ristorazione della Tuscia, **Danilo Ciavattini**, coadiuvato da uno staff (tra sala e cucina) di circa una decina di persone.
+Un'importante novità animerà il centro storico di **Viterbo**. A Piazza delle Erbe, infatti, a giorni verrà inaugurato un nuovo indirizzo per tutti gli amanti del buon mangiare e buon bere locale, uno spazio che si dividerà tra cucina, pizza, vino e rivendita di prodotti del territorio. Si chiama **Schernardino - Cucina Pizza\&Vino**, di proprietà dell’imprenditrice Eleonora Bonucci, e la sua linea di cucina è seguita da un grande nome della ristorazione della Tuscia, **Danilo Ciavattini**, coadiuvato da uno staff (tra sala e cucina) accuratamente selezionato e formato.
 
 Una filosofia di cucina che si discosterà per certi versi dalle logiche più propriamente gourmet che hanno delineato, fino a pochi anni fa, il ristorante che portava il nome proprio di Danilo. Sarà un indirizzo di cucina attenta, curata, **territoriale** soprattutto, in cui poter ritrovare sotto nuova veste le ricette tipiche della Tuscia, esaltandone i prodotti e le materie prime. Un esempio? Le **fettuccine al ragù di agnello**. “*Sarà una cucina legata al territorio, ma letta in chiave moderna. Ci saranno piatti che partono dalla tradizione e si fondono con l’innovazione*” anticipa lo chef viterbese.
 
@@ -25,7 +25,7 @@ Spazio anche alla **pizza**, vecchio pallino di Danilo, proposta sotto una veste
 
 Non mancherà l’attenzione per il vino e, più in generale, per la promozione di tutto ciò che di buono ha da offrire il territorio.  Altro aspetto importante, la valorizzazione di Piazza delle Erbe, in posizione centralissima che tornerà a splendere sotto una nuova, e rinnovata, luce. Gli ampi spazi esterni permettono infatti alla piazza di prendere vita, di animarsi all’insegna della convivialità, del buon cibo e del buon vino. Uno **spazio da vivere** non solo a cena, ma durante più ore nel corso della giornata.
 
-A completare lo staff di Schernardino: Valentina Mechelli sous chef, Pietro Teodori pizzaiolo, Elena Gargani Responsabile di sala e sommelier, Camilla Andrea Umana chef de rang. 
+A completare lo staff di Schernardino: Valentina Mechelli sous chef, Pietro Teodori pizzaiolo, Elena Gargani Responsabile di sala e sommelier, Camilla Andrea Umana chef de rang.
 
 ### Danilo Ciavattini, il ritorno nella sua Viterbo
 
