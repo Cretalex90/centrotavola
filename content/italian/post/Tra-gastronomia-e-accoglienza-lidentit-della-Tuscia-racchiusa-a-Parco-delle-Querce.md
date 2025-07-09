@@ -20,7 +20,7 @@ tags:
 
 Nel cuore dell’Alta Tuscia, immerso tra colline silenziose e boschi secolari nei pressi del Lago di Bolsena, l’**Agriturismo Parco delle Querce** si distingue come un modello di ospitalità rurale evoluta, dove natura, eleganza e autenticità si fondono armoniosamente.
 
-![](</images/querce estern.png>)
+![](</images/interno querce.png>)
 
 Questa **realtà multifunzionale a conduzione familiare** interpreta in chiave contemporanea la tradizione agricola viterbese, offrendo un’esperienza che unisce accoglienza calda e raffinata, cucina identitaria, agricoltura sostenibile e produzione artigianale, in un contesto di rara bellezza paesaggistica. La struttura, parte del circuito d’eccellenza “***Tuscia Viterbese***”, accoglie gli ospiti in otto camere arredate con gusto rurale-moderno, dotate di comfort contemporanei e immerse in un ambiente intimo e naturale, arricchito da una mini spa Jacuzzi e ampi spazi verdi che invitano al **relax e alla riconnessione con la natura** e con sé stessi.
 
@@ -32,7 +32,7 @@ Il **ristorante**, situato al piano terra e articolato in sale climatizzate ognu
 
 ![](</images/querce pizza.jpg>)
 
-Accanto ai piatti gourmet, il ristorante propone oltre** 30 tipi di pizza alla romana**, bassa e croccante, lievitata naturalmente fino a 48 ore e preparata con farine autoctone e mozzarella artigianale a latte crudo. L’offerta enogastronomica si completa con una fornita enoteca che sottolinea l’attaccamento a questa terra. Tutto grazie a una selezione curata di etichette interamente locali, valorizzata da un servizio attento e dalla consulenza di sommelier esperti, pronti a guidare gli ospiti alla scoperta delle eccellenze vinicole del territorio.
+Accanto ai piatti gourmet, il ristorante propone oltre\*\* 30 tipi di pizza alla romana\*\*, bassa e croccante, lievitata naturalmente fino a 48 ore e preparata con farine autoctone e mozzarella artigianale a latte crudo. L’offerta enogastronomica si completa con una fornita enoteca che sottolinea l’attaccamento a questa terra. Tutto grazie a una selezione curata di etichette interamente locali, valorizzata da un servizio attento e dalla consulenza di sommelier esperti, pronti a guidare gli ospiti alla scoperta delle eccellenze vinicole del territorio.
 
 ### L’azienda agricola bio di Parco delle Querce
 
