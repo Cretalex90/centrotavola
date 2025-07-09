@@ -35,7 +35,7 @@ Il **mangalitza** (o mangalica) è un suino che nasce nel diciannovesimo secolo 
 
 ## I mangalitza arrivano a Orte
 
-Nel corso degli anni sempre più locali hanno iniziato a vendere carne di mangalitza, ma specialmente nel nostro territorio sono comunque ancora un numero molto **limitato**. Sia per la poca conoscenza della razza, sia anche per un prezzo che può arrivare anche al doppio rispetto alla carne di suino “tradizionale”. Fatto sta, quando ho saputo che a **Orte**, dove vivo, l’**Azienda Agricola Fiore** ha avviato un allevamento di mangalitza mi sono fiondato. Sia perché è una razza che, per forza di cose, incuriosisce, sia perché da queste parti rappresenta una bella novità (non dico novità assoluta, perché da qualche anno sul lago di Bolsena già è presente un grosso allevamento di mangalitza, forse il più grande d’Italia).
+Nel corso degli anni sempre più locali hanno iniziato a vendere carne di mangalitza, ma specialmente nel nostro territorio sono comunque ancora un numero molto **limitato**. Sia per la poca conoscenza della razza, sia anche per un prezzo che può arrivare anche al doppio rispetto alla carne di suino “tradizionale”. Fatto sta, quando ho saputo che a **Orte **l'[Azienda Agricola Fiore](https://www.zooagricolafiore.it) ha avviato un allevamento di mangalitza mi sono fiondato. Sia perché è una razza che, per forza di cose, incuriosisce, sia perché da queste parti rappresenta una bella novità (non dico novità assoluta, perché da qualche anno sul lago di Bolsena già è presente un grosso allevamento di mangalitza, forse il più grande d’Italia).
 
 ![](/images/mangalitza-fiore-azienda-allevamento-orte-centro-tavola.jpg)
 
