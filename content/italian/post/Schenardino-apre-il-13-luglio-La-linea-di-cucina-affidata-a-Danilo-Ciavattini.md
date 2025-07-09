@@ -3,7 +3,9 @@ title: Schenardino apre il 13 luglio. La linea di cucina affidata a Danilo Ciava
 author: Alessandro Creta
 date: 2025-07-09T00:00:00.000Z
 type: featured
-draft: true
+draft: false
+images:
+  - /images/schenardino ciavattini viterbo.jpg
 categories:
   - Ristoranti
 tags:
@@ -15,13 +17,15 @@ tags:
 
 Un'importante novità animerà il centro storico di **Viterbo**. A Piazza delle Erbe, infatti, a giorni verrà inaugurato un nuovo indirizzo per tutti gli amanti del buon mangiare e buon bere locale, uno spazio che si dividerà tra cucina, pizza, vino e rivendita di prodotti del territorio. Si chiama **Schernardino - Cucina Pizza\&Vino**, di proprietà dell’imprenditrice Eleonora Bonucci, e la sua linea di cucina è seguita da un grande nome della ristorazione della Tuscia, **Danilo Ciavattini**, coadiuvato da uno staff (tra sala e cucina) di circa una decina di persone.
 
-Una cucina che si discosterà per certi versi dalle logiche più propriamente gourmet che hanno delineato, fino a pochi anni fa, il ristorante che portava il nome proprio di Danilo, la cui vocazione rimane comunque il fine dining. Sarà un indirizzo di cucina attenta, curata, **territoriale** soprattutto, in cui poter ritrovare sotto nuova veste le ricette tipiche della Tuscia, esaltandone i prodotti e le materie prime. Un esempio? Le **fettuccine al ragù di agnello**. “*Sarà una cucina legata al territorio, ma letta in chiave moderna. Ci saranno piatti che partono dalla tradizione e si fondono con l’innovazione*” anticipa lo chef viterbese. 
+Una filosofia di cucina che si discosterà per certi versi dalle logiche più propriamente gourmet che hanno delineato, fino a pochi anni fa, il ristorante che portava il nome proprio di Danilo. Sarà un indirizzo di cucina attenta, curata, **territoriale** soprattutto, in cui poter ritrovare sotto nuova veste le ricette tipiche della Tuscia, esaltandone i prodotti e le materie prime. Un esempio? Le **fettuccine al ragù di agnello**. “*Sarà una cucina legata al territorio, ma letta in chiave moderna. Ci saranno piatti che partono dalla tradizione e si fondono con l’innovazione*” anticipa lo chef viterbese.
 
 ![](/images/schernardino.jpeg)
 
 Spazio anche alla **pizza**, vecchio pallino di Danilo, proposta sotto una veste contemporanea. “*È una cosa che ho sempre studiato, quindi per me è entusiasmante seguire anche questa parte. Avremo un forno elettrico e un impasto che parte da un prefermento, per favorire la sofficità, i profumi e una buona digeribilità*", spiega. Due spazi separati ospiteranno quindi cucina e pizzeria, ognuno con una propria identità, ma legati da un’**unica filosofia gastronomica**.
 
 Non mancherà l’attenzione per il vino e, più in generale, per la promozione di tutto ciò che di buono ha da offrire il territorio.  Altro aspetto importante, la valorizzazione di Piazza delle Erbe, in posizione centralissima che tornerà a splendere sotto una nuova, e rinnovata, luce. Gli ampi spazi esterni permettono infatti alla piazza di prendere vita, di animarsi all’insegna della convivialità, del buon cibo e del buon vino. Uno **spazio da vivere** non solo a cena, ma durante più ore nel corso della giornata.
+
+A completare lo staff di Schernardino: Valentina Mechelli sous chef, Pietro Teodori pizzaiolo, Elena Gargani Responsabile di sala e sommelier, Camilla Andrea Umana chef de rang. 
 
 ### Danilo Ciavattini, il ritorno nella sua Viterbo
 
