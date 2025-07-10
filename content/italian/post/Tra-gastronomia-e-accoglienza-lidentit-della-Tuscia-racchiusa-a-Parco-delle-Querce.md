@@ -2,9 +2,9 @@
 title: >-
   Tra gastronomia e accoglienza, l’identità della Tuscia racchiusa a Parco delle
   Querce
-date: 2025-07-09T00:00:00.000Z
+date: 2025-07-10T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/parco querce valentano.jpg
 categories:
@@ -45,3 +45,6 @@ La **produzione agricola interna** segue i principi dell’agricoltura biologica
 ![](</images/azienda agricola parco querce.jpg>)
 
 Un agriturismo contemporaneo che racconta la Tuscia in chiave sensoriale e moderna, coniugando cultura rurale, design sobrio, benessere e creatività gastronomica. Il tutto, nel verde più accogliente della provincia di Viterbo.
+
+*Agriturismo Parco delle Querce*\
+Loc.tà Strada Piansanese Km. 15.500, 01018 Valentano Italia
