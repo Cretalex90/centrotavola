@@ -25,7 +25,7 @@ Spazio anche alla **pizza**, vecchio pallino di Danilo, proposta sotto una veste
 
 Non mancherà l’attenzione per il vino e, più in generale, per la promozione di tutto ciò che di buono ha da offrire il territorio. Parte delle materie prime utilizzate, tra l'altro, provengono dall'azienda agricola della stessa proprietà del locale, Francigena Bio, Altro aspetto importante, la valorizzazione di Piazza delle Erbe, in posizione centralissima che tornerà a splendere sotto una nuova, e rinnovata, luce. Gli ampi spazi esterni permettono infatti alla piazza di prendere vita, di animarsi all’insegna della convivialità, del buon cibo e del buon vino. Uno **spazio da vivere** non solo a cena, ma durante più ore nel corso della giornata.
 
-A completare lo staff di Schernardino: Valentina Mechelli sous chef, Pietro Teodori pizzaiolo, Elena Gargani Responsabile di sala e sommelier, Camilla Andrea Umana chef de rang.
+A completare lo staff di Schernardino: Valentina Mechelli chef di partita, Pietro Teodori pizzaiolo, Elena Gargani Responsabile di sala e sommelier, Camilla Andrea Umana chef de rang.
 
 ### Danilo Ciavattini, il ritorno nella sua Viterbo
 
