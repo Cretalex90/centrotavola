@@ -102,8 +102,8 @@ link = "https://www.gofundme.com/f/non-sarai-mai-sola-unitus?attribution_id=sl:f
 
 [top_promotion]
 enable = true
-image = "/images/trattoria-pizzeria-da-claudio.jpg"
-link = "https://www.facebook.com/TrattoriaPizzeriadaClaudio/?locale=it_IT"
+image = "/images/parco querce.jpg"
+link = "https://new.agriturismoparcodellequerce.it"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
