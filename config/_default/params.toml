@@ -97,8 +97,8 @@ email = "centrotavolamail@gmail.com"
 
 [promotion]
 enable = true
-image = "/images/viterbo-agraria-raccolta-fondi-banner.jpg"
-link = "https://www.gofundme.com/f/non-sarai-mai-sola-unitus?attribution_id=sl:f9015021-b9b1-4f34-9019-2de58c90ee00%5c&utm_campaign=natman_sharesheet_dash%5c&utm_medium=customer%5c&utm_source=copy_link"
+image = "/images/side claudio.jpg"
+link = "https://www.facebook.com/TrattoriaPizzeriadaClaudio"
 
 [top_promotion]
 enable = true
