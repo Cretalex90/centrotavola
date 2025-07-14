@@ -5,7 +5,7 @@ date: 2025-07-09T00:00:00.000Z
 type: featured
 draft: false
 images:
-  - /images/schenardino ciavattini viterbo.jpg
+  - /images/schenardino-viterbo.jpg
 categories:
   - Ristoranti
 tags:
