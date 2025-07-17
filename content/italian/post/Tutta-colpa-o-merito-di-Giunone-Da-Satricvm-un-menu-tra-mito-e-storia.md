@@ -3,7 +3,7 @@ title: 'Tutta colpa, o merito, di Giunone. Da Satricvm un menu tra mito e storia
 author: Alessandro Creta
 date: 2025-07-17T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/satricum_latina_benvenuto_chef.jpg.webp
 categories:
@@ -15,7 +15,7 @@ tags:
   - latina
 ---
 
-**Satricum**, ovvero storytelling allo stato puro. 
+**Satricum**, ovvero storytelling allo stato puro.
 
 Al giorno d’oggi andare al ristorante non dovrebbe limitarsi, o perlomeno non dovrebbe limitarsi più solamente, al mero atto del mangiare. Dopotutto oggi si mangia mediamente bene in gran parte dei locali, togliendo almeno quelli eccessivamente turististici che per questioni di numeri non riescono (anche fisiologicamente) a stare dietro a un discorso di qualità. I clienti stessi non cercano più solo un posto dove si mangi bene, ma un posto che oltre al buon cibo riesca a **lasciarti qualcosa in più**, in grado di giustificare la visita, la spesa, e perché no anche un eventuale ritorno. Per questo i ristoranti per riuscire a distinguersi dalla folta concorrenza hanno bisogno di una chiave di volta, una **scintilla**, in grado di elevarli dalla massa.
 
