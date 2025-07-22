@@ -1,8 +1,8 @@
 ---
-title: 'Rinomato, lo street food romano di qualità in zona San Giovanni'
+title: 'Rinomato, street food romano di qualità in zona San Giovanni'
 date: 2025-07-22T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/rinomato-roma-maritozzo-centro-tavola.jpg
 categories:
