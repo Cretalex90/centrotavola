@@ -20,7 +20,7 @@ Nello storico quartiere **San Giovanni a Roma**, tra le zone più antiche e stor
 
 ### Rinomato, lo street food artigianale a San Giovanni
 
-Dopo un percorso formativo tra alcuni ristoranti di Roma — da trattorie più storiche come Alfredo alla Scrofa fino a cucine più contemporanee come Romeo e Acquasanta — Valerio decide di fare il grande passo. Apre **Rinomato nel febbraio del 2020**, pochi giorni prima che l'Italia si chiudesse in lockdown per il Covid Un avvio subito in salita, e che salita, ma Valerio non molla e inizia il servizio tutto da solo, tra fornelli e consegne a domicilio, portando avanti il progetto con determinazione e una visione ben precisa: ripensare lo street food con **rigore gastronomico**, mettendo al centro le materie prime e la cura artigianale delle preparazioni.
+Dopo un percorso formativo tra alcuni ristoranti di Roma — da trattorie più storiche come Alfredo in piazza Augusto Imperatore fino a cucine più contemporanee come Romeo e Acquasanta — Valerio decide di fare il grande passo. Apre **Rinomato nel febbraio del 2020**, pochi giorni prima che l'Italia si chiudesse in lockdown per il Covid Un avvio subito in salita, e che salita, ma Valerio non molla e inizia il servizio tutto da solo, tra fornelli e consegne a domicilio, portando avanti il progetto con determinazione e una visione ben precisa: ripensare lo street food con **rigore gastronomico**, mettendo al centro le materie prime e la cura artigianale delle preparazioni.
 
 ![](/images/rinomato-roma-centro-tavola.jpg)
 
