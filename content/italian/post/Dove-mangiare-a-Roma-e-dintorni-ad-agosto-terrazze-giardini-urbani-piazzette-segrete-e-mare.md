@@ -4,7 +4,7 @@ title: >-
   piazzette segrete e mare
 date: 2025-07-25T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/roma-agosto-aperture-ristoranti.jpg
 categories:
@@ -16,7 +16,7 @@ tags:
   - roma
 ---
 
-Agosto a Roma è meno deserto di quanto sembri. Con la città che rallenta, è il momento perfetto per vivere gli spazi aperti, godersi l’atmosfera rarefatta e scoprire quei locali che non vanno in vacanza. Dai rooftop affacciati sui tetti alle piazzette segrete, dai giardini immersivi ai ristoranti con i piedi nella sabbia, ecco una mappa di indirizzi dove fermarsi, mangiare e rilassarsi, anche (e soprattutto) in piena estate. Tutti rigorosamente sempre aperti ad agosto, senza pause.
+Agosto a **Roma** è meno deserto di quanto sembri. Con la città che rallenta, è il momento perfetto per vivere gli spazi aperti e scoprire quei locali che non vanno in vacanza. Dai **rooftop** affacciati sui tetti alle piazzette segrete, dai **giardini** immersivi ai **ristoranti** con i piedi nella sabbia, ecco una mappa di indirizzi dove fermarsi, mangiare e rilassarsi, anche (e soprattutto) in piena estate. Tutti rigorosamente **sempre aperti ad agosto**, senza pause.
 
 ![](/images/roma-agosto-aperti-ristoranti.jpg)
 
@@ -27,16 +27,16 @@ Cominciamo in cima. Al centro della città, Otivm Roof Bar è un rifugio silenzi
 ### Giardini urbani, bistrot creativi e cocktail all’aperto
 
 Nel cuore di Monte Mario, Hotel Butterfly è più di un ristorante: è un ecosistema in movimento tra arte, musica e cucina, con una proposta che spazia dalla pizza romana al kombucha tapas bar. Sul Lungotevere, Crunch ha trovato la sua casa estiva da Tagomago unendo la pizzeria d’autore e lo spirito di Ibiza, tra tapas, cocktail balearici e dj set nel verde. Non troppo distante, Bauhaus ha traslocato in questo periodo al The Magick Bar, per animare l’estate con cucina mediterranea creativa, salottini sul fiume e una drink list che guarda al mondo, tra pisco, tequila e sambuco.
- In centro, l’aperitivo si fa rituale a L’Oratorio Trastevere, nuova apertura immersa nella Roma medievale, in una piazzetta intima tra vino naturale, giochi d’altri tempi e cocktail italiani dal twist contemporaneo. Sempre in zona, nel giardino della storica dimora dei Doria Pamphilj, Ripa Grande è una piccola oasi la trattoria agricola di Ia-Oh, i cocktail di Bouquet, brunch nel verde e musica dal vivo.
+In centro, l’aperitivo si fa rituale a L’Oratorio Trastevere, nuova apertura immersa nella Roma medievale, in una piazzetta intima tra vino naturale, giochi d’altri tempi e cocktail italiani dal twist contemporaneo. Sempre in zona, nel giardino della storica dimora dei Doria Pamphilj, Ripa Grande è una piccola oasi la trattoria agricola di Ia-Oh, i cocktail di Bouquet, brunch nel verde e musica dal vivo.
 
 ![](/images/roma-aperture-agosto.jpg)
 
 ### Indirizzi in città che non chiudono mai
 
 Tra le mura di Roma, c’è chi non si ferma mai. È il caso di Caligola Osteria Sincera, a Prati, dove la cucina romana viene interpretata con ironia e precisione, tra chupa chups di lesso e ravioli di porchetta. La cucina è aperta no stop dalle 12 alle 23.30, tutti i giorni.
- Pierluigi, in piazza de’ Ricci, è da decenni una delle tavole di pesce più celebri di Roma. Una cucina elegante e diretta, crudi e tartare di altissima qualità, una cantina monumentale da 14.000 bottiglie e un servizio sartoriale.
+Pierluigi, in piazza de’ Ricci, è da decenni una delle tavole di pesce più celebri di Roma. Una cucina elegante e diretta, crudi e tartare di altissima qualità, una cantina monumentale da 14.000 bottiglie e un servizio sartoriale.
 
-Tra i locali sempre aperti ad agosto c’è anche Clorofilla, un bistrot contemporaneo a due passi da Campo de’ Fiori, dove si incontrano comfort food, cocktail e contaminazioni internazionali in un’atmosfera giovane e rilassata. Stessa proprietà per Rosina, trattoria moderna con cucina “delle nonne d’Italia”, ricette di casa da tutta la Penisola e un approccio sincero e conviviale, in un ambiente che mixa tradizione e ironia. E per chi cerca un indirizzo aperto non solo ad agosto, ma proprio tutta la giornata, ecco Da Etta, nella romantica piazza in Piscinula, a Trastevere: osteria moderna, bar per ricche colazioni, grande carta dei vini e cocktail. 
+Tra i locali sempre aperti ad agosto c’è anche Clorofilla, un bistrot contemporaneo a due passi da Campo de’ Fiori, dove si incontrano comfort food, cocktail e contaminazioni internazionali in un’atmosfera giovane e rilassata. Stessa proprietà per Rosina, trattoria moderna con cucina “delle nonne d’Italia”, ricette di casa da tutta la Penisola e un approccio sincero e conviviale, in un ambiente che mixa tradizione e ironia. E per chi cerca un indirizzo aperto non solo ad agosto, ma proprio tutta la giornata, ecco Da Etta, nella romantica piazza in Piscinula, a Trastevere: osteria moderna, bar per ricche colazioni, grande carta dei vini e cocktail.
 C’è poi Nakai, il ristorante in zona Vaticano dove lo chef Koji Nakai porta in tavola la sua personale visione della cucina giapponese, tra contaminazioni italiane, proposte originali – dai noodles di gricia al riso di coda alla vaccinara – e una sempre più curata selezione di sake.
 
 Tra gli indirizzi in città che non vanno in vacanza ad agosto c’è anche Baccio e i Gradini, pizzeria all’Aventino che propone un impasto leggero, lievitazione lunga, topping stagionali e un’ampia selezione di fritti curati. Sempre in zona, Emilio Osteria di Mare: cucina di pesce semplice ma precisa, crudi, primi piatti freschi e servizio attento.
@@ -47,5 +47,3 @@ E per chi vuole respirare brezza marina, basta spostarsi verso il litorale. A Fr
 A Torvaianica, 266 La Barraca mescola ospitalità familiare e cucina di mare con tocchi iberici: spigole al pil pil, mazzancolle al burro di crostacei e una spiaggia privata per godersi anche il post pranzo. A Fiumicino, infine, Follis abbina cucina creativa e cocktail sartoriali: un locale affacciato sul porto, dove la tecnica incontra il pescato locale in piatti che sorprendono, e che per l’estate 2025 può godere di ben 90 nuovi coperti all’aperto, tra veranda e dehors.
 
 Tutti i locali citati sono aperti per tutto agosto, senza pause, offrendo esperienze diverse ma accomunate dalla qualità e dall’attenzione all’accoglienza.
-
-
