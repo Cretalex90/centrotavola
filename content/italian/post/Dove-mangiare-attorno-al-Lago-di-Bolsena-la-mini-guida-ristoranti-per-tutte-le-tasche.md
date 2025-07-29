@@ -36,7 +36,7 @@ Aperto nella primavera del 2023, [**Il Capriccio** non è un ristorante come tan
 
 ### Agriturismo Parco delle Querce - Valentano
 
-![](/images/parco-querce-dove-mangiare-bolsena.jpg)
+![](/images/tartare-parco-querce.jpg)
 
 Immerso nel verde rigoglioso della campagna viterbese, a pochi chilometri da Valentano, l’**Agriturismo Parco delle Querce** è un’oasi di tranquillità dove il concetto di ospitalità rurale si rinnova in chiave moderna. Al piano terra della struttura si trova il **ristorante**, autentico cuore gastronomico dell’agriturismo, articolato in eleganti sale climatizzate, ognuna arredata con elementi artigianali realizzati su misura. La proposta culinaria **reinterpreta la tradizione dell’Alto Viterbese** con uno sguardo contemporaneo: piatti ricercati che cambiano con le stagioni, costruiti attorno a materie prime locali di alta qualità, in grado di raccontare il territorio con gusto e creatività. I menù tematici seguono il ritmo della natura, fondendo sapori autentici a presentazioni curate ed equilibrate. L’esperienza si completa con un’enoteca ben fornita, dove una selezione attenta di vini regionali e nazionali accompagna ogni portata. Accanto alla cucina tipica, spicca **la pizza dell’agriturismo**: sottile, croccante, dal diametro generoso di 50 cm, preparata con farine di grani antichi e farcita con ingredienti selezionati, dopo una lunga lievitazione naturale di 24-48 ore. [Un luogo che unisce gusto, atmosfera e identità locale](https://centrotavola.eu/post/tra-gastronomia-e-accoglienza-lidentit-della-tuscia-racchiusa-a-parco-delle-querce/), ideale per chi cerca autenticità senza rinunciare alla cura dei dettagli.
 
