@@ -1,6 +1,6 @@
 ---
 title: >-
-  "I Viaggi di Marco": al Gabbiano 3.0 di Marina di Grosseto un nuovo percorso
+  "I Viaggi di Marco": al Gabbiano 3.0 di Marina di Grosseto un inedito percorso
   pairing
 date: 2025-07-30T00:00:00.000Z
 type: regular
