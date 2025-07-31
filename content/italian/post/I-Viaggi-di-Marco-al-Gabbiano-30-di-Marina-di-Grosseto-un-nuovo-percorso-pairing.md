@@ -1,10 +1,10 @@
 ---
 title: >-
-  "I Viaggi di Marco": al Gabbiano 3.0 di Marina di Grosseto un inedito percorso
-  pairing
-date: 2025-07-30T00:00:00.000Z
+  "I Viaggi di Marco": al Gabbiano 3.0 di Marina di Grosseto un originale
+  percorso pairing
+date: 2025-07-31T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/gabbiano-30-marina-grosseto-menu.jpg
 categories:
@@ -16,7 +16,7 @@ tags:
   - Marina di Grosseto
 ---
 
-Al **Gabbiano 3.0**, ristorante stellato affacciato sul mare di Marina di Grosseto, l’estate porta con sé un’inedita esperienza sensoriale: “I*** Viaggi di Marco***”, un percorso di abbinamenti liquidi ideato dal sommelier **Marco De Signoribus** per accompagnare il menu degustazione **Traversando la Maremma Toscana**, firmato dallo chef **Alessandro Rossi**.
+Al **Gabbiano 3.0**, ristorante stellato affacciato sul mare di Marina di Grosseto, l’estate porta con sé un’inedita esperienza sensoriale: “I\*\*\* Viaggi di Marco\*\*\*”, un percorso di abbinamenti liquidi ideato dal sommelier **Marco De Signoribus** per accompagnare il menu degustazione **Traversando la Maremma Toscana**, firmato dallo chef **Alessandro Rossi**.
 
 ### Non solo vino, un pairing con cocktail e fermentati
 
