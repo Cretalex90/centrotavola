@@ -1,5 +1,5 @@
 ---
-title: 'Lenticchia di Onano, alla scoperta della perla dell''Alta Tuscia'
+title: 'Lenticchia di Onano, alla scoperta di un''antica perla dell''Alta Tuscia'
 date: 2025-08-06T00:00:00.000Z
 type: regular
 draft: false
