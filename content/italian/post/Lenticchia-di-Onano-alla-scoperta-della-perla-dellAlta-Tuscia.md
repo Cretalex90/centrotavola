@@ -35,3 +35,5 @@ Nel 2022, il lungo percorso di tutela ha ottenuto un ulteriore riconoscimento: i
 Non sorprende quindi che grandi chef del territorio – come Iside De Cesare del ristorante stellato La Parolina – la usino in piatti creativi e raffinati, dalla zuppa con castagne e tartufo a insolite versioni che per dimensioni e forma ricordano il caviale. Ma anche nella cucina casalinga resta protagonista: in zuppe rustiche, con lardo o guanciale, oppure come accompagnamento delicato a carni importanti.
 
 La lenticchia di Onano, in fondo, non è soltanto un ingrediente: è un pezzo di storia agricola, un prodotto identitario, una piccola eccellenza che ha attraversato i secoli ed è sopravvissuta grazie all’attaccamento di una comunità. E in un paese di meno di mille abitanti, non è poco. Mangiarla non è solo gustare un buon piatto: è compiere un piccolo gesto di memoria, e contribuire a preservare un patrimonio.
+
+*Foto dalla pagina Visit Onano*
