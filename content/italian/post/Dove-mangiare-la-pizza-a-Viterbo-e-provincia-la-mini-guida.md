@@ -23,6 +23,8 @@ Probabilmente l'indirizzo più "contemporaneo" di tutti quelli proposti. Alla gu
 
 ### La Villa (Bagnaia)
 
+![](/images/la_villa_bagnaia_pizzeria_alessandro_creta.jpg.webp)
+
 Da vecchia scuderia di Villa Lante, tra gli edifici storici più famosi del viterbese, a polo riconosciuto dagli amanti della pizza provenienti dalla provincia e anche oltre. Cornicione pronunciato, impasto senza prefermenti, topping abbondanti e bella digeribilità. Anche qui tante referenze al territorio e ai medio/piccoli produttori locali, a sottolineare il valore di artigianalità che si respira tra queste mure a due passi da Villa Lante. Pizze classiche e più personalizzate, dal cornicione pronunciato, e una serie di deliziosi fritti completano l’offerta.
 
 ### O' Sarracino (Viterbo)
@@ -31,7 +33,9 @@ Una delle pizzerie più note e frequentate del centro storico viterbese, con l'i
 
 ### Babà 081 (Viterbo)
 
-Tradizione, tradizione e ancora tradizione. Il nome è già è un indizio ma la prova definitiva la si ha entrando in questa pizzeria situata in via della Palazzina a Viterbo. Pizza napoletana, classica e tradizionale, firmata da Giuseppe Cravero, tra i precursori di questo tipo di pizza nella Tuscia già una trentina di anni fa. Nel locale tanti richiami alla città di Partenope e alla sua cultura, così come il menu sembra uscito da un locale tipico dei Quartieri Spagnoli. Non solo pizze classiche napoletane, ma anche i fritti dello street food cittadino, finendo con gli immancabili dolci come babà, sfogliatella o pastiera.
+![](/images/babbà-pizzeria-viterbo-081-napoletana.jpg)
+
+Tradizione, tradizione e ancora tradizione, per l'ultimo locale di questo tipo aperto a Viterbo (inaugurazione alla fine di maggio). Il nome è già è un indizio ma la prova definitiva la si ha entrando in questa pizzeria situata in via della Palazzina a Viterbo. Pizza napoletana, classica e tradizionale, firmata da Giuseppe Cravero, tra i precursori di questo tipo di pizza nella Tuscia già una trentina di anni fa. Nel locale tanti richiami alla città di Partenope e alla sua cultura, così come il menu sembra uscito da un locale tipico dei Quartieri Spagnoli. Non solo pizze classiche napoletane, ma anche i fritti dello street food cittadino, finendo con gli immancabili dolci come babà, sfogliatella o pastiera.
 
 ### Il Casaletto (Grotte Santo Stefano)
 
