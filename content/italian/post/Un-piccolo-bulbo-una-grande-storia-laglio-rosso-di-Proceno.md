@@ -23,3 +23,6 @@ La coltivazione segue **metodi tradizionali**: aratura in autunno, semina tra no
 "Nel XIII° secolo ritroviamo l’aglio tra gli ortaggi più diffusi negli orti della provincia di Viterbo- recita la scheda Slow Food dedicata all'aglio di Proceno - in quanto usato, oltre che nell’alimentazione anche nella farmacopea, per le virtù terapeutiche eccezionali. È ricordato in numerosi documenti del XV e XVI secolo riguardanti Bolsena e la Val di Lago".
 
 Simbolo di biodiversità e cultura contadina, l’aglio rosso di Proceno continua a raccontare la storia di un territorio che ha saputo custodirne il seme e il sapore nel tempo.
+
+*Leggi anche:*\
+[Lenticchia di Onano, alla scoperta di un'antica perla dell'Alta Tuscia](https://centrotavola.eu/post/lenticchia-di-onano-alla-scoperta-della-perla-dellalta-tuscia/)
