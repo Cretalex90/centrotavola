@@ -3,6 +3,8 @@ title: 'Dove mangiare la pizza a Viterbo e provincia: la mini guida'
 date: 2025-08-05T00:00:00.000Z
 type: regular
 draft: true
+images:
+  - /images/guida-mangiare-pizza-viterbo-tuscia-dove.jpg
 categories:
   - Ristoranti
 tags:
@@ -13,13 +15,15 @@ tags:
   - pizza
 ---
 
-La Tuscia. Terra di grande tradizione e cultura gastronomica. Terra di ricette antiche, di derivazione contadina, che ancora oggi resistono nelle case e vengono omaggiate dagli chef dei tanti ristoranti che ne puntellano il territorio. Dal pesce, di mare e di lago, alla carne, in un ideale viaggio dalla costa tirrenica all'entroterra, con un occhio verso verdure, legumi, olio extravergine e vino. Una biodiversità e una ricchezza gastronomica che oggi connota la cucina, ovviamente, ma che nella provincia di Viterbo è protagonista anche in pizzeria. Negli ultimi anni in Tuscia si sono affermati locali che propongono le tipolgie di pizze più disparate: classiche o contemporanee, napoletane o romane, passando anche per il padellino. In questa mini guida, alcuni locali della provincia in cui potersi gustare una pizza.
+La Tuscia. Terra di grande tradizione e cultura gastronomica. Terra di ricette antiche, per lo più dal retaggio contadino, che ancora oggi resistono nelle case e vengono omaggiate dagli chef dei tanti ristoranti che ne puntellano il territorio. Dal pesce, di mare e di lago, alla carne, in un ideale viaggio dalla costa tirrenica all'entroterra, con un occhio verso verdure, legumi, olio extravergine e vino. Una biodiversità e una ricchezza gastronomica che oggi connota la cucina, ovviamente, ma che nella provincia di Viterbo è protagonista anche in pizzeria. Negli ultimi anni in Tuscia si sono affermati locali che propongono le tipologie di pizze più disparate: classiche o contemporanee, napoletane o romane, più o meno alte e più o meno soffici, passando anche per il padellino o le pizze alla pala. In questa mini guida, alcuni locali della provincia in cui potersi gustare una pizza.
 
-Che sia napoletana o romana, classica o contemporanea, l'importante è che sia buona. Ecco le nostre proposte all'insegna di una cena a base di pizza come si deve a Viterbo e provincia. E quale occasione migliore delle festività di Santa Rosa per scoprire, o magari ripassare, alcuni di questi indirizzi?
+Che sia napoletana o romana, classica o contemporanea, l'importante è che sia buona. Ecco le nostre proposte all'insegna di una cena a base di pizza come si deve a Viterbo e provincia. Un tour che dalla Città dei Papi si snoda nei borghi limitrofi, a una distanza massima di 15 chilometri, con locali adatti a soddisfare le preferenze più disparate. 
 
 ### Mactra (Vitorchiano)
 
-Probabilmente l'indirizzo più "contemporaneo" di tutti quelli proposti. Alla guida di Mactra c'è Andrea Pechino giovane pizzaiolo formatosi al Casaletto che qui ha dato vita alla sua idea di pizza. Napoletana, romana, ripiena, al padellino; Andrea si diverte a variare la sua offerta, proponendo varie tipologie (tutte ben fatte) ai clienti. Il locale punta forte sul territorio sia per quanto riguarda la scelta degli ingredienti sia per quanto riguarda la cantina, con tante referenze della zona. 
+![](/images/mactra-vitorchiano-pizza-padellino-guida-viterbo.jpg)
+
+Probabilmente l'indirizzo più "contemporaneo" di tutti quelli proposti. Alla guida di Mactra c'è Andrea Pechini giovane pizzaiolo formatosi al Casaletto che qui ha dato vita alla sua idea di pizza. Napoletana, romana, ripiena, al padellino; Andrea si diverte a variare la sua offerta, proponendo varie tipologie (tutte ben fatte) ai clienti. Il locale punta forte sul territorio sia per quanto riguarda la scelta degli ingredienti sia per quanto riguarda la cantina, con diverse referenze della zona.
 
 ### La Villa (Bagnaia)
 
@@ -29,9 +33,11 @@ Da vecchia scuderia di Villa Lante, tra gli edifici storici più famosi del vite
 
 ### O' Sarracino (Viterbo)
 
-Una delle pizzerie più note e frequentate del centro storico viterbese, con l'inconfondibile stile napoletano (impossibile il contrario, data la provenienza della proprietà). Un abbraccio tra Tuscia e Campania nelle pizze, firmate da Mario Di Dato (titolare e pizzaiolo),  per un mix apprezzato e riconosciuto non solo dai clienti, ma anche da guide di settore come quella del Gambero Rosso. Non solo pizzeria ma anche cucina (anch'essa, con numerosi riferimenti alla tradizione di giù), per un locale adatto sia per chi vuole gustarsi un bel piatto di scialatielli, sia una pizza Napoli style. 
+![](/images/sarracino-guida-pizze-viterbo-tuscia-pizza.jpg)
 
-### Babà 081 (Viterbo)
+Una delle pizzerie più note e frequentate del centro storico viterbese, con l'inconfondibile stile napoletano (impossibile il contrario, data la provenienza della proprietà). Un abbraccio tra Tuscia e Campania nelle pizze, firmate da Mario Di Dato (titolare e pizzaiolo),  per un mix apprezzato e riconosciuto non solo dai clienti, ma anche da guide di settore come quella del Gambero Rosso. Non solo pizzeria ma anche cucina (anch'essa, con numerosi riferimenti alla tradizione di giù), per un locale adatto sia per chi vuole gustarsi un bel piatto di scialatielli, sia una pizza Napoli style.
+
+### Babbà 081 (Viterbo)
 
 ![](/images/babbà-pizzeria-viterbo-081-napoletana.jpg)
 
@@ -39,4 +45,6 @@ Tradizione, tradizione e ancora tradizione, per l'ultimo locale di questo tipo a
 
 ### Il Casaletto (Grotte Santo Stefano)
 
-Una delle università del buon mangiare della Tuscia, che alla cucina abbina, e combina, la pizzeria. Al comando di tutto c'è Marco Ceccobelli, tra gli ambasciatori della gastronomia del territorio. Ingredienti locali, carni autoprodotte (tra cui la susianella, presidio Slow Food), farine selezionate per una delle pizze più apprezzate della provincia. 
+![](/images/casaletto-pizzeria-guida-pizze-viterbo-tuscia.jpg)
+
+Una delle università del buon mangiare della Tuscia, che alla cucina abbina, e combina, la pizzeria. Al comando di tutto c'è Marco Ceccobelli, tra gli ambasciatori della gastronomia del territorio. Ingredienti locali, carni autoprodotte (tra cui la susianella, presidio Slow Food), farine selezionate per una delle pizze più apprezzate della provincia. Classica, alla pala o al padellino, Il Casaletto si conferma una soluzione che soddisfa tutti i pizza lovers in cerca di un prodotto artigianale di qualità.
