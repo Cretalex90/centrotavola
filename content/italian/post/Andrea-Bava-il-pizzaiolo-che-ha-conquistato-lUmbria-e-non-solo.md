@@ -1,7 +1,7 @@
 ---
 title: 'Andrea Bava, il pizzaiolo che ha conquistato l''Umbria (e non solo)'
 date: 2025-08-21T00:00:00.000Z
-type: regular
+type: featured
 draft: false
 images:
   - /images/dandrea_andrea_bava_pizzeria_contemporanea.jpg.webp
