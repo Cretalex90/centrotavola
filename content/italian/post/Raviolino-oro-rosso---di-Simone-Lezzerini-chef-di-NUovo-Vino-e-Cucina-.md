@@ -21,19 +21,19 @@ Lo chef Simone Lezzerini di N’uovo Vino e Cucina (Sutri, Vt) firma un piatto c
 
 La ricetta è per 5 persone. Circa 100 raviolini.
 
-Impasto zafferano 
+##### Impasto zafferano 
 
 800g farina 00 rinforzata \
 11 tuorli e 1 uovo intero\
 2 g di zafferano oro rosso di Nepi in polvere.
 
-Farcia di Pecorino liquido
+##### Farcia di Pecorino liquido
 
 600 ml latte crudo azienda agricola faraoni \
 4,5g agar agar \
 320 g cacio etrusco alta Tuscia grattugiato 
 
-Fondo di coniglio frollato 
+##### Fondo di coniglio frollato 
 
 Ossa di 5 conigli frollati \
 Ghiaccio q.b. /acqua fredda q.b.\
@@ -42,7 +42,7 @@ Carote 10 pezzi \
 Cipolle bianche di Nepi 2 pezzi \
 Vino rosso 500 ml 
 
-Filetto di coniglio marinato in soluzione satura di vino rosso x 2 filetti.
+##### Filetto di coniglio marinato in soluzione satura di vino rosso x 2 filetti
 
 2l vino rosso \
 500g sale grosso \
