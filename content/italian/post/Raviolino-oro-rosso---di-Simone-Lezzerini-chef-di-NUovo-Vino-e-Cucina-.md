@@ -59,7 +59,7 @@ burro allo zafferano \
 
 #### Procedimento per la farcia: 
 
-Mettere in ebollizione il latte con l’agar agar una volta arrivati a temperatura andiamo ad emulsionare con il pecorino etrusco già grattugiato in precedenza, successivamente stendiamo il composto in una placca e lasciamo raffreddare. Una volta raffreddato il composto lo frulliamo ad alta velocità e lo inseriamo in una sac a poche da cucina pronto per iniziare a fare i nostri raviolini .
+Mettere in ebollizione il latte con l’agar agar una volta arrivati a temperatura andiamo ad emulsionare con il pecorino etrusco già grattugiato in precedenza, successivamente stendiamo il composto in una placca e lasciamo raffreddare. Una volta raffreddato il composto lo frulliamo ad alta velocità e lo inseriamo in una sac a poche da cucina pronto per iniziare a fare i nostri raviolini.
 
 #### Burro allo zafferano:
 
@@ -67,7 +67,7 @@ Mettiamo a sciogliere 250g di burro a 65 gradi con la polvere di zafferano, i re
 
 #### Fondo di coniglio:
 
-Iniziamo tostando le ossa in forno x 45minuti a 180°, nel mentre andiamo a tagliare grossolanamente i vegetali e iniziamo il nostro soffritto per poi aggiungere le ossa tostate, sfumiamo con il vino rosso e una volta risalita la temperatura del nostro composto aggiungiamo il ghiaccio e l’acqua fredda fino al bordo della nostra casseruola (possibilmente alta e fina ) , rimbocchiamo un po’ di acqua fredda ogni 2 ore e dopo 8 ore dividiamo la parte solida con quella liquida filtrando i liquidi estratti con l’aiuto di un etamina o un filtro da brodo a maglia fine. Una volta ottenuto il brodo denso e grasso lo mettiamo a riduzione dell’80%, freddiamo il composto intorno i 2° e noteremo che i grassi in eccesso saranno saliti all’estremità del composto e con l’aiuto del cucchiaio faremo un lavoro minuzioso eliminandolo del tutto. Il fondo è pronto per addizionarlo con il burro allo zafferano che farà da salsa di condimento al nostro raviolo 
+Iniziamo tostando le ossa in forno x 45minuti a 180°, nel mentre andiamo a tagliare grossolanamente i vegetali e iniziamo il nostro soffritto per poi aggiungere le ossa tostate, sfumiamo con il vino rosso e una volta risalita la temperatura del nostro composto aggiungiamo il ghiaccio e l’acqua fredda fino al bordo della nostra casseruola (possibilmente alta e fina ) , rimbocchiamo un po’ di acqua fredda ogni 2 ore e dopo 8 ore dividiamo la parte solida con quella liquida filtrando i liquidi estratti con l’aiuto di un etamina o un filtro da brodo a maglia fine. Una volta ottenuto il brodo denso e grasso lo mettiamo a riduzione dell’80%, freddiamo il composto intorno i 2° e noteremo che i grassi in eccesso saranno saliti all’estremità del composto e con l’aiuto del cucchiaio faremo un lavoro minuzioso eliminandolo del tutto. Il fondo è pronto per addizionarlo con il burro allo zafferano che farà da salsa di condimento al nostro raviolo.
 
 #### Filetto di coniglio in soluzione satura 
 
