@@ -17,69 +17,53 @@ tags:
   - ricetta
 ---
 
-Lo chef Simone Lezzerini di N’uovo Vino e Cucina (Sutri, Vt) firma un piatto che unisce eleganza e territorio: il Raviolino Oro Rosso, dove lo zafferano di Nepi, il pecorino della Tuscia e il coniglio frollato si fondono in un racconto di sapori autentici e ricercati. Un viaggio culinario che celebra tecnica e tradizione con raffinatezza contemporanea.
+Lo chef Simone Lezzerini di N’uovo Vino e Cucina (Sutri, Vt) firma un piatto che unisce eleganza e territorio: il Raviolino Oro Rosso, dove lo zafferano di Nepi, il pecorino della Tuscia e il coniglio frollato si fondono in un racconto di sapori autentici e ricercati. Un viaggio culinario che celebra tecnica e tradizione con raffinatezza contemporanea, disponibile del menu del ristorante, inserito con la segnalazione in Guida Michelin.
+
+La ricetta è per 5 persone. Circa 100 raviolini.
 
 Impasto zafferano 
 
-800g farina 00 rinforzata 
-
-11 tuorli e 1 uovo intero
-
+800g farina 00 rinforzata \
+11 tuorli e 1 uovo intero\
 2 g di zafferano oro rosso di Nepi in polvere.
 
 Farcia di Pecorino liquido
 
-600 ml latte crudo azienda agricola faraoni 
-
-4,5g agar agar 
-
+600 ml latte crudo azienda agricola faraoni \
+4,5g agar agar \
 320 g cacio etrusco alta Tuscia grattugiato 
 
 Fondo di coniglio frollato 
 
-Ossa di 5 conigli frollati 
-
-Ghiaccio q.b. /acqua fredda q.b.
-
-Sedano 1 costa 
-
-Carote 10 pezzi 
-
-Cipolle bianche di Nepi 2 pezzi 
-
+Ossa di 5 conigli frollati \
+Ghiaccio q.b. /acqua fredda q.b.\
+Sedano 1 costa \
+Carote 10 pezzi \
+Cipolle bianche di Nepi 2 pezzi \
 Vino rosso 500 ml 
 
 Filetto di coniglio marinato in soluzione satura di vino rosso x 2 filetti.
 
-2l vino rosso 
-
-500g sale grosso 
-
-Rosmarino 1 mazzetto 
-
-Alloro 10 foglie 
-
-Cipolla 1 in infusione 
-
-Timo 1 mazzo 
-
-Carote 2 pezzi a fettine sottili 
-
-Aglio 5 spicchi in infusione 
-
-burro allo zafferano 
-
+2l vino rosso \
+500g sale grosso \
+Rosmarino 1 mazzetto \
+Alloro 10 foglie \
+Cipolla 1 in infusione \
+Timo 1 mazzo \
+Carote 2 pezzi a fettine sottili \
+Aglio 5 spicchi in infusione \
+burro allo zafferano \
 500g burro fresco azienda agricola faraoni 0,70 mg di polvere di zafferano 
 
 ![](/images/coniglio-leprino-nepi-ricetta-nuovo-vino-cucina-lezzerini.png)
 
 #### Procedimento per la farcia: 
 
-mettere in ebollizione il latte con l’agar agar una volta arrivati a temperatura andiamo ad emulsionare con il pecorino etrusco già grattugiato in precedenza, successivamente stendiamo il composto in una placca e lasciamo raffreddare. Una volta raffreddato il composto lo frulliamo ad alta velocità e lo inseriamo in una sac a poche da cucina pronto per iniziare a fare i nostri raviolini .
+Mettere in ebollizione il latte con l’agar agar una volta arrivati a temperatura andiamo ad emulsionare con il pecorino etrusco già grattugiato in precedenza, successivamente stendiamo il composto in una placca e lasciamo raffreddare. Una volta raffreddato il composto lo frulliamo ad alta velocità e lo inseriamo in una sac a poche da cucina pronto per iniziare a fare i nostri raviolini .
 
 #### Burro allo zafferano:
 
-mettiamo a sciogliere 250g di burro a 65 gradi con la polvere di zafferano, i restanti 250g li inseriamo in un frullatore ad alta velocità e lasciamo che il burro raggiunga una temperatura ambiente per poi addizionarlo con il burro sciolto con lo zafferano per 1 minuto ad alta velocità, riponiamo in uno stampo rettangolare e lasciamo riposare per una notte intorno ai 4°.
+Mettiamo a sciogliere 250g di burro a 65 gradi con la polvere di zafferano, i restanti 250g li inseriamo in un frullatore ad alta velocità e lasciamo che il burro raggiunga una temperatura ambiente per poi addizionarlo con il burro sciolto con lo zafferano per 1 minuto ad alta velocità, riponiamo in uno stampo rettangolare e lasciamo riposare per una notte intorno ai 4°.
 
 #### Fondo di coniglio:
 
