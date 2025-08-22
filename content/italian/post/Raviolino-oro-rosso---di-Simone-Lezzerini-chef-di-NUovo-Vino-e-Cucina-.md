@@ -2,7 +2,7 @@
 title: 'Raviolino oro rosso - di Simone Lezzerini chef di N''Uovo Vino e Cucina '
 date: 2025-08-22T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - >-
     /images/raviolo_zafferano_nuovo_vino_cucina_officina_visiva_alessandro_creta.jpg.webp
