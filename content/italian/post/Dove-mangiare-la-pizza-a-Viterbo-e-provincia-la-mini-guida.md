@@ -1,8 +1,9 @@
 ---
 title: 'Dove mangiare la pizza a Viterbo e provincia: la mini guida'
-date: 2025-08-05T00:00:00.000Z
-type: regular
-draft: true
+author: Alessandro Creta
+date: 2025-08-23T00:00:00.000Z
+type: featured
+draft: false
 images:
   - /images/guida-mangiare-pizza-viterbo-tuscia-dove.jpg
 categories:
@@ -15,21 +16,21 @@ tags:
   - pizza
 ---
 
-La Tuscia. Terra di grande tradizione e cultura gastronomica. Terra di ricette antiche, per lo più dal retaggio contadino, che ancora oggi resistono nelle case e vengono omaggiate dagli chef dei tanti ristoranti che ne puntellano il territorio. Dal pesce, di mare e di lago, alla carne, in un ideale viaggio dalla costa tirrenica all'entroterra, con un occhio verso verdure, legumi, olio extravergine e vino. Una biodiversità e una ricchezza gastronomica che oggi connota la cucina, ovviamente, ma che nella provincia di Viterbo è protagonista anche in pizzeria. Negli ultimi anni in Tuscia si sono affermati locali che propongono le tipologie di pizze più disparate: classiche o contemporanee, napoletane o romane, più o meno alte e più o meno soffici, passando anche per il padellino o le pizze alla pala. In questa mini guida, alcuni locali della provincia in cui potersi gustare una pizza.
+La **Tuscia**. Terra di grande tradizione e cultura gastronomica. Terra di ricette antiche, per lo più dal retaggio contadino, che ancora oggi resistono nelle case e vengono omaggiate dagli chef dei tanti ristoranti che ne puntellano il territorio. Dal pesce, di mare e di lago, alla carne, in un ideale viaggio dalla costa tirrenica all'entroterra, con un occhio verso verdure, legumi, olio extravergine e vino. Una biodiversità e una ricchezza gastronomica che oggi connota la cucina, ovviamente, ma che nella provincia di Viterbo è protagonista anche in **pizzeria**. Negli ultimi anni in Tuscia si sono affermati locali che propongono le tipologie di **pizze** più disparate: classiche o contemporanee, napoletane o romane, più o meno alte e più o meno soffici, passando anche per il padellino o le pizze alla pala. Pizze che, in non pochi casi, esaltano le materie prime del territorio e, con loro, quando possibile omaggiano le produzioni artigianali della zona.
 
-Che sia napoletana o romana, classica o contemporanea, l'importante è che sia buona. Ecco le nostre proposte all'insegna di una cena a base di pizza come si deve a Viterbo e provincia. Un tour che dalla Città dei Papi si snoda nei borghi limitrofi, a una distanza massima di 15 chilometri, con locali adatti a soddisfare le preferenze più disparate. 
+In questa mini guida alcuni locali della provincia in cui potersi gustare una pizza: sia napoletana o romana, classica o contemporanea, l'importante che sia buona. Ecco le nostre proposte all'insegna di una cena a base di pizza come si deve a **Viterbo e provincia**. Un tour che dalla Città dei Papi si snoda nei borghi limitrofi, a una distanza massima di 15 chilometri, con locali adatti a soddisfare le preferenze più disparate. Territorialità, dove possibile, anche se non a tutti i costi. Partiamo!
 
 ### Mactra (Vitorchiano)
 
 ![](/images/mactra-vitorchiano-pizza-padellino-guida-viterbo.jpg)
 
-Probabilmente l'indirizzo più "contemporaneo" di tutti quelli proposti. Alla guida di Mactra c'è Andrea Pechini giovane pizzaiolo formatosi al Casaletto che qui ha dato vita alla sua idea di pizza. Napoletana, romana, ripiena, al padellino; Andrea si diverte a variare la sua offerta, proponendo varie tipologie (tutte ben fatte) ai clienti. Il locale punta forte sul territorio sia per quanto riguarda la scelta degli ingredienti sia per quanto riguarda la cantina, con diverse referenze della zona.
+Probabilmente l'indirizzo più "contemporaneo" di tutti quelli proposti. Alla guida di Mactra c'è Andrea Pechini giovane pizzaiolo formatosi al Casaletto che qui ha dato vita alla sua idea di pizza. Classica, romana, ripiena, al padellino; Andrea si diverte a variare la sua offerta, proponendo varie tipologie (tutte ben fatte) ai clienti. La filosofia locale punta forte sul territorio sia per quanto riguarda la scelta degli ingredienti sia per quanto riguarda la cantina, con diverse referenze della zona. Interessante anche la proposta degli antipasti, consigliato il maritozzo salato con lingua di manzo, salsa verde e cipolle.
 
 ### La Villa (Bagnaia)
 
 ![](/images/la_villa_bagnaia_pizzeria_alessandro_creta.jpg.webp)
 
-Da vecchia scuderia di Villa Lante, tra gli edifici storici più famosi del viterbese, a polo riconosciuto dagli amanti della pizza provenienti dalla provincia e anche oltre. Cornicione pronunciato, impasto senza prefermenti, topping abbondanti e bella digeribilità. Anche qui tante referenze al territorio e ai medio/piccoli produttori locali, a sottolineare il valore di artigianalità che si respira tra queste mure a due passi da Villa Lante. Pizze classiche e più personalizzate, dal cornicione pronunciato, e una serie di deliziosi fritti completano l’offerta.
+Da vecchia scuderia di Villa Lante, tra gli edifici storici più famosi del viterbese, a polo riconosciuto dagli amanti della pizza provenienti dalla provincia e anche oltre. Cornicione pronunciato, impasto senza prefermenti, topping abbondanti e bella digeribilità. Anche qui tante referenze al territorio e ai medio/piccoli produttori locali, a sottolineare il valore di artigianalità che si respira tra queste mure a due passi da Villa Lante. Pizze classiche e più personalizzate, dal cornicione marcato, e una serie di deliziosi fritti completano l’offerta.
 
 ### O' Sarracino (Viterbo)
 
@@ -37,7 +38,7 @@ Da vecchia scuderia di Villa Lante, tra gli edifici storici più famosi del vite
 
 Una delle pizzerie più note e frequentate del centro storico viterbese, con l'inconfondibile stile napoletano (impossibile il contrario, data la provenienza della proprietà). Un abbraccio tra Tuscia e Campania nelle pizze, firmate da Mario Di Dato (titolare e pizzaiolo),  per un mix apprezzato e riconosciuto non solo dai clienti, ma anche da guide di settore come quella del Gambero Rosso. Non solo pizzeria ma anche cucina (anch'essa, con numerosi riferimenti alla tradizione di giù), per un locale adatto sia per chi vuole gustarsi un bel piatto di scialatielli, sia una pizza Napoli style.
 
-### Babbà 081 (Viterbo)
+### Il Babbà 081 (Viterbo)
 
 ![](/images/babbà-pizzeria-viterbo-081-napoletana.jpg)
 
