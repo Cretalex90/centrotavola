@@ -2,9 +2,9 @@
 title: >-
   Pollo alla Civitonica, la ricetta dell'Osteria Al Forno di Agnese di Civita di
   Bagnoregio 
-date: 2025-08-20T00:00:00.000Z
+date: 2025-08-25T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/pollo-civitonica-forno-agnese.jpg
 categories:
@@ -17,7 +17,7 @@ tags:
   - ricetta
 ---
 
-Il pollo alla civitonica è una chicca tradizionale, la cui preparazione viene custodita gelosamente dagli ormai pochi che ancora la realizzano in zona, al punto che più di qualche bagnerese non ne è nemmeno a conoscenza. In poche parole si può considerare una variante del pollo alla cacciatora, arricchita però da sfumature e aromi che raccontano l’autenticità del borgo e la sua cucina contadina. Questa ricetta ci è stata fornita dall'Osteria Al Forno di Agnese, ristorante storico dentro Civita di Bagnoregio.
+Il **pollo alla civitonica** è una chicca tradizionale, la cui preparazione viene custodita dagli ormai pochi che ancora la realizzano in zona, al punto che più di qualche bagnerese non ne è nemmeno a conoscenza. In poche parole si può considerare una variante del pollo alla cacciatora, arricchita però da sfumature e aromi che raccontano l’autenticità del borgo e la sua cucina contadina. Questa ricetta ci è stata fornita dall'Osteria Al Forno di Agnese, ristorante storico dentro **Civita di Bagnoregio**.
 
 ### Ingredienti
 
