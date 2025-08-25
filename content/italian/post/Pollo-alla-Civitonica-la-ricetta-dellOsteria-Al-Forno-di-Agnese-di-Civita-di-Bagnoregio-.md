@@ -19,7 +19,7 @@ tags:
 
 Il **pollo alla civitonica** è una chicca tradizionale, la cui preparazione viene custodita dagli ormai pochi che ancora la realizzano in zona, al punto che più di qualche bagnerese non ne è nemmeno a conoscenza. In poche parole si può considerare una variante del pollo alla cacciatora, arricchita però da sfumature e aromi che raccontano l’autenticità del borgo e la sua cucina contadina. Questa ricetta ci è stata fornita dall'Osteria Al Forno di Agnese, ristorante storico dentro **Civita di Bagnoregio**.
 
-### Ingredienti
+### Ingredienti per 4 persone
 
 * Pollo a pezzi
 * Pomodoro fresco a pezzi
