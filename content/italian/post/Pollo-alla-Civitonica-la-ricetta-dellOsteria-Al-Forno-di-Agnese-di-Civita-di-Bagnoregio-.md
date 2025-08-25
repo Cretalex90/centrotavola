@@ -22,9 +22,9 @@ Il **pollo alla civitonica** è una chicca tradizionale, la cui preparazione vie
 ### Ingredienti per 4 persone
 
 * Pollo a pezzi
-* Pomodoro fresco a pezzi
-* Passata di pomodoro
-* Olive taggiasche
+* Pomodoro fresco a pezzi (5 pomodori rossi a grappolo)
+* In alternativa passata di pomodoro (400 gr)
+* Olive (100 grammi, sgocciolate)
 * Olio extravergine d’oliva
 * Rosmarino
 * Salvia
