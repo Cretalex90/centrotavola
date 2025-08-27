@@ -1,6 +1,6 @@
 ---
 title: 'La cipolla di Certaldo, baluardo storico del territorio boccaccesco'
-author: 'Martina Tapinassi '
+author: Martina Tapinassi - InTaberna
 date: 2025-08-27T00:00:00.000Z
 type: featured
 draft: false
@@ -51,6 +51,6 @@ Ogni anno il paese si mobilità e questa primizia a km0 viene celebrata in una s
 
 La cipolla di Certaldo è protagonista di antiche ricette contadine e, contemporaneamente, di interpretazioni più raffinate curate dagli chef contemporanei. Tra le preparazioni tradizionali spicca la zuppa di cipolle alla certaldese, rustica e avvolgente, preparata con pane toscano e cipolle lentamente stufate. Altre preparazioni degne di assaggio sono sicuramente la francesina, lesso di muscolo di vitello ricotto con le cipolle e il pomodoro, oltre alle composte agrodolci da abbinare ai formaggi durante gli aperitivi.
 
-Oggi è riconosciuta come **Prodotto Agroalimentare Tradizionale** (PAT, per la valorizzazione di quei prodotti tradizionali che vengono tutt’oggi lavorati secondo regole tradizionali) e\*\* presidio SlowFood\*\*.
+Oggi è riconosciuta come **Prodotto Agroalimentare Tradizionale** (PAT, per la valorizzazione di quei prodotti tradizionali che vengono tutt’oggi lavorati secondo regole tradizionali) e presidio **SlowFood**.
 
 Per quanto riguarda il disciplinare del Presidio SlowFood, l'area di produzione riconosciuta comprende la Val d'Elsa inferiore e segue il corso del fiume Elsa. Il territorio interessa il Comune di Certaldo interamente e quindi si estende parallelamente al corso del fiume Elsa, fino alla confluenza con il fiume Arno. Attualmente sono 8 i produttori che fanno parte del presidio. Il riconoscimento di Slow Food non è solo un marchio di qualità: è un impegno a custodire biodiversità, tradizioni agricole e saperi antichi, proteggendo prodotti che rischiano di essere dimenticati e che invece oggi tornano ad essere protagonisti sulle nostre tavole e nei mercati locali.
