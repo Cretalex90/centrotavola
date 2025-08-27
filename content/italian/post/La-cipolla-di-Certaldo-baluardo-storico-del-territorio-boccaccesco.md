@@ -1,6 +1,6 @@
 ---
 title: 'La cipolla di Certaldo, baluardo storico del territorio boccaccesco'
-author: Martina Tapinassi - InTaberna
+author: Martina Tapinassi
 date: 2025-08-27T00:00:00.000Z
 type: featured
 draft: false
