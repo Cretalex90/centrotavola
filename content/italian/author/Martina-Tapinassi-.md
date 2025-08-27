@@ -1,6 +1,7 @@
 ---
 title: 'Martina Tapinassi '
 image: /images/Martina-tapinassi-autore-centrotavola-storia-cibo.jpeg
+email: info@intaberna.it
 social:
   - icon: fab fa-instagram
     link: 'https://www.instagram.com/in.taberna/'
