@@ -3,6 +3,8 @@ title: 'BolsenaSee Fest ARAUN 2025: quando cultura e cibo uniscono Italia e Germ
 date: 2025-08-29T00:00:00.000Z
 type: regular
 draft: true
+images:
+  - /images/bolsena-seefest.jpg
 categories:
   - Eventi
 tags:
