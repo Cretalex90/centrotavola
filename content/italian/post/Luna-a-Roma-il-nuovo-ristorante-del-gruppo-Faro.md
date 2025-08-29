@@ -2,7 +2,7 @@
 title: 'Luna, a Roma il nuovo ristorante del gruppo Faro'
 date: 2025-08-29T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/luna-faro-roma.jpg
 categories:
@@ -43,4 +43,4 @@ La proposta gastronomica è costruita su stagionalità, attenzione al vegetale e
 
 Accanto al caffè specialty trova spazio una carta vini indipendente, scelta per completare un percorso che vuole essere conviviale, accessibile e mai banale. Ma LUNA è anche laboratorio di sperimentazione: fermentazioni, pairing, nuove forme di racconto gastronomico che dialogano con le passioni e la ricerca del team.
 
-LUNA è il luogo in cui ci si ferma e si mangia con lentezza, ma pensando in avanti. Un ristorante ibrido, dinamico, cosmopolita, che mantiene il caffè al centro ma lo lascia contaminare da nuove culture del gusto. La naturale continuazione di un viaggio iniziato con una tazzina e oggi diventato un vero ecosistema gastronomico.
+LUNA è un ristorante ibrido, dinamico, cosmopolita, che mantiene il caffè al centro ma lo lascia contaminare da nuove culture del gusto. La naturale continuazione di un viaggio iniziato con una tazzina e oggi diventato un vero ecosistema gastronomico.
