@@ -1,6 +1,6 @@
 ---
 title: >-
-  I Primi d’Italia 2025: Foligno torna la capitale dei primi piatti dal 28 al 28
+  I Primi d’Italia 2025: Foligno torna la capitale dei primi piatti dal 25 al 28
   settembre
 date: 2025-09-01T00:00:00.000Z
 type: regular
@@ -16,7 +16,7 @@ tags:
   - primi d'italia
 ---
 
-Dal **25 al 28 settembre** Foligno tornerà a trasformarsi nella capitale italiana del gusto con la ventisettesima edizione de “**I Primi d’Italia**”, il primo e unico festival nazionale dedicato ai primi piatti. Per quattro giorni il centro storico della città umbra vestirà i colori della festa e accoglierà appassionati, turisti e curiosi in una maratona culinaria senza eguali, dove pasta, riso, zuppe, gnocchi, polenta e tutti i prodotti agroalimentari che rendono speciale il piatto più amato dagli italiani saranno i protagonisti assoluti. Occasione propizia per vedere protagonisti, riuniti in un unico luogo, i primi piatti simbolo delle Regioni italiane. 
+Dal **25 al 28 settembre** Foligno tornerà a trasformarsi nella capitale italiana del gusto con la ventisettesima edizione de “**I Primi d’Italia**”, il primo e unico festival nazionale dedicato ai primi piatti. Per quattro giorni il centro storico della città umbra vestirà i colori della festa e accoglierà appassionati, turisti e curiosi in una maratona culinaria senza eguali, dove pasta, riso, zuppe, gnocchi, polenta e tutti i prodotti agroalimentari che rendono speciale il piatto più amato dagli italiani saranno i protagonisti assoluti. Occasione propizia per vedere protagonisti, riuniti in un unico luogo, i primi piatti simbolo delle Regioni italiane.
 
 ### I primi piatti e cene stellate tra le vie di Foligno
 
