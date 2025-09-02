@@ -15,7 +15,7 @@ tags:
   - fava cottora
 ---
 
-Tra le colline della **bassa Umbria**, nei campi della provincia di Terni, sopravvive una tradizione agricola antica che ha il profumo della terra e della memoria: la **Fava cottòra dell’Amerino**. Non una fava qualunque, ma un ecotipo unico, selezionato e tramandato di generazione in generazione dalle famiglie contadine, fino a diventare dal **2016 Presidio Slow Food **e affermandosi ancor più simbolo di un territorio dall'areale che comprende diversi comuni come Amelia, Avigliano Umbro, Montecastrilli e Lugnano in Teverina, estendendosi su una superficie di oltre 400 kmq tra colline, uliveti e valli rigogliose. 
+Tra le colline della **bassa Umbria**, nei campi della provincia di Terni, sopravvive una tradizione agricola antica che ha il profumo della terra e della memoria: la **Fava cottòra dell’Amerino**. Non una fava qualunque, ma un ecotipo unico, selezionato e tramandato di generazione in generazione dalle famiglie contadine, fino a diventare dal \*\*2016 Presidio Slow Food \*\*e affermandosi ancor più simbolo di un territorio dall'areale che comprende diversi comuni come Amelia, Avigliano Umbro, Montecastrilli e Lugnano in Teverina, estendendosi su una superficie di oltre 400 kmq tra colline, uliveti e valli rigogliose.
 
 ## Un legume piccolo e prezioso
 
@@ -23,7 +23,7 @@ Chiamata anche “*mezzafava*” per le sue dimensioni ridotte, la fava cottòra
 
 La **coltivazione** segue ancora oggi i ritmi della tradizione contadina. Dopo l’aratura estiva e i lavori di preparazione del terreno, nei primi giorni di novembre si procede con la semina a “postarelle”: piccole buche in cui vengono deposti da tre a sette semi. La raccolta, in luglio, è un rito che rievoca immagini di altri tempi: le piante, ormai secche, vengono estirpate a mano o con piccoli attrezzi, fatte essiccare al sole e poi battute per liberare i baccelli. I semi sono infine ripuliti con il setaccio tradizionale – il corvello o “gigliaro” – e selezionati manualmente, uno ad uno, per eliminare quelli imperfetti.
 
-![](/images/fava-cottora-amerino.png)
+![](</images/fava cottora.jpg>)
 
 ## Una preparazione minuziosa
 
@@ -31,4 +31,6 @@ Anche la fase di preparazione in cucina richiede pazienza e attenzione. Le fave 
 
 La fava cottòra non è soltanto un prodotto agricolo, ma un **simbolo identitario** dell’Amerino. Ogni famiglia, soprattutto nelle frazioni di Frattuccia (Guardea) e Collicello (Amelia), ha custodito gelosamente i propri semi, contribuendo alla sopravvivenza di un legume che si è adattato perfettamente al territorio, sviluppando una forte resistenza alle avversità. Oggi, grazie al riconoscimento come Presidio Slow Food, questa piccola fava continua a raccontare una storia fatta di pazienza, cura e radici profonde, diventando ambasciatrice di una terra dove la cucina è cultura e memoria.
 
-Foto in evidenza: [UmbriaTourism](https://www.umbriatourism.it/it/-/fava-cottora-dellamerino?fbclid=IwY2xjawMj_d1leHRuA2FlbQIxMABicmlkETFPUVNkajNwdlFDeEVkbjk2AR5DXtPfiKNJe5VFuu7GFIiRJZwZp8qUpD0NtWi0YNu6OBFgo4F3VSmXIUcjdQ_aem_RdSI7KEtEzZ5kbGBHh7h_Q)
+Le 3 aziende di riferimento per la fava cottòra, segnalate sul sito di Amerigo Tipico, sono: Az. Agr. Il Cerralto di Daniela Passagrilli, Brina Tartufi srl di Matteo e Virginia Zara, Etic Srl Az. Agr. Di Maria Chiara Flugy Pape”. 8 ettari di coltivazione totali, l’utilizzo di pochissimi mezzi meccanici, una raccolta e una lavorazione a mano, fanno della fava cottòra un piccolo grande tesoro dell’Umbria. 
+
+Foto in evidenza: [UmbriaTourism ](https://www.umbriatourism.it/it/-/fava-cottora-dellamerino?fbclid=IwY2xjawMj_d1leHRuA2FlbQIxMABicmlkETFPUVNkajNwdlFDeEVkbjk2AR5DXtPfiKNJe5VFuu7GFIiRJZwZp8qUpD0NtWi0YNu6OBFgo4F3VSmXIUcjdQ_aem_RdSI7KEtEzZ5kbGBHh7h_Q)e Amerino Tipico - [Associazione Produttori Fava Cottòra](https://www.amerinotipico.it/place/fava-cottora/)
