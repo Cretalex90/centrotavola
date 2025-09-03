@@ -16,7 +16,7 @@ tags:
   - orte
 ---
 
-*"Udite udite! *Una mensa solenne vi attende in Contrada Sant’Angelo ad Orte, ove ricette antiche e vini pregiati s’uniran per dar vita a un banchetto degno di cavalieri e dame...”
+\**Udite udite! \*Una mensa solenne vi attende in Contrada Sant’Angelo ad Orte, ove ricette antiche e vini pregiati s’uniran per dar vita a un banchetto degno di cavalieri e dame...*”
 
 Un **menu degustazione** inedito, pensato appositamente per l’occasione, con protagoniste ricette di derivazione medievale e in abbinamento i vini della cantina **Le Crete** di Giove. È la serata speciale che andrà in scena il prossimo **10 settembre** presso la contrada **Sant’Angelo di Orte**, nel vivo delle celebrazioni per il patrono locale Sant’Egidio. Una cena originale e creativa, che (in pieno stile delle festività del paese) abbraccia non solo lo spirito medievale, ma ne richiama anche gusti, sapori e ricette, pensate e realizzate appositamente per la serata. Ogni portata racconta un frammento di passato, esaltato dall’abbinamento con i vini locali: un viaggio tra i sapori di un tempo e le eccellenze del territorio.
 
