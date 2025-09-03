@@ -2,6 +2,7 @@
 title: >-
   Ottava Medievale Orte: in contrada Sant’Angelo un menu inedito con ricette
   medievali
+author: Alessandro Creta
 date: 2025-09-03T00:00:00.000Z
 type: regular
 draft: false
