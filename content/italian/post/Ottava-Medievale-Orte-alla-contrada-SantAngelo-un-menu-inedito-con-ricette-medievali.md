@@ -1,52 +1,52 @@
 ---
 title: >-
-  Ottava Medievale Orte: alla contrada Sant’Angelo un menu inedito con ricette
+  Ottava Medievale Orte: in contrada Sant’Angelo un menu inedito con ricette
   medievali
 date: 2025-09-03T00:00:00.000Z
 type: regular
-draft: true
+draft: false
+images:
+  - /images/cena-medievale-orte.jpg
+categories:
+  - News
+tags:
+  - contrade
+  - ottava medievale
+  - sant'egidio
+  - orte
 ---
 
-Un menu degustazione inedito, pensato appositamente per l’occasione, con protagoniste ricette di derivazione medievale e in abbinamento i vini della cantina Le Crete di Giove. È la serata speciale che andrà in scena il prossimo 10 settembre presso la contrada Sant’Angelo di Orte, nel vivo delle celebrazioni per il patrono locale Sant’Egidio. Una cena originale e creativa, che (in pieno stile delle festività del paese) abbraccia non solo lo spirito medievale, ma ne richiama anche gusti, sapori e ricette, pensate e realizzate appositamente per la serata. Il tutto, mixando sapori di un tempo con i vini di una cantina locale, per un abbinamento originale che celebra ed esalta la tradizione medievale.
+*"Udite udite! *Una mensa solenne vi attende in Contrada Sant’Angelo ad Orte, ove ricette antiche e vini pregiati s’uniran per dar vita a un banchetto degno di cavalieri e dame...”
 
-Di seguito il menu completo con portate e pairing
+Un **menu degustazione** inedito, pensato appositamente per l’occasione, con protagoniste ricette di derivazione medievale e in abbinamento i vini della cantina **Le Crete** di Giove. È la serata speciale che andrà in scena il prossimo **10 settembre** presso la contrada **Sant’Angelo di Orte**, nel vivo delle celebrazioni per il patrono locale Sant’Egidio. Una cena originale e creativa, che (in pieno stile delle festività del paese) abbraccia non solo lo spirito medievale, ma ne richiama anche gusti, sapori e ricette, pensate e realizzate appositamente per la serata. Ogni portata racconta un frammento di passato, esaltato dall’abbinamento con i vini locali: un viaggio tra i sapori di un tempo e le eccellenze del territorio.
 
-SERVIZIO DE BENVENUTO
+![](/images/orte-cena-medievale.jpg)
 
-FRUCTA FRESCA DE STAGIONE CUM HERBI
+### Il menu completo con portate e pairing
 
-In abbinamento EXTRA DRY milesimato (Sangiovese vinificato in bianco metodo charmat)
+Servizio de Benvenuto
+Fructa fresca de stagione cum herbi
+→ Abbinamento: Extra Dry milesimato (Sangiovese vinificato in bianco, metodo Charmat)
 
-SERVIZIO DE CREDENZA
+Servizio de Credenza
+Torta de herbi
+→ Abbinamento: Cima del Giglio IGT (Sauvignon Blanc e Malvasia)
 
-TORTA DE HERBI
+Primo Servizio de Portata
+Maltagliato cum ceccio
+→ Abbinamento: Sophia Sole IGT (Chardonnay e Viognier)
 
-In abbinamento CIMA DEL GIGLIO IGT (Sauvignon Blanc e Malvasia)
+Secondo Servizio de Portata
+Pasta rustica a lo ragù povero
+→ Abbinamento: Laudato Rosso IGT (Sangiovese e Merlot)
 
-PRIMO SERVIZIO DE PORTATA
+Terzo e Quarto Servizio de Portata
+Quaia avvolta et imbottita in tegame cum scarola in sabore
+→ Abbinamento: Petranera IGT (Sangiovese, Merlot, Barbera, Montepulciano)
 
-MALTAGLIATO CUM CECIO
+Quinto Servizio de Portata
+Crostata cum formaggio e fico
+→ Abbinamento: Ippocrasso
 
-In abbinamento SOPHIA SOLE IGT (Chardonnay e Viognier)
-
-SECONDO SERVIZIO DE PORTATA
-
-PASTA RUSTICA A LO RAGÙ POVERO
-
-In abbinamento LAUDATO ROSSO IGT Sangiovese e Menot)
-
-TERZO E QUARTO SERVIZIO DE PORTATA
-
-QUAIA AVVOLTA ET IMBOTTITA IN TEGAME
-
-CUM SCAROLAIN SABORE
-
-In abbinamento PETRANERA IGT (Sangiovese, Merlot, Barbera, Montepuciano)
-
-QUINTO SERVIZIO DE PORTATA
-
-CROSTATA CUM FORMAGGIO E FICO
-
-In abbinamento IPPOCRASSO
-
-Posti limitati, solo su prenotazione al num: 3896817958
+Un banchetto tra storia e sapori, con posti limitati.
+Prenotazione obbligatoria al numero: 389 681 7958
