@@ -24,27 +24,33 @@ Un **menu degustazione** inedito, pensato appositamente per l’occasione, con p
 
 ### Il menu completo con portate e pairing
 
-Servizio de Benvenuto
+**Servizio de Benvenuto**
+
 Fructa fresca de stagione cum herbi
 → Abbinamento: Extra Dry milesimato (Sangiovese vinificato in bianco, metodo Charmat)
 
-Servizio de Credenza
+**Servizio de Credenza**
+
 Torta de herbi
 → Abbinamento: Cima del Giglio IGT (Sauvignon Blanc e Malvasia)
 
-Primo Servizio de Portata
-Maltagliato cum ceccio
+**Primo Servizio de Portata**
+
+Maltagliato cum cecio
 → Abbinamento: Sophia Sole IGT (Chardonnay e Viognier)
 
-Secondo Servizio de Portata
+**Secondo Servizio de Portata**
+
 Pasta rustica a lo ragù povero
 → Abbinamento: Laudato Rosso IGT (Sangiovese e Merlot)
 
-Terzo e Quarto Servizio de Portata
+**Terzo e Quarto Servizio de Portata**
+
 Quaia avvolta et imbottita in tegame cum scarola in sabore
 → Abbinamento: Petranera IGT (Sangiovese, Merlot, Barbera, Montepulciano)
 
-Quinto Servizio de Portata
+**Quinto Servizio de Portata**
+
 Crostata cum formaggio e fico
 → Abbinamento: Ippocrasso
 
