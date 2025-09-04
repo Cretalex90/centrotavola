@@ -27,7 +27,7 @@ Sulla qualità in primis, sulla resa gustativa per forza di cose, presentati sen
 
 ![](/images/schernardino-menu-viterbo-ristorante-alessandro-creta.jpg)
 
-Insomma, se ci cerca un gourmet puro, Schernardino non è il ristorante che soddisfa questo tipo di richiesta. Lo soddisferà il nuovo locale, oggi dai lavori in corso, mentre l’indirizzo che sta rianimando piazza delle Erbe rappresenta un **buon entry level **per chi vuole approcciarsi a una cucina attenta sì, di qualità sì, ma senza i canoni più legati all’alta ristorazione. L’idea, in senso più ampio, è quella di un posto polifunzionale, vivo dalla mattina fino a tarda sera, con una piccola proposta di bar per la colazione, aperitivi diurni e serali, cocktail e distillati dopo cena, affiancati a una cucina completa e alla pizzeria. Un modello che ricorda i locali delle grandi città, pensato per accogliere un pubblico variegato di residenti e turisti.
+Insomma, se ci cerca un gourmet puro, Schernardino non è il ristorante che soddisfa questo tipo di richiesta. Lo soddisferà il nuovo locale, oggi dai lavori in corso, mentre l’indirizzo che sta rianimando piazza delle Erbe rappresenta un buon **entry level** per chi vuole approcciarsi a una cucina attenta sì, di qualità sì, ma senza i canoni più legati all’alta ristorazione. L’idea, in senso più ampio, è quella di un posto polifunzionale, vivo dalla mattina fino a tarda sera, con una piccola proposta di bar per la colazione, aperitivi diurni e serali, cocktail e distillati dopo cena, affiancati a una cucina completa e alla pizzeria. Un modello che ricorda i locali delle grandi città, pensato per accogliere un pubblico variegato di residenti e turisti.
 
 ### Cosa si mangia da Schenardino, piatti e menu
 
