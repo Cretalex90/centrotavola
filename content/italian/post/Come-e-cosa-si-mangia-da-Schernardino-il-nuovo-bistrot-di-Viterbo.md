@@ -15,7 +15,7 @@ tags:
   - schenardino
 ---
 
-L’estate viterbese, perlomeno dal punto di vista gastronomico/ristorativo, è stata animata da un’interessante nuova apertura parte di un ambizioso progetto più ampio, firmato dagli imprenditori di moda **Eleonora Bonucci** e il marito Andrea Serinelli. In piazza delle Erbe da metà luglio **Schenardino** arricchisce il centro storico cittadino, un ristorante che ha visto il ritorno ai fornelli di **Danilo Ciavattini**, illustre firma della cucina territoriale. Un nome importante che rievoca bei ricordi per la ristorazione viterbese, un ritorno in pista “soft” in vista delle importanti novità oggi in cantiere ma che nei prossimi mesi promettono di catalizzare non poca attenzione.
+L’estate viterbese, perlomeno dal punto di vista gastronomico/ristorativo, è stata animata da un’interessante nuova apertura parte di un ambizioso progetto più ampio, firmato dagli imprenditori di moda **Eleonora Bonucci** e il marito **Andrea Serinelli**. In piazza delle Erbe da metà luglio **Schenardino** arricchisce il centro storico cittadino, un ristorante che ha visto il ritorno ai fornelli di **Danilo Ciavattini**, illustre firma della cucina territoriale. Un nome importante che rievoca bei ricordi per la ristorazione viterbese, un ritorno in pista “soft” in vista delle importanti novità oggi in cantiere ma che nei prossimi mesi promettono di catalizzare non poca attenzione.
 
 ![](/images/schenardino-viterbo-ristorante-menu-alessandro-creta.jpg)
 
@@ -31,7 +31,7 @@ Insomma, se ci cerca un gourmet puro, Schernardino non è il ristorante che sodd
 
 ### Cosa si mangia da Schenardino, piatti e menu
 
-**Che si mangia** quindi? Danilo ha pensato a un menu che possa soddisfare un po’** tutti i gusti**, con focus sul territorio, materie prime locali e richiami alla cultura gastronomica della Tuscia. Agnelli e polli arrivano da allevamenti di zona, immancabile l’acquacotta, curioso l’omaggio a una preparazione di Veiano (la scarpetta, con burrata e alici), c’è la trippa ma non è col pomodoro bensì cacio e pepe, ci sono le tagliatelle al ragù di agnello e c’è un bel raviolo ripieno di mortadella alle nocciole (realizzata dal salumificio Stefanoni) e crema di nocciole Luca Di Piero (questa, però, che forse conferisce al piatto una nota fin troppo dolciastra).
+**Che si mangia** quindi? Danilo ha pensato a un menu che possa soddisfare un po’\*\* tutti i gusti\*\*, con focus sul territorio, materie prime locali e richiami alla cultura gastronomica della Tuscia. Agnelli e polli arrivano da allevamenti di zona, immancabile l’acquacotta, curioso l’omaggio a una preparazione di Veiano (la scarpetta, con burrata e alici), c’è la trippa ma non è col pomodoro bensì cacio e pepe, ci sono le tagliatelle al ragù di agnello e c’è un bel raviolo ripieno di mortadella alle nocciole (realizzata dal salumificio Stefanoni) e crema di nocciole Luca Di Piero (questa, però, che forse conferisce al piatto una nota fin troppo dolciastra).
 
 ![](/images/schenardino-trippa-cacio-pepe-menu-alessandro-creta.jpg)
 
