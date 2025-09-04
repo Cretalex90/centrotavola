@@ -38,3 +38,8 @@ Che si mangia quindi? Danilo ha pensato a un menu che possa soddisfare un po’ 
 Qualità e tempo oggi sembrano essere le parole chiave legate a Schenardino. Un progetto nuovo, ambizioso, affascinante, di qualità per l’appunto, ma che come tutte le cose nuove ha bisogno di tempo per potersi manifestare in tutto ciò che vuole essere “da grande”. I presupposti ci sono, le competenze anche, il know how non manca di certo, con Danilo che funge da garante per la buona qualità dell’offerta di cucina. Da aggiustare qualche tentennamento in sala, seppur fisiologici e normali per un progetto che al momento della visita contava appena su una 40ina di servizi. Pieno rodaggio insomma, così come saranno di pieno rodaggio almeno i prossimi 2/3 mesi a venire. 
 
 Schernardino è un ristorante in cui si mangia bene, si mangia con abbondanza. Per una bella cena nel centro di Viterbo senza dubbio è un posto da tenere sicuramente in considerazione. Insomma, in una città in cui ultimamente si sono contate non poche aperture di fast food, in cui è sempre più ampia l’offerta di all you can eat, ben vengano iniziative del genere che ci rimettono a nostro agio con la buona cucina e il buon mangiare.
+
+Leggi anche:
+
+* [Dove mangiare la pizza a Viterbo, gli indirizzi per tutti i gusti](https://centrotavola.eu/post/dove-mangiare-la-pizza-a-viterbo-e-provincia-la-mini-guida/)
+* [A Orte va in scena una cena di ispirazione medievale](https://centrotavola.eu/post/ottava-medievale-orte-alla-contrada-santangelo-un-menu-inedito-con-ricette-medievali/)
