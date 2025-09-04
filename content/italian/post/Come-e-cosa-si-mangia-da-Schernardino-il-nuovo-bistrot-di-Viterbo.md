@@ -2,7 +2,7 @@
 title: 'Come e cosa si mangia da Schernardino, il nuovo bistrot di Viterbo'
 author: Alessandro Creta
 date: 2025-09-04T00:00:00.000Z
-type: regular
+type: featured
 draft: false
 images:
   - /images/schenardino-viterbo-alessandro-creta-menu.jpg
