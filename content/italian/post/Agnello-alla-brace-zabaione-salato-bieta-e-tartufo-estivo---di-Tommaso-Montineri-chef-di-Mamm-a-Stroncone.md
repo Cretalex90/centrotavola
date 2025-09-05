@@ -18,9 +18,9 @@ tags:
   - mammè
 ---
 
-Un piatto che unisce eleganza e tradizione: lo chef Tommaso Montineri del ristorante **Mammè** di Stroncone (TR) propone un **agnello alla brace** accompagnato da uno zabaglione salato, bieta saltata e il profumo del tartufo, per un equilibrio raffinato tra sapori decisi e delicatezza.
+Un piatto che unisce eleganza e tradizione: lo chef Tommaso Montineri del ristorante **Mammè** di Stroncone (TR) propone un **agnello alla brace** accompagnato da uno zabaione salato, bieta saltata e il profumo del tartufo, per un equilibrio raffinato tra sapori decisi e delicatezza.
 
-### Agnello alla brace, zabaglione salato, bieta e tartufo estivo
+### Agnello alla brace, zabaione salato, bieta e tartufo estivo
 
 ***Ingredienti (4 persone)***
 
@@ -48,7 +48,7 @@ Un piatto che unisce eleganza e tradizione: lo chef Tommaso Montineri del ristor
 
 ***Procedimento***
 
-*-Zabaglione salato al sifone*
+*-Zabaione salato al sifone*
 
 Inserire nel sifone la panna, i tuorli e un pizzico di sale. Scaldare a bagnomaria per circa 3 minuti, senza superare la temperatura di cottura dei tuorli (attenzione a non farlo diventare frittata). Mantenere tiepido fino all’impiattamento.
 
@@ -66,4 +66,4 @@ Grattare una parte di tartufo. In un pentolino scaldare olio con aglio e un pezz
 
 *-Composizione del piatto*
 
-Disporre l'agnello nel piatto. Aggiungere lo zabaglione salato sifonato. Sistemare accanto la bieta saltata. Irrorare con la salsa al tartufo. Completare con lamelle di tartufo estivo fresco.
+Disporre l'agnello nel piatto. Aggiungere lo zabaione salato sifonato. Sistemare accanto la bieta saltata. Irrorare con la salsa al tartufo. Completare con lamelle di tartufo estivo fresco.
