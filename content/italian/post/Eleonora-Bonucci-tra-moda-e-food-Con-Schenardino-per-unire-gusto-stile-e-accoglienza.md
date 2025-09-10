@@ -3,9 +3,9 @@ title: >-
   Eleonora Bonucci, tra moda e food: “Con Schenardino per unire gusto, stile e
   accoglienza”
 author: Alessandro Creta
-date: 2025-09-09T00:00:00.000Z
+date: 2025-09-10T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/schernardino-eleonora-bonucci-intervista.jpg
 categories:
@@ -21,7 +21,7 @@ tags:
 
 ![](/images/schenardino-sala.JPG)
 
-Schenardino è dunque molto più di un ristorante: è il **primo tassello** di un progetto ambizioso che intreccia cucina, moda e ospitalità, con l’obiettivo di riportare Viterbo al centro di un’esperienza internazionale di gusto e stile. 
+Schenardino è dunque molto più di un ristorante: è il **primo tassello** di un progetto ambizioso che intreccia cucina, moda e ospitalità, con l’obiettivo di riportare Viterbo al centro di un’esperienza internazionale di gusto e stile.
 
 ### Tra Schenardino e Schenardi, parla Eleonora Bonucci
 
@@ -34,12 +34,12 @@ Molto positivo. C’è stata una bellissima risposta da parte della clientela, s
 Non lo chiamerei propriamente un'“osteria”, nel senso stretto del termine Per me è un ristorante con tradizione innovativa, dove arte e design hanno un ruolo centrale, con musica dal vivo di qualità, un ambiente curato e contemporaneo. Forse potremmo definirlo un “fashion bistrò”, che richiama un po’ l’atmosfera dei bistrot parigini che amo: cura estetica, musica dal vivo, servizio elegante. E poi c'è il richiamo al fashion, al mondo della moda che è quello a cui sono maggiormente legata.
 
 ***Dopo tanti anni nella moda, come è nata l’idea di entrare nella ristorazione?***
-L’idea è nata da mio marito Andrea, che ama il food, è appassionato di vino ed è anche un ottimo cuoco casalingo. Inoltre, oggi moda, food e hospitality sono mondi sempre più vicini. Schenardino è stato un primo passo, un lancio: un progetto più accessibile, che ci prepara a quello che sarà il grande progetto di Schenardi, una versione più luxury e completa. Un progetto grande, di respiro internazionale. 
+L’idea è nata da mio marito Andrea, che ama il food, è appassionato di vino ed è anche un ottimo cuoco casalingo. Inoltre, oggi moda, food e hospitality sono mondi sempre più vicini. Schenardino è stato un primo passo, un lancio: un progetto più accessibile, che ci prepara a quello che sarà il grande progetto di Schenardi, una versione più luxury e completa. Un progetto grande, di respiro internazionale.
 
 ![](/images/eleonora-bonucci-schernardino.jpg)
 
 ***C’è un’analogia tra l'altamoda e la ristorazione di alto livello?***
-Assolutamente sì. Il punto di contatto principale è la cura del cliente. Nel nostro negozio non funziona come in un fast fashion, dove entri, compri e vai via. Noi accogliamo il cliente con un bicchiere di champagne o con un aperitivo, lo facciamo sentire a suo agio in un ambiente arredato come un salotto, e lo intratteniamo anche per ore. Perché alla base c’è un’esperienza, non una semplice transazione. La stessa cosa l’ho ritrovata nella ristorazione: non basta più cucinare bene, perché ormai mediamente si mangia bene ovunque. Quello che fa la differenza è l’experience, fatta di dettagli, servizio, atmosfera e attenzione. 
+Assolutamente sì. Il punto di contatto principale è la cura del cliente. Nel nostro negozio non funziona come in un fast fashion, dove entri, compri e vai via. Noi accogliamo il cliente con un bicchiere di champagne o con un aperitivo, lo facciamo sentire a suo agio in un ambiente arredato come un salotto, e lo intratteniamo anche per ore. Perché alla base c’è un’esperienza, non una semplice transazione. La stessa cosa l’ho ritrovata nella ristorazione: non basta più cucinare bene, perché ormai mediamente si mangia bene ovunque. Quello che fa la differenza è l’experience, fatta di dettagli, servizio, atmosfera e attenzione.
 
 ***Che differenze ha notato tra moda e ristorazione dal punto di vista manageriale?***
 Nella ristorazione il tempo è la risorsa più preziosa e tutto avviene in modo molto più rapido. In due ore ti giochi la giornata intera: non c’è tempo di fermarsi, ragionare e recuperare. Bisogna reagire all’istante, e ogni dettaglio diventa cruciale. È stato quasi un trauma all’inizio, perché in venti giorni ho imparato tantissimo. Allo stesso tempo mi ha appassionata, perché ti fa capire ancora meglio quanto siano importanti i dettagli anche nell’altra azienda: dire alle persone di non sprecare tempo, curare ogni aspetto. Nella moda puoi “spalmare” il lavoro su tutta la giornata, qui invece la reattività deve essere immediata.
