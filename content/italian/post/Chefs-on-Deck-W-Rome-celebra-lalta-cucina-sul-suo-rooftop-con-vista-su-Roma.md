@@ -2,7 +2,7 @@
 title: 'Chefs on Deck: W Rome celebra l’alta cucina sul suo rooftop con vista su Roma'
 date: 2025-09-11T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/w roma cena.jpg
 categories:
@@ -13,9 +13,9 @@ tags:
   - roma
 ---
 
-Il rooftop del W Rome si prepara ad accogliere un evento che unisce gusto, creatività e intrattenimento: il 15 settembre, sul WET Deck, prende vita “Chefs on Deck”, una serata dove tre protagonisti della scena gastronomica italiana firmano un’esperienza multisensoriale tra food, mixology e musica. A interpretare questo inedito dialogo culinario saranno Ciccio Sultano, due stelle Michelin e ambasciatore della cucina siciliana contemporanea; Pier Daniele Seu, pizzaiolo visionario e innovatore del concetto di pizza gourmet; e Fabrizio Fiorani, pasticcere di fama internazionale e maestro delle illusioni dolci.
+Il **rooftop del W Rome** si prepara ad accogliere un evento che unisce gusto, creatività e intrattenimento: il 15 settembre, sul WET Deck, prende vita “***Chefs on Deck***”, una serata dove tre protagonisti della scena gastronomica italiana firmano un’esperienza multisensoriale tra food, mixology e musica. A interpretare questo inedito dialogo culinario saranno **Ciccio Sultano**, due stelle Michelin e ambasciatore della cucina siciliana contemporanea; **Pier Daniele Seu**, pizzaiolo innovatore del concetto di pizza gourmet; e **Fabrizio Fiorani**, pasticcere di fama internazionale e maestro delle illusioni dolci.
 
-Il WET Deck del W Rome, con piscina all’aperto e vista mozzafiato sul cuore della città, non è solo un luogo iconico per il design cosmopolita e i cocktail d’autore: è anche un palcoscenico dove la cucina diventa spettacolo. Per una sera, gli ospiti saranno immersi in un viaggio tra sapori, musica e creatività, accompagnati da DJ set e live performance.
+Il WET Deck del W Rome, con piscina all’aperto e **vista mozzafiato sul cuore della città**, non è solo un luogo iconico per il design cosmopolita e i cocktail d’autore: è anche un palcoscenico dove la cucina diventa spettacolo. Per una sera, gli ospiti saranno immersi in un viaggio tra sapori, musica e creatività, accompagnati da DJ set e live performance.
 
 ## Il menu della serata
 
