@@ -1,11 +1,11 @@
 ---
 title: >-
-  Giovani chef crescono: con Nicola Cascini, chef de La Locanda del Cardinale ad
+  Giovani emergenti: con Nicola Cascini, chef de La Locanda del Cardinale ad
   Assisi
 author: Alessandro Creta
-date: 2025-09-08T00:00:00.000Z
+date: 2025-09-12T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/nicola-cascini-locanda-cardinale.png
 categories:
