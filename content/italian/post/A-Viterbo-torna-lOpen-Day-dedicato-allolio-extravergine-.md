@@ -14,7 +14,7 @@ tags:
   - Olio
 ---
 
-Nel cuore pulsante della Tuscia olivicola torna, per la sua terza edizione, l’atteso appuntamento promosso da Pierluigi Presciuttini, produttore da sempre impegnato nella promozione dell’**olio extravergine di qualità** e nel recupero degli **oliveti abbandonati**. Un open day che si conferma non solo come momento di incontro, ma come vera e propria esperienza culturale ed enogastronomica, pensata per avvicinare il pubblico all’universo complesso e affascinante dell’Olio EVO di eccellenza.
+Nel cuore pulsante della Tuscia olivicola torna, per la sua terza edizione, l’atteso appuntamento promosso da Pierluigi Presciuttini, produttore da sempre impegnato nella promozione dell’**olio extravergine di qualità** e nel recupero degli **oliveti abbandonati**. Un open day, il 28 settembre, che si conferma non solo come momento di incontro, ma come vera e propria esperienza culturale ed enogastronomica, pensata per avvicinare il pubblico all’universo complesso e affascinante dell’Olio EVO di eccellenza.
 
 ![](</images/locandina olio.jpeg>)
 
