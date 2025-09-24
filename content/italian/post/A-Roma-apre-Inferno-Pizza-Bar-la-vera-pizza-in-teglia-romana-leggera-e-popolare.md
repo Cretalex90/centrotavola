@@ -4,7 +4,7 @@ title: >-
   popolare
 date: 2025-09-24T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/Arrestato al ristorante boss della Camorra-4.jpg
 categories:
