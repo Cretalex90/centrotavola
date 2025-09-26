@@ -5,6 +5,8 @@ title: >-
 date: 2025-09-25T00:00:00.000Z
 type: regular
 draft: true
+images:
+  - /images/ricetta-alma-errante-trevi.jpg
 categories:
   - Ricette degli chef
 tags:
@@ -53,11 +55,11 @@ Per la marinatura
 
 10g soia
 
-10g saké 
+10g saké
 
-10g mirin 
+10g mirin
 
-15g zucchero semolato 
+15g zucchero semolato
 
 3g sale
 
@@ -67,7 +69,7 @@ Per la tempura al sifone
 
 200g acqua frizzante
 
-100g farina riso 
+100g farina riso
 
 100g farina 00
 
@@ -75,6 +77,6 @@ Pane panko
 
 ### Procedimento
 
-Tagliare le verdure a julienne e saltarle in padella. Immergere l'alga nell'acqua fredda e lasciare in infusione per 30 minuti. Unire gli altri ingredienti, portare quasi a bollore, poi lasciare raffreddare, filtrare ed aggiungere le verdure precedentemente saltate. Cuocere le patate con la buccia, dopo averle ben lavate, sottosale in forno per 1 ora circa a seconda della grandezza a 180°. Una volta cotte, sbucciarle, frullarle e preparare una crema da inserire in un sac a poche. Cuocere il sedano, precedentemente pulito, in acqua bollente salata per 10 minuti e raffreddare in acqua e ghiaccio 
+Tagliare le verdure a julienne e saltarle in padella. Immergere l'alga nell'acqua fredda e lasciare in infusione per 30 minuti. Unire gli altri ingredienti, portare quasi a bollore, poi lasciare raffreddare, filtrare ed aggiungere le verdure precedentemente saltate. Cuocere le patate con la buccia, dopo averle ben lavate, sottosale in forno per 1 ora circa a seconda della grandezza a 180°. Una volta cotte, sbucciarle, frullarle e preparare una crema da inserire in un sac a poche. Cuocere il sedano, precedentemente pulito, in acqua bollente salata per 10 minuti e raffreddare in acqua e ghiaccio
 
 Farcire il sedano con la crema di patate stringendo bene con le mani e legandolo poi con uno spago da cucina. Far riposare in frigo in modo da far assestare il ripieno. Sbollentare le foglie di sedano in acqua salata per un minuto e raffreddare in acqua e ghiaccio. Scolare e asciugare bene poi frullare con l'olio e filtrare con una garza alimentare. Al momento del servizio tagliare il sedano in 4 parti rimuovendo lo spago, passare nella tempura (inserita precedentemente nel sifone) poi nel panko e friggere a 170° per 4 minuti. Scolare e asciugare. Servire con la marinatura e le verdure alla base ed un giro di olio al sedano
