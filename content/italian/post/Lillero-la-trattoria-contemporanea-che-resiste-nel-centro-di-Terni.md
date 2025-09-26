@@ -1,9 +1,9 @@
 ---
 title: 'Lillero, la trattoria contemporanea che "resiste" nel centro di Terni'
 author: Alessandro Creta
-date: 2025-09-25T00:00:00.000Z
+date: 2025-09-26T00:00:00.000Z
 type: featured
-draft: true
+draft: false
 images:
   - /images/lillero-terni-alessandro-creta.png
 categories:
@@ -28,7 +28,7 @@ Una trattoria old school, ricavata in un palazzo storico con le volte rosse di m
 
 ![](/images/antipasti-lillero-terni-menu.jpg)
 
-Si va più sul **contemporaneo**, invece, per l’idea e la resa di cucina. Una filosofia che pesca sì, dove possibile, dalla tradizione, ma che cerca poi di trasformare ricette del territorio in una chiave moderna, personalizzata e personalizzante, ispirata dai canoni di ciò che deve e vuole essere una bella osteria contemporanea. Si attinge quindi da un menu scritto quotidianamente a mano, con piatti che dipendono dalla disponibilità giornaliera delle materie prime con una filosofia rivolta verso il minimo spreco possibile (non si butta via niente, proprio come del maiale), e si va da ricette più classiche come le ciriole alla ternana o il coniglio della valnerina, passando per preparazioni che dalla tradizione si ispirano per andare verso nuove rotte. Un esempio è la lingua di manzo alla piedilucana, oppure un’ottimo pan brioche di trota, maionese e cavolo cappuccio, arrivando a una **faraona alla leccarda** realizzata seguendo tecniche di cottura più moderne ed ottimizzate, in grado di esaltare il sapore del piatto.
+Si va più sul **contemporaneo**, invece, per l’idea e la resa di cucina. Una filosofia che pesca sì, dove possibile, dalla tradizione, ma che cerca poi di trasformare ricette del territorio in una chiave moderna, personalizzata e personalizzante, ispirata dai canoni di ciò che deve e vuole essere una bella osteria contemporanea. Si attinge quindi da un menu scritto quotidianamente a mano, con piatti che dipendono dalla disponibilità giornaliera delle materie prime con una filosofia rivolta verso il minimo spreco possibile (non si butta via niente, proprio come del maiale), e si va da ricette più classiche come le ciriole alla ternana o il coniglio della valnerina, passando per preparazioni che dalla tradizione si ispirano per andare verso nuove rotte. Un esempio è la lingua di manzo alla piedilucana, condita con maionese, chutney di albicocche, frutta di stagione, olio evo moraiolo, pepe bianco e sale maldon. Oppure un’ottimo pan brioche di trota, maionese e cavolo cappuccio, arrivando a una **faraona alla leccarda** realizzata seguendo tecniche di cottura più moderne ed ottimizzate, in grado di esaltare il sapore del piatto.
 
 ![](/images/faraona-leccarda-lillero-alessandro-creta-terni.jpg)
 
