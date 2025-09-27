@@ -4,7 +4,7 @@ title: >-
   Alma Errante a Trevi
 date: 2025-09-27T00:00:00.000Z
 type: regular
-draft: true
+draft: false
 images:
   - /images/ricetta-alma-errante-trevi.jpg
 categories:
@@ -15,17 +15,19 @@ tags:
   - ricetta
 ---
 
-Il **nambanzuké** è un piatto tipico della cucina giapponese a base di pesce che, dopo essere infarinato, viene fritto fino a doratura e servito insieme a delle verdure tagliate julienne e ad una marinatura agrodolce a base di dashi, soia, aceto di riso, mirin e saké. Da Alma Errante (Trevi) lo chef propone la sua versione del piatto dove al posto del pesce viene utilizzato il sedano nero di Trevi, una varietà locale Presidio Slow Food coltivata soltanto in questa zona, disponibile indicativamente durante il mese di ottobre. Verdura caratterizzata da un colore delle coste più scuro rispetto al sedano classico, una maggiore lunghezza e dall'assenza di filamenti oltre che da un sapore molto più intenso.
+Il **nambanzuké** è un piatto tipico della cucina **giapponese** a base di pesce che, dopo essere infarinato, viene fritto fino a doratura e servito insieme a delle verdure tagliate julienne e ad una marinatura agrodolce a base di dashi, soia, aceto di riso, mirin e saké. Da **Alma Errante** (Trevi) lo chef propone la sua versione del piatto dove al posto del pesce viene utilizzato il sedano nero di Trevi, una varietà locale Presidio Slow Food coltivata soltanto in questa zona, disponibile indicativamente durante il mese di ottobre. Verdura caratterizzata da un colore delle coste più scuro rispetto al sedano classico, una maggiore lunghezza e dall'assenza di filamenti oltre che da un sapore molto più intenso.
 
-Ricetta classica e tipica del territorio è il sedano ripieno e lo chef, da sua filosofia, ha mixare le due culture. Così è nato il "Sedano nero di Trevi nambanzuké", tra Trevi e il Giappone.
+Ricetta classica e tipica del territorio è il **sedano ripieno** e lo chef, da sua filosofia, ha mixare le due culture. Così è nato il "*Sedano nero di Trevi nambanzuké*", un viaggio di gusto tra Trevi e il Giappone.
 
-.Sedano ripieno di patata, fritto con panatura al panko, e servito su una marinatura agrodolce.
+![](</images/alma errante trevi.JPG>)
+
+Sedano ripieno di patata, fritto con panatura al panko, e servito su una marinatura agrodolce.
 
 Ricetta per 4 persone
 
 ### Ingredienti
 
-Per il sedano ripieno
+***Per il sedano ripieno***
 
 1 sedano nero
 
@@ -65,7 +67,7 @@ Per la marinatura
 
 10g succo limone
 
-Per la tempura al sifone
+***Per la tempura al sifone***
 
 200g acqua frizzante
 
