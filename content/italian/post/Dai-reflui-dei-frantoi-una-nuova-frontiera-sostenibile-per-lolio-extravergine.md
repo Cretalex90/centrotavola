@@ -17,7 +17,7 @@ tags:
   - olio
 ---
 
-In **Umbria** prende vita un progetto innovativo che trasforma uno scarto critico dell’industria olearia in una risorsa di grande valore. Si chiama “**Made in Umbria**” ed è l’iniziativa che apre la strada a una filiera dell’olio extravergine d’oliva sempre più sostenibile, capace di coniugare tecnologia, ricerca e tutela ambientale.
+In **Umbria** prende vita un progetto innovativo che trasforma uno scarto dell’industria olearia in una risorsa di grande valore. Si chiama “**Made in Umbria**” ed è l’iniziativa che apre la strada a una filiera dell’olio extravergine d’oliva sempre più sostenibile, capace di coniugare tecnologia, ricerca e tutela ambientale.
 
 Il progetto è stato presentato ufficialmente a Perugia nella Sala Fiume di Palazzo Donini, alla presenza dell’assessore regionale Simona Meloni, e nasce dalla collaborazione tra **Centumbrie**, **Sterling S.p.A.** e il Dipartimento di **Scienze Agrarie, Alimentari e Ambientali** dell’Università di Perugia. Il progetto, sostenuto dalla Regione Umbria, è un esempio virtuoso di come ricerca scientifica, imprese e istituzioni possano lavorare insieme per trasformare una criticità in un’opportunità economica e di sviluppo.
 
