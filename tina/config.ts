@@ -250,6 +250,50 @@ export default defineConfig({
           },
           {
             type: "object",
+            name: "home_top_banner",
+            label: "Home Top Banner (sotto slider)",
+            fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Home Top Banner",
+              },
+              {
+                type: "image",
+                name: "image",
+                label: "Banner Image",
+              },
+              {
+                type: "string",
+                name: "link",
+                label: "Banner Link",
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "sidebar_banner",
+            label: "Sidebar Banner (sotto ultimi articoli)",
+            fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Sidebar Banner",
+              },
+              {
+                type: "image",
+                name: "image",
+                label: "Banner Image",
+              },
+              {
+                type: "string",
+                name: "link",
+                label: "Banner Link",
+              },
+            ],
+          },
+          {
+            type: "object",
             name: "metadata",
             label: "SEO Metadata",
             fields: [

@@ -20,4 +20,22 @@
       opacity: 0.95;
     }
   }
+}
+
+// Home Top Banner Styles
+.home-top-banner {
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0.375rem;
+  }
+
+  a {
+    display: block;
+    
+    &:hover {
+      opacity: 0.95;
+    }
+  }
 } 

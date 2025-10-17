@@ -1,0 +1,10 @@
+{{ "<!-- Sidebar Banner -->" | safeHTML }}
+{{ with site.Params.sidebar_banner }}
+  {{ if .enable }}
+    <div class="promotion">
+      <a href="{{ .link | safeURL }}" {{ if not (strings.HasPrefix .link "/") }}target="_blank" rel="noopener"{{ end }}>
+        {{ partial "image.html" (dict "Src" .image "Alt" "sidebar-banner" "Class" `w-100`) }}
+      </a>
+    </div>
+  {{ end }}
+{{ end }}

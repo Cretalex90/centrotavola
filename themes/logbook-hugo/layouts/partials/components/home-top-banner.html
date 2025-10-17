@@ -1,0 +1,13 @@
+{{ with site.Params.home_top_banner }}
+  {{ if .enable }}
+    <section class="section-sm pt-4 pb-0">
+      <div class="container">
+        <div class="home-top-banner">
+          <a href="{{ .link | safeURL }}" {{ if not (strings.HasPrefix .link "/") }}target="_blank" rel="noopener"{{ end }}>
+            {{ partial "image.html" (dict "Src" .image "Alt" "home-top-banner" "Class" "w-100 rounded") }}
+          </a>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
