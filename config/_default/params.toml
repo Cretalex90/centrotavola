@@ -112,9 +112,9 @@ image = "/images/lolla_banner_400x400_centrotavola_agosto_2025_rev_2.png"
 link = "https://www.instagram.com/lollagelato/"
 
 [sidebar_banner]
-enable = false
-image = "/images/Marco Aquilani  Fotografo Food and Beverage 2.png"
-link = "https://www.officinavisiva.it"
+enable = true
+image = "/images/2025/01/lolla_banner_400x400_centrotavola_agosto_2025_rev_2.png"
+link = "https://www.instagram.com/lollagelato/"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
