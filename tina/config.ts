@@ -19,6 +19,11 @@ export default defineConfig({
     outputFolder: "admin",
     publicFolder: "static",
   },
+  
+  // Enable local backend for development
+  ...(process.env.NODE_ENV === "development" && {
+    apiURL: "http://localhost:4001/graphql",
+  }),
   media: {
     tina: {
       mediaRoot: "images",
