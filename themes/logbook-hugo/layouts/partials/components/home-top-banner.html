@@ -1,5 +1,6 @@
 {{ with site.Params.home_top_banner }}
   {{ if .enable }}
+    <!-- DEBUG: Home top banner is enabled -->
     <section class="section-sm pt-4 pb-0">
       <div class="container">
         <div class="home-top-banner">
@@ -9,5 +10,9 @@
         </div>
       </div>
     </section>
+  {{ else }}
+    <!-- DEBUG: Home top banner is disabled -->
   {{ end }}
+{{ else }}
+  <!-- DEBUG: home_top_banner config not found -->
 {{ end }}
