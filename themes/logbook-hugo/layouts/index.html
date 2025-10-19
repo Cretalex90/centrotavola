@@ -3,6 +3,9 @@
     {{ partial "featured-post.html" . }}
   {{ end }}
 
+  <!-- Home Top Banner - positioned between slider and posts -->
+  {{ partial "components/home-top-banner.html" . }}
+
   {{ .Scratch.Set "where" site.RegularPages }}
   {{ partial "default.html" . }}
 
