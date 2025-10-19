@@ -30,10 +30,7 @@
     {{ partial "essentials/header.html" . }}
     {{ partial "components/top-promotion.html" . }}
 
-    <!-- Home banner test - should appear on ALL pages -->
-    {{ if .IsHome }}
-      {{ partial "components/home-banners.html" . }}
-    {{ end }}
+
 
     <main>
       {{ block "main" . }}{{ end }}

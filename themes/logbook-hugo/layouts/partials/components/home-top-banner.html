@@ -1,26 +1,13 @@
 {{ with site.Params.home_top_banner }}
   {{ if .enable }}
-    <!-- DEBUG: Home top banner is enabled -->
-    <section class="section-sm pt-4 pb-0" style="background-color: #f0f0f0; border: 2px solid red; padding: 20px;">
+    <section class="section-sm pt-4 pb-0">
       <div class="container">
         <div class="home-top-banner">
-          <p style="color: red; font-weight: bold;">DEBUG: Banner dovrebbe essere qui!</p>
-          <p>Config: enable={{ .enable }}, image={{ .image }}, link={{ .link }}</p>
           <a href="{{ .link | safeURL }}" {{ if not (strings.HasPrefix .link "/") }}target="_blank" rel="noopener"{{ end }}>
-            <img src="{{ .image }}" alt="home-top-banner" class="w-100 rounded" style="max-width: 400px; border: 1px solid blue;">
+            <img src="{{ .image }}" alt="home-top-banner" class="w-100 rounded">
           </a>
         </div>
       </div>
     </section>
-  {{ else }}
-    <!-- DEBUG: Home top banner is disabled -->
-    <div style="background-color: yellow; padding: 10px; border: 2px solid orange;">
-      <p>DEBUG: Home top banner è DISABILITATO</p>
-    </div>
   {{ end }}
-{{ else }}
-  <!-- DEBUG: home_top_banner config not found -->
-  <div style="background-color: red; color: white; padding: 10px;">
-    <p>DEBUG: Configurazione home_top_banner NON TROVATA!</p>
-  </div>
 {{ end }}
