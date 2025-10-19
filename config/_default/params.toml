@@ -107,9 +107,9 @@ image = "/images/Marco Aquilani  Fotografo Food and Beverage 2.png"
 link = "https://www.officinavisiva.it"
 
 [home_top_banner]
-enable = false
-image = "/images/Marco Aquilani  Fotografo Food and Beverage 2.png"
-link = "https://www.officinavisiva.it/"
+enable = true
+image = "/images/origine-def-logo.jpeg"
+link = "https://ristoranteorigine.it"
 
 [sidebar_banner]
 enable = true
