@@ -113,8 +113,8 @@ link = "https://www.officinavisiva.it/"
 
 [sidebar_banner]
 enable = true
-image = "/images/2025/01/lolla_banner_400x400_centrotavola_agosto_2025_rev_2.png"
-link = "https://www.instagram.com/lollagelato/"
+image = "/images/da claudio porano side.jpg"
+link = "https://www.facebook.com/TrattoriaPizzeriadaClaudio"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
