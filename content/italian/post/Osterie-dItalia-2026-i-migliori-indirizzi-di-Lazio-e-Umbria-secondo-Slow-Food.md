@@ -15,11 +15,11 @@ tags:
   - slow food
 ---
 
-C’è un’Italia che continua a raccontarsi attraverso le sue tavole più vere: quelle dove si cucina con le mani e con il cuore, dove il tempo segue il ritmo delle stagioni e dei campi, e il vino si versa per stare insieme. È l’Italia delle osterie, protagoniste della nuova Guida Osterie d’Italia 2026 di Slow Food, che ancora una volta premia la cucina radicata nei territori, i prodotti locali e la cultura dell’accoglienza. La nuova edizione della guida conferma un messaggio chiaro: la vera cucina italiana è fatta di territorio, stagionalità e persone. Dalle colline umbre ai vicoli di Roma, fino ai borghi del viterbese e ai sapori ciociari, ogni osteria è un invito a rallentare, sedersi a tavola e riscoprire il piacere dell’autenticità.
+C’è un’Italia che continua a raccontarsi attraverso le sue tavole più vere: quelle dove si cucina con le mani e con il cuore, dove il tempo segue il ritmo delle stagioni e dei campi, e il vino si versa per stare insieme. È l’**Italia delle osterie**, protagoniste della nuova **Guida Osterie d’Italia 2026 di Slow Food,** che ancora una volta premia la cucina radicata nei territori, i prodotti locali e la cultura dell’accoglienza. La nuova edizione della guida conferma un messaggio chiaro: la vera cucina italiana è fatta di territorio, stagionalità e persone. Dalle colline umbre ai vicoli di Roma, fino ai borghi del viterbese e ai sapori ciociari, ogni osteria è un invito a rallentare, sedersi a tavola e riscoprire il piacere dell’autenticità.
 
-«L’edizione della guida Osterie d’Italia 2026 ci prende per mano e ci porta nei meandri dell’Italia più autentica, più vera, capace di essere al di sopra di ogni divisione o diversità» ha detto Carlo Bogliotti, amministratore delegato di Slow Food Editore e responsabile editoriale della guida, aprendo la presentazione alle OGR di Torino. Nel suo intervento, Carlo Petrini, fondatore di Slow Food esordisce: «È un piacere essere davanti a quest’assemblea che più di ogni altra rappresenta un motivo per cui se la cucina italiana diventerà patrimonio dell’umanità il merito principale è vostro: il patrimonio che voi portate avanti con i vostri prodotti e le ricette testimonia che la nostra cucina ha delle radici profonde e che siete riusciti a creare un forte legame con il territorio esaltandone la biodiversità… Oggi, però, non si può parlare di biodiversità se non rispettiamo le diversità culturali. Sono le diversità la nostra ricchezza».
+«L’edizione della guida Osterie d’Italia 2026 ci prende per mano e ci porta nei meandri dell’Italia più autentica, più vera, capace di essere al di sopra di ogni divisione o diversità» ha detto Carlo Bogliotti, amministratore delegato di Slow Food Editore e responsabile editoriale della guida, aprendo la presentazione alle OGR di Torino. Nel suo intervento, **Carlo Petrini**, fondatore di Slow Food esordisce: «È un piacere essere davanti a quest’assemblea che più di ogni altra rappresenta un motivo per cui se la cucina italiana diventerà patrimonio dell’umanità il merito principale è vostro: il patrimonio che voi portate avanti con i vostri prodotti e le ricette testimonia che la nostra cucina ha delle radici profonde e che siete riusciti a creare un forte legame con il territorio esaltandone la biodiversità… Oggi, però, non si può parlare di biodiversità se non rispettiamo le diversità culturali. Sono le diversità la nostra ricchezza».
 
-Tra i tanti indirizzi segnalati quest’anno, Umbria e Lazio brillano per la capacità di coniugare tradizione e identità, mantenendo viva l’anima contadina e l’autenticità dei sapori. Ecco gli indirizzi da non perdere, regione per regione:
+Tra i tanti indirizzi segnalati quest’anno, Umbria e Lazio brillano per la capacità di coniugare tradizione e identità, mantenendo viva l’anima contadina e l’autenticità dei sapori. Ecco gli indirizzi da non perdere, le cosiddette **Chiocciole **(il massimo riconoscimento della guida Slow Food), delle due regioni:
 
 ***
 
@@ -59,7 +59,6 @@ Tra i tanti indirizzi segnalati quest’anno, Umbria e Lazio brillano per la cap
 * Trecca – Roma
 * Buccia – Sabaudia (LT)
 * Li Somari Trattoria Fuori Porta – Tivoli (RM)
-* Il Casaletto – Viterbo\
+* Il Casaletto – Viterbo\\
 
-
-Il Premio Novità dell’anno va alla Locanda dei pescatori del Trasimeno di Magione (Pg) per essere «una realtà di resistenza, che incarna storie di vita e di lavoro legate alle tradizioni della piccola pesca e alle semplici ricette a essa collegate.
+Il *Premio Novità dell’anno* va alla Locanda dei pescatori del Trasimeno di Magione (Pg) per essere «una realtà di resistenza, che incarna storie di vita e di lavoro legate alle tradizioni della piccola pesca e alle semplici ricette a essa collegate.
