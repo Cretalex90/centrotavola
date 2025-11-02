@@ -27,7 +27,7 @@ Siamo all’**Osteria dello Sportello** (dalla via da cui prende il nome), local
 
 ### Enzo Cerroni nuovo chef dell'Osteria dello Sportello
 
-Da poche settimane [la cucina è stata affidata alla mano di **Enzo Cerroni**](https://centrotavola.eu/post/enzo-cerroni-nuovo-chef-dellosteria-dello-sportello-ad-arrone-tr/), giovane cuoco dalla mano sicura e con esperienza in zona tra locali di Terni e Poggio Bustone (suo paese d’origine), che ora ha sposato il progetto dell’Osteria dell’Orologio. Un menu ancora in fase di perfezionamento e definizione quello protagonista oggi al ristorante. L’arrivo dello chef, dopotutto, è recentissimo e ci vuole tempo per poter instradare il tutto nella giusta via. Le basi però ci sono, c’è identità di vedute con la proprietà, e c’è la volontà di migliorarsi sempre e comunque. Step by step, senza forzare troppo sia la mano sia i tempi.
+Da poche settimane [la cucina è stata affidata alla mano di **Enzo Cerroni**](https://centrotavola.eu/post/enzo-cerroni-nuovo-chef-dellosteria-dello-sportello-ad-arrone-tr/), giovane cuoco dalla mano sicura e con esperienza in zona tra locali di Terni e Poggio Bustone (suo paese d’origine), che ora ha sposato il progetto dell’Osteria dello Sportello. Un menu ancora in fase di perfezionamento e definizione quello protagonista oggi al ristorante. L’arrivo dello chef, dopotutto, è recentissimo e ci vuole tempo per poter instradare il tutto nella giusta via. Le basi però ci sono, c’è identità di vedute con la proprietà, e c’è la volontà di migliorarsi sempre e comunque. Step by step, senza forzare troppo sia la mano sia i tempi.
 
 ### Cosa si mangia all'Osteria dello Sportello
 
