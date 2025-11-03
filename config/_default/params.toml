@@ -113,8 +113,8 @@ link = "https://ristoranteorigine.it"
 
 [sidebar_banner]
 enable = true
-image = "/images/da claudio porano side.jpg"
-link = "https://www.facebook.com/TrattoriaPizzeriadaClaudio"
+image = "/images/assoprol.png"
+link = "https://assoprol.it"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
