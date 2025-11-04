@@ -40,7 +40,7 @@ La portata più scenografica della cena è sicuramente la zucca. Questa viene la
 
 Lo chef propone un’altra carne molto particolare, ovvero il **capriolo**. Il controfiletto viene cotto (sapientemente) sul momento e si presenta consistente al taglio e morbidissimo sul palato. Il piatto è decorato con dei bocconcini di mela cotogna cotta con ibiscus e melograno ed una pralina di castagna avvolta nel suo stesso grattugiato fresco. Una riduzione di melograno conferisce al piatto la nota acida. Ed è incredibile come un vino californiano sia la scelta giusta per il capriolo: De Loach Hermitage Reserve 2020 di Zinfandel, un vitigno particolare, molto dolce, che poi si apre con i sentori di spezie e cuoio, è un vino molto autunnale ma al tempo stesso elegante.
 
-![](/images/menu-barbagianni-ristorante-colle-val-d-elsa.jpeg)
+![](/images/barbagianni-ristorante-colle-val-d-elsa.jpeg)
 
 Come pre-dessert possiamo deliziare il nostro palato con una mousse di foglie di acetosa, accompagnata da una brunoise di gambi e del cioccolato bianco, un contrasto acidulo e dolce che azzera il palato. Ed è a questo punto della serata che diventa ovvio quanta complessità, quanta cura e quanto studio ci sia dietro alla struttura del menù. Assaggiamo una tisana alcolica, a base di Gin Sabatini e un infuso di lavanda di Bolgheri, melissa, camomilla e achillea, servita con una punta di miele alla lavanda e del ghiaccio.
 
