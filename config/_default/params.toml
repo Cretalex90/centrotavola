@@ -98,8 +98,8 @@ email = "centrotavolamail@gmail.com"
 
 [promotion]
 enable = true
-image = "/images/Marco Aquilani Fotografo Food and Beverage.png"
-link = "https://www.officinavisiva.it"
+image = "/images/banner.png"
+link = "https://www.facebook.com/ristorantenascostoposto/?locale=it_IT"
 
 [top_promotion]
 enable = true
