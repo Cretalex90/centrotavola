@@ -63,6 +63,16 @@
           {{ end }}
         </div>
         {{end}}
+        
+        <!-- Home Top Banner in post -->
+        {{if not (or (eq $sidebar `left`) (eq $sidebar `right`))}}
+        <div class="col-12 mb-3">
+        {{end}}
+          {{ partial "components/home-top-banner.html" . }}
+        {{if not (or (eq $sidebar `left`) (eq $sidebar `right`))}}
+        </div>
+        {{end}}
+        
         <div class="{{if not (or (eq $sidebar `left`) (eq $sidebar `right`))}}col-lg-10 mx-auto{{end}}">
           <div class="content">{{.Content}}</div>
         </div>

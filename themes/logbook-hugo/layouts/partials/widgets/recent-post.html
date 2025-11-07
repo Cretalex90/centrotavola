@@ -3,7 +3,7 @@
   <h5 class="widget-title"><span>{{ i18n "latest_article" }}</span></h5>
   {{ "<!-- post-item -->" | safeHTML }}
   <ul class="list-unstyled widget-list mb-0">
-    {{ range first 3 ( where site.RegularPages "Section" "in" site.Params.mainSections ) }}
+    {{ range first 3 ( where site.RegularPages ".Params.categories" "intersect" (slice "News") ) }}
       <li class="d-flex widget-post align-items-start">
         <a href="{{ .Permalink }}">
           {{ with .Params.images }}
