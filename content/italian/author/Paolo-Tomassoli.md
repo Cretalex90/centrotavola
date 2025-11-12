@@ -1,5 +1,6 @@
 ---
 title: Paolo Tomassoli
+image: /images/sagoma.jpg
 email: paolotomassoli@gmail.com
 ---
 
