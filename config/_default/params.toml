@@ -103,8 +103,8 @@ link = "https://www.facebook.com/ristorantenascostoposto/?locale=it_IT"
 
 [top_promotion]
 enable = true
-image = "/images/parco querce.jpg"
-link = "https://new.agriturismoparcodellequerce.it"
+image = "/images/borgo-cipressi-todi-ristorante-camere.jpeg"
+link = "https://borgodeicipressilaurora.it"
 
 [home_top_banner]
 enable = true
