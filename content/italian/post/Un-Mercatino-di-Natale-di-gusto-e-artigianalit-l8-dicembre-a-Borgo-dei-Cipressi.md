@@ -15,13 +15,13 @@ tags:
   - todi
 ---
 
-L'8 dicembre, l’incantevole Agriturismo Borgo dei Cipressi di Todi ospiterà una giornata speciale in stile mercatino natalizio. Una grande festa a ingresso libero, dove artigianato, prodotti gastronomici di qualità e produttori locali si incontrano in un’atmosfera autentica e raccolta. Non solo il mercatino, la giornata sarà occasione anche per godersi una cioccolata calda o un vin brulè, ma anche per pranzare nel ristorante L’Aurora della struttura. 
+L'8 dicembre, l’incantevole **Agriturismo Borgo dei Cipressi** di Todi ospiterà una giornata speciale in stile mercatino natalizio. Una grande festa a ingresso libero, dove artigianato, prodotti gastronomici di qualità e produttori locali si incontrano in un’atmosfera autentica e raccolta. Non solo il mercatino, la giornata sarà occasione anche per godersi una cioccolata calda o un vin brulè, ma anche per pranzare nel ristorante **L’Aurora** della struttura.
 
 CentroTavola è media partner dell’evento.
 
 ### Il luogo dell’evento: Borgo dei Cipressi
 
-Situato nella verde campagna tuderte, Borgo dei Cipressi è un progetto nato dalla visione di Federica Pasetto e Davide Barone. La coppia ha trasformato un antico casale di famiglia in un agriturismo sostenibile, dotato di un ristorante. L’Aurora propone una cucina stagionale, basata su ingredienti prodotti internamente o da piccoli fornitori locali, con un’attenzione particolare al chilometro zero. Inoltre, l’orto dell’agriturismo è curato con metodi naturali e semenze antiche, riflettendo una filosofia di sostenibilità condivisa da tutti i partecipanti al mercatino. 
+Situato nella verde campagna tuderte, Borgo dei Cipressi è un progetto nato dalla visione di Federica Pasetto e Davide Barone. La coppia ha trasformato un antico casale di famiglia in un agriturismo sostenibile, dotato di un ristorante. L’Aurora propone una cucina stagionale, basata su ingredienti prodotti internamente o da piccoli fornitori locali, con un’attenzione particolare al chilometro zero. Inoltre, l’orto dell’agriturismo è curato con metodi naturali e semenze antiche, riflettendo una filosofia di sostenibilità condivisa da tutti i partecipanti al **mercatino**.
 
 ![](/images/borgo-cipressi-mercatino-natale.jpeg)
 
@@ -39,7 +39,7 @@ Si tratta di un’azienda agricola biologica situata nella Media Valle del Tever
 
 ##### Apincampo
 
-A Marciano (PG), Virginia gestisce un’azienda biologica che unisce apicoltura e agricoltura. Produce miele, legumi, pasta, farine da grani antichi e olio extravergine d’oliva. Il suo laboratorio e punto vendita sono realizzati in bioedilizia, con pareti in paglia pressata, simbolo di un progetto sostenibile e innovativo.
+Apincampo di Virginia Ruspolini è un’azienda agricola biologica di Marsciano (PG) che unisce apicoltura e agricoltura. Produce miele, farine da grani antichi, pasta, legumi e olio extravergine d’oliva. Il punto vendita e il laboratorio, realizzati in bioedilizia con pareti in presse di paglia, raccontano un progetto fondato su sostenibilità, tradizione e innovazione.
 
 ##### Le creazioni di Morena
 
