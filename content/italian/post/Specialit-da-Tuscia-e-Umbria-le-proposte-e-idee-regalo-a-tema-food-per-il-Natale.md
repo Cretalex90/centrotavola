@@ -50,7 +50,7 @@ Ig: agriturismo\_parco\_delle\_querce - Fb: Agriturmo Parco delle Querce. Sito w
 
 ### Mactra (Vitorchiano) il panettone di una delle migliori pizzerie della Tuscia
 
-![](/images/mactra-panettone-classico-viterbo-regalo-natale.png)Foto di iBoludos
+![](/images/mactra-panettone-pechini.png)Foto di iBoludos
 
 Dalla pizzeria **Mactra** di Vitorchiano, il [pizzaiolo Andrea Pechini](https://centrotavola.eu/post/convince-sempre-di-pi-a-vitorchiano-la-pizza-contemporanea-di-mactra/) propone per il Natale una linea di panettoni artigianali realizzati con grande tecnica, cura e un’attenzione maniacale alla qualità delle materie prime. L’impasto nasce esclusivamente da lievito madre e segue una lavorazione lunga, di circa 72 ore, che comprende la preparazione e i rinfreschi del lievito, la lievitazione e il tipico riposo capovolto del panettone, secondo il metodo Morandin, appreso direttamente dal maestro lievitista Rolando Morandin. Il risultato è un panettone soffice, profumato e con una struttura finissima, arricchito da ingredienti selezionati come il burro d'alpeggio Fiandino 100% panna piemontese maturata 72 ore e i canditi di alta qualità Agrimontana, senza conservanti. I gusti disponibili spaziano dal classico con arancia, cedro e uvetta alle versioni più golose al cioccolato fondente, cioccolato e marroni, cioccolato bianco con frutta esotica, albicocca semicandita e crema al pistacchio. A parte le versioni classica e al cioccolato, gli altri gusti sono disponibili in quantità limitata. I panettoni possono essere ritirati direttamente in pizzeria ed è consigliata la prenotazione.
 
@@ -67,7 +67,7 @@ Per info: [stefanonifratelli@libero.it](mailto:stefanonifratelli@libero.it) - Te
 
 ### Ristorante Sud (Terni) e i panettoni di Casa Dragotto
 
-![](/images/sud-ristorante-panettoni-regalo-natale.jpg)
+![](/images/sud-ristorante-terni-dragotto-panettoni-natale.png)
 
 Il ristorante **Sud** di Terni, guidato dal patron e pastry chef Michele Dragotto, porta anche a Natale il carattere autentico e generoso della tradizione siciliana. Per le feste, Dragotto firma una linea di panettoni artigianali realizzati con ingredienti selezionati e lavorazioni accurate, che esprimono tutta la cura e la passione che contraddistinguono la sua cucina. Le varianti sono quattro e pensate per accontentare ogni palato: dal classico, elegante e profumato, a quello al pistacchio ricco e cremoso, fino alle versioni glassate – una al cioccolato fondente dal gusto intenso e l’altra al cioccolato al latte con frutti di bosco, più dolce e aromatica. Completano l’esperienza le confezioni in latta e cartone, raffinate e scenografiche, decorate con motivi e colori che richiamano l’arte siciliana, un omaggio alle radici del suo creatore. Un’idea regalo perfetta per chi a Natale vuole portare in tavola qualità, identità e un tocco di Sud.
 
