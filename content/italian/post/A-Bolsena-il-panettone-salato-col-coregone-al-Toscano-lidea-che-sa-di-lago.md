@@ -19,13 +19,15 @@ Un panettone che profuma di lago, di artigianalità e di creatività: è questa 
 
 ### Dal lago all’impasto: l’idea che diventa ricetta
 
+![](/images/enrico-cecchini-toscano-bolsena-panettone.jpeg)
+
 Come nasce una creazione così particolare? Da un’intuizione semplice, quasi istintiva. Racconta lo chef: “Pensando al lago e cercando una nuova idea per questo Natale mi sono chiesto: perché non fare un panettone salato con il nostro pesce? Poi, valutando che il coregone affumicato di Lago Vivo ha una buona disidratazione e un basso contenuto di umidità, ho capito che poteva funzionare davvero”. La scelta del coregone non è quindi solo simbolica, ma anche tecnica: la sua consistenza asciutta permette di inserirlo direttamente nell’impasto senza alterarne la struttura.
 
 ### Ingredienti del territorio per il panettone al coregone
 
 Il panettone nasce da una lavorazione attenta e da ingredienti selezionati con cura. La farina del Molino Bongiovanni garantisce una base solida per l’impasto, mentre il miele millefiori dell’Azienda Agricola Borioni di Bagnoregio dona una sfumatura aromatica che riequilibra la parte salata. Il vero protagonista è il coregone affumicato di Lago Vivo, inserito a pezzi direttamente nell’impasto. A completare l’armonia del gusto ci sono i pomodori secchi, a regalare un tocco mediterraneo, insieme al lievito madre, alle uova, allo zucchero, al sale e al burro, che conferiscono struttura, morbidezza e fragranza. L’abbinamento consigliato? Un vino del territorio, naturalmente, un bianco che non stanca come il Procanico.
 
-Per info, contattare il ristorante Il Toscano di Bolsena: 0761-799054, iltoscano1953\@libero.it.
+Per info, contattare il ristorante Il Toscano di Bolsena: 0761-799054, [iltoscano1953@libero.it](mailto:iltoscano1953@libero.it).
 
 #### Leggi anche:
 
