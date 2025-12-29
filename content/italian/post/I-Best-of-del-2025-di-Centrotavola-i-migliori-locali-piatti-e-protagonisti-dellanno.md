@@ -4,7 +4,7 @@ title: >-
   dell’anno
 author: Alessandro Creta
 date: 2025-12-29T00:00:00.000Z
-type: regular
+type: featured
 images:
   - /images/centrotavola-centro-tavola-2025-ristoranti-alessandro-creta.png
 categories:
