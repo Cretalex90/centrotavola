@@ -113,8 +113,8 @@ link = "https://www.molinosulclitunno.com/trofeo-della-pizza/"
 
 [sidebar_banner]
 enable = true
-image = "/images/assoprol.png"
-link = "https://assoprol.it"
+image = "/images/lolla_banner_400x400_centrotavola_agosto_2025_rev_2.png"
+link = "https://www.lollagelato.it/?v=4179e184e216"
 
 [metadata]
 keywords = [ "Boilerplate", "Hugo", "Themefisher", "GetHugoThemes" ]
