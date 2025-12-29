@@ -1,6 +1,6 @@
 ---
 title: >-
-  2025: i "Best of" di Centrotavola: i migliori locali, piatti e protagonisti
+  2025: i "Best of" di CentroTavola: i migliori locali, piatti e protagonisti
   dell’anno
 author: Alessandro Creta
 date: 2025-12-29T00:00:00.000Z
