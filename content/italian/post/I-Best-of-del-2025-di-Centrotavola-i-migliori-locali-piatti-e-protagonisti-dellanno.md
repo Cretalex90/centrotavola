@@ -1,6 +1,6 @@
 ---
 title: >-
-  I "Best of" del 2025 di Centrotavola: i migliori locali, piatti e protagonisti
+  2025: i "Best of" di Centrotavola: i migliori locali, piatti e protagonisti
   dell’anno
 author: Alessandro Creta
 date: 2025-12-29T00:00:00.000Z
@@ -8,7 +8,7 @@ type: featured
 images:
   - /images/centrotavola-centro-tavola-2025-ristoranti-alessandro-creta.png
 categories:
-  - News
+  - Ristoranti
 tags:
   - centro italia
   - miglior piatto
@@ -16,15 +16,13 @@ tags:
   - '2025'
 ---
 
-Volge al termine il 2025 e, con lui, anche il primo anno di “attività” di CentroTavola. Un sito nato lo scorso febbraio che sin da subito si è posto l’obiettivo di raccontare tutto il bello, e ovviamente il buono, dell’enogastronomia del Centro Italia, con particolare focus su Lazio e Umbria. Tanti ristoranti, tantissimi piatti ma anche tante persone, le storie che appartengono loro e che cercano di raccontare attraverso le proprie attività. 
-
-E allora per questa chiusura d’anno scopriamo i ristoranti, i piatti, le location che più mi hanno colpito in questo 2025. Ripercorriamo le migliori tappe di quest'anno:
+Volge al termine il **2025** e, con lui, anche il primo anno di “attività” di **CentroTavola**. Un sito nato lo scorso febbraio che sin da subito si è posto l’obiettivo di raccontare tutto il bello, e ovviamente il buono, dell’enogastronomia del Centro Italia, con particolare focus su Lazio e Umbria. Tanti ristoranti, tantissimi piatti ma anche tante persone, le storie che appartengono loro e che cercano di raccontare attraverso le proprie attività. E allora per questa chiusura d’anno scopriamo i ristoranti, i piatti, le location che più mi hanno colpito in questo 2025. Ripercorriamo le migliori tappe di quest'anno:
 
 ### Miglior Stellato: Orma (Roma)
 
 ![](/images/orma_roma_gelato_dessert_roy_caceres_alessandro_creta.jpg.webp)
 
-Orma, a Roma il ristorante firmato Roy Caceres è un qualcosa completamente sui generis, originale e accattivante, perfetto mix delle origini e delle esperienze estere dello chef. Il tutto in un ristorante dal notevole fascino architettonico. 
+Orma, a Roma il ristorante firmato Roy Caceres è un qualcosa completamente sui generis, originale e accattivante, perfetto mix delle origini e delle esperienze estere dello chef. Il tutto in un ristorante dal notevole fascino architettonico.
 
 [Leggi qui l'approfondimento su Orma Roma](https://centrotavola.eu/post/a-roma-lascia-il-segno-lorma-di-roy-caceres-nella-capitale-un-viaggio-tra-i-sapori-del-mondo/)
 
@@ -56,7 +54,7 @@ A Perugia Andrea Pizza Contemporanea è sicuramente la pizzeria che più mi ha c
 
 ![](/images/aurora-borgo-cipressi-agnello-tartufo-todi-alessandro-creta.webp)
 
-Un perfetto mix di cibo, vino, location, atmosfera e persone. Il mio luogo del cuore del 2025 è Borgo dei Cipressi, struttura con bel ristorante (L’Aurora) la cui cucina attinge da un bell’orto adiacente, offrendo piatti ben pensati, realizzati e calibrati seguendo il ritmo delle stagioni. Proprietari sono due ragazzi (e coppia) originari di Roma, Davide Barone e Federica Pasetto. 
+Un perfetto mix di cibo, vino, location, atmosfera e persone. Il mio luogo del cuore del 2025 è Borgo dei Cipressi, struttura con bel ristorante (L’Aurora) la cui cucina attinge da un bell’orto adiacente, offrendo piatti ben pensati, realizzati e calibrati seguendo il ritmo delle stagioni. Proprietari sono due ragazzi (e coppia) originari di Roma, Davide Barone e Federica Pasetto.
 
 [Leggi qui l'approfondimento su Borgo dei Cipressi](https://centrotavola.eu/post/2024-11-25-ristorante-laurora-nel-verde-di-todi-il-progetto-di-due-ragazzi-di-roma/)
 
@@ -64,7 +62,7 @@ Un perfetto mix di cibo, vino, location, atmosfera e persone. Il mio luogo del c
 
 ![](/images/coniglio-leprino-nepi-ricetta-nuovo-vino-cucina-lezzerini.png)
 
-Simone Lezzerini di N’Uovo Vino e Cucina, a Sutri, uno chef giovane ma con le idee già chiare. Mano ferma e tecnica, tanto talento. Dopotutto il ristorante, nell’Antico Borgo di Sutri, è segnalato da un paio di anni in Guida Michelin, e in zona credo non abbia ancora raccolto quanto meriterebbe, 
+Simone Lezzerini di N’Uovo Vino e Cucina, a Sutri, uno chef giovane ma con le idee già chiare. Mano ferma e tecnica, tanto talento. Dopotutto il ristorante, nell’Antico Borgo di Sutri, è segnalato da un paio di anni in Guida Michelin, e in zona credo non abbia ancora raccolto quanto meriterebbe,
 
 [Leggi qui l'approfondimento su Simone Lezzerini](https://centrotavola.eu/post/alessio-lezzerini-il-giovane-chef-classe-96-di-nuovo-vino-e-cucina/)
 
@@ -72,7 +70,7 @@ Simone Lezzerini di N’Uovo Vino e Cucina, a Sutri, uno chef giovane ma con le 
 
 ![](/images/cantuccio-maria-menu-viterbo-alessandro-creta.jpg)
 
-Il Cantuccio di Maria, esattamente ciò che oggi un’osteria dovrebbe essere. Curata il giusto, informale il giusto, resa gustativa dei piatti come primo obiettivo, senza fronzoli o voli pindarici. Perfetto per un pranzo o una cena all’insegna di piatti buoni e di sostanza, con l’esatta dose di cura estetica. 
+Il Cantuccio di Maria, esattamente ciò che oggi un’osteria dovrebbe essere. Curata il giusto, informale il giusto, resa gustativa dei piatti come primo obiettivo, senza fronzoli o voli pindarici. Perfetto per un pranzo o una cena all’insegna di piatti buoni e di sostanza, con l’esatta dose di cura estetica.
 
 [Leggi qui l'approfondimento su Il Cantuccio di Maria](https://centrotavola.eu/post/il-cantuccio-di-maria-nel-centro-di-viterbo-il-bello-e-buono-della-semplicit-ben-fatta/)
 
@@ -80,7 +78,7 @@ Il Cantuccio di Maria, esattamente ciò che oggi un’osteria dovrebbe essere. C
 
 ![](/images/il-vizio-roma-ristorante.png)
 
-Mangiare sushi di altissima qualità, oltre che una buona cucina che mixa elementi nipponici e mediterranei, con una vista panoramica su mezza Roma. Serve altro? Siamo all'ottavo piano del Sina Bernini Bristol Hotel di Roma, in piazza Barberini, e sulla scenografica Terrazza Bernini gustiamo le creazioni del Ristorante Il Vizio, con lo chef Nagano Tetsuo in cucina. 
+Mangiare sushi di altissima qualità, oltre che una buona cucina che mixa elementi nipponici e mediterranei, con una vista panoramica su mezza Roma. Serve altro? Siamo all'ottavo piano del Sina Bernini Bristol Hotel di Roma, in piazza Barberini, e sulla scenografica Terrazza Bernini gustiamo le creazioni del Ristorante Il Vizio, con lo chef Nagano Tetsuo in cucina.
 
 [Leggi qui l'approfondimento su Il Vizio Roma](https://centrotavola.eu/post/il-vizio-unesperienza-culinaria-giapponese-raffinata-con-una-vista-mozzafiato-su-roma/)
 
