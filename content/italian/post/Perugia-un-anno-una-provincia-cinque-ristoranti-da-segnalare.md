@@ -15,7 +15,7 @@ tags:
   - ristoranti
 ---
 
-La provincia di Perugia è una costellazione gastronomica in cui memoria e visione si abbracciano. C’è chi custodisce la tradizione, chi la rilegge in chiave contemporanea e chi porta nel piatto qualcosa di non convenzionale, alla ricerca di un’emozione che non sia soltanto gusto. In questo paesaggio eterogeneo, cinque luoghi hanno segnato il mio 2025: non per ciò che promettono, ma per ciò che hanno saputo restituire: una cucina che si è consacrata. Una tavola dal linguaggio diverso. Un progetto che cresce. Un’esperienza unica. Un luogo che riporta alla terra.
+La provincia di Perugia è una costellazione gastronomica in cui memoria e visione si abbracciano. C’è chi custodisce la tradizione, chi la rilegge in chiave contemporanea e chi porta nel piatto qualcosa di non convenzionale, alla ricerca di un’emozione che non sia soltanto gusto. In questo paesaggio eterogeneo, cinque luoghi hanno segnato il mio 2025. Non per ciò che promettono, ma per ciò che hanno saputo restituire: una cucina che si è consacrata. Una tavola dal linguaggio diverso. Un progetto che cresce. Un’esperienza unica. Un luogo che riporta alla terra.
 
 ### Luce  (Perugia)
 
@@ -50,4 +50,4 @@ Non sono molti i luoghi che parlano al ritmo dell’uomo e delle stagioni. Le Ma
 #### Leggi anche:
 
 * [La Carneria, quando un'idea diventa luogo](https://centrotavola.eu/post/la-carneria-di-andrea-lanti-quando-unidea-diventa-luogo/)
-* [2025: i "Best of" di CentroTavola](https://centrotavola.eu/post/i-best-of-del-2025-di-centrotavola-i-migliori-locali-piatti-e-protagonisti-dellanno/) 
+* [2025: i "Best of" di CentroTavola](https://centrotavola.eu/post/i-best-of-del-2025-di-centrotavola-i-migliori-locali-piatti-e-protagonisti-dellanno/)
