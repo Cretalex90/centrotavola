@@ -108,8 +108,8 @@ link = "https://borgodeicipressilaurora.it"
 
 [home_top_banner]
 enable = true
-image = "/images/MSC - BANNER 4° TROFEO DP_1400X300.jpg"
-link = "https://www.molinosulclitunno.com/trofeo-della-pizza/"
+image = "/images/Pizza Symposium Umbria.jpeg"
+link = "https://www.molinosulclitunno.com/pizza-symposium/"
 
 [sidebar_banner]
 enable = true
