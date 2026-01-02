@@ -130,7 +130,7 @@ link = "https://www.facebook.com/centrotavolafood"
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/cretalex"
+link = "https://www.instagram.com/centrotavolafood/"
 
 [cookies]
 enable = false
