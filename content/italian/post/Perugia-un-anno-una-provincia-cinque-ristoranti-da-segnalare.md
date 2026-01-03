@@ -2,7 +2,7 @@
 title: 'Perugia: un anno, una provincia, cinque ristoranti da segnalare'
 author: Paolo Tomassoli
 date: 2025-12-30T00:00:00.000Z
-type: regular
+type: featured
 images:
   - /images/brufa-olimpia-centrotavola.png
 categories:
