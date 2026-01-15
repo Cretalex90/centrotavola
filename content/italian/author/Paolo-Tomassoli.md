@@ -1,6 +1,6 @@
 ---
 title: Paolo Tomassoli
-image: /images/sagoma.jpg
+image: /images/Paolo-Tomassoli-autore-centrotavola.png
 email: paolotomassoli@gmail.com
 ---
 
