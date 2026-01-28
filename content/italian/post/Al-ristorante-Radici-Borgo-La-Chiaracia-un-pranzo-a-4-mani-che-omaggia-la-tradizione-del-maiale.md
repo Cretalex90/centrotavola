@@ -1,7 +1,5 @@
 ---
-title: >-
-  Al ristorante Radici, Borgo La Chiaracia, un pranzo a 4 mani che omaggia la
-  tradizione del maiale
+title: 'Al ristorante Radici, Borgo La Chiaracia, un pranzo a 4 mani che omaggia la tradizione del maiale'
 date: 2026-01-27T00:00:00.000Z
 type: featured
 images:
@@ -20,7 +18,7 @@ Il pranzo si sviluppa in un percorso degustazione di sette portate, pensato per 
 
 ### In cucina gli chef Collazzo-Sato
 
-A firmare l’esperienza è Gabriel Collazzo, chef padrone di casa e responsabile dell’intera offerta gastronomica di Borgo La Chiaracia. La sua cucina affonda le radici nella tradizione della Tuscia e dell’Umbria, riletta con uno sguardo contemporaneo che mette al centro la materia prima, la stagionalità e l’equilibrio del gusto. Una visione culinaria profonda e identitaria, in cui la memoria contadina dialoga con una solida tecnica e una naturale eleganza espressiva. A firmare l’esperienza è Gabriel Collazzo, chef padrone di casa e responsabile dell’intera offerta gastronomica di Borgo La Chiaracia. La sua cucina affonda le radici nella tradizione della Tuscia e dell’Umbria, riletta con uno sguardo contemporaneo che mette al centro la materia prima, la stagionalità e l’equilibrio del gusto.
+A firmare l’esperienza è Gabriel Collazzo, chef padrone di casa e responsabile dell’intera offerta gastronomica di Borgo La Chiaracia. La sua cucina affonda le radici nella tradizione della Tuscia e dell’Umbria, riletta con uno sguardo contemporaneo che mette al centro la materia prima, la stagionalità e l’equilibrio del gusto. Una visione culinaria profonda e identitaria, in cui la memoria contadina dialoga con una solida tecnica e una naturale eleganza espressiva. 
 
 ![](/images/radici-collazzo-chef.jpg)Gabriel Collazzo, chef di Radici
 
