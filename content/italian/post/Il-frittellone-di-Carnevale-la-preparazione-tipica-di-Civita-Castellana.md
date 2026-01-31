@@ -4,6 +4,13 @@ date: 2026-01-31T00:00:00.000Z
 type: featured
 images:
   - /images/frittellone-pecorino-carnevale-tuscia.png
+categories:
+  - News
+tags:
+  - frittellone
+  - civita castellana
+  - tuscia
+  - carnevale
 ---
 
 A Civita Castellana il Carnevale non è solo una festa ma anche un momento gastronomico identitario. Il protagonista assoluto di questo periodo dell’anno? L’iconico frittellone. Una preparazione tanto semplice quanto sfiziosa, con pochi ingredienti a dare vita a un qualcosa di gustoso adatto a tutti, grandi e piccini.
