@@ -1,5 +1,5 @@
 ---
-title: '“Del maiale non si butta via niente”: tradizione e respiro internazionale a Borgo la Chiaracia'
+title: '“Del porco non si butta via niente”: tradizione e respiro internazionale a Borgo la Chiaracia'
 author: Paolo Tomassoli
 date: 2026-02-07T00:00:00.000Z
 type: regular
@@ -18,7 +18,7 @@ In una terra di mezzo tra Umbria, Lazio e Toscana sorge Borgo La Chiaracia, sosp
 
 ### Quattro mani, una visione comune
 
-Qui, sabato 1° febbraio, per la quinta volta, si è tenuto l’evento dal titolo “Del maiale non si butta via niente”: esempio fedele di una vita agricola che affonda nel retaggio contadino e dialoga alla perfezione con l’anima e la missione della cucina, omaggiando un prodotto locale che diventa filo conduttore di una narrazione capace di unire territorio, memoria e fine dining. A capo della brigata c’è lo chef Gabriel Collazzo. Classe 1999, nato a San Miniato, sorriso e sguardo entusiasta di chi ha messo a fuoco il proprio percorso e la chiave per decifrarlo. Una filosofia che unisce rigore tecnico e sensibilità, senza compiacimenti, ma totalmente devota alla naturalezza della materia prima. Già nominato chef dell’anno under 30 dal Grande Cucina Talent Prize, la sua proposta nasce dalla fusione tra tradizioni rurali, solida tecnica francese e influenze internazionali. Accanto a lui, per questo evento, abbiamo lo chef giapponese Takuya Sato. Nativo di Osaka, in Italia da oltre dieci anni, cresciuto tra alcune delle cucine più d’avanguardia della penisola.
+Qui, sabato 1° febbraio, per la quinta volta, si è tenuto l’evento dal titolo “Del porco non si butta via niente”: esempio fedele di una vita agricola che affonda nel retaggio contadino e dialoga alla perfezione con l’anima e la missione della cucina, omaggiando un prodotto locale che diventa filo conduttore di una narrazione capace di unire territorio, memoria e fine dining. A capo della brigata c’è lo chef Gabriel Collazzo. Classe 1999, nato a San Miniato, sorriso e sguardo entusiasta di chi ha messo a fuoco il proprio percorso e la chiave per decifrarlo. Una filosofia che unisce rigore tecnico e sensibilità, senza compiacimenti, ma totalmente devota alla naturalezza della materia prima. Già nominato chef dell’anno under 30 dal Grande Cucina Talent Prize, la sua proposta nasce dalla fusione tra tradizioni rurali, solida tecnica francese e influenze internazionali. Accanto a lui, per questo evento, abbiamo lo chef giapponese Takuya Sato. Nativo di Osaka, in Italia da oltre dieci anni, cresciuto tra alcune delle cucine più d’avanguardia della penisola.
 
 ![](/images/radici-borgo-chiaracia-pranzo-sato-collazzo.png)
 
@@ -26,7 +26,7 @@ Protagonista del menù è il Porco Cinturello Orvietano: un maiale di Cinta Sene
 
 ### Il viaggio attraverso il Cinturello
 
-Una sala gremita viene accolta da un entrée di benvenuto, accompagnato da una bollicina Cià metodo classico 2024 e pane di produzione propria che si alternerà per tutta la durata dell’evento al pari delle etichette: Frappato Rosato IGP 2024 “Biscaris”, Rà Pinot Nero 2022 “Borgo La Chiaracia”, Rosso 2022 IGT “Marino Colleoni”. I vini della casa nascono dai vigneti coltivati nella proprietà (Chardonnay e Pinot Nero) su terra di origine vulcanica che dona ai calici note minerali caratteristiche, quella sapidità sulfurea e quell’acidità vibrante che raccontano la forza dell’altopiano dell’Alfina.
+Il percorso comincia con un entrée di benvenuto, accompagnato da una bollicina Cià metodo classico 2024 e pane di produzione propria che si alternerà per tutta la durata dell’evento al pari delle etichette: Frappato Rosato IGP 2024 “Biscaris”, Rà Pinot Nero 2022 “Borgo La Chiaracia”, Rosso 2022 IGT “Marino Colleoni”. I vini della casa nascono dai vigneti coltivati nella proprietà (Chardonnay e Pinot Nero) su terra di origine vulcanica che dona ai calici note minerali caratteristiche, quella sapidità sulfurea e quell’acidità vibrante che raccontano la forza dell’altopiano dell’Alfina.
 
 Si comincia con la sorprendente “Torta di Maiale al Cacao” dello chef Sato: un’interpretazione salata della pasticceria. Una frolla impeccabile, la sapidità piena del maiale e le note amare del cacao. Una fetta di crostata che evoca riflessi di selvaggina più che di suino. A seguire lo “Stracotto di Stinco” firmato chef Collazzo, servito con “Sifone di Topinambur e Caffè, Tartufo Nero”. La carne, tenerissima grazie alla lunga cottura, trova un perfetto contrappunto nel sentore nocciolato del topinambur e nelle note tostate del caffè.
 
@@ -44,5 +44,3 @@ Leggi anche:
 
 * [A Borgo La Chiaracia arriva il giovane chef Gabriel Collazzo](https://centrotavola.eu/post/borgo-la-chiaracia-il-giovane-gabriel-collazzo-nuovo-chef-dei-due-ristoranti/)
 * [Ricetta Piccione e cera d'api, di chef Gabriel Collazzo](https://centrotavola.eu/post/ricetta-piccione-cera-dapi-e-fichi-di-gabriel-collazzo-chef-di-radici-presso-borgo-la-chiaracia/)
-
-
