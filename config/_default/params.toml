@@ -108,8 +108,8 @@ link = "https://borgodeicipressilaurora.it"
 
 [home_top_banner]
 enable = true
-image = "/images/Pizza Symposium Umbria.jpeg"
-link = "https://www.molinosulclitunno.com/pizza-symposium/"
+image = "/images/stefanoni-viterbo-azienda-agricola.png"
+link = ""
 
 [sidebar_banner]
 enable = true
