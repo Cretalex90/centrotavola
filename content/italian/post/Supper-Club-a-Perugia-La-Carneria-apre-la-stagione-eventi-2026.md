@@ -1,5 +1,5 @@
 ---
-title: 'Supper Club: a Perugia La Carneria apre la stagione eventi 2026'
+title: 'Supper Club: a Spina (Perugia) La Carneria apre la stagione eventi 2026'
 author: Paolo Tomassoli
 date: 2026-03-05T00:00:00.000Z
 type: regular
@@ -12,7 +12,7 @@ tags:
   - la carneria
 ---
 
-Fuori, atmosfera da vicolo romano. Una piccola piazzetta, botti di legno riconvertite a tavoli, bicchieri di vino e un mix di avventori difficile da progettare. Dentro, la carne esposta nel banco, il frigorifero della frollatura in bella vista e, in mezzo a tutto questo, la convivialità di chi aveva riempito il negozio. Era il Supper Club del 26 febbraio, un appuntamento andato sold out in poche ore. La locandina lanciava tre cardini semplici e chiari: “informale”, “in piedi”, “insieme”. Il 2026 degli eventi firmato La Carneria, Perugia, è cominciato così.
+Fuori, atmosfera da vicolo romano. Una piccola piazzetta, botti di legno riconvertite a tavoli, bicchieri di vino e un mix di avventori difficile da progettare. Dentro, la carne esposta nel banco, il frigorifero della frollatura in bella vista e, in mezzo a tutto questo, la convivialità di chi aveva riempito il negozio. Era il Supper Club del 26 febbraio, un appuntamento andato sold out in poche ore. La locandina lanciava tre cardini semplici e chiari: “informale”, “in piedi”, “insieme”. Il 2026 degli eventi firmato La Carneria, Spina (PG), è cominciato così.
 
 ![](/images/carneria-supper-club-perugia.png)
 
