@@ -1,5 +1,5 @@
 ---
-title: 'Lenticchia di Castelluccio: perché è considerata una delle perle enogastronomiche umbre'
+title: 'Lenticchia di Castelluccio: perché è considerata una delle perle gastronomiche umbre'
 date: 2026-03-19T00:00:00.000Z
 type: regular
 images:
